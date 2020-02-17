@@ -22111,6 +22111,9 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239
 #EXTINF:0 tvg-name="Adventures of Sonic the Hedgehog" tvg-language="English" tvg-country="US" tvg-id="Adventures of Sonic the Hedgehog" tvg-logo="https://tvguide1.cbsistatic.com/feed/1/171/12062171.jpg" group-title="VOD" ,Adventures of Sonic the Hedgehog
 https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Adventures%20of%20Sonic%20the%20Hedgehog.m3u
 
+#EXTINF:0 tvg-name="Sonic X" tvg-language="English" tvg-country="US" tvg-id="Sonic X" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/818VUjOVxCL._SX342_.jpg" group-title="VOD" ,Sonic X
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Adventures%20of%20Sonic%20the%20Hedgehog.m3u
+
 
 #EXTINF:0 tvg-name="Sonic the Hedgehog - The Animated Movie" tvg-language="English" tvg-country="US" tvg-id="Sonic the Hedgehog - The Animated Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NjQxMzE0MV5BMl5BanBnXkFtZTcwODQ0OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="VOD" ,Sonic the Hedgehog - The Animated Movie
 https://www.dropbox.com/s/dp6a626r6m21uq2/Sonic%20the%20Hedgehog%20%28Dub%29%20OVA-720p.mp4?dl=1
