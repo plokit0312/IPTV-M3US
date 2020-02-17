@@ -25,6 +25,25 @@ https://peer2.ustv.to/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 https://peer1.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6Mjg6MzcgUE0maGFzaF92YWx1ZT14NU51eHV1VndTTkltNlUvRitMRStRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-logo="https://banner2.cleanpng.com/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",CBS
+https://peer3.ustv.to/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQ2OjIxIFBNJmhhc2hfdmFsdWU9cDE5dVpvT2xEOUdMYUR0Q2hnM0Z6dz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=',
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC" tvg-logo="https://pmcvariety.files.wordpress.com/2014/06/nbc-logo-2.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",NBC
+https://peer1.ustv.to/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQzOjAyIFBNJmhhc2hfdmFsdWU9SjI1QjJKNHI4c0VsbXVybHdMMEVZZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2017/05/abc.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",ABC
+https://peer5.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQ0OjMxIFBNJmhhc2hfdmFsdWU9dEo1RzFpMVZlV2lJa3lpVHJVaE1EQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Fox
+https://peer5.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQwOjU0IFBNJmhhc2hfdmFsdWU9SHlNaEFHNFFWMmd4dkZsUHZ6dU0rQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
+
+
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://pmcvariety.files.wordpress.com/2019/08/e-logo.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",E!
 https://peer5.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzM6MzAgUE0maGFzaF92YWx1ZT1OalVsWGYycVpJTDk1TG5pSmRpY1Z3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
@@ -2187,8 +2206,6 @@ http://www.deadlyblogger.com/NewRelease/origin.mp4
 #EXTINF:0 tvg-name="i24 News" tvg-language="English" tvg-country="US" tvg-id="i24 News" tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png" group-title="News",i24 News (News) (US) (English)
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
-#EXTINF:0 tvg-name="Al Jazeera America" tvg-language="English" tvg-country="US" tvg-id="Al Jazeera America" tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/07/al-jazeera-america-logo.jpeg" group-title="Test",Al Jazeera America (Test) (US) (English)
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
 #EXTINF:0 tvg-name="24 News" tvg-language="English" tvg-country="FR" tvg-id="24 News" tvg-logo="http://i.imgur.com/VvA12Zz.jpg" group-title="News",24 News (News) (FR) (French)
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
@@ -22131,9 +22148,6 @@ http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1319" channel-id="1319" tvg-country="IT" tvg-language="English" group-title="Radio",FM Italia TV
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="Rai Italia IT" tvg-logo="http://static.iptv-epg.com/it/RaiItalia.it.png" tvg-chno="20823" channel-id="20823" type="stream" channelId="-1" group-title="Radio", Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 IT" tvg-logo="http://static.iptv-epg.com/it/Rai5.it.png" tvg-chno="20831" channel-id="20831" type="stream" channelId="-1" group-title="Radio",Radio 105 Tv
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
@@ -22153,10 +22167,10 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239
 
 
 #EXTINF:0 tvg-name="Adventures of Sonic the Hedgehog" tvg-language="English" tvg-country="US" tvg-id="Adventures of Sonic the Hedgehog" tvg-logo="https://tvguide1.cbsistatic.com/feed/1/171/12062171.jpg" group-title="VOD" ,Adventures of Sonic the Hedgehog
-https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Adventures%20of%20Sonic%20the%20Hedgehog.m3u
+https://www.dropbox.com/s/rvpci64djbrz640/Adventures%20of%20Sonic%20the%20Hedgehog.m3u?dl=1
 
 #EXTINF:0 tvg-name="Sonic X" tvg-language="English" tvg-country="US" tvg-id="Sonic X" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/818VUjOVxCL._SX342_.jpg" group-title="VOD" ,Sonic X
-https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Adventures%20of%20Sonic%20the%20Hedgehog.m3u
+https://www.dropbox.com/s/01hnmvqsqmglxst/Sonic%20X.m3u?dl=1
 
 
 #EXTINF:0 tvg-name="Sonic the Hedgehog - The Animated Movie" tvg-language="English" tvg-country="US" tvg-id="Sonic the Hedgehog - The Animated Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NjQxMzE0MV5BMl5BanBnXkFtZTcwODQ0OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="VOD" ,Sonic the Hedgehog - The Animated Movie
@@ -22164,4 +22178,98 @@ https://www.dropbox.com/s/dp6a626r6m21uq2/Sonic%20the%20Hedgehog%20%28Dub%29%20O
 
 #EXTINF:0 tvg-name="Sonic the Werehog" tvg-language="English" tvg-country="US" tvg-id="Sonic the Werehog" tvg-logo="https://i.ytimg.com/vi/gL9EtmAUwM4/maxresdefault.jpg" group-title="VOD" ,Sonic the Werehog
 https://www.dropbox.com/s/twxpl9ax6t6tvwy/Sonic_%20Night%20of%20the%20WereHog%20ONA-720p.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/comedy_300x300.png" group-title="Redbox TV", Redbox Comedy
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/1920x1080_4870800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/spotlight_300x300.png" group-title="Redbox TV", Redbox Spotlight
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/1920x1080_4870800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/rush_300x300.png" group-title="Redbox TV", Redbox Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/1920x1080_4870800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Filmrise
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999911/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/CONtv_300x300.png" group-title="Redbox TV", Redbox conTV
+https://contv-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-contv-redbox/CDN/1920x1080_5090800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999913/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Filmhub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/Docurama_300x300.png" group-title="Redbox TV", Redbox Docurama
+https://docurama-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-docurama-redboxA/CDN/1920x1080_4870800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999914/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/DoveNow_300x300.png" group-title="Redbox TV", Redbox Dove Now
+https://dove-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-dovenow-redbox/CDN/1920x1080_5090800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999907/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Hi-Yah
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999912/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999905/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox FilmRise Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999906/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999916/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox FamilyFeud
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999915/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999920/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Best of AFV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999903/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Fail Army
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cinedigm/ComedyDynamics_300x300.png" group-title="Redbox TV", Redbox Comedy Dynamics
+https://comedydynamicsclean-redbox-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-comedydynamicscleanredbox/CDN/1920x1080_4870800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999904/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox the pet collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999908/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox People are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999900/300x300.png?type=color_onBlack_cropped" group-title="Redbox TV", Redbox Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999902/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Journey
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999921/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox USA today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/960x540_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999919/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999918/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999917/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999909/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://soap2day.to/pic/movie/cover/aTo2NjExOw.jpg" group-title="VOD", The Adams Family
+https://q5.wewon.to/m2/2019/The.Addams.Family.2019.mp4?valid=UeY3NhuOu171IFSnt3Ctsw&amp;t=1581996780
 
