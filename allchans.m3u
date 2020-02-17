@@ -11,6 +11,13 @@ https://peer2.ustv.to/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 https://peer2.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MjQ6MDQgUE0maGFzaF92YWx1ZT1YL0FPdU5Ra3JqSGRKaVZBS2ZULzBnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",Hallmark Movies & Mysteries
+https://peer2.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDc6MzAgUE0maGFzaF92YWx1ZT04aHdNV1BmVWg2cUZMaytzVFh1OFhnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Channel" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Hallmark Channel
+https://peer2.ustv.to/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDg6NTkgUE0maGFzaF92YWx1ZT15WjIrODkyUytxS0hiaW9DNUZFQlFRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Science" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/320/1x/cbbc/science-logo-final_alt7.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Science
 https://peer1.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6Mjg6MzcgUE0maGFzaF92YWx1ZT14NU51eHV1VndTTkltNlUvRitMRStRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
@@ -18,15 +25,24 @@ https://peer1.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://pmcvariety.files.wordpress.com/2019/08/e-logo.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",E!
 https://peer5.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzM6MzAgUE0maGFzaF92YWx1ZT1OalVsWGYycVpJTDk1TG5pSmRpY1Z3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="GSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",GSN
 https://peer1.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzQ6MDggUE0maGFzaF92YWx1ZT16NDhJSFhRbk5PcGNqNDEvNXJrNHVRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-
 
 #EXTINF:-1 tvg-id="" tvg-name="DIY" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",DIY
 https://peer1.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzU6NDAgUE0maGFzaF92YWx1ZT1PdUVzRTQ0RFQrYmNrZ0FCcm00VmFRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267679_lifetime-hd.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Lifetime
+https://peer2.ustv.to/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDM6NTggUE0maGFzaF92YWx1ZT1Lcm5wekVQTm9ESmw4UzlqSURPNTZBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/20181111/rs_600x600-181211125229-600-food-network-stars.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Food Network
+https://peer1.ustv.to/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDU6MzYgUE0maGFzaF92YWx1ZT1ZMGZlZFZnMWRmYzNvSkQrTkFJNFVRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Paramount
+https://peer1.ustv.to/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDA6MzcgUE0maGFzaF92YWx1ZT1ZQzVnSU5vVUI3cGdMeXBuYnF3cWNBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",HBO HD
+https://peer4.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDI6MjUgUE0maGFzaF92YWx1ZT1HSElidmFsS3czUkh5OHlLV2c4RDd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang Theory" tvg-logo="https://sqad.com/wp-content/uploads/2018/09/Big-Bang-Logo.jpg" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Big Bang Theory
 https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/big%20bang.m3u
