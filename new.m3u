@@ -2667,11 +2667,11 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://1239101249.rsc.cdn77.org//LS-59570-ABN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1339" channel-id="1339" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia MA" tvg-logo="http://static.iptv-epg.com/ma/AlMaghribia.ma.png" tvg-chno="1341" channel-id="1341" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia MA" tvg-logo="http://static.iptv-epg.com/ma/AlMaghribia.ma.png" tvg-chno="1341" channel-id="1341" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
-#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="Alpha GR" tvg-logo="http://static.iptv-epg.com/gr/Alpha.gr.png" tvg-chno="1342" channel-id="1342" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="Alpha GR" tvg-logo="http://static.iptv-epg.com/gr/Alpha.gr.png" tvg-chno="1342" channel-id="1342" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
-#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="Alpha GR" tvg-logo="http://static.iptv-epg.com/gr/Alpha.gr.png" tvg-chno="1343" channel-id="1343" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="Alpha GR" tvg-logo="http://static.iptv-epg.com/gr/Alpha.gr.png" tvg-chno="1343" channel-id="1343" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BritishMuslim.uk" tvg-name="British Muslim UK" tvg-logo="http://static.iptv-epg.com/uk/BritishMuslim.uk.png" tvg-chno="1350" channel-id="1350" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
@@ -2703,7 +2703,7 @@ https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaD
 https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1374" channel-id="1374" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1375" channel-id="1375" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Urdu" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1375" channel-id="1375" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1376" channel-id="1376" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8?sd=10&rebase=on
@@ -2711,13 +2711,13 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3
 https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1378" channel-id="1378" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1379" channel-id="1379" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1379" channel-id="1379" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1380" channel-id="1380" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1380" channel-id="1380" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1381" channel-id="1381" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1381" channel-id="1381" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1382" channel-id="1382" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1382" channel-id="1382" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1383" channel-id="1383" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8
@@ -2727,7 +2727,7 @@ https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1388" channel-id="1388" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 https://57d4d8b1e4f4f.streamlock.net/primalcure/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV IN" tvg-logo="http://static.iptv-epg.com/in/PublicTV.in.png" tvg-chno="1389" channel-id="1389" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV IN" tvg-logo="http://static.iptv-epg.com/in/PublicTV.in.png" tvg-chno="1389" channel-id="1389" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 http://95.170.215.107/hls/m3u8/Publitools.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1391" channel-id="1391" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
@@ -2737,7 +2737,7 @@ http://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
 http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesChristmas.uk" tvg-name="Sony Movies Christmas UK" tvg-logo="http://static.iptv-epg.com/uk/SonyMoviesChristmas.uk.png" tvg-chno="1403" channel-id="1403" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="Movies",
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-name="Takbeer TV UK" tvg-logo="http://static.iptv-epg.com/uk/TakbeerTV.uk.png" tvg-chno="1404" channel-id="1404" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Urdu" group-title="(No group) - 1",
+#EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-name="Takbeer TV UK" tvg-logo="http://static.iptv-epg.com/uk/TakbeerTV.uk.png" tvg-chno="1404" channel-id="1404" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",
 http://cdn02.iqbroadcast.tv/iqb/d04ca797cb0590a3ad4aea3cce2ea93e.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TG4.ie" tvg-name="TG4 IE" tvg-logo="http://static.iptv-epg.com/ie/TG4.ie.png" tvg-chno="1405" channel-id="1405" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="(No group) - 1",TG4 UK
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
@@ -7677,7 +7677,7 @@ http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4185" channel-id="4185" tvg-url="" tvg-country="IR" tvg-language="English" group-title="Movies",
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies US" tvg-logo="http://static.iptv-epg.com/us/LifetimeMovies.us.png" tvg-chno="4186" channel-id="4186" tvg-url="" tvg-country="AE" tvg-language="Arabic" group-title="Movies",
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies US" tvg-logo="http://static.iptv-epg.com/us/LifetimeMovies.us.png" tvg-chno="4186" channel-id="4186" tvg-url="" tvg-country="AE" tvg-language="English" group-title="Movies",
 http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4187" channel-id="4187" tvg-url="" tvg-country="ID" tvg-language="Indonesian" group-title="Movies",
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
@@ -7687,55 +7687,55 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.iptv-epg.com/pt/KuriakosTv.pt.png" tvg-chno="4190" channel-id="4190" tvg-url="" tvg-country="PT" tvg-language="Portuguese" group-title="Movies",
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4191" channel-id="4191" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4191" channel-id="4191" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4192" channel-id="4192" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4192" channel-id="4192" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4193" channel-id="4193" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4193" channel-id="4193" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4194" channel-id="4194" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4194" channel-id="4194" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4195" channel-id="4195" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="4195" channel-id="4195" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4196" channel-id="4196" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4196" channel-id="4196" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4197" channel-id="4197" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4197" channel-id="4197" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4198" channel-id="4198" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4198" channel-id="4198" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4199" channel-id="4199" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4199" channel-id="4199" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4200" channel-id="4200" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4200" channel-id="4200" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4201" channel-id="4201" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4201" channel-id="4201" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4202" channel-id="4202" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="4202" channel-id="4202" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4203" channel-id="4203" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Bollywood ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4203" channel-id="4203" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Bollywood ARB
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4204" channel-id="4204" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4204" channel-id="4204" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4205" channel-id="4205" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4205" channel-id="4205" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4206" channel-id="4206" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4206" channel-id="4206" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4207" channel-id="4207" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4207" channel-id="4207" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4208" channel-id="4208" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4208" channel-id="4208" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4209" channel-id="4209" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4209" channel-id="4209" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4210" channel-id="4210" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4210" channel-id="4210" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4211" channel-id="4211" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4211" channel-id="4211" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4212" channel-id="4212" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4212" channel-id="4212" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4213" channel-id="4213" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4213" channel-id="4213" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4214" channel-id="4214" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4214" channel-id="4214" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4215" channel-id="4215" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="4215" channel-id="4215" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 #EXTINF:-1 tvg-id="MoviesOK.in" tvg-name="Movies OK IN" tvg-logo="http://static.iptv-epg.com/in/MoviesOK.in.png" tvg-chno="4216" channel-id="4216" tvg-url="" tvg-country="US" tvg-language="English" group-title="Movies",
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
@@ -7765,7 +7765,7 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
 #EXTINF:-1 tvg-id="RomedyNow.in" tvg-name="Romedy Now IN" tvg-logo="http://static.iptv-epg.com/in/RomedyNow.in.png" tvg-chno="4229" channel-id="4229" tvg-url="" tvg-country="IN" tvg-language="Hindi" group-title="Movies",
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="Rotana Cinema EG" tvg-logo="http://static.iptv-epg.com/eg/RotanaCinema.eg.png" tvg-chno="4230" channel-id="4230" tvg-url="" tvg-country="SA" tvg-language="Arabic" group-title="Movies",
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="Rotana Cinema EG" tvg-logo="http://static.iptv-epg.com/eg/RotanaCinema.eg.png" tvg-chno="4230" channel-id="4230" tvg-url="" tvg-country="SA" tvg-language="English" group-title="Movies",
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4231" channel-id="4231" tvg-url="" tvg-country="AL" tvg-language="Albanian" group-title="Movies",
 http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
@@ -7773,13 +7773,13 @@ http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesChristmas.uk" tvg-name="Sony Movies Christmas UK" tvg-logo="http://static.iptv-epg.com/uk/SonyMoviesChristmas.uk.png" tvg-chno="4233" channel-id="4233" tvg-url="" tvg-country="US" tvg-language="English" group-title="Movies",
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4234" channel-id="4234" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",Star Movies ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4234" channel-id="4234" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",Star Movies ARB
 http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4235" channel-id="4235" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",Star Movies ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4235" channel-id="4235" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",Star Movies ARB
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4236" channel-id="4236" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",Star Movies ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4236" channel-id="4236" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",Star Movies ARB
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4237" channel-id="4237" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",Star Movies ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4237" channel-id="4237" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",Star Movies ARB
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="StarPlusMiddleEast.sa" tvg-name="Star Plus Middle East SA" tvg-logo="http://static.iptv-epg.com/sa/StarPlusMiddleEast.sa.png" tvg-chno="4238" channel-id="4238" tvg-url="" tvg-country="HK" tvg-language="English" group-title="Movies",
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
@@ -7791,9 +7791,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4242" channel-id="4242" tvg-url="" tvg-country="IN" tvg-language="Hindi" group-title="Movies",
 http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
-#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-name="Syria Drama SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaDrama.sy.png" tvg-chno="4243" channel-id="4243" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="SY" tvg-language="Arabic" group-title="Movies",Syria Drama ARB
+#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-name="Syria Drama SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaDrama.sy.png" tvg-chno="4243" channel-id="4243" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="SY" tvg-language="English" group-title="Movies",Syria Drama ARB
 http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-name="Syria Drama SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaDrama.sy.png" tvg-chno="4244" channel-id="4244" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="SY" tvg-language="Arabic" group-title="Movies",Syria Drama ARB
+#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-name="Syria Drama SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaDrama.sy.png" tvg-chno="4244" channel-id="4244" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="SY" tvg-language="English" group-title="Movies",Syria Drama ARB
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="4245" channel-id="4245" tvg-url="" tvg-country="US" tvg-language="English" group-title="Movies",
 https://distro.akamaized.net/indexfd_1280x720.m3u8
@@ -12607,7 +12607,7 @@ http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21532" channel-id="21532" tvg-url="" tvg-country="IR" tvg-language="English" group-title="Movies",
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies US" tvg-logo="http://static.iptv-epg.com/us/LifetimeMovies.us.png" tvg-chno="21533" channel-id="21533" tvg-url="" tvg-country="AE" tvg-language="Arabic" group-title="Movies",
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies US" tvg-logo="http://static.iptv-epg.com/us/LifetimeMovies.us.png" tvg-chno="21533" channel-id="21533" tvg-url="" tvg-country="AE" tvg-language="English" group-title="Movies",
 http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21534" channel-id="21534" tvg-url="" tvg-country="ID" tvg-language="Indonesian" group-title="Movies",
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
@@ -12617,55 +12617,55 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.iptv-epg.com/pt/KuriakosTv.pt.png" tvg-chno="21537" channel-id="21537" tvg-url="" tvg-country="PT" tvg-language="Portuguese" group-title="Movies",
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21538" channel-id="21538" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21538" channel-id="21538" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21539" channel-id="21539" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21539" channel-id="21539" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21540" channel-id="21540" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21540" channel-id="21540" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21541" channel-id="21541" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21541" channel-id="21541" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21542" channel-id="21542" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC 2 ARB
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 AE" tvg-logo="http://static.iptv-epg.com/ae/MBC2.ae.png" tvg-chno="21542" channel-id="21542" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC 2 ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21543" channel-id="21543" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21543" channel-id="21543" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21544" channel-id="21544" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21544" channel-id="21544" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21545" channel-id="21545" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21545" channel-id="21545" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21546" channel-id="21546" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21546" channel-id="21546" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21547" channel-id="21547" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21547" channel-id="21547" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21548" channel-id="21548" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21548" channel-id="21548" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21549" channel-id="21549" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Action ARB
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC Action SA" tvg-logo="http://static.iptv-epg.com/sa/MBCAction.sa.png" tvg-chno="21549" channel-id="21549" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Action ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21550" channel-id="21550" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Bollywood ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21550" channel-id="21550" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Bollywood ARB
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21551" channel-id="21551" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21551" channel-id="21551" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21552" channel-id="21552" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21552" channel-id="21552" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21553" channel-id="21553" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21553" channel-id="21553" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21554" channel-id="21554" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21554" channel-id="21554" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21555" channel-id="21555" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Drama ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21555" channel-id="21555" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Drama ARB
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21556" channel-id="21556" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21556" channel-id="21556" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21557" channel-id="21557" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21557" channel-id="21557" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21558" channel-id="21558" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21558" channel-id="21558" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21559" channel-id="21559" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21559" channel-id="21559" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21560" channel-id="21560" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21560" channel-id="21560" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21561" channel-id="21561" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21561" channel-id="21561" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21562" channel-id="21562" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",MBC Max ARB
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max AE" tvg-logo="http://static.iptv-epg.com/ae/MBCMax.ae.png" tvg-chno="21562" channel-id="21562" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",MBC Max ARB
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 #EXTINF:-1 tvg-id="MoviesOK.in" tvg-name="Movies OK IN" tvg-logo="http://static.iptv-epg.com/in/MoviesOK.in.png" tvg-chno="21563" channel-id="21563" tvg-url="" tvg-country="US" tvg-language="English" group-title="Movies",
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
@@ -12695,7 +12695,7 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
 #EXTINF:-1 tvg-id="RomedyNow.in" tvg-name="Romedy Now IN" tvg-logo="http://static.iptv-epg.com/in/RomedyNow.in.png" tvg-chno="21576" channel-id="21576" tvg-url="" tvg-country="IN" tvg-language="Hindi" group-title="Movies",
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="Rotana Cinema EG" tvg-logo="http://static.iptv-epg.com/eg/RotanaCinema.eg.png" tvg-chno="21577" channel-id="21577" tvg-url="" tvg-country="SA" tvg-language="Arabic" group-title="Movies",
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="Rotana Cinema EG" tvg-logo="http://static.iptv-epg.com/eg/RotanaCinema.eg.png" tvg-chno="21577" channel-id="21577" tvg-url="" tvg-country="SA" tvg-language="English" group-title="Movies",
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21578" channel-id="21578" tvg-url="" tvg-country="AL" tvg-language="Albanian" group-title="Movies",
 http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
@@ -12703,13 +12703,13 @@ http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesChristmas.uk" tvg-name="Sony Movies Christmas UK" tvg-logo="http://static.iptv-epg.com/uk/SonyMoviesChristmas.uk.png" tvg-chno="21580" channel-id="21580" tvg-url="" tvg-country="US" tvg-language="English" group-title="Movies",
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21581" channel-id="21581" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",Star Movies ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21581" channel-id="21581" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",Star Movies ARB
 http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21582" channel-id="21582" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",Star Movies ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21582" channel-id="21582" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",Star Movies ARB
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21583" channel-id="21583" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",Star Movies ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21583" channel-id="21583" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",Star Movies ARB
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21584" channel-id="21584" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="Arabic" group-title="Movies",Star Movies ARB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21584" channel-id="21584" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="AE" tvg-language="English" group-title="Movies",Star Movies ARB
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="StarPlusMiddleEast.sa" tvg-name="Star Plus Middle East SA" tvg-logo="http://static.iptv-epg.com/sa/StarPlusMiddleEast.sa.png" tvg-chno="21585" channel-id="21585" tvg-url="" tvg-country="HK" tvg-language="English" group-title="Movies",
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
@@ -12721,9 +12721,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21589" channel-id="21589" tvg-url="" tvg-country="IN" tvg-language="Hindi" group-title="Movies",
 http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
-#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-name="Syria Drama SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaDrama.sy.png" tvg-chno="21590" channel-id="21590" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="SY" tvg-language="Arabic" group-title="Movies",Syria Drama ARB
+#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-name="Syria Drama SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaDrama.sy.png" tvg-chno="21590" channel-id="21590" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="SY" tvg-language="English" group-title="Movies",Syria Drama ARB
 http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-name="Syria Drama SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaDrama.sy.png" tvg-chno="21591" channel-id="21591" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="SY" tvg-language="Arabic" group-title="Movies",Syria Drama ARB
+#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-name="Syria Drama SY" tvg-logo="http://static.iptv-epg.com/sy/SyriaDrama.sy.png" tvg-chno="21591" channel-id="21591" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" tvg-country="SY" tvg-language="English" group-title="Movies",Syria Drama ARB
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21592" channel-id="21592" tvg-url="" tvg-country="US" tvg-language="English" group-title="Movies",
 https://distro.akamaized.net/indexfd_1280x720.m3u8
@@ -27335,11 +27335,11 @@ http://radio.alphamx.net:8070/;stream.mp3/;
 http://stream.joyhits.online:8880/joyhits.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="26868" channel-id="26868" group-title="24/7 PLUTO TV - 2",
 http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=
-#EXTINF:-1 tvg-id="Alaraby.eg" tvg-name="Alaraby EG" tvg-logo="http://static.iptv-epg.com/eg/Alaraby.eg.png" tvg-chno="1340" channel-id="1340" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",
+#EXTINF:-1 tvg-id="Alaraby.eg" tvg-name="Alaraby EG" tvg-logo="http://static.iptv-epg.com/eg/Alaraby.eg.png" tvg-chno="1340" channel-id="1340" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC Arabic SA" tvg-logo="http://static.iptv-epg.com/sa/BBCArabic.sa.png" tvg-chno="1344" channel-id="1344" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",BBC Arabic ARB
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC Arabic SA" tvg-logo="http://static.iptv-epg.com/sa/BBCArabic.sa.png" tvg-chno="1344" channel-id="1344" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",BBC Arabic ARB
 http://95.170.215.107/hls/m3u8/BBCArabic-Backup.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC Arabic SA" tvg-logo="http://static.iptv-epg.com/sa/BBCArabic.sa.png" tvg-chno="1345" channel-id="1345" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",BBC Arabic ARB
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC Arabic SA" tvg-logo="http://static.iptv-epg.com/sa/BBCArabic.sa.png" tvg-chno="1345" channel-id="1345" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",BBC Arabic ARB
 http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News UK" tvg-logo="http://static.iptv-epg.com/uk/BBCNews.uk.png" tvg-chno="1346" channel-id="1346" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
@@ -27361,9 +27361,9 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1400" channel-id="1400" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.sa" tvg-name="Sky News Arabia SA" tvg-logo="http://static.iptv-epg.com/sa/SkyNewsArabia.sa.png" tvg-chno="1401" channel-id="1401" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",
+#EXTINF:-1 tvg-id="SkyNewsArabia.sa" tvg-name="Sky News Arabia SA" tvg-logo="http://static.iptv-epg.com/sa/SkyNewsArabia.sa.png" tvg-chno="1401" channel-id="1401" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.sa" tvg-name="Sky News Arabia SA" tvg-logo="http://static.iptv-epg.com/sa/SkyNewsArabia.sa.png" tvg-chno="1402" channel-id="1402" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",
+#EXTINF:-1 tvg-id="SkyNewsArabia.sa" tvg-name="Sky News Arabia SA" tvg-logo="http://static.iptv-epg.com/sa/SkyNewsArabia.sa.png" tvg-chno="1402" channel-id="1402" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-id="CGTN.au" tvg-name="CGTN AU" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" tvg-chno="1726" channel-id="1726" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="News",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
@@ -27391,7 +27391,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News ZA" tvg-logo="http://static.iptv-epg.com/za/SABCNews.za.png" tvg-chno="3671" channel-id="3671" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="US" tvg-language="English" group-title="News",
 https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
-#EXTINF:-1 tvg-id="AlHurra.iq" tvg-name="Al Hurra IQ" tvg-logo="http://static.iptv-epg.com/iq/AlHurra.iq.png" tvg-chno="3685" channel-id="3685" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="US" tvg-language="Arabic" group-title="News",
+#EXTINF:-1 tvg-id="AlHurra.iq" tvg-name="Al Hurra IQ" tvg-logo="http://static.iptv-epg.com/iq/AlHurra.iq.png" tvg-chno="3685" channel-id="3685" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="US" tvg-language="English" group-title="News",
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="3718" channel-id="3718" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="US" tvg-language="English" group-title="News",
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
@@ -27601,11 +27601,11 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21095" channel-id="21095" group-title="NEWS",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="Alaraby.eg" tvg-name="Alaraby EG" tvg-logo="http://static.iptv-epg.com/eg/Alaraby.eg.png" tvg-chno="24214" channel-id="24214" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",
+#EXTINF:-1 tvg-id="Alaraby.eg" tvg-name="Alaraby EG" tvg-logo="http://static.iptv-epg.com/eg/Alaraby.eg.png" tvg-chno="24214" channel-id="24214" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC Arabic SA" tvg-logo="http://static.iptv-epg.com/sa/BBCArabic.sa.png" tvg-chno="24218" channel-id="24218" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",BBC Arabic ARB
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC Arabic SA" tvg-logo="http://static.iptv-epg.com/sa/BBCArabic.sa.png" tvg-chno="24218" channel-id="24218" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",BBC Arabic ARB
 http://95.170.215.107/hls/m3u8/BBCArabic-Backup.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC Arabic SA" tvg-logo="http://static.iptv-epg.com/sa/BBCArabic.sa.png" tvg-chno="24219" channel-id="24219" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",BBC Arabic ARB
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="BBC Arabic SA" tvg-logo="http://static.iptv-epg.com/sa/BBCArabic.sa.png" tvg-chno="24219" channel-id="24219" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",BBC Arabic ARB
 http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News UK" tvg-logo="http://static.iptv-epg.com/uk/BBCNews.uk.png" tvg-chno="24220" channel-id="24220" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
@@ -27627,9 +27627,9 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24274" channel-id="24274" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.sa" tvg-name="Sky News Arabia SA" tvg-logo="http://static.iptv-epg.com/sa/SkyNewsArabia.sa.png" tvg-chno="24275" channel-id="24275" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",
+#EXTINF:-1 tvg-id="SkyNewsArabia.sa" tvg-name="Sky News Arabia SA" tvg-logo="http://static.iptv-epg.com/sa/SkyNewsArabia.sa.png" tvg-chno="24275" channel-id="24275" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.sa" tvg-name="Sky News Arabia SA" tvg-logo="http://static.iptv-epg.com/sa/SkyNewsArabia.sa.png" tvg-chno="24276" channel-id="24276" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="News",
+#EXTINF:-1 tvg-id="SkyNewsArabia.sa" tvg-name="Sky News Arabia SA" tvg-logo="http://static.iptv-epg.com/sa/SkyNewsArabia.sa.png" tvg-chno="24276" channel-id="24276" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="News",
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24563" channel-id="24563" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="News",
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
@@ -27653,7 +27653,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News ZA" tvg-logo="http://static.iptv-epg.com/za/SABCNews.za.png" tvg-chno="24583" channel-id="24583" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="News",
 https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
-#EXTINF:-1 tvg-id="AlHurra.iq" tvg-name="Al Hurra IQ" tvg-logo="http://static.iptv-epg.com/iq/AlHurra.iq.png" tvg-chno="24597" channel-id="24597" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="Arabic" group-title="News",
+#EXTINF:-1 tvg-id="AlHurra.iq" tvg-name="Al Hurra IQ" tvg-logo="http://static.iptv-epg.com/iq/AlHurra.iq.png" tvg-chno="24597" channel-id="24597" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="News",
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24630" channel-id="24630" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="News",
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
@@ -32265,11 +32265,11 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://1239101249.rsc.cdn77.org//LS-59570-ABN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24213" channel-id="24213" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia MA" tvg-logo="http://static.iptv-epg.com/ma/AlMaghribia.ma.png" tvg-chno="24215" channel-id="24215" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="UK Chans",
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia MA" tvg-logo="http://static.iptv-epg.com/ma/AlMaghribia.ma.png" tvg-chno="24215" channel-id="24215" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
-#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="Alpha GR" tvg-logo="http://static.iptv-epg.com/gr/Alpha.gr.png" tvg-chno="24216" channel-id="24216" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="UK Chans",
+#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="Alpha GR" tvg-logo="http://static.iptv-epg.com/gr/Alpha.gr.png" tvg-chno="24216" channel-id="24216" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
-#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="Alpha GR" tvg-logo="http://static.iptv-epg.com/gr/Alpha.gr.png" tvg-chno="24217" channel-id="24217" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="UK Chans",
+#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="Alpha GR" tvg-logo="http://static.iptv-epg.com/gr/Alpha.gr.png" tvg-chno="24217" channel-id="24217" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BritishMuslim.uk" tvg-name="British Muslim UK" tvg-logo="http://static.iptv-epg.com/uk/BritishMuslim.uk.png" tvg-chno="24224" channel-id="24224" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
@@ -32301,7 +32301,7 @@ https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaD
 https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24248" channel-id="24248" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24249" channel-id="24249" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Urdu" group-title="UK Chans",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24249" channel-id="24249" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24250" channel-id="24250" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8?sd=10&rebase=on
@@ -32309,13 +32309,13 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3
 https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24252" channel-id="24252" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24253" channel-id="24253" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="UK Chans",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24253" channel-id="24253" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24254" channel-id="24254" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="UK Chans",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24254" channel-id="24254" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24255" channel-id="24255" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="UK Chans",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24255" channel-id="24255" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24256" channel-id="24256" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="UK Chans",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24256" channel-id="24256" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24257" channel-id="24257" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8
@@ -32325,7 +32325,7 @@ https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24262" channel-id="24262" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 https://57d4d8b1e4f4f.streamlock.net/primalcure/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV IN" tvg-logo="http://static.iptv-epg.com/in/PublicTV.in.png" tvg-chno="24263" channel-id="24263" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Arabic" group-title="UK Chans",
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV IN" tvg-logo="http://static.iptv-epg.com/in/PublicTV.in.png" tvg-chno="24263" channel-id="24263" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://95.170.215.107/hls/m3u8/Publitools.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="24265" channel-id="24265" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
@@ -32333,7 +32333,7 @@ http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 http://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
 #EXTINF:-1 tvg-id="ShineTV.nz" tvg-name="Shine TV NZ" tvg-logo="http://static.iptv-epg.com/nz/ShineTV.nz.png" tvg-chno="24268" channel-id="24268" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-name="Takbeer TV UK" tvg-logo="http://static.iptv-epg.com/uk/TakbeerTV.uk.png" tvg-chno="24278" channel-id="24278" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="Urdu" group-title="UK Chans",
+#EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-name="Takbeer TV UK" tvg-logo="http://static.iptv-epg.com/uk/TakbeerTV.uk.png" tvg-chno="24278" channel-id="24278" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",
 http://cdn02.iqbroadcast.tv/iqb/d04ca797cb0590a3ad4aea3cce2ea93e.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TG4.ie" tvg-name="TG4 IE" tvg-logo="http://static.iptv-epg.com/ie/TG4.ie.png" tvg-chno="24279" channel-id="24279" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" tvg-country="UK" tvg-language="English" group-title="UK Chans",TG4 UK
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
