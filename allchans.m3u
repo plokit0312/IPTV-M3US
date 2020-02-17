@@ -3,7 +3,12 @@
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Horror Movies
 http:\/\/aldirect.hls.huya.com\/huyalive\/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Star Movies
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/219px-WWE_Logo.svg.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Sports",WWE
+https://peer3.ustv.to/WWE/myStream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang Theory" tvg-logo="https://sqad.com/wp-content/uploads/2018/09/Big-Bang-Logo.jpg" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Big Bang Theory
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/big%20bang.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 5
 http:\/\/tx.hls.huya.com\/huyalive\/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
@@ -22104,7 +22109,6 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="21596" channel-id="21596" tvg-url="" tvg-country="JP" tvg-language="English" group-title="Movies",
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239733
-
 
 
 
