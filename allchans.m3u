@@ -4,7 +4,11 @@
 http:\/\/aldirect.hls.huya.com\/huyalive\/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/219px-WWE_Logo.svg.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Sports",WWE
-https://peer3.ustv.to/WWE/myStream/playlist.m3u8
+https://peer2.ustv.to/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MjI6MjIgUE0maGFzaF92YWx1ZT1oNmlGcTM5Yjkyd1k2cUExcFdlRkpnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Movie Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",Lifetime Movie Network
+https://peer2.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MjQ6MDQgUE0maGFzaF92YWx1ZT1YL0FPdU5Ra3JqSGRKaVZBS2ZULzBnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang Theory" tvg-logo="https://sqad.com/wp-content/uploads/2018/09/Big-Bang-Logo.jpg" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Big Bang Theory
@@ -34,11 +38,11 @@ http:\/\/tx.hls.huya.com\/huyalive\/30765679-2554414680-10971127511022305280-304
 #EXTINF:-1 tvg-id="Hollywood Switch" tvg-name="Hollywood Switch" tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/Switch-hollywood-preview_157x157.jpg" tvg-chno="8" channel-id="8" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",Hollywood Switch
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/proxy/Ajnne_XdU0vWvb4FGbmt4wirQR7auxuVJUyNHcUYpfTA954o_hJB-is81Bxgtah7Sz_Adt1AQl5aa4Wfh0euhiQMqz1_XQwru5mMOtVVWMAfBmxU2FcS5OU9Wq6X" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Jackie Chan Movies
