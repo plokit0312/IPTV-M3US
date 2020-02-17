@@ -1,5 +1,35 @@
 #EXTM3U url-tvg="http://iptv-epg.com/13913-7y8c47.xml.gz" x-tvg-url="http://iptv-epg.com/13913-7y8c47.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 11
+
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Horror Movies
+http:\/\/aldirect.hls.huya.com\/huyalive\/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Star Movies
+
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 5
+http:\/\/tx.hls.huya.com\/huyalive\/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="4" channel-id="4" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 4
+https:\/\/aldirect.hls.huya.com\/huyalive\/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="5" channel-id="5" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 3
+http:\/\/aldirect.hls.huya.com\/huyalive\/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="6" channel-id="6" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 2
+http:\/\/aldirect.hls.huya.com\/huyalive\/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="7" channel-id="7" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 1
+http:\/\/aldirect.hls.huya.com\/huyalive\/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Action Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Action Movies
+http:\/\/aldirect.hls.huya.com\/huyalive\/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Big Movies
+http:\/\/tx.hls.huya.com\/huyalive\/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+
+#EXTINF:-1 tvg-id="Hollywood Switch" tvg-name="Hollywood Switch" tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/Switch-hollywood-preview_157x157.jpg" tvg-chno="8" channel-id="8" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",Hollywood Switch
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/proxy/Ajnne_XdU0vWvb4FGbmt4wirQR7auxuVJUyNHcUYpfTA954o_hJB-is81Bxgtah7Sz_Adt1AQl5aa4Wfh0euhiQMqz1_XQwru5mMOtVVWMAfBmxU2FcS5OU9Wq6X" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
@@ -22080,3 +22110,11 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239
 
 #EXTINF:0 tvg-name="Adventures of Sonic the Hedgehog" tvg-language="English" tvg-country="US" tvg-id="Adventures of Sonic the Hedgehog" tvg-logo="https://tvguide1.cbsistatic.com/feed/1/171/12062171.jpg" group-title="VOD" ,Adventures of Sonic the Hedgehog
 https://www.dropbox.com/s/quw8ycpydciegix/Adventures%20of%20Sonic%20the%20Hedgehog.m3u?dl=1
+
+
+#EXTINF:0 tvg-name="Sonic the Hedgehog - The Animated Movie" tvg-language="English" tvg-country="US" tvg-id="Sonic the Hedgehog - The Animated Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NjQxMzE0MV5BMl5BanBnXkFtZTcwODQ0OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="VOD" ,Sonic the Hedgehog - The Animated Movie
+https://www.dropbox.com/s/dp6a626r6m21uq2/Sonic%20the%20Hedgehog%20%28Dub%29%20OVA-720p.mp4?dl=1
+
+#EXTINF:0 tvg-name="Sonic the Werehog" tvg-language="English" tvg-country="US" tvg-id="Sonic the Werehog" tvg-logo="https://pics.filmaffinity.com/Sonic_Night_of_the_Werehog_S-199095056-large.jpg" group-title="VOD" ,Sonic the Werehog
+https://www.dropbox.com/s/twxpl9ax6t6tvwy/Sonic_%20Night%20of%20the%20WereHog%20ONA-720p.mp4?dl=1
+
