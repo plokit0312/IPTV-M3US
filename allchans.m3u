@@ -32041,62 +32041,77 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/BEST%20CLASSIC%20TOM%20%26%20JERRY%20MOMENTS.m3u8
 
 #EXTINF:-1 tvg-id="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-name="" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="Kids",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
-https://www.youtube.com/watch?v=933-mhry0Bc
-
-#EXTINF:-1 tvg-id="Recess live 24/7" tvg-name="" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/recess_series_en_4f4ba58f.jpeg" group-title="Kids",Recess live 24/7
-https://www.youtube.com/watch?v=ca0wa3iepac
-
-#EXTINF:-1 tvg-id="Recess live 24/7" tvg-name="" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/recess_series_en_4f4ba58f.jpeg" group-title="24/7",Recess live 24/7
-https://www.youtube.com/watch?v=ca0wa3iepac
-
-#EXTINF:-1 tvg-id="The Simpsons 24/7" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Kids",The Simpsons 24/7
-https://www.youtube.com/watch?v=biiEfY5po8U
-
-#EXTINF:-1 tvg-id="The Simpsons 24/7" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="24/7",The Simpsons 24/7
-https://www.youtube.com/watch?v=biiEfY5po8U
-
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/BEST%20CLASSIC%20TOM%20%26%20JERRY%20MOMENTS.m3u8
 
 #EXTINF:-1 tvg-id="Family Guy 24/7" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="Kids",Family Guy 24/7
-https://www.youtube.com/watch?v=0dUCRGRxapg
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Family%20Guy.m3u
 
 #EXTINF:-1 tvg-id="Family Guy 24/7" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="24/7",Family Guy 24/7
-https://www.youtube.com/watch?v=0dUCRGRxapg
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Family%20Guy.m3u
 
 
 #EXTINF:-1 tvg-id="King of The Hill 24/7" tvg-name="" tvg-logo="https://consequenceofsound.net/wp-content/uploads/2017/01/king-of-the-hill-netflix.jpeg" group-title="24/7",King of The Hill
-https://www.youtube.com/watch?v=0dUCRGRxapg
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/King%20of%20The%20Hill.m3u8
 
 #EXTINF:-1 tvg-id="The Fairly OddParents 24/7" tvg-name="" tvg-logo="https://img.reelgood.com/content/show/2db2566b-71dc-4c13-9971-14d54ef7fdde/poster-780.jpg" group-title="Kids",The Fairly OddParents
-https://www.youtube.com/watch?v=tOjaV2ZADr4
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/The%20Fairly%20OddParents.m3u8
 
 #EXTINF:-1 tvg-id="The Fairly OddParents 24/7" tvg-name="" tvg-logo="https://img.reelgood.com/content/show/2db2566b-71dc-4c13-9971-14d54ef7fdde/poster-780.jpg" group-title="24/7",The Fairly OddParents
-https://www.youtube.com/watch?v=tOjaV2ZADr4
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/The%20Fairly%20OddParents.m3u8
 
 #EXTINF:-1 tvg-id="PAW Patrol 24/7" tvg-name="" tvg-logo="https://redtricom.files.wordpress.com/2019/01/small-paw-patrol-core-poster-tm-badge.jpg" group-title="Kids",PAW Patrol
-https://www.youtube.com/watch?v=AeO6VZ5SLss
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/PAW%20Patrol.m3u8
 
 #EXTINF:-1 tvg-id="PAW Patrol 24/7" tvg-name="" tvg-logo="https://redtricom.files.wordpress.com/2019/01/small-paw-patrol-core-poster-tm-badge.jpg" group-title="24/7",PAW Patrol
-https://www.youtube.com/watch?v=AeO6VZ5SLss
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/PAW%20Patrol.m3u8
 
 
 #EXTINF:-1 tvg-id="PAW Patrol MIGHTY PUPS 24/7" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rzHczgrCV94/maxresdefault.jpg" group-title="Kids",PAW Patrol MIGHTY PUPS
-https://www.youtube.com/watch?v=HOOqENZeUEI
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/PAW%20Patrol%20MIGHTY%20PUPS.m3u8
 
 #EXTINF:-1 tvg-id="PAW Patrol MIGHTY PUPS 24/7" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rzHczgrCV94/maxresdefault.jpg" group-title="24/7",PAW Patrol MIGHTY PUPS
-https://www.youtube.com/watch?v=HOOqENZeUEI
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/PAW%20Patrol%20MIGHTY%20PUPS.m3u8
 
 
-#EXTINF:-1 tvg-id="Fallout 76 Appalachia Radio (Live 24/7)" tvg-name="" tvg-logo="https://redtricom.files.wordpress.com/2019/01/small-paw-patrol-core-poster-tm-badge.jpg" group-title="24/7",Fallout 76 Appalachia Radio (Live 24/7)
-https://www.youtube.com/watch?v=iZZ-y_z6zLQ
+#EXTINF:-1 tvg-id="Fallout 76 Appalachia Radio (Live 24/7)" tvg-name="" tvg-logo="https://i.ytimg.com/vi/FHF6q1mBiFs/maxresdefault.jpg" group-title="24/7",Fallout 76 Appalachia Radio (Live 24/7)
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Fallout%2076%20Appalachia%20Radio.m3u8
 
 
 #EXTINF:-1 tvg-id="Learn Russian 24/7 with RussianPod101 TV" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pC2zpwc0W2Q/maxresdefault.jpg" group-title="24/7",Learn Russian 24/7 with RussianPod101 TV
-https://www.youtube.com/watch?v=pC2zpwc0W2Q
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Learn%20Russian%2024-7%20with%20RussianPod101%20TV.m3u8
 
 
 #EXTINF:-1 tvg-id="Learn Portuguese 24/7 with PortuguesePod101 TV" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n2ryCCPLri8/maxresdefault.jpg" group-title="24/7",Learn Portuguese 24/7 with PortuguesePod101 TV
-https://www.youtube.com/watch?v=D5KRJqd5xZ8
-
+raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Learn%20Portuguese%2024-7%20with%20PortuguesePod101%20TV.m3u8
 
 #EXTINF:-1 tvg-id="Learn Spanish 24/7 with SpanishPod101 TV" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n2ryCCPLri8/maxresdefault.jpg" group-title="24/7",Learn Spanish 24/7 with SpanishPod101 TV
-https://www.youtube.com/watch?v=tilo4WOfxxQ
+https://github.com/bitsbb01/IPTV-M3US/blob/master/Learn%20Spanish%2024-7%20with%20SpanishPod101%20TV.m3u8
+
+#EXTINF:-1 tvg-id="Channels Television Live" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rVH3vmpoOVA/maxresdefault.jpg" group-title="24/7",Channels Television Live
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Channels%20Television%20Live.m3u8
+
+#EXTINF:-1 tvg-id="Masha and the Bear 🎬💥 LIVE STREAM 💥🎬 " tvg-name="" tvg-logo="https://i.pinimg.com/originals/ae/e7/1b/aee71b8918e7f9c384843e14901dc015.jpg" group-title="24/7",Masha and the Bear 🎬💥 LIVE STREAM 💥🎬 
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Masha%20and%20the%20Bear.m3u8
+
+#EXTINF:-1 tvg-id="Masha and the Bear 🎬💥 LIVE STREAM 💥🎬 " tvg-name="" tvg-logo="https://i.pinimg.com/originals/ae/e7/1b/aee71b8918e7f9c384843e14901dc015.jpg" group-title="Kids",Masha and the Bear 🎬💥 LIVE STREAM 💥🎬 
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Masha%20and%20the%20Bear.m3u8
+
+#EXTINF:-1 tvg-id="Best of Bean" tvg-name="" tvg-logo="https://cdn.selby.com.au/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/m/r/mrbeanbestof.jpg" group-title="24/7",Best of Bean
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/Best%20of%20Bean.m3u8
+
+#EXTINF:-1 tvg-id="As Told by Ginger" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY5N2U3NDMtNDNiMS00MjAyLTlmODQtOGVkYWIwOGI3NTRiXkEyXkFqcGdeQXVyNDY1NDg3NDY@._V1_.jpg" group-title="24/7",As Told by Ginger
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/As%20Told%20by%20Ginger.m3u8
+
+#EXTINF:-1 tvg-id="As Told by Ginger" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY5N2U3NDMtNDNiMS00MjAyLTlmODQtOGVkYWIwOGI3NTRiXkEyXkFqcGdeQXVyNDY1NDg3NDY@._V1_.jpg" group-title="Kids",As Told by Ginger
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/As%20Told%20by%20Ginger.m3u8
+
+#EXTINF:-1 tvg-id="Codename: Kids Next Door" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY5N2U3NDMtNDNiMS00MjAyLTlmODQtOGVkYWIwOGI3NTRiXkEyXkFqcGdeQXVyNDY1NDg3NDY@._V1_.jpg" group-title="Kids",Codename: Kids Next Door
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/codenamekids.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Codename: Kids Next Door" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY5N2U3NDMtNDNiMS00MjAyLTlmODQtOGVkYWIwOGI3NTRiXkEyXkFqcGdeQXVyNDY1NDg3NDY@._V1_.jpg" group-title="24/7",Codename: Kids Next Door
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/codenamekids.m3u8
+
+
+
