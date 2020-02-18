@@ -27,20 +27,14 @@ https://peer2.ustv.to/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-id="" tvg-name="Science" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/320/1x/cbbc/science-logo-final_alt7.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Science
 https://peer1.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6Mjg6MzcgUE0maGFzaF92YWx1ZT14NU51eHV1VndTTkltNlUvRitMRStRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-logo="https://banner2.cleanpng.com/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",CBS
 https://peer3.ustv.to/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQ2OjIxIFBNJmhhc2hfdmFsdWU9cDE5dVpvT2xEOUdMYUR0Q2hnM0Z6dz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=',
-
 
 #EXTINF:-1 tvg-id="" tvg-name="NBC" tvg-logo="https://pmcvariety.files.wordpress.com/2014/06/nbc-logo-2.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",NBC
 https://peer1.ustv.to/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQzOjAyIFBNJmhhc2hfdmFsdWU9SjI1QjJKNHI4c0VsbXVybHdMMEVZZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2017/05/abc.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",ABC
 https://peer5.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQ0OjMxIFBNJmhhc2hfdmFsdWU9dEo1RzFpMVZlV2lJa3lpVHJVaE1EQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Fox
@@ -162,10 +156,6 @@ https://fyyhdvgtpn.mystream.io/y/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODIwMDI0NTMsIm
 
 #EXTINF:0 group-title="VOD"  tvg-logo="https://miro.medium.com/max/7680/1*tspqKsjbRxvxd-s29-XbHg.jpeg",Birds of Prey (2020)
 https://s475.clipwatching.com/zx5x5wxh3v2txcne42oshtxpqfyisi7ouzhmhk7dojo5jdknltwcar55afpa/v.mp4
-
-
-
-
 
 #EXTINF:0 tvg-name="101 DALMATIONS" tvg-language="English" tvg-country="US" tvg-id="101 DALMATIONS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="VOD" ,101 DALMATIONS (VOD) (US) (English)
 http://www.deadlyblogger.com/NewRelease/dal1.mp4
@@ -32198,28 +32188,19 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582068652/ei/S
 #EXTINF:-1 tvg-id="Channels Television Live" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rVH3vmpoOVA/maxresdefault.jpg" group-title="Stream 24/7",Channels Television Live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582068743/ei/px9MXrfxIpWB4AG4w7WoBw/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/rVH3vmpoOVA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgRrYx9x1pp4wiSXtEBvq0rrSEHqeAVbUAOgcRge6pDpoCIQCxvcZ2lSoqc140eaUOD1BNPnQkTUV60Vgxn0xeXJU7-Q%3D%3D/file/index.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="Thebonestealer" tvg-name="" tvg-logo="https://i.pcmag.com/imagery/articles/05pGSLeBVTWQNoDPNG2midy-4.fit_scale.size_2698x1517.v1573262409.jpg" group-title="Gaming",Thebonestealer
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582073107/ei/szBMXuu_AoOZtQfAi4LYAw/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/_XhFto5CU7Y.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgeBzaJokDAR7DhA05NZyFHTag3x5ujUSjgpt5oHNFBOgCIQCr-mc2Pk6ybEjuCgJoCkElES1ufWDuB8QTsDFUZJBW3w%3D%3D/file/index.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-id="TRAILERS" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/699256336425455616/6Ii-yyve.png" group-title="TRAILERS",NEW TRAILERS THIS WEEK
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582073350/ei/pjFMXue6CpTYDpydmLgD/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/LGWGGi0XqBo.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgYST5-x5tLNvgXxw06Slz3zsDTGgssq1q8wE-Mf-4ezICIDijBGaTlKoWjCtzxu0kJy1dHPBVneQCnxhN6oMmNRGL/file/index.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-id="Talking Tom and Friends" tvg-name="" tvg-logo="https://pics.filmaffinity.com/Talking_Tom_and_Friends_TV_Series-960689482-large.jpg" group-title="Stream 24/7",Talking Tom and Friends
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582073494/ei/NjJMXsrEGMXKigTGmYAI/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/PbP0_yYXcHU.357/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhAJRYuSxn2nLEKQRa5IlJYSRhSsEnMstSr8Zk3vlr3sTEAiB-HPJNCcbiMtBOWga5lPZA9-xeZkuvKp73FPbinX8mew%3D%3D/file/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="Comet TV" tvg-name="" tvg-logo="Comet TV" group-title="Entertainment",Comet TV
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
 
