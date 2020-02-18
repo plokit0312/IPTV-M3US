@@ -31260,3 +31260,68 @@ https://peer3.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://www.syfy.com/sites/syfy/files/styles/1200x680/public/wire/legacy/images/syfy_Logo_0.jpg" tvg-chno="" channel-id="Syfy" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Syfy
 https://peer2.ustv.to/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTY6MTggQU0maGFzaF92YWx1ZT1IcXEySEVXbllBSkdSL2gzVnlBaFV3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="https://i.ytimg.com/vi/gDbKd8e68V8/maxresdefault.jpg" tvg-chno="" channel-id="Sundance TV" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Sundance TV
+https://peer2.ustv.to/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTk6MDEgQU0maGFzaF92YWx1ZT15MkR4ZVlicGFqRVRsVlV0S2VlaTBBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz" tvg-logo="https://i.ytimg.com/vi/kSyrCnfuTrA/maxresdefault.jpg" tvg-chno="" channel-id="Starz" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Starz
+https://peer3.ustv.to/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDA6NDUgQU0maGFzaF92YWx1ZT1OTmQyS085OEJneitoUHZCTHh5ejFRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="Showtime" tvg-logo="https://www.htc.net/wp-content/uploads/2016/02/showtime-watch-online.jpg" tvg-chno="" channel-id="Showtime" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Showtime
+https://peer4.ustv.to/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDI6MTcgQU0maGFzaF92YWx1ZT04em1paVVVeXN3alBJaHptaENtU0h3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="POP" tvg-logo="https://dcassetcdn.com/design_img/834608/51565/51565_4974531_834608_image.jpg" tvg-chno="" channel-id="POP" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",POP
+https://peer3.ustv.to/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDM6MzMgQU0maGFzaF92YWx1ZT1NbzZORkJRM3pVc3ZKRGFTTnBCUlZRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="https://www.wipb.org/wp-content/uploads/2015/02/PBS-Logo_Vert_Blu_512.jpg" tvg-chno="" channel-id="PBS" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",PBS
+https://peer3.ustv.to/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDU6MjggQU0maGFzaF92YWx1ZT1sVXR6SE03WVd3WVZxMzRyMGw0Lzd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+https://peer5.ustv.to/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDc6MzQgQU0maGFzaF92YWx1ZT1pV0Urc3lxT1NxS090dWErOEN3OUZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="One America News Network" tvg-logo="https://patpgmr.files.wordpress.com/2016/07/one-america-news-network.jpg" tvg-chno="" channel-id="One America News Network" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",One America News Network
+https://peer3.ustv.to/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDk6NDAgQU0maGFzaF92YWx1ZT1XVWN5MG4rSDRNQ0VSU0ZIRmlwWC9BPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="https://i.ytimg.com/vi/eTKwxA30DVQ/hqdefault.jpg" tvg-chno="" channel-id="Nicktoons" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Nicktoons
+https://peer5.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MjQ6MzMgQU0maGFzaF92YWx1ZT1VVnhJbzFqTE02MFVlUHBHNyswcXd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pinclipart.com/picdir/middle/494-4944830_nickelodeon-logo-png-nickelodeon-clipart.png" tvg-chno="" channel-id="Nickelodeon" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Nickelodeon
+https://peer1.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MjY6MDAgQU0maGFzaF92YWx1ZT1mL2V3VSt2Y0F4emo2YjFSRlZ2eUdnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+
+
+
+
+
+
+
+
+
