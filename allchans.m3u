@@ -31407,27 +31407,40 @@ https://peer1.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Nfl-network-logo.jpg" tvg-chno="" channel-id="NFL Network" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",NFL Network
+https://peer3.ustv.to/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTI6NTUgQU0maGFzaF92YWx1ZT1TK0dXUWMvK01PSFJFWXpJT0RzMXhBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="https://www.nicepng.com/png/full/376-3768018_fxx-logo-fxx-logo-png-white.png" tvg-chno="" channel-id="FXX" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",FXX
+https://peer1.ustv.to/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTY6NTMgQU0maGFzaF92YWx1ZT1vSytjcjhmczhmZXBmY09xSnZEcGhRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" tvg-chno="" channel-id="FXM" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",FXM
+https://peer5.ustv.to/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTg6MTYgQU0maGFzaF92YWx1ZT00dTZFR0w4UHZXZTdIcFNvbFQvTWNRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://www.pikpng.com/pngl/m/590-5901139_fx-logo-png-fx-hd-channel-logo-transparent.png" tvg-chno="" channel-id="FX" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWFXN
+https://peer3.ustv.to/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTk6MzQgQU0maGFzaF92YWx1ZT1rTmtOcUtOZ0xEU3ErVjJFOU85WGd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Freeform" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2018/01/logo_freeform.png" tvg-chno="" channel-id="Freeform" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Freeform
+https://peer5.ustv.to/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDE6MDQgQU0maGFzaF92YWx1ZT1DNHhtY0c2bDBhOHdtbitlR0Z4eEpRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="DisneyXD" tvg-logo="https://www.pikpng.com/pngl/m/133-1335078_disney-xd-logo-lde-s-next-idea-by.png" tvg-chno="" channel-id="DisneyXD" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",DisneyXD
+https://peer2.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDI6MzIgQU0maGFzaF92YWx1ZT0rYXNGY0JUc1VCdGdrMEs3ek1TMTd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DisneyJr" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png" tvg-chno="" channel-id="DisneyJr" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",DisneyJr
+https://peer5.ustv.to/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDM6NTAgQU0maGFzaF92YWx1ZT1TcmJEQkxSeGJGQjNFaWhka2FYV2VBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" tvg-chno="" channel-id="Disney Channel" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Disney Channel
+https://peer1.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDU6MTIgQU0maGFzaF92YWx1ZT11WHZRRHVwcjhUdTVxUkRSRFMrYzZ3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg" group-title="PLUTO TV",Pluto TV Spotlight
 https://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
@@ -32021,9 +32034,65 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ad9b7aae738977e2c312132/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",World Poker Tour
 https://stitcher.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
+#EXTINF:-1 tvg-id="Free Speech TV" tvg-name="" tvg-logo="https://www.thealliance.media/wp-content/uploads/2015/01/maxresdefault-3.jpg" group-title="24/7",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-id="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-name="" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="24/7",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
+https://www.youtube.com/watch?v=933-mhry0Bc
+
+#EXTINF:-1 tvg-id="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-name="" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="Kids",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
+https://www.youtube.com/watch?v=933-mhry0Bc
+
+#EXTINF:-1 tvg-id="Recess live 24/7" tvg-name="" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/recess_series_en_4f4ba58f.jpeg" group-title="Kids",Recess live 24/7
+https://www.youtube.com/watch?v=ca0wa3iepac
+
+#EXTINF:-1 tvg-id="Recess live 24/7" tvg-name="" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/recess_series_en_4f4ba58f.jpeg" group-title="24/7",Recess live 24/7
+https://www.youtube.com/watch?v=ca0wa3iepac
+
+#EXTINF:-1 tvg-id="The Simpsons 24/7" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Kids",The Simpsons 24/7
+https://www.youtube.com/watch?v=biiEfY5po8U
+
+#EXTINF:-1 tvg-id="The Simpsons 24/7" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="24/7",The Simpsons 24/7
+https://www.youtube.com/watch?v=biiEfY5po8U
 
 
+#EXTINF:-1 tvg-id="Family Guy 24/7" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="Kids",Family Guy 24/7
+https://www.youtube.com/watch?v=0dUCRGRxapg
 
+#EXTINF:-1 tvg-id="Family Guy 24/7" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="24/7",Family Guy 24/7
+https://www.youtube.com/watch?v=0dUCRGRxapg
+
+
+#EXTINF:-1 tvg-id="King of The Hill 24/7" tvg-name="" tvg-logo="https://consequenceofsound.net/wp-content/uploads/2017/01/king-of-the-hill-netflix.jpeg" group-title="24/7",King of The Hill
+https://www.youtube.com/watch?v=0dUCRGRxapg
+
+#EXTINF:-1 tvg-id="The Fairly OddParents 24/7" tvg-name="" tvg-logo="https://img.reelgood.com/content/show/2db2566b-71dc-4c13-9971-14d54ef7fdde/poster-780.jpg" group-title="Kids",The Fairly OddParents
+https://www.youtube.com/watch?v=tOjaV2ZADr4
+
+#EXTINF:-1 tvg-id="The Fairly OddParents 24/7" tvg-name="" tvg-logo="https://img.reelgood.com/content/show/2db2566b-71dc-4c13-9971-14d54ef7fdde/poster-780.jpg" group-title="24/7",The Fairly OddParents
+https://www.youtube.com/watch?v=tOjaV2ZADr4
+
+#EXTINF:-1 tvg-id="PAW Patrol 24/7" tvg-name="" tvg-logo="https://redtricom.files.wordpress.com/2019/01/small-paw-patrol-core-poster-tm-badge.jpg" group-title="Kids",PAW Patrol
+https://www.youtube.com/watch?v=AeO6VZ5SLss
+
+#EXTINF:-1 tvg-id="PAW Patrol 24/7" tvg-name="" tvg-logo="https://redtricom.files.wordpress.com/2019/01/small-paw-patrol-core-poster-tm-badge.jpg" group-title="24/7",PAW Patrol
+https://www.youtube.com/watch?v=AeO6VZ5SLss
+
+
+#EXTINF:-1 tvg-id="Fallout 76 Appalachia Radio (Live 24/7)" tvg-name="" tvg-logo="https://redtricom.files.wordpress.com/2019/01/small-paw-patrol-core-poster-tm-badge.jpg" group-title="24/7",Fallout 76 Appalachia Radio (Live 24/7)
+https://www.youtube.com/watch?v=iZZ-y_z6zLQ
+
+
+#EXTINF:-1 tvg-id="Learn Russian 24/7 with RussianPod101 TV" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pC2zpwc0W2Q/maxresdefault.jpg" group-title="24/7",Learn Russian 24/7 with RussianPod101 TV
+https://www.youtube.com/watch?v=pC2zpwc0W2Q
+
+
+#EXTINF:-1 tvg-id="Learn Portuguese 24/7 with PortuguesePod101 TV" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n2ryCCPLri8/maxresdefault.jpg" group-title="24/7",Learn Portuguese 24/7 with PortuguesePod101 TV
+https://www.youtube.com/watch?v=D5KRJqd5xZ8
+
+
+#EXTINF:-1 tvg-id="Learn Spanish 24/7 with SpanishPod101 TV" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n2ryCCPLri8/maxresdefault.jpg" group-title="24/7",Learn Spanish 24/7 with SpanishPod101 TV
+https://www.youtube.com/watch?v=tilo4WOfxxQ
 
 
 
