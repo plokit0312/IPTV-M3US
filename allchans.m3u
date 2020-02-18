@@ -32038,7 +32038,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
 #EXTINF:-1 tvg-id="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-name="" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="24/7",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
-https://www.youtube.com/watch?v=933-mhry0Bc
+https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/BEST%20CLASSIC%20TOM%20%26%20JERRY%20MOMENTS.m3u8
 
 #EXTINF:-1 tvg-id="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-name="" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="Kids",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
 https://www.youtube.com/watch?v=933-mhry0Bc
@@ -32099,8 +32099,4 @@ https://www.youtube.com/watch?v=D5KRJqd5xZ8
 
 
 #EXTINF:-1 tvg-id="Learn Spanish 24/7 with SpanishPod101 TV" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n2ryCCPLri8/maxresdefault.jpg" group-title="24/7",Learn Spanish 24/7 with SpanishPod101 TV
-#EXT-X-STREAM-INF:BANDWIDTH=4715812,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,SUBTITLES="vtt",CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582021521/ei/MWdLXsunLcLiiwSr-5ZI/ip/2600:8804:1f00:5400:b9b7:19d3:de3:fecd/id/tilo4WOfxxQ.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-vgqsrnes.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/17830/mm/44/mn/sn-vgqsrnes/ms/lva/mv/m/mvi/0/pl/34/dover/11/keepalive/yes/fexp/23842630,23878762/beids/9466587/mt/1582000453/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ALgxI2wwRQIgASeurbSsOwgJUEXchpMTi22StHk-HvrEitJmqrQqGlYCIQD3aRF5iABrflsDf4sP5-rBfDSU8OoOrdmreMnNmp3P-Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/AHylml4wRQIgAz1w2h5kq2U0nmo1Xzh5Y3o88e0ainMNIYDXpauGToMCIQDeTX8Q02EQ_GdG6A1eZ8iPHH6PVcQmHLtWeJAeNljt-Q%3D%3D/playlist/index.m3u8
-
-
-
+https://www.youtube.com/watch?v=tilo4WOfxxQ
