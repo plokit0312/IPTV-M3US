@@ -31185,10 +31185,6 @@ https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea
 #EXTINF:-1  group-title="VOD"  tvg-logo="https://i.imgur.com/Iig0ge0.jpg", The Wonderful Wizard of Oz (1910)
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 
-
-
-
-
 #EXTINF:9249 group-title="VOD"  tvg-logo="https://i.imgur.com/Iig0ge0.jpg",Amores.Perros.2000.m-720p.BRRip.AAC.x264 - Riddler
 #EXTVLCOPT:network-caching=1000
 http://server4.7uploader.com/Movie/2000/Amores.Perros.2000.720p.%28MyKingMedia%29.mkv
@@ -31217,8 +31213,32 @@ http://server4.7uploader.com/Movie/2000/Snatch.%282000%29.BluRay.720p.%28MyKingM
 #EXTVLCOPT:network-caching=1000
 http://server4.7uploader.com/Movie/2020/10.Things.We.Should.Do.Before.We.Break.Up.2020.1080p.WEB-DL.RARBG.KinGMedia.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.kindpng.com/picc/m/195-1958586_hgtv-logo-png-transparent-hgtv-logo-png-png.png" tvg-chno="" channel-id="HGTV" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",HGTV
+https://peer1.ustv.to/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MTE6MjggQU0maGFzaF92YWx1ZT04YjBVRDVGaG5xbm55YUJYWkhjOU1nPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:4460 group-title="VOD"  tvg-logo="https://i.imgur.com/Iig0ge0.jpg",Angels Fallen
-#EXTVLCOPT:network-caching=1000
-https://drive.google.com/open?id=1X5xv4Ev4QPf542SB1S1LrvQsNH3nrFX_
+#EXTINF:-1 tvg-id="" tvg-name="We TV" tvg-logo="https://cdn.imgbin.com/3/13/13/imgbin-we-tv-television-show-television-channel-logo-others-Anv92AJvvyhuzgkRKnj48Cm3D.jpg" tvg-chno="" channel-id="We TV" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",We TV
+https://peer1.ustv.to/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MjM6MzUgQU0maGFzaF92YWx1ZT1CT1hsR01EM3Fkb2JGZGJaRHFKT0xBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://cdn.imgbin.com/19/2/10/imgbin-vh1-mtv-classic-logo-tv-television-MqhD0R5zmBUFb6n4NXwmh2iHR.jpg" tvg-chno="" channel-id="VH1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",VH1
+https://peer2.ustv.to/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MjU6NDQgQU0maGFzaF92YWx1ZT1TMy9TdzMvQTlCTC9Obm5mWjhaYTZRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" tvg-chno="" channel-id="USA Network" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",USA Network
+https://peer2.ustv.to/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6Mjc6MjMgQU0maGFzaF92YWx1ZT0zZzRMZVg1cnNoVlMrOWZtM3BBMnpBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/11/univision.png" tvg-chno="" channel-id="Univision" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Univision
+https://peer2.ustv.to/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6Mjk6MTIgQU0maGFzaF92YWx1ZT1oNnZYWVg0Q0J0YmdZRzJ3cUxDZ2Z3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Land" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/TV_Land_1996.svg" tvg-chno="" channel-id="TV Land" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TV Land
+https://peer1.ustv.to/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MzA6NDUgQU0maGFzaF92YWx1ZT1NdTBVbjRFSFZtSnNJUFBNUEZPRkh3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_logo.svg/1200px-TruTV_logo.svg.png" tvg-chno="" channel-id="TruTV" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TruTV
+https://peer5.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MzI6MjIgQU0maGFzaF92YWx1ZT00cUdZRUxkYXlLTkx6ZjVtczcxa21nPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+
+
+
+
+
 
