@@ -171,8 +171,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56171fafada51f8004c4b40f/featuredImage.jpg" group-title="Pluto", After School Cartoons
 https://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="Pluto", Anime All Ages
-https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b7d3249444e05d09cc49/featuredImage.jpg" group-title="Pluto", Anime All Ages
+https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 
 
@@ -185,8 +185,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="Pluto",After School Cartoons
 http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="Pluto",Anime All Ages
-https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b7d3249444e05d09cc49/featuredImage.jpg" group-title="Pluto",Anime All Ages
+https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce44810b421747ae467b7cd/featuredImage.jpg" group-title="Pluto",Antiques Roadshow (UK)
 https://stitcher.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
@@ -514,6 +514,55 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u
 
 
 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d81607ab737153ea3c1c80e/featuredImage.jpg" group-title="Stream 24/7",The Adams Family
+https://stitcher.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68acec16f7d78dc161fe1/featuredImage.jpg" group-title="Stream 24/7",MTV Guy Code
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68b45d0bd6c2689c96537/featuredImage.jpg" group-title="Stream 24/7",MTV The Hills
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d51ddf0369acdb278dfb05e/featuredImage.jpg" group-title="Stream 24/7",VH1 Love And Hip Hop
+https://stitcher.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d48685da7e9f476aa8a1888/featuredImage.jpg" group-title="Stream 24/7",MTV The Challange
+https://stitcher.pluto.tv/stitch/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d51e2bceca5b4b2c0e06c50/featuredImage.jpg" group-title="Stream 24/7",VH1 Black Ink Crew
+https://stitcher.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d40855b3fb0855028c99b6f/featuredImage.jpg" group-title="Stream 24/7",CMT Dallas Cowboys Cheerleaders
+https://stitcher.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="Stream 24/7",Unsolved Mysteries
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="Stream 24/7",Forensic Files
+https://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/featuredImage.jpg" group-title="Stream 24/7",The New Detectives
+https://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37d6712de254456f7ec340/featuredImage.jpg" group-title="Stream 24/7",Cold Case Files
+https://stitcher.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/588128d17d64bc0d0f385c34/featuredImage.jpg" group-title="Stream 24/7",Fear Factor
+https://stitcher.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d9ccebb60a26500097dc5a4/featuredImage.jpg" group-title="Stream 24/7",Leverage
+https://stitcher.pluto.tv/stitch/hls/channel/5d9ccebb60a26500097dc5a4/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d816172389c9d153be6a448/featuredImage.jpg" group-title="Stream 24/7",Chris Angel Mindfreak
+https://stitcher.pluto.tv/stitch/hls/channel/5d816172389c9d153be6a448/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" group-title="Stream 24/7",Gordon Ramsays Hells Kitchen Uncensored
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d51e791b7dba3b2ae990ab2/featuredImage.jpg" group-title="Stream 24/7",This Old House
+https://stitcher.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2b9d8002db3c3e0b1c6d/featuredImage.jpg" group-title="Stream 24/7",Retro Toons
 https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
@@ -524,8 +573,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="Stream 24/7",After School Cartoons
 http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="Stream 24/7",Anime All Ages
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/subtitle/en/playlist.m3u8?terminate=false&deviceId=c83eedcd-f4e4-4653-b455-f8cd60d4d52f&deviceVersion=79.0.3945.130&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&deviceType=web&deviceMake=Chrome&sid=6fcc6892-6c3c-406a-aa35-1bbd984405db&advertisingId=&deviceLat=41.2969&deviceLon=-95.9674&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b7d3249444e05d09cc49/featuredImage.jpg" group-title="Stream 24/7",Anime All Ages
+http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d0c16d686454ead733d08f8/featuredImage.jpg" group-title="Stream 24/7",Totally Turtles
 https://stitcher.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
@@ -4581,8 +4630,6 @@ https://peer5.ustv.to/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://www.pikpng.com/pngl/m/590-5901139_fx-logo-png-fx-hd-channel-logo-transparent.png" tvg-chno="" channel-id="FX" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWFXN
 https://peer3.ustv.to/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTk6MzQgQU0maGFzaF92YWx1ZT1rTmtOcUtOZ0xEU3ErVjJFOU85WGd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Freeform" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2018/01/logo_freeform.png" tvg-chno="" channel-id="Freeform" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Freeform
 https://peer5.ustv.to/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDE6MDQgQU0maGFzaF92YWx1ZT1DNHhtY0c2bDBhOHdtbitlR0Z4eEpRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
@@ -10207,6 +10254,557 @@ http://server4.7uploader.com/Movie/2000/Snatch.%282000%29.BluRay.720p.%28MyKingM
 http://server4.7uploader.com/Movie/2020/10.Things.We.Should.Do.Before.We.Break.Up.2020.1080p.WEB-DL.RARBG.KinGMedia.mp4
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/YesMan2008poster.jpg/220px-YesMan2008poster.jpg" group-title="On-Demand",Yes Man (2008)
+https://archive.org/download/01AceVenturaPetDetectiveJimCarreyEngRus1994MultiSubs720p/YesMan2008.mp4
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nwM2loeML._SL1267_.jpg" group-title="On-Demand",Eichmann (2007)
+https://archive.org/download/Eichmann2007FullMovie/Eichmann%20(2007)%20-%20full%20movie.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/harry-potter-and-the-order-of-the-phoenix.10483.jpg" group-title="On-Demand",Harry Potter and the Order of the Phoenix (2007)
+https://archive.org/download/Harry.Potter.The.Ultimate.Collection.Pack.20012011.1080p.BluRay.MultiSubs.REMUXKRaLiMaRKorarbg.to/Harry%20Potter%205/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%202007%201080p%20Blu-ray%20Multisub%20Remux%20VC-1%20LPCM%205.1%20-%20KRaLiMaRKo.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fguDbUj.jpg" group-title="On-Demand",Insecurity (2007)
+https://archive.org/download/insecurity/Insecurity_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/whOyYvA.jpg" group-title="On-Demand",Love Notes (2007)
+https://archive.org/download/LoveNotesFullMovie/Love%20Notes%20Full%20Movie.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Book_of_secrets_post.jpg" group-title="On-Demand",National Treasure - Book of Secrets (2007)
+https://archive.org/download/National.Treasure.Book.of.Secrets.2007.1080p.BrRip.x264.YIFY/National.Treasure.Book.of.Secrets.2007.1080p.BrRip.x264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/jerome_bixby_s_the_man_from_earth-512181758-large.jpg" group-title="On-Demand",The Man from Earth (2007)
+https://archive.org/download/The.Man.From.Earth.2007.720p.BRrip.x265.10bit.PoOlLa/The.Man.From.Earth.2007.720p.BRrip.x265.10bit.PoOlLa.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iRXrVx3.jpg" group-title="On-Demand",Walking Tall - The Payback (2007)
+https://archive.org/download/WalkingTallPartIIThePaybackFullMovie2007/Walking%20Tall%20Part%20II%20The%20Payback%20Full%20Movie%20(2007).mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Zeitgeist-themovie.jpg" group-title="On-Demand",Zeitgeist - The Movie (2007)
+https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/16-blocks-2006/large_wpKBLDjNRddmH6N32ni4bASogt8.jpg" group-title="On-Demand",16 Blocks (2006)
+https://archive.org/download/16Blocks_201706/16%20Blocks.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/16-blocks-2006/large_wpKBLDjNRddmH6N32ni4bASogt8.jpg" group-title="On-Demand",16 Blocks (2006)*
+https://archive.org/download/16Blocks_201706/16Blocks.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/300-2006/large_4AmPMxTs1zSdCK0eCacj0kBgOMV.jpg" group-title="On-Demand",300 (2006)
+https://archive.org/download/300-AB/300.2006.BluRay.1080p.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/looneytunes/images/1/12/Bah_Humduck_DVD.jpg" group-title="On-Demand",Bah Humduck! - A Looney Tunes Christmas (2006)
+https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
+
+
+#EXTINF:-1 tvg-logo="http://www.dustindye.net/wp-content/uploads/2014/03/casino_royale_ver7_xlg.jpg" group-title="On-Demand",Casino Royale (2006)
+https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Kiks.Pk]%20-%20James%20Bond%20-%20Casino%20Royale%20(2006).mp4
+
+#EXTINF:-1 tvg-logo="http://www.dustindye.net/wp-content/uploads/2014/03/casino_royale_ver7_xlg.jpg" group-title="On-Demand",Casino Royale (2006)*
+https://archive.org/download/Scarface.1983.1080p.BRrip.x264.YIFY/Casino.Royale[2006]DvDrip[Eng]-aXXo.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x0jri6W.jpg" group-title="On-Demand",Children of Men (2006)
+https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
+
+#EXTINF:-1 tvg-logo="https://cloud.blender.org/api/storage/file/eb/ebe66c8c24ea4f693c44f93076757e67-l.jpg" group-title="On-Demand",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_wGl3bmdTX_E/TSg-OhTqhkI/AAAAAAAAAkw/OWPSqlXbRbE/s1600/ONTWK_poster1.jpg" group-title="On-Demand",One Night with the King (2006)
+https://archive.org/download/QueenEstherOneNightWithTheKingFullMovie/Queen%20Esther%20One%20Night%20With%20The%20King%20full%20movie.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Pirates_of_the_caribbean_2_poster_b.jpg" group-title="On-Demand",Pirates of the Caribbean - Dead Man's Chest (2006)
+https://archive.org/download/PiratesOfTheCaribbeanQuadrilogyCollection20032011720pDualAudioBluRayHindiEnglishKartiKing/2.%20Pirates%20Of%20Caribbean%20Dead%20Man's%20Chest%20(2006)%20KartiKing%20Movies.DigitalMaza.Org.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/DVD_cover_of_the_movie_Secret_Cutting.jpg" group-title="On-Demand",Second In Command (2006)
+https://archive.org/download/SecondInCommand2006CompleteFullMovieInEnglish/Second%20in%20Command%202006%20complete%20full%20movie%20in%20English.mp4
+
+#EXTINF:-1 tvg-logo="http://www.newvideo.com/wp-content/uploads/boxart/NNVG2062.jpg" group-title="On-Demand",Steal This Film (2006)
+https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Step_up.jpg" group-title="On-Demand",Step Up (2006)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/we-are-marshall.18837.jpg" group-title="On-Demand",We Are Marshall (2006)
+https://archive.org/download/SomosMarshall/Somos%20Marshall.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/Who_Killed_The_Electric_Car_cover.jpg" group-title="On-Demand",Who Killed the Electric Car? (2006)
+https://archive.org/download/WhoKilledTheElectricCar123/WhoKilledTheElectricCar.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Wsiposter.jpg" group-title="On-Demand",Wholesale Souls Inc. (2006)
+https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
+
+
+#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="On-Demand",Between Hurricanes (2005)
+https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/harry-potter-and-the-goblet-of-fire.11171.jpg" group-title="On-Demand",Harry Potter and the Goblet of Fire (2005)
+https://archive.org/download/Harry.Potter.The.Ultimate.Collection.Pack.20012011.1080p.BluRay.MultiSubs.REMUXKRaLiMaRKorarbg.to/Harry%20Potter%204/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%202005%201080p%20Blu-ray%20Multisub%20Remux%20VC-1%20LPCM%205.1%20-%20KRaLiMaRKo.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.thedigitalfix.com/image/1143729591/film/59437.jpg" group-title="On-Demand",The Exorcism of Emily Rose (2005)
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/5132YEW1THL.jpg" group-title="On-Demand",Unleashed (2005)
+https://archive.org/download/JetLeeUnleashedDannyTheDog2005/Jet%20lee%20-%20Unleashed%20@%20Danny%20the%20Dog%202005.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nqOOsqu.jpg" group-title="On-Demand",American Dictators (2004)
+https://archive.org/download/AmericanDictatorsAlexJonesFullMovie_201512/American%20Dictators%20(Alex%20Jones%20Full%20Movie.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://www.sonypictures.com/movies/christmaswiththekranks/assets/images/onesheet.jpg" group-title="On-Demand",Christmas with the Kranks (2004)
+https://archive.org/download/ChristmasWithTheKranksFullMovie/Christmas%20With%20The%20Kranks%20Full%20Movie.mp4
+
+#EXTINF:-1 tvg-logo="https://nellevision.com/wp-content/uploads/2012/06/u03UUNUWmsELDbH9KXRPpTOZeYg.jpg" group-title="On-Demand",Collateral (2004)
+https://archive.org/download/aliali2016516_gmail_2003/Collateral%202004%20(1080p%20x265%2010bit%20Tigole).mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51TJQA9KQ1L.jpg" group-title="On-Demand",Dirty Dancing - Havana Nights (2004)*
+https://archive.org/download/Dirty.Dancing.Havana.Nights.2004.720p.BrRip.x264.YIFY/Dirty.Dancing.Havana.Nights.2004.720p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/GodzillaFinalWarsPoster.jpg/220px-GodzillaFinalWarsPoster.jpg" group-title="On-Demand",Godzilla: Final Wars (2004)
+https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-prisoner-of-azkaban-2004/large_7VTALkqjG40vby3uVIsp03d7yXy.jpg" group-title="On-Demand",Harry Potter and the Prisoner of Azkaban (2004)
+https://archive.org/download/Harry.Potter.The.Ultimate.Collection.Pack.20012011.1080p.BluRay.MultiSubs.REMUXKRaLiMaRKorarbg.to/Harry%20Potter%203/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%202004%201080p%20Blu-ray%20Multisub%20Remux%20VC-1%20LPCM%205.1%20-%20KRaLiMaRKo.mp4
+
+#EXTINF:-1 tvg-logo="http://www.iceposter.com/thumbs/MOV_ccc9d688_b.jpg" group-title="On-Demand",Hellboy (2004)
+https://archive.org/download/Hellboy2004DirectorsCut1080pX26510bitJoy/Hellboy%202004%20Directors%20Cut%20(1080p%20x265%2010bit%20Joy).mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/christmasspecials/images/e/e1/Karroll%27s_Christmas.jpg" group-title="On-Demand",Karroll's Christmas (2004)
+https://archive.org/download/KarrollsChristmasfullMovie/Karroll's%20Christmas%20(full%20movie).mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Kill_bill_vol_two_ver.jpg" group-title="On-Demand",Kill Bill - Vol. 2 (2004)
+https://archive.org/download/KillBill2_201706/Kill%20Bill%202.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MljOjFa.jpg" group-title="On-Demand",Limbo (2004)
+https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cartelesmix.es/images/CartelesF/fuegodelavenganza0402.jpg" group-title="On-Demand",Man on Fire (2004)
+https://archive.org/download/Scarface.1983.1080p.BRrip.x264.YIFY/man.on.fire.2004.mp4
+
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/national-treasure-2004/large_luMoc56LLMWUt60vUNNpwxrbTNt.jpg" group-title="On-Demand",National Treasure (2004)
+https://archive.org/download/National.Treasure.2004.1080p.BrRip.x264.YIFY/National.Treasure.2004.1080p.BrRip.x264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="http://nicholassparks.com/wp-content/uploads/2013/07/200406-the-notebook.jpeg" group-title="On-Demand",The Notebook (2004)
+https://ia601507.us.archive.org/19/items/Family1960196004/Family%201960%20196004.mp4
+
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/bad-boys-ii-2003/large_11jdudaJnp4rizjYnwLEb0dNKbd.jpg" group-title="On-Demand",Bad Boys II (2003)*
+https://archive.org/download/Bad.Boys.II.2003.720p.BluRay.X264.YIFY/Bad.Boys.II.2003.720p.BluRay.X264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="http://www.cityonfire.com/wp-content/uploads/2010/03/movie1251.jpg" group-title="On-Demand",Battle Royale II - Requiem (2003)
+https://archive.org/download/01BattleRoyaleSpecialEdition/02%20-%20Battle%20Royale%20II%20-%20Requiem.mp4
+
+#EXTINF:-1 tvg-logo="http://de.web.img3.acsta.net/medias/nmedia/18/63/56/92/19726998.jpg" group-title="On-Demand",Honey (2003)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Kill_bill_vol_one_ver.jpg" group-title="On-Demand",Kill Bill - Vol. 1 (2003)
+https://archive.org/download/KillBill1/Kill%20Bill%201.mp4
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/soundeffects/images/a/a1/Looney_Tunes_Back_in_Action_Poster.png" group-title="On-Demand",Looney Tunes Back in Action (2003)
+https://archive.org/download/Bugs_Bunny_Collection/Looney%20Tunes%20Back%20In%20Action%20(2003)%20-%20[arsenaloyal].mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w185/qD2UFEsha1HwyM8aR5jjEshUIMv.jpg" group-title="On-Demand",Nobody Needs To Know (2003)
+https://archive.org/download/Nobody_Needs_To_Know/nobody-needs-to-know_512kb.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg" group-title="On-Demand",The Matrix Reloaded (2003) [AR-Subs]
+https://archive.org/download/failzultimate2001/The%20Matrix%20Reloaded%202003%20720p%20Bluray%20AflamHQ.CO%20Hokage%20SamA.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-matrix-revolutions.11797.jpg" group-title="On-Demand",The Matrix Revolutions (2003) [AR-Subs]
+https://archive.org/download/failzultimate2001/The%20Matrix%20Revolutions%202003%20Bluray%20720p%20AflamHQ.CO%20Hokage%20SamA.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/The_Last_Samurai.jpg" group-title="On-Demand",The Last Samurai (2003)
+https://archive.org/download/The.Last.Samurai.2003.720p.BRrip.x265.HEVC.10bit.PoOlLa/The.Last.Samurai.(2003).720p.BRrip.x265.HEVC.10bit.PoOlLa.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/die-another-day-james-bond-007.19680.jpg" group-title="On-Demand",Die Another Day (2002)
+https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Kiks.Pk]%20-%20James%20Bond%20-%20Die%20Another%20Day%20(2002).mp4
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51X113VG02L._SY445_.jpg" group-title="On-Demand",Dragon Ball Z: Fusion - Last Saiyan (2002)
+https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Godzilla_Against_Mechagodzilla_%282002%29_Japanese_theatrical_poster.jpg/220px-Godzilla_Against_Mechagodzilla_%282002%29_Japanese_theatrical_poster.jpg" group-title="On-Demand",Godzilla Against Mechagodzilla (2002)
+https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-chamber-of-secrets-2002/large_lryNn7sNkvQIg45KwgeKnMxSSRX.jpg" group-title="On-Demand",Harry Potter and the Chamber of Secrets (2002)
+https://archive.org/download/Harry.Potter.The.Ultimate.Collection.Pack.20012011.1080p.BluRay.MultiSubs.REMUXKRaLiMaRKorarbg.to/Harry%20Potter%202/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%202002%20Ultimate%20Extended%20Edition%201080p%20Blu-ray%20Multisub%20Remux%20VC-1%20DTS-HD%20MA%205.1%20-%20KRaLiMaRKo.mp4
+
+
+#EXTINF:-1 tvg-logo="http://www.moviesandgamesonline.co.uk/images/T/5055201817372.jpg" group-title="On-Demand",The Adventures of Tom Thumb and Thumbelina (2002)
+https://archive.org/download/TheAdventuresOfTomThumbThumbelina/The%20Adventures%20Of%20Tom%20Thumb%20&%20Thumbelina.mp4
+
+
+#EXTINF:-1 tvg-logo="http://media.hollywood.com/images/701x1000/7500120.jpg" group-title="On-Demand",The Powerpuff Girls Movie (2002)
+https://archive.org/download/PowerpuffGirlsMovie/The%20Powerpuff%20Girls%20Movie.mp4
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-zQka0TwnlmY/WAH74UKk4bI/AAAAAAAAsZ8/Qas_yAgLpY4zcnsf2jqxsiABIII-Oq9YQCHM/s0/47.jpg" group-title="On-Demand",Bears (2001)
+https://archive.org/download/Bears.2001.1080p.BluRay.x264/Bears.2001.1080p.BluRay.x264.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-sorcerers-stone-2001/large_uLGaJ9FgPWf7EUgwjp9RTmHemw8.jpg" group-title="On-Demand",Harry Potter and the Sorcerer's Stone (2001)
+https://archive.org/download/Harry.Potter.The.Ultimate.Collection.Pack.20012011.1080p.BluRay.MultiSubs.REMUXKRaLiMaRKorarbg.to/Harry%20Potter%201/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%202001%20Ultimate%20Extended%20Edition%201080p%20Blu-ray%20Multisub%20Remux%20VC-1%20DTS-HD%20MA%205.1%20-%20KRaLiMaRKo.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://www.impdb.org/images/f/f3/AAAprince-charming.jpg" group-title="On-Demand",Prince Charming (2001)
+https://archive.org/download/PrinceCharming2001/Prince%20Charming%202001.mp4
+
+
+#EXTINF:-1 tvg-logo="https://thatwasabitmental.files.wordpress.com/2011/01/battleroyaleposter.jpg" group-title="On-Demand",Battle Royale (2000) [EN-Subs]
+https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/gladiator.20893.jpg" group-title="On-Demand",Gladiator (2000)
+https://archive.org/download/Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY_201706/Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://www.dvdsreleasedates.com/posters/800/M/Men-of-Honor-movie-poster.jpg" group-title="On-Demand",Men of Honor (2000)
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
+
+
+#EXTINF:-1 tvg-logo="http://pelispunto.com/img/VHhnWHDMAIFSkJLqXODgkCrjWcd7AJugsJ0uWItxkJLMk2mjs2FgA2ugsJ0uWIFdAntJdKGdVZ4c6JSXDKFre6LyD64Q6JBtbCLjbC9sVnXnJuhf0n9Ke6hRhLL964LUbQ9a4fLa44ZIdfxabtTIA5U7D6vIA5T2yLFz6L3jVqzq.png" group-title="On-Demand",Picking Up The Pieces (2000)
+https://archive.org/download/PickingUpThePieces2000DVD.Rip.XviD.AC3/Picking%20Up%20the%20Pieces%282000%29DVD.Rip.XviD.AC-3.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/ShanghaiNoon_Poster.jpg/220px-ShanghaiNoon_Poster.jpg" group-title="On-Demand",Shanghai Noon (2000)
+https://archive.org/download/JackieChansShanghaiNoon2000EnglishFullMovie2013/Jackie%20Chan%27s%20Shanghai%20Noon%202000%20English%20-%20Full%20Movie%202013.mp4
+
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/simpatico-2000/large_v1glgZQZa7t1KyqA4y06fn2ChBs.jpg" group-title="On-Demand",Simpatico (2000)
+https://archive.org/download/PickingUpThePieces2000DVD.Rip.XviD.AC3/Simpatico.%5B1999%5D.DvdRip.XviD-Knã.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Thirteen_days_poster.jpg" group-title="On-Demand",Thirteen Days (2000)
+https://archive.org/download/13Dias/13Dias.mp4
+
+#EXTINF:-1 tvg-logo="http://is5.mzstatic.com/image/thumb/Video/v4/15/7a/27/157a27e9-da1d-a804-70d1-e14baf6c06d9/source/1200x630bb.jpg" group-title="On-Demand",Tweety's High Flying Adventure (2000)
+https://archive.org/download/Bugs_Bunny_Collection/Tweety%27s%20High%20Flying%20Adventure%20(2000)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/u-571-2000/large_6zdPIbSF9vxCBZpntNvishPo5ol.jpg" group-title="On-Demand",U-571 (2000)
+https://archive.org/download/U571.2000.720p.BrRip.x264.YIFY_201602/U-571.2000.720p.BrRip.x264.YIFY.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Gloria_1999_poster.jpg/220px-Gloria_1999_poster.jpg" group-title="On-Demand",Gloria (1999)
+https://archive.org/download/PickingUpThePieces2000DVD.Rip.XviD.AC3/Gloria.1999.720p.WEBRip.x264-%5BYTS.AM%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://torrentking.eu/covers/movies/82/39/0128239.jpg" group-title="On-Demand",Grey Owl (1999)
+https://archive.org/download/GreyOwl1999PierceBrosnan/Grey%20Owl%20(1999)%20Pierce%20Brosnan.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/pokmon-the-movie-2000-pokmon-the-power-of-one.20955.jpg" group-title="On-Demand",Pokemon: The Movie 2000 (1999)
+https://archive.org/download/PokemonMovie2000WGN10222006/Pokemon%20the%20Movie%202000%20WGN%2010.22.06.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="On-Demand",The Devil's Feast (1999)
+https://archive.org/download/The_Devils_Feast/the_devils_feast_512kb.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Bone_collector_poster.jpg" group-title="On-Demand",The Bone Collector (1999)*
+https://archive.org/download/The.Bone.Collector.1999.1080p.BrRip.x264.YIFY/The.Bone.Collector.1999.1080p.BrRip.x264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2013/01/Matrix-poster-2-365x500.jpg" group-title="On-Demand",The Matrix (1999) [Ar Subs]
+https://archive.org/download/failzultimate2001/The%20Matrix%201999%20720p%20BluRay%20%20AflamHQ.CO%20Hokage%20SamA.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-world-is-not-enough-1999/large_tCarTEKvXjALk87r3wAxB4jb1ON.jpg" group-title="On-Demand",The World Is Not Enough (1999)
+https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Kiks.Pk]%20-%20James%20Bond%20-%20The%20World%20Is%20Not%20Enough%20(1999).mp4
+
+
+
+EXTINF:-1 tvg-logo="https://www.cinemaclock.com/html/images/posters/1000x1500/7/cousin-bette-1998-i-movie-poster.jpg" group-title="On-Demand",Cousin Bette (1998)
+https://archive.org/download/CousinBette1998DVDRipiwanttobelieveinaj/Cousin%20Bette%20%281998%29%20DVDRip%20%5Biwanttobelieveinaj%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://alycatgeekery.files.wordpress.com/2016/07/dark-city.jpg" group-title="On-Demand",Dark City (1998)
+https://archive.org/download/Dark_City/Dark.City.1998.720.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/28/3e/74283e0ebca2dfca4ab33d2e9a460246.jpg" group-title="On-Demand",Pokemon: The First Movie (1998)
+https://archive.org/download/PKMNFirstMovie1080i/Pokemon.The.First.Movie.Mewtwo.Strikes.Back.1999.1080i.HDTV.MPEG2-NOGRP.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Scooby-doo-on-zombie-island.jpg/220px-Scooby-doo-on-zombie-island.jpg" group-title="On-Demand",Scooby-Doo on Zombie Island (1998)
+https://archive.org/download/ScoobyDooOnZombieIslandPart2FullLegth/Scooby%20Doo%20on%20Zombie%20Island%20Part%202%20full%20legth.mp4
+
+#EXTINF:-1 tvg-logo="https://pxhst.co/avaxhome/bf/a9/002ea9bf.jpeg" group-title="On-Demand",Small Soldiers (1998)
+https://archive.org/download/SmallSoldiers19981080pHevcVeronesiumbServerEncoding/Small%20Soldiers%20%281998%29%201080p%20Hevc%20%28Veronesiumb%20%20Server%20Encoding%29.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Spheremovieposter.jpg/220px-Spheremovieposter.jpg" group-title="On-Demand",Sphere (1998)
+https://archive.org/download/PickingUpThePieces2000DVD.Rip.XviD.AC3/Sphere%5B1998%5DDvDrip%5BEng%5D-prithwi.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/The_Patriot.jpg" group-title="On-Demand",The Patriot (1998)
+https://archive.org/download/StevenSeagalThePatriotFullMovie/Steven%20Seagal%20The%20Patriot%20full%20movie.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/kNeief6j0h9bZBEUPpGnTdE3rOL.jpg" group-title="On-Demand",Absolute Power (1997)
+https://archive.org/download/Absolute.Power.1997.720p.BluRay.H264.AACRARBG_201706/Absolute.Power.1997.720p.BluRay.H264.AAC-RARBG.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Air_Force_One_%28movie_poster%29.jpg" group-title="On-Demand",Air Force One (1997)
+https://archive.org/download/Air.Force.One.1997.1080p.BRrip.x264.YIFY_201708/Air.Force.One.1997.1080p.BRrip.x264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Gataca_Movie_Poster_B.jpg/220px-Gataca_Movie_Poster_B.jpg" group-title="On-Demand",Gattaca (1997)
+https://archive.org/download/Gattaca/Gattaca.1997.1080p.BrRip.x264.bitloks.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/1179468.jpg" group-title="On-Demand",G.I. Jane (1997)
+https://archive.org/download/DemiMooreIsG.I.JANEFullMovie720P/Demi%20Moore%20Is%20G.I.%20JANE%20(Full%20Movie)%20720P.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Mothra2poster.jpg/220px-Mothra2poster.jpg" group-title="On-Demand",Rebirth of Mothra II (1997)
+https://archive.org/download/RebirthOfMothraII/Rebirth%20Of%20Mothra%20II.mp4
+
+#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/scream-2-movie-poster-1997-1010343859.jpg" group-title="On-Demand",Scream 2 (1997)
+https://archive.org/download/Scream21997.720p.BrRip.x264.YIFY/Scream%202%201997.720p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="http://images4.static-bluray.com/products/20/20214_1_large.jpg" group-title="On-Demand",Solomon (1997)
+https://archive.org/download/KingSolomonFullMovie/King%20Solomon%20_Full%20Movie.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2e/eb/84/2eeb84cb6e4a792b10f87f8fc48b3cfa.jpg" group-title="On-Demand",Starship Troopers (1997)
+https://archive.org/download/jigaboojigaboowhereareyou/Starship%20Troopers.mp4
+
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-fifth-element-1997/large_yph0ZQC0I56CzQANxEMxj3x78gb.jpg" group-title="On-Demand",The Fifth Element (1997)
+https://archive.org/download/TheFifthElement_201405/The%20Fifth%20Element.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/LBT_MI.JPG/220px-LBT_MI.JPG" group-title="On-Demand",The Land Before Time V - The Mysterious Island (1997)
+https://archive.org/download/TheLandBeforeTimeVTheMysteriousIsland/The%20Land%20Before%20Time%20V%20The%20Mysterious%20Island.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/tomorrow-never-dies-1997/large_jU6Asud07CFqUBJFjzT0Q4GAM6a.jpg" group-title="On-Demand",Tomorrow Never Dies (1997)
+https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Kiks.Pk]%20-%20James%20Bond%20-%20Tomorrow%20Never%20Dies%20(1997).mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Rebirthofmothraposter.jpg/220px-Rebirthofmothraposter.jpg" group-title="On-Demand",Rebirth of Mothra (1996)
+https://archive.org/download/RebirthOfMothra/Rebirth%20Of%20Mothra.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51VVHY1NRFL._SY300_.jpg" group-title="On-Demand",Shaughnessy - The Iron Marshal (1996)
+https://archive.org/download/Shaughnessy1996/Shaughnessy%20(1996).mp4
+
+#EXTINF:-1 tvg-logo="https://billysteele60.files.wordpress.com/2015/08/space_jam_ver10_xxlg.jpg" group-title="On-Demand",Space Jam (1996)
+https://archive.org/download/Bugs_Bunny_Collection/Space%20Jam%20(Bg%20Audio)%20(1996)%20-%20[arsenaloyal].mp4
+
+
+#EXTINF:-1 tvg-logo="https://yts.ag/assets/images/movies/Casper_1995/medium-cover.jpg" group-title="On-Demand",Casper (1995)
+https://archive.org/download/Casper1995/Casper%20(1995).mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Gamera_Theatrical_Poster.jpg/220px-Gamera_Theatrical_Poster.jpg" group-title="On-Demand",Gamera: Guardian of the Universe (1995)
+https://archive.org/download/GameraTheGuardianOfTheUniverse/Gamera%20-%20The%20Guardian%20Of%20The%20Universe.mp4
+
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/4a/35/644a35049b4f15600f3aa6ec31688e7c.jpg" group-title="On-Demand",Golden Eye* (1995)
+https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Kiks.Pk]%20-%20James%20Bond%20-%20Golden%20Eye%20(1995).mp4
+
+
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/judgedredd/images/f/ff/02_judge_dredd.jpg" group-title="On-Demand",Judge Dredd (1995)
+https://archive.org/download/JudgeDreddSylvesterStalloneFullMovie/Judge%20Dredd%20-%20Sylvester%20Stallone%20-%20full%20movie.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/jumanji-1995/large_vzmL6fP7aPKNKPRTFnZmiUfciyV.jpg" group-title="On-Demand",Jumanji (1995)*
+https://archive.org/download/Jumanji.1995.720p.BrRip.x264.YIFY/Jumanji.1995.720p.BrRip.x264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="http://www.schnittberichte.com/pics/SBs/200/617904/e_cover.jpg" group-title="On-Demand",Rumble in the Bronx (1995)
+https://archive.org/download/JackieChanRumbleInTheBronxFullMovieEnglishHD/Jackie%20Chan%20-%20Rumble%20in%20the%20Bronx%20[Full%20Movie%20English]%20HD.mp4
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/theodore-rex-1.jpg" group-title="On-Demand",Theodore Rex (1995)
+https://archive.org/download/Theodore_Rex_1995_Full_Movie/Theodore_Rex_1995_Full_Movie-Uns80N3aF34.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/The_American_President_%28movie_poster%29.jpg" group-title="On-Demand",The American President (1995)
+https://archive.org/download/TheAmericanPresident/The%20American%20President.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/The-Quick-And-The-Dead-Poster.jpg/220px-The-Quick-And-The-Dead-Poster.jpg" group-title="On-Demand",The Quick and the Dead (1995)
+https://archive.org/download/PickingUpThePieces2000DVD.Rip.XviD.AC3/The.Quick.And.The.Dead.1995.720p.BrRip.264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/babys-day-out.18238.jpg" group-title="On-Demand",Baby's Day Out (1994)
+https://archive.org/download/BabysDayOut1994FullMovieDVD/Baby%27s%20Day%20Out%20(1994)%20full%20movie%20(DVD).mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TheLandBeforeTime_II_DVDcover.png/220px-TheLandBeforeTime_II_DVDcover.png" group-title="On-Demand",The Land Before Time II - The Great Valley Adventure (1994)
+https://archive.org/download/TheLandBeforeTimeIITheGreatValleyAdventure/The%20Land%20Before%20Time%20II%20The%20Great%20Valley%20Adventure.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-shawshank-redemption.18663.jpg" group-title="On-Demand",The Shawshank Redemption (1994)
+https://archive.org/download/The.Shawshank.Redemption.1994.1080p.BluRay.H264.AACRARBG/The.Shawshank.Redemption.1994.1080p.BluRay.H264.AAC-RARBG.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51TB4OjG7YL.jpg" group-title="On-Demand",The Vernon Johns Story (1994)
+https://archive.org/download/TheVernonJohnsStory1994FullMovie/The%20Vernon%20Johns%20Story%20(1994%20Full%20Movie).mp4
+
+#EXTINF:-1 tvg-logo="http://www.universal.org.ar/site/wp-content/uploads/2012/08/peliabraham.jpg" group-title="On-Demand",Abraham (1993)
+https://archive.org/download/AbrahamFullMovie/Abraham%20Full%20Movie.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Sister_Act_2_Back_in_the_Habit_film_poster.jpg" group-title="On-Demand",Sister Act 2: Back in the Habit (1993)
+https://archive.org/download/Sister.Act.2.Back.in.the.Habit.1993.720p.BluRay.x264.YIFY/Sister.Act.2_.Back.in.the.Habit.1993.720p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Poster_of_the_movie_Street_Knight.jpg" group-title="On-Demand",Street Knight (1993)
+https://archive.org/download/StreetKnightActionAdventureUSAFullMovieInEnglish/Street%20Knight%20(Action%2CAdventure%2CUSA)%20Full%20Movie%20in%20English.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Sister_Act_film_poster.jpg" group-title="On-Demand",Sister Act (1992)
+https://archive.org/download/Sister.Act.1992.720p.BluRay.x264.YIFY/Sister.Act.1992.720p.BluRay.x264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="http://www.digitalmonsterisland.com/g_and_mothra_universe_front.jpg" group-title="On-Demand",Godzilla and Mothra: The Battle for Earth (1992)
+https://archive.org/download/GodzillaAndMothraTheBattleForEarth/Godzilla%20And%20Mothra%20The%20Battle%20For%20Earth.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/twin-dragons-double-dragon-brother-vs-brother-shuang-long-wui.26100.jpg" group-title="On-Demand",Twin Dragons (1992)
+https://archive.org/download/JackieChanTwinDragonsEnglishFullMovie/Jackie%20Chan-%20Twin%20Dragons%20-%20English%20Full%20Movie.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/1b/ea/82/1bea82f534f09b6abb9e39457b6442a1--christian-movies-family-movies.jpg" group-title="On-Demand",Where the Red Fern Grows 2 - The Homecoming (1992)
+https://archive.org/download/WhereTheRedFernGrows1974FullMovie/Where%20the%20Red%20Fern%20Grows%202%20The%20Homecoming%20(1992%20Full%20Movie).mp4
+
+
+#EXTINF:-1 tvg-logo="http://onceuponatimeinawestern.com/wp-content/uploads/2015/11/Conagher-1991-DVD-cover-325.jpg" group-title="On-Demand",Conagher (1991)
+https://archive.org/download/Conagher1991SamElliottKatharineRossBarryCorbinFullLengthWesternMovie/Conagher%201991%20Sam%20Elliott%20%20Katharine%20Ross%20%20Barry%20Corbin%20Full%20Length%20Western%20Movie.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/DyingYoungMP.jpg/220px-DyingYoungMP.jpg" group-title="On-Demand",Dying Young (1991)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Scelta%20D.Amore%20-%20Dying%20Young%20%281991%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/jfk-1991.65254.jpg" group-title="On-Demand",JFK (1991)
+https://archive.org/download/JFK.1991.720p.DC.x264.AAC720p.YIFY/JFK.1991.720p.DC.x264.AAC720p.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="https://thishouseishaunted.files.wordpress.com/2015/06/the-silence-of-the-lambs.jpg" group-title="On-Demand",The Silence of the Lambs (1991)
+https://archive.org/download/The.Silence.Of.The.Lambs.1991.1080p.BluRay.X264.YIFY/The.Silence.Of.The.Lambs.1991.1080p.BluRay.X264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JDUO0Y8.jpg" group-title="On-Demand",A Mom For Christmas (1990)
+https://archive.org/download/AMomForChristmasFULLMOVIE/A%20Mom%20For%20Christmas%20FULL%20MOVIE.mp4
+
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/dances-with-wolves-1990/large_hpmclspug1I8EwKSWhL7pWWltA.jpg" group-title="On-Demand",Dances with Wolves (1990)
+https://archive.org/download/Dances.with.Wolves.DC.1990.1080p.x264.BrRip.YIFY/Dances.with.Wolves.DC.1990.1080p.x264.BrRip.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/95/f5/ab/95f5ab9aaab5b15b61165ec01500a772--home-alone-movie-alone-movies.jpg" group-title="On-Demand",Home Alone (1990)*
+https://archive.org/download/Home.Alone.1990.720p.BluRay.x264.YIFY/Home.Alone.1990.720p.BluRay.x264.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/fc/51/29/fc51294fcaab24799b4e9c81bb89b3ec.jpg" group-title="On-Demand",Lionheart (1990)
+https://archive.org/download/Lionheart1990VanDammeFullRatedRVersion1080p/Lionheart%20[1990_Van%20Damme]%20-%20full%20rated%20R%20version%201080p.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-godfather-part-iii-1990/large_uzaP0L7BEprcJHCuwbaHiYT0UYX.jpg" group-title="On-Demand",The Godfather: Part III (1990)*
+https://archive.org/download/TheGodfather1972_201804/vm44.The.Godfather.Part.III.1990.720p.BluRay.cima4u.tv.mkv.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://image-ticketfly.imgix.net/00/01/59/13/89-og.jpg" group-title="On-Demand",Total Recall (1990)
+https://archive.org/download/PickingUpThePieces2000DVD.Rip.XviD.AC3/Total.Recall.1990.BluRay.720p.x264.YIFY.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://ilarge.listal.com/image/30543/936full-erik-the-viking-poster.jpg" group-title="On-Demand",Erik The Viking (1989)
+https://archive.org/download/ErikTheVikingMoviefull/Erik%20The%20Viking%20Movie%20(full).mp4
+
+#EXTINF:-1 tvg-logo="http://www.truechristianity.info/img/films/francesco_1989_cover.jpg" group-title="On-Demand",Francesco (1989)
+https://archive.org/download/Francesco1989_466/Francesco-1989-Clip_512kb.mp4
+
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/licence-to-kill-1989/large_4lpfRGW7dCqlco2n6wqptyFAz4V.jpg" group-title="On-Demand",Licence To Kill (1989)
+https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Kiks.Pk]%20-%20James%20Bond%20-%20Licence%20To%20Kill%20(1989).mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/AKIRA_%281988_poster%29.jpg/220px-AKIRA_%281988_poster%29.jpg" group-title="On-Demand",Akira (1988)
+https://archive.org/download/AKIRA_201403/AKIRA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d5/0b/89/d50b89f1530c3018754bf77fa8d2ad4c.jpg" group-title="On-Demand",Beetlejuice (1988)
+https://archive.org/download/Beetlejuice_201805/Beetlejuice.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/braddock-missing-in-action-iii.19237.jpg" group-title="On-Demand",Braddock - Missing in Action III (1988)
+https://archive.org/download/MissingInAction3198788/Missing%20in%20Action%203%2C%20(1987_%2788).mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/black-eagle.35960.jpg" group-title="On-Demand",Black Eagle (1988)
+https://archive.org/download/BlackEagle1988FullMovieEnglishJeanClaudeVanDamme/Black%20Eagle%201988%20Full%20movie%20English%20Jean%20Claude%20Van%20Damme.mp4
+
+
+#EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/70120998.jpg" group-title="On-Demand",Daffy Duck's Quackbusters (1988)
+https://archive.org/download/Bugs_Bunny_Collection/Daffy%20Duck%27s%20Quackbusters%20(1988)%20BG%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Killer_Klowns_from_Outer_Space_%281988%29_poster.jpg" group-title="On-Demand",Killer Klowns from Outer Space (1988)
+https://archive.org/download/KillerKlownsFromOuterSpace/Killer%20Klowns%20From%20Outer%20Space.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/1988They_Live_poster300.jpg" group-title="On-Demand",They Live (1988)
+https://archive.org/download/TheyLive_201803/They%20Live.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://fullmoonstreaming.com/m/r/image/dHlwZT0yODgmY29udGVudElkPVltRnVibVZ5SXpnek9RLi4mc3Vic2NyaWJlcklkPTBfYzJsMFpVbGtQVEkuJnNpdGVJZD0y/IU9eVpBzm1WFvU_848xI0A../img8f7d807e.jpg" group-title="On-Demand",Creepozoids (1987)
+https://archive.org/download/13561MBCreepozoids/%2313%40%7B%7B%7B561MB%7D%7D%7DCreepozoids.mp4
+
+
+#EXTINF:-1 tvg-logo="http://images.moviepostershop.com/escape-from-sobibor-tv-movie-poster-1987-1020469008.jpg" group-title="On-Demand",Escape From Sobibor (1987)
+https://archive.org/download/Escape_From_Sobibor.avi/Escape_from_Sobibor_512kb.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91UQV7fCIyL._SY445_.jpg" group-title="On-Demand",Harry and the Hendersons (1987)
+https://archive.org/download/HarryAndTheHendersons/Harry%20and%20the%20Hendersons.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Predator_Movie.jpg/220px-Predator_Movie.jpg" group-title="On-Demand",Predator (1987)
+https://archive.org/download/DragonsOrDinosaursAndCreationOrEvolution/Predator.1987.BrRip.720p.mp4
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/cobra_nero-284208881-large.jpg" group-title="On-Demand",The Black Cobra (1987)
+https://archive.org/download/BlackCobra_133/BlackCobra.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/The_Curse_%281987_film%29.jpg/220px-The_Curse_%281987_film%29.jpg" group-title="On-Demand",The Curse (1987)
+https://archive.org/download/0124YubeZZZXZ699mbtheCurse/01%2324___yubeZZZXZ%5B699mb%5Dthe_curse-.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-living-daylights-1987/large_cBk0TKOc64iR5TDi1k5bWAZwbhz.jpg" group-title="On-Demand",The Living Daylights (1987)
+https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Kiks.Pk]%20-%20James%20Bond%20-%20The%20Living%20Daylights%20(1987).mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51sGWTK5z-L.jpg" group-title="On-Demand",The Lost Boys (1987)
+https://archive.org/download/LostBoys_201503/Lost%20Boys.mp4
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51GoSO4oI0L.jpg" group-title="On-Demand",Blue Velvet (1986)
+https://archive.org/download/BlueVelvet1986VOSE/Blue%20Velvet%20%281986%29%20%28VOSE%29.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ABQRBR9GL.jpg" group-title="On-Demand",Gone to Texas (1986)
+https://archive.org/download/HoustonTheLegendOfTexas1986/Houston_%20The%20Legend%20of%20Texas%20(1986).mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/solarbabies-1986/large_wZgFOuDMQ1ZDjPPYwCvztKuPGrr.jpg" group-title="On-Demand",Solarbabies (1986)
+https://archive.org/download/Solarbabies.1986.720p.BluRay.x264.YIFY/Solarbabies.1986.720p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gfuN1TU.jpg" group-title="On-Demand",The Adventures of the American Rabbit (1986)
+https://archive.org/download/TheAdventuresOfTheAmericanRabbitfullMovie/The%20Adventures%20of%20the%20American%20Rabbit%20(full%20movie).mp4
 
 
 
