@@ -1,5 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 
+#EXTINF:0 type="playlist", test
+#EXTSIZE: Medium
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/us.m3u
+
+
 #EXTINF:-1 tvg-id="" tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Shopping",OFC Mercari
 https://www.dropbox.com/s/taob3gdg1ciioja/mercari.mp4?dl=1
 
