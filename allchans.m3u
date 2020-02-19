@@ -736,11 +736,14 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",452 Soar (Stirr) (NEW)
 https://dai.google.com/linear/hls/pa/event/_PDxBUttQYqkxPnmh3VOZA/stream/c42992f8-5ecc-4361-a124-db1459b45380:MRN/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-one-01-logo-png-transparent.png" group-title="Test TV",BBC1 - Test
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Test TV",BBC1 - Test
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="Test TV",BBC2 - Test
+https://fathomless-cliffs-85079.herokuapp.com/http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v4a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="Test TV",BBC3 - Test
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
 
 
 
