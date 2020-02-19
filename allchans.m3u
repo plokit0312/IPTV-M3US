@@ -4382,8 +4382,6 @@ https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8?thebestf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/05/28/SuperJail.png" group-title="Adult",Super Jail!
 https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg" group-title="Stream 24/7",24/7 Big Buck Bunny
-http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="Kids", CBBC
 https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
@@ -4855,10 +4853,10 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
 
 #EXTINF:-1 tvg-id="Mr Bean Cartoon World 24/7" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rVmyZ-1achI/maxresdefault.jpg" group-title="Kids",Mr Bean Cartoon World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582071144/ei/CClMXvCrBZWB4AHvva-ABA/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/gXARGZF1Wp4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgMiRZwPgw4EGRgJMV8sAlF58_LUuBrEFjg2Y6qTXVFs8CIHpZfHxz5KOEpEZGvtDuddokVSDiiGpEZlYC71PGIe_E/file/index.m3u8
+https://youtu.be/gXARGZF1Wp4
 
 #EXTINF:-1 tvg-id="Mr Bean Cartoon World 24/7" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rVmyZ-1achI/maxresdefault.jpg" group-title="Stream 24/7",Mr Bean Cartoon World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582071144/ei/CClMXvCrBZWB4AHvva-ABA/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/gXARGZF1Wp4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgMiRZwPgw4EGRgJMV8sAlF58_LUuBrEFjg2Y6qTXVFs8CIHpZfHxz5KOEpEZGvtDuddokVSDiiGpEZlYC71PGIe_E/file/index.m3u8
+https://youtu.be/gXARGZF1Wp4
 
 #EXTINF:-1 tvg-id="Booba 24/7" tvg-name="" tvg-logo="https://monsterent.s3.amazonaws.com/wp-content/uploads/2018/01/71KnxypH2CL._RI_.jpg" group-title="Kids",Booba
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582067645/ei/XRtMXoWWAcaeir4PgbCEuAM/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/QougB4t6TWU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgeIukRdjze6_jBClCIY3nEDWQkT1stLQ9x_vduDESnxoCIAiaARNO9NrgE-NMot_HfxB8qPNq5MSZgu82f7D_oX-X/file/index.m3u
@@ -8503,9 +8501,6 @@ https://streamango.com/v/d/qoebbafecmqkmetn~1539017721~2606:a000::~DLycfhmn/544
 
 #EXTINF:-1 tvg-logo="http://www.joblo.com/assets/images/oldsite/posters/images/full/1983-spacehunter-adventures-in-the-forbidden-zone-poster2.jpg" group-title="On-Demand",Spacehunter: Adventures in the Forbidden Zone (1983)
 https://archive.org/download/SpacehunterOldSciFiFilm/spacehunter%20%3D%20old%20sci%20fi%20film.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/star-wars-episode-vi--return-of-the-jedi.13947.jpg" group-title="On-Demand",Star Wars: Episode VI - Return of the Jedi (1983)
-http://www.deadlyblogger.com/NewRelease/starwarsvi.mp4
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iWHDwz/images_57.jpg" group-title="On-Demand",Halloween III: Season of the Witch (1982)
 https://maincache.streamlive.to/d1/Halloween.III.Season.of.The.Witch.1982.mp4?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDE4IDExOjA2OjUxIEFNJmhhc2hfdmFsdWU9c1pPZVl6U0FGZEs1cXpPby9QQkZWUT09JnZhbGlkbWludXRlcz0xMDAmc3RybV9sZW49NDQmaWQ9NTM3MzI=
