@@ -829,11 +829,11 @@ https://peer4.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 
 
 
-#EXTINF:0 tvg-name="i24 News" tvg-language="English" tvg-country="US" tvg-id="i24 News" tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png" group-title="News",i24 News (News) (US) (English)
+#EXTINF:0  tvg-id="i24News.en.nws" tvg-language="English" tvg-country="US" tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png" group-title="News",i24 News (News) (US) (English)
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
 
-#EXTINF:0 tvg-name="24 News" tvg-language="English" tvg-country="FR" tvg-id="24 News" tvg-logo="http://i.imgur.com/VvA12Zz.jpg" group-title="News",24 News (News) (FR) (French)
+#EXTINF:0 tvg-name="24 News" tvg-language="English" tvg-country="FR" tvg-id="news24" tvg-logo="http://i.imgur.com/VvA12Zz.jpg" group-title="News",24 News (News) (FR) (French)
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 
 #EXTINF:0 tvg-name="ABP Asmita" tvg-language="English" tvg-country="IN" tvg-id="ABP Asmita" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita (News) (IN) (Gujarati)
@@ -920,9 +920,6 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.
 #EXTINF:0 tvg-name="Euronews" tvg-language="English" tvg-country="FR" tvg-id="Euronews" tvg-logo="http://i.imgur.com/AwsiToL.jpg" group-title="News",Euronews (News) (FR) (French)
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
 
-#EXTINF:0 tvg-name="FRANCE I24 NEWS" tvg-language="English" tvg-country="FR" tvg-id="FRANCE I24 NEWS" tvg-logo="http://i.imgur.com/DV93tLJ.png" group-title="News",FRANCE I24 NEWS (News) (FR) (French)
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
-
 #EXTINF:0 tvg-name="France 24" tvg-language="English" tvg-country="FR" tvg-id="France 24" tvg-logo="http://www.ecfr.eu/page/-/France_24.png?v=1440585546204" group-title="News",France 24 (News) (FR) (Arabic)
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 
@@ -994,9 +991,6 @@ http://367449830.r.cdnsun.net/367449830/_definst_/tv9tel/chunklist_w1425689478.m
 
 #EXTINF:0 tvg-name="V Tele" tvg-language="English" tvg-country="CA" tvg-id="V Tele" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo3UJ7CJFICZiRkFPb3-z0utidU4luCXVU5G12Dbe-xpGtGNfCWIKDgg" group-title="News",V Tele (News) (CA) (French)
 rtmp://cp101680.live.edgefcs.net/live/livev_2@50832
-
-#EXTINF:0 tvg-name="i24 News Arabia" tvg-language="English" tvg-country="SA" tvg-id="i24 News Arabia" tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo-print.png" group-title="News",i24 News Arabia (News) (SA) (Arabic)
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 
 #EXTINF:0 tvg-name="Harvest TV USA" tvg-language="English" tvg-country="IN" tvg-id="Harvest TV USA" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/channel_logos_new/harvest_usa.png" group-title="Documentary",Harvest TV USA (Documentary) (IN) (Malayalam)
 http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
@@ -5109,9 +5103,6 @@ http://45.126.83.51/qwr9ew/s/s15/index.m3u8
  
 #EXTINF:-1 tvg-id="610" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
- 
-#EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="News",i24 News
-https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
  
 #EXTINF:-1 tvg-id="612" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="News",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
