@@ -4854,7 +4854,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/WG2MP.xml" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cartoon-network-269x151.png" group-title="English Channels",Cartoon Network
 http://docs-2.gogleusercontent.host/live/ctnw/chunks.m3u8|Referer=http://123tvnow.com/watch/cartoon-network/
 
-#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="English Channels",CBN News
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="News",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbsn-269x151.jpg" group-title="News",CBS News (CBSN)
@@ -4869,7 +4869,7 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnbc-269x149.png" group-title="English Channels",CNBC
 http://docs-7.gogleusercontent.host/live/cnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/cnbc-2/
 
-#EXTINF:-1 tvg-id="CNN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" tvg-country="USA" tvg-name="CNN" group-title="News",CNN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" tvg-id="CNN" tvg-name="CNN" group-title="News",CNN
 http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
 
 #EXTINF:-1 tvg-id="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/WG2MP.xml" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" group-title="English Channels",CW
