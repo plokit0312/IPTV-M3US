@@ -1,4 +1,4 @@
-#EXTM3U size="medium"
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",1 Stirr National Feed
 https://playoutengine.sinclairstoryline.com/playout/74594c4d-49cd-416c-8ecd-a01f77d7b0b3.m3u8
