@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
-#EXTINF:0 tvg-id="avi" group-title="Shopping",OFC Mercari
+#EXTINF:0 tvg-id="avi" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" group-title="Shopping",OFC Mercari
 https://www.dropbox.com/s/taob3gdg1ciioja/mercari.mp4?dl=1
 
-#EXTINF:0 tvg-id="CNN.us" group-title="News",CNN
+#EXTINF:0 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png"  group-title="News",CNN
 http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
 #EXTINF:0 tvg-id="i24News.en.nws" group-title="News",i24 News (News) (US) (English)
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
@@ -36,7 +36,7 @@ http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/index.m3u8?videoI
 rtmp://edgenew.z1on.com:1935/1700/3125/3125-hotmedia.sdp
 #EXTINF:0 tvg-id="ext" group-title="News",Berita Satu HD Indonesia (News) (ID) (Indonesian)
 http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_720_av-p.m3u8
-#EXTINF:0 tvg-id="BloombergTV.us" group-title="News",Bloomberg TV (News) (IN) (English)
+#EXTINF:0 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="Business",Bloomberg TV
 http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",CEM Tv (News) (TR) (Turkish)
 rtmp://stream.pivol.com:1935/live/cemtv
