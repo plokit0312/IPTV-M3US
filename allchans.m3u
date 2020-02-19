@@ -749,6 +749,12 @@ https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
 
 
 
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-logo="https://i1.hdslb.com/bfs/archive/451e0ae75e45903f5ae7123085e0160523a0e23b.jpg" group-title="Test TV",CCTV-1 综合
+https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-logo="https://p1.img.cctvpic.com/fmspic/vms/image/1557472318535.jpg" group-title="Test TV",CCTV-2 财经
+https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
+
 
 
 
