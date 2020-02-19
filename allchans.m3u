@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Shopping",OFC Mercari
+#EXTINF:-1 tvg-id="" tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Shopping",OFC Mercari
 https://www.dropbox.com/s/taob3gdg1ciioja/mercari.mp4?dl=1
 
 
@@ -1019,50 +1019,50 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_500
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/219px-WWE_Logo.svg.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Sports",WWE
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/219px-WWE_Logo.svg.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Sports",WWE
 https://peer2.ustv.to/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MjI6MjIgUE0maGFzaF92YWx1ZT1oNmlGcTM5Yjkyd1k2cUExcFdlRkpnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark Channel" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Hallmark Channel
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Channel" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Hallmark Channel
 https://peer2.ustv.to/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDg6NTkgUE0maGFzaF92YWx1ZT15WjIrODkyUytxS0hiaW9DNUZFQlFRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Science" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/320/1x/cbbc/science-logo-final_alt7.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Science
+#EXTINF:-1 tvg-id="" tvg-name="Science" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/320/1x/cbbc/science-logo-final_alt7.png" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Science
 https://peer1.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6Mjg6MzcgUE0maGFzaF92YWx1ZT14NU51eHV1VndTTkltNlUvRitMRStRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-logo="https://banner2.cleanpng.com/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",CBS
+#EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-logo="https://banner2.cleanpng.com/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",CBS
 https://peer3.ustv.to/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQ2OjIxIFBNJmhhc2hfdmFsdWU9cDE5dVpvT2xEOUdMYUR0Q2hnM0Z6dz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=',
 
-#EXTINF:-1 tvg-id="" tvg-name="NBC" tvg-logo="https://pmcvariety.files.wordpress.com/2014/06/nbc-logo-2.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",NBC
+#EXTINF:-1 tvg-id="" tvg-name="NBC" tvg-logo="https://pmcvariety.files.wordpress.com/2014/06/nbc-logo-2.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",NBC
 https://peer1.ustv.to/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQzOjAyIFBNJmhhc2hfdmFsdWU9SjI1QjJKNHI4c0VsbXVybHdMMEVZZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
-#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2017/05/abc.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",ABC
+#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2017/05/abc.png" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",ABC
 https://peer5.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQ0OjMxIFBNJmhhc2hfdmFsdWU9dEo1RzFpMVZlV2lJa3lpVHJVaE1EQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Fox
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Fox
 https://peer5.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQwOjU0IFBNJmhhc2hfdmFsdWU9SHlNaEFHNFFWMmd4dkZsUHZ6dU0rQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://pmcvariety.files.wordpress.com/2019/08/e-logo.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",E!
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://pmcvariety.files.wordpress.com/2019/08/e-logo.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",E!
 https://peer5.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzM6MzAgUE0maGFzaF92YWx1ZT1OalVsWGYycVpJTDk1TG5pSmRpY1Z3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Game Show Network - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" tvg-chno="" channel-id="Game Show Network - East" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Game Show Network - East
+#EXTINF:-1 tvg-id="" tvg-name="Game Show Network - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" tvg-chno="" channel-id="Game Show Network - East" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Game Show Network - East
 https://peer1.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzQ6MDggUE0maGFzaF92YWx1ZT16NDhJSFhRbk5PcGNqNDEvNXJrNHVRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="DIY" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",DIY
+#EXTINF:-1 tvg-id="" tvg-name="DIY" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",DIY
 https://peer1.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzU6NDAgUE0maGFzaF92YWx1ZT1PdUVzRTQ0RFQrYmNrZ0FCcm00VmFRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267679_lifetime-hd.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Lifetime
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267679_lifetime-hd.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Lifetime
 https://peer2.ustv.to/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDM6NTggUE0maGFzaF92YWx1ZT1Lcm5wekVQTm9ESmw4UzlqSURPNTZBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/20181111/rs_600x600-181211125229-600-food-network-stars.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Food Network
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/20181111/rs_600x600-181211125229-600-food-network-stars.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Food Network
 https://peer1.ustv.to/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDU6MzYgUE0maGFzaF92YWx1ZT1ZMGZlZFZnMWRmYzNvSkQrTkFJNFVRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Paramount
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Paramount
 https://peer1.ustv.to/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDA6MzcgUE0maGFzaF92YWx1ZT1ZQzVnSU5vVUI3cGdMeXBuYnF3cWNBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",HBO HD
 https://peer4.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDI6MjUgUE0maGFzaF92YWx1ZT1HSElidmFsS3czUkh5OHlLV2c4RDd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
@@ -1078,7 +1078,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 #EXTINF:0 tvg-name="ABP Asmita" tvg-language="English" tvg-country="IN" tvg-id="ABP Asmita" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita (News) (IN) (Gujarati)
 http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
 
-#EXTINF:0 tvg-name="ABP News" tvg-language="English" tvg-country="IN" tvg-id="ABP News" tvg-logo="http://a3.mzstatic.com/us/r30/Purple5/v4/2b/fc/2a/2bfc2a1c-1c9d-cdd4-4158-3253f0184560/icon175x175.png" group-title="News",ABP News (News) (IN) (Hindi)
+#EXTINF:0 tvg-name="ABP News" tvg-language="English" tvg-id="ABPNews.uk" tvg-logo="http://a3.mzstatic.com/us/r30/Purple5/v4/2b/fc/2a/2bfc2a1c-1c9d-cdd4-4158-3253f0184560/icon175x175.png" group-title="News",ABP News (News) (IN) (Hindi)
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
 #EXTINF:0 tvg-name="AFRICABLE" tvg-language="English" tvg-country="CF/CG" tvg-id="AFRICABLE" tvg-logo="http://i.imgur.com/3W72VtI.jpg" group-title="News",AFRICABLE (News) (CF/CG) (French)
@@ -1096,7 +1096,7 @@ https://livestream-f.akamaihd.net/i/13995833_4198957_lsiggfmm7y60iq2i7st_1@44716
 #EXTINF:0 tvg-name="Al Baghdadia 2" tvg-language="English" tvg-country="IQ" tvg-id="Al Baghdadia 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_baghdadia.jpg" group-title="News",Al Baghdadia 2 (News) (IQ) (Arabic)
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 
-#EXTINF:0 tvg-name="Al Jazeera" tvg-language="English" tvg-country="QA" tvg-id="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/477px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera (News) (QA) (Arabic)
+#EXTINF:0 tvg-name="Al Jazeera" tvg-language="English" tvg-country="QA" tvg-id="AlJazeera.nws" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/477px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera (News) (QA) (Arabic)
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 
 #EXTINF:0 tvg-name="Assemble Nationale" tvg-language="English" tvg-country="CA" tvg-id="Assemble Nationale" tvg-logo="http://i.imgur.com/gn9PJHk.png" group-title="News",Assemble Nationale (News) (CA) (French)
@@ -1105,10 +1105,10 @@ http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:0 tvg-name="Astro Awani" tvg-language="English" tvg-country="MY" tvg-id="Astro Awani" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-j7C0DErUVHjgSY2cmOKTYfAEFr4gVhIiNZPPnV-ZlD-nl_VqkqbKIKc" group-title="News",Astro Awani (News) (MY) (Malay/Indonesian)
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
-#EXTINF:0 tvg-name="BFM BUSINESS" tvg-language="English" tvg-country="FR" tvg-id="BFM BUSINESS" tvg-logo="http://i.imgur.com/5MUDLap.jpg" group-title="News",BFM BUSINESS (News) (FR) (French)
+#EXTINF:0 tvg-name="BFM BUSINESS" tvg-language="English" tvg-country="FR" tvg-id="BFMBusiness.fr" tvg-logo="http://i.imgur.com/5MUDLap.jpg" group-title="News",BFM BUSINESS (News) (FR) (French)
 http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/index.m3u8?videoId=1920204345001&lineUpId=&pubId=876450612001&playerId=1158356419001&affiliateId=&v=3.4.0&fp=MAC%2019%2C0%2C0%2C245&r=MDRUQ&g=EIQBMDHKJXNY
 
-#EXTINF:0 tvg-name="BFMTV" tvg-language="English" tvg-country="FR" tvg-id="BFMTV" tvg-logo="http://i.imgur.com/lKd9xlc.jpg" group-title="News",BFMTV (News) (FR) (French)
+#EXTINF:0 tvg-name="BFMTV" tvg-language="English" tvg-country="FR" tvg-id="BFMTV.fr" tvg-logo="http://i.imgur.com/lKd9xlc.jpg" group-title="News",BFMTV (News) (FR) (French)
 http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/index.m3u8?videoId=1835105181001&lineUpId=&pubId=876450610001&playerId=1154506756001&affiliateId=&v=3.4.0&fp=MAC%2019%2C0%2C0%2C245&r=QHBHE&g=PGDBGHLQTHEA
 
 #EXTINF:0 tvg-name="BH News TV" tvg-language="English" tvg-country="BR" tvg-id="BH News TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnX5uYUn6rg7X6WzLmWEalaNaguosFMVHY6h6UhwLVG-Ok0gK6_BoQgp4" group-title="News",BH News TV (News) (BR) (Portuguese)
@@ -1116,9 +1116,6 @@ rtmp://edgenew.z1on.com:1935/1700/3125/3125-hotmedia.sdp
 
 #EXTINF:0 tvg-name="Berita Satu HD Indonesia" tvg-language="English" tvg-country="ID" tvg-id="Berita Satu HD Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDeWxrB2TDup70saMbm3IpdLmXqcGa7RQErwVVsRZtG3JPDcNqOJZ7V20" group-title="News",Berita Satu HD Indonesia (News) (ID) (Indonesian)
 http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_720_av-p.m3u8
-
-#EXTINF:0 tvg-name="Bloomberg TV" tvg-language="English" tvg-country="IN" tvg-id="Bloomberg TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWNB31QsdKPHsqdeB_7lfqwqY9Ga5y9eA_olgqnfBtfmmGIsEKRHnhy6SP" group-title="News",Bloomberg TV (News) (IN) (English)
-http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
 
 #EXTINF:0 tvg-name="CEM Tv" tvg-language="English" tvg-country="TR" tvg-id="CEM Tv" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqzOQy8bJS5MOcy5-IRrGHCo8STO6ekOf9StAri74uAZ8YrMTJm6MeOHw" group-title="News",CEM Tv (News) (TR) (Turkish)
 rtmp://stream.pivol.com/live/cemtv
@@ -1411,9 +1408,6 @@ http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0 tvg-name="TV UNO 1" tvg-language="English" tvg-country="IT" tvg-id="TV UNO 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNocoqBDJ3xf5brX5ElWpi9cJrs7RKCs0DkecgE92AsYPbKzYcaLJz18" group-title="Entertainment",TV UNO 1 (Entertainment) (IT) (Italian)
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1 live=1
 
-#EXTINF:0 tvg-name="Bloomberg News US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg News US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" group-title="Entertainment",Bloomberg News US (Entertainment) (US) (English)
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-
 #EXTINF:0 tvg-name="NDTV 24x7" tvg-language="English" tvg-country="IN" tvg-id="NDTV 24x7" tvg-logo="https://pbs.twimg.com/profile_images/575304317/logo_ndtv_news_400x400.png" group-title="Plex-Share",NDTV 24x7 (Plex-Share) (IN) (English)
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
 
@@ -1479,9 +1473,6 @@ http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index255.
 
 #EXTINF:0 tvg-name="Hbo Now" tvg-language="English" tvg-country="GR" tvg-id="Hbo Now" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Hbo Now (Entertainment) (GR) (English)
 rtmp://[wowza-ip-address]:[port]/[application]/[appInstance]/[prefix]:[path1]/[path2]/[streamName]
-
-#EXTINF:0 tvg-name="Bloomberg TV" tvg-language="English" tvg-country="UK" tvg-id="Bloomberg TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOspVI6710VEVAREeejbkWo2KbUS5joQBvGAWtdUxa6lzOSOq8v5Obg" group-title="News",Bloomberg TV (News) (UK) (English)
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
 #EXTINF:0 tvg-name="Big Buck Bunny 2008" tvg-language="English" tvg-country="US" tvg-id="Big Buck Bunny 2008" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Plex-Share",Big Buck Bunny 2008 (Plex-Share) (US) (English)
 http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4
@@ -4428,12 +4419,6 @@ https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="English Channels", AKC TV (Alt 2)
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png" group-title="English Channels", Al Jazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png" group-title="English Channels", Al Jazeera (Alt)
-http://ott-cdn.ucom.am/s24/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0qwmBEm.png" group-title="English Channels", Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 
@@ -4442,9 +4427,6 @@ https://ok.ru/videoembed/1319453400675?nochat=1&autoplay=1|agentdown$$start=Play
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="English Channels",AMC
 http://docs-8.gogleusercontent.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/amc/
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bloomberg-269x151.jpg"  group-title="English Channels",Bloomberg US
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" group-title="English Channels",Bravo Channel
 https://ok.ru/videoembed/1082884824675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl/&quot;:/&quot;$$end=?p/&quot;,$$replace=PlaylistUrl/&quot;:/&quot;$$replacewith=$$add=
@@ -4655,11 +4637,6 @@ http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids",Baby TV
 http://livecdnh1.tvanywhere.ae:80/hls/baby/06.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://eja.tv/check/8b34072449aa8f6bd6c005ba4c871f473effbcae850216420747dc051f46bce7.png" group-title="English Channels", Bloomberg
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.redd.it/zaanuufcpj131.png" group-title="English Channels", Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 
@@ -4681,145 +4658,145 @@ http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1866789011/Screen_shot_2012-03-02_at_10.06.40.jpg" group-title="English Channels", Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.kindpng.com/picc/m/195-1958586_hgtv-logo-png-transparent-hgtv-logo-png-png.png" tvg-chno="" channel-id="HGTV" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.kindpng.com/picc/m/195-1958586_hgtv-logo-png-transparent-hgtv-logo-png-png.png" tvg-chno="" channel-id="HGTV" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",HGTV
 https://peer1.ustv.to/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MTE6MjggQU0maGFzaF92YWx1ZT04YjBVRDVGaG5xbm55YUJYWkhjOU1nPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="We TV" tvg-logo="https://cdn.imgbin.com/3/13/13/imgbin-we-tv-television-show-television-channel-logo-others-Anv92AJvvyhuzgkRKnj48Cm3D.jpg" tvg-chno="" channel-id="We TV" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",We TV
+#EXTINF:-1 tvg-id="" tvg-name="We TV" tvg-logo="https://cdn.imgbin.com/3/13/13/imgbin-we-tv-television-show-television-channel-logo-others-Anv92AJvvyhuzgkRKnj48Cm3D.jpg" tvg-chno="" channel-id="We TV" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",We TV
 https://peer1.ustv.to/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MjM6MzUgQU0maGFzaF92YWx1ZT1CT1hsR01EM3Fkb2JGZGJaRHFKT0xBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://cdn.imgbin.com/19/2/10/imgbin-vh1-mtv-classic-logo-tv-television-MqhD0R5zmBUFb6n4NXwmh2iHR.jpg" tvg-chno="" channel-id="VH1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",VH1
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://cdn.imgbin.com/19/2/10/imgbin-vh1-mtv-classic-logo-tv-television-MqhD0R5zmBUFb6n4NXwmh2iHR.jpg" tvg-chno="" channel-id="VH1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",VH1
 https://peer2.ustv.to/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MjU6NDQgQU0maGFzaF92YWx1ZT1TMy9TdzMvQTlCTC9Obm5mWjhaYTZRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" tvg-chno="" channel-id="USA Network" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",USA Network
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" tvg-chno="" channel-id="USA Network" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",USA Network
 https://peer2.ustv.to/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6Mjc6MjMgQU0maGFzaF92YWx1ZT0zZzRMZVg1cnNoVlMrOWZtM3BBMnpBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/11/univision.png" tvg-chno="" channel-id="Univision" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Univision
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/11/univision.png" tvg-chno="" channel-id="Univision" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Univision
 https://peer2.ustv.to/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6Mjk6MTIgQU0maGFzaF92YWx1ZT1oNnZYWVg0Q0J0YmdZRzJ3cUxDZ2Z3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Land" tvg-logo="https://www.logolynx.com/images/logolynx/s_68/68963b708fe54cc1adbedafeee9f278e.png" tvg-chno="" channel-id="TV Land" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TV Land
+#EXTINF:-1 tvg-id="" tvg-name="TV Land" tvg-logo="https://www.logolynx.com/images/logolynx/s_68/68963b708fe54cc1adbedafeee9f278e.png" tvg-chno="" channel-id="TV Land" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TV Land
 https://peer1.ustv.to/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MzA6NDUgQU0maGFzaF92YWx1ZT1NdTBVbjRFSFZtSnNJUFBNUEZPRkh3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_logo.svg/1200px-TruTV_logo.svg.png" tvg-chno="" channel-id="TruTV" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TruTV
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_logo.svg/1200px-TruTV_logo.svg.png" tvg-chno="" channel-id="TruTV" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TruTV
 https://peer5.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MzI6MjIgQU0maGFzaF92YWx1ZT00cUdZRUxkYXlLTkx6ZjVtczcxa21nPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel" tvg-logo="https://travel.home.sndimg.com/content/dam/images/travel/editorial/homepage/TRVL-default-image_4x3.jpg.rend.hgtvcom.616.462.suffix/1539121995359.jpeg" tvg-chno="" channel-id="Travel" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Travel
+#EXTINF:-1 tvg-id="" tvg-name="Travel" tvg-logo="https://travel.home.sndimg.com/content/dam/images/travel/editorial/homepage/TRVL-default-image_4x3.jpg.rend.hgtvcom.616.462.suffix/1539121995359.jpeg" tvg-chno="" channel-id="Travel" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Travel
 https://peer5.ustv.to/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NDM6NDEgQU0maGFzaF92YWx1ZT0yc0dkQ2dEL1hkYU5RVHVtT0lzNFBnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://cdn.imgbin.com/17/12/15/imgbin-tnt-production-logo-television-shook-mFmC7atVnqjXG4mGM0FwraaeE.jpg" tvg-chno="" channel-id="TNT" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://cdn.imgbin.com/17/12/15/imgbin-tnt-production-logo-television-shook-mFmC7atVnqjXG4mGM0FwraaeE.jpg" tvg-chno="" channel-id="TNT" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TNT
 https://peer5.ustv.to/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NDY6MTYgQU0maGFzaF92YWx1ZT1oSzd4aVJ0MlhkQ2RNbG9Ca2tqVGNBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://logosolusa.com/wp-content/uploads/parser/TLC-Logo-1.png" tvg-chno="" channel-id="TLC" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://logosolusa.com/wp-content/uploads/parser/TLC-Logo-1.png" tvg-chno="" channel-id="TLC" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TLC
 https://peer2.ustv.to/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NDg6MTAgQU0maGFzaF92YWx1ZT1Na3pyRW15V295dW1CSm9Sa2ZSWWdBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="The CW" tvg-logo="https://c2.staticflickr.com/9/8090/29366791633_0f00856506_b.jpg" tvg-chno="" channel-id="The CW" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",The CW
+#EXTINF:-1 tvg-id="" tvg-name="The CW" tvg-logo="https://c2.staticflickr.com/9/8090/29366791633_0f00856506_b.jpg" tvg-chno="" channel-id="The CW" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",The CW
 https://peer1.ustv.to/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTA6MzkgQU0maGFzaF92YWx1ZT1OVW5LbHFrbk5iV1gvRmcwNXFIczFnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://miro.medium.com/max/560/1*mL17Y3sJOozsz3MgANzMQQ.jpeg" tvg-chno="" channel-id="TCM" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://miro.medium.com/max/560/1*mL17Y3sJOozsz3MgANzMQQ.jpeg" tvg-chno="" channel-id="TCM" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TCM
 https://peer3.ustv.to/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTI6MTcgQU0maGFzaF92YWx1ZT1tRWoxc1gweW9hcmFwL3FFVStOYXFBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/TBS_logo_2016.png" tvg-chno="" channel-id="TBS" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TBS
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/TBS_logo_2016.png" tvg-chno="" channel-id="TBS" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",TBS
 https://peer3.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTQ6MTMgQU0maGFzaF92YWx1ZT1nQ1RXVXlLcy9DblQxbHl6Y1lsSTdBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://www.syfy.com/sites/syfy/files/styles/1200x680/public/wire/legacy/images/syfy_Logo_0.jpg" tvg-chno="" channel-id="Syfy" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Syfy
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://www.syfy.com/sites/syfy/files/styles/1200x680/public/wire/legacy/images/syfy_Logo_0.jpg" tvg-chno="" channel-id="Syfy" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Syfy
 https://peer2.ustv.to/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTY6MTggQU0maGFzaF92YWx1ZT1IcXEySEVXbllBSkdSL2gzVnlBaFV3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="https://i.ytimg.com/vi/gDbKd8e68V8/maxresdefault.jpg" tvg-chno="" channel-id="Sundance TV" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Sundance TV
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="https://i.ytimg.com/vi/gDbKd8e68V8/maxresdefault.jpg" tvg-chno="" channel-id="Sundance TV" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Sundance TV
 https://peer2.ustv.to/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTk6MDEgQU0maGFzaF92YWx1ZT15MkR4ZVlicGFqRVRsVlV0S2VlaTBBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz" tvg-logo="https://i.ytimg.com/vi/kSyrCnfuTrA/maxresdefault.jpg" tvg-chno="" channel-id="Starz" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Starz
+#EXTINF:-1 tvg-id="" tvg-name="Starz" tvg-logo="https://i.ytimg.com/vi/kSyrCnfuTrA/maxresdefault.jpg" tvg-chno="" channel-id="Starz" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Starz
 https://peer3.ustv.to/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDA6NDUgQU0maGFzaF92YWx1ZT1OTmQyS085OEJneitoUHZCTHh5ejFRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Showtime" tvg-logo="https://www.htc.net/wp-content/uploads/2016/02/showtime-watch-online.jpg" tvg-chno="" channel-id="Showtime" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Showtime
+#EXTINF:-1 tvg-id="" tvg-name="Showtime" tvg-logo="https://www.htc.net/wp-content/uploads/2016/02/showtime-watch-online.jpg" tvg-chno="" channel-id="Showtime" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Showtime
 https://peer4.ustv.to/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDI6MTcgQU0maGFzaF92YWx1ZT04em1paVVVeXN3alBJaHptaENtU0h3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="POP" tvg-logo="https://dcassetcdn.com/design_img/834608/51565/51565_4974531_834608_image.jpg" tvg-chno="" channel-id="POP" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",POP
+#EXTINF:-1 tvg-id="" tvg-name="POP" tvg-logo="https://dcassetcdn.com/design_img/834608/51565/51565_4974531_834608_image.jpg" tvg-chno="" channel-id="POP" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",POP
 https://peer3.ustv.to/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDM6MzMgQU0maGFzaF92YWx1ZT1NbzZORkJRM3pVc3ZKRGFTTnBCUlZRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="https://www.wipb.org/wp-content/uploads/2015/02/PBS-Logo_Vert_Blu_512.jpg" tvg-chno="" channel-id="PBS" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",PBS
+#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="https://www.wipb.org/wp-content/uploads/2015/02/PBS-Logo_Vert_Blu_512.jpg" tvg-chno="" channel-id="PBS" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",PBS
 https://peer3.ustv.to/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDU6MjggQU0maGFzaF92YWx1ZT1sVXR6SE03WVd3WVZxMzRyMGw0Lzd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/768x433/2015/04/own_logo.jpg" tvg-chno="" channel-id="OWN" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWN
 https://peer5.ustv.to/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDc6MzQgQU0maGFzaF92YWx1ZT1pV0Urc3lxT1NxS090dWErOEN3OUZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="One America News Network" tvg-logo="https://patpgmr.files.wordpress.com/2016/07/one-america-news-network.jpg" tvg-chno="" channel-id="One America News Network" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",One America News Network
+#EXTINF:-1 tvg-id="" tvg-name="One America News Network" tvg-logo="https://patpgmr.files.wordpress.com/2016/07/one-america-news-network.jpg" tvg-chno="" channel-id="One America News Network" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",One America News Network
 https://peer3.ustv.to/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDk6NDAgQU0maGFzaF92YWx1ZT1XVWN5MG4rSDRNQ0VSU0ZIRmlwWC9BPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="https://i.ytimg.com/vi/eTKwxA30DVQ/hqdefault.jpg" tvg-chno="" channel-id="Nicktoons" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Nicktoons
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="https://i.ytimg.com/vi/eTKwxA30DVQ/hqdefault.jpg" tvg-chno="" channel-id="Nicktoons" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Nicktoons
 https://peer5.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MjQ6MzMgQU0maGFzaF92YWx1ZT1VVnhJbzFqTE02MFVlUHBHNyswcXd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="https://i.ytimg.com/vi/eTKwxA30DVQ/hqdefault.jpg" tvg-chno="" channel-id="Nicktoons" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",Nicktoons
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="https://i.ytimg.com/vi/eTKwxA30DVQ/hqdefault.jpg" tvg-chno="" channel-id="Nicktoons" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",Nicktoons
 https://peer5.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MjQ6MzMgQU0maGFzaF92YWx1ZT1VVnhJbzFqTE02MFVlUHBHNyswcXd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Horror Movies
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Horror Movies
 http:////aldirect.hls.huya.com//huyalive//29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang Theory" tvg-logo="https://sqad.com/wp-content/uploads/2018/09/Big-Bang-Logo.jpg" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Big Bang Theory
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang Theory" tvg-logo="https://sqad.com/wp-content/uploads/2018/09/Big-Bang-Logo.jpg" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Big Bang Theory
 https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/big%20bang.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 5
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 5
 http:////tx.hls.huya.com//huyalive//30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="4" channel-id="4" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 4
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="4" channel-id="4" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 4
 https:////aldirect.hls.huya.com//huyalive//30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="5" channel-id="5" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 3
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="5" channel-id="5" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 3
 http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="6" channel-id="6" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 2
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="6" channel-id="6" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 2
 http:////aldirect.hls.huya.com//huyalive//30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="7" channel-id="7" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 1
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="7" channel-id="7" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 1
 http:////aldirect.hls.huya.com//huyalive//30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Action Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Action Movies
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Action Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Action Movies
 http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Big Movies
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Big Movies
 http:////tx.hls.huya.com//huyalive//30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Stream 24/7"  tvg-name="", Jackie Chan Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Jackie Chan Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-language="English" tvg-logo="https://img.jakpost.net/c/2017/01/13/2017_01_13_19434_1484287863._large.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Stream 24/7"  tvg-name="", Andy Lau Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://img.jakpost.net/c/2017/01/13/2017_01_13_19434_1484287863._large.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Andy Lau Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/iI26jtLfGpc/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Stream 24/7"  tvg-name="", Stephen Chow Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/iI26jtLfGpc/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.tentaran.com/wp-content/uploads/2018/07/friends-tv-serial.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Stream 24/7"  tvg-name="", Serial Friends
+#EXTINF:-1 tvg-language="English" tvg-logo="https://www.tentaran.com/wp-content/uploads/2018/07/friends-tv-serial.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Serial Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/w0Ou3YLeNaE/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Stream 24/7"  tvg-name="", Iron Man Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/w0Ou3YLeNaE/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Iron Man Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/G2oxuE2WBpE/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Stream 24/7"  tvg-name="", Taxi Driver Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/G2oxuE2WBpE/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Taxi Driver Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-language="English" tvg-logo="https://miro.medium.com/max/3840/1*jfR0trcAPT3udktrFkOebA.jpeg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Stream 24/7"  tvg-name="", Science Fiction Movie
+#EXTINF:-1 tvg-language="English" tvg-logo="https://miro.medium.com/max/3840/1*jfR0trcAPT3udktrFkOebA.jpeg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Science Fiction Movie
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-language="English" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Stream 24/7"  tvg-name="", Hong Kong Film Channel
+#EXTINF:-1 tvg-language="English" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Hong Kong Film Channel
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
-#EXTINF:-1 tvg-language="English" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Stream 24/7"  tvg-name="", Hollywood Film Channel
+#EXTINF:-1 tvg-language="English" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Hollywood Film Channel
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1417" channel-id="1417" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7", CN Hollywood Film Channel 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1417" channel-id="1417" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7", CN Hollywood Film Channel 
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1418" channel-id="1418" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7", JN Hollywood Film Channel 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1418" channel-id="1418" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7", JN Hollywood Film Channel 
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Stream 24/7", 24/7 Retro TV
@@ -4834,56 +4811,56 @@ http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b192800
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pinclipart.com/picdir/middle/494-4944830_nickelodeon-logo-png-nickelodeon-clipart.png" tvg-chno="" channel-id="Nickelodeon" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="Kids" group-title="Entertainment",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pinclipart.com/picdir/middle/494-4944830_nickelodeon-logo-png-nickelodeon-clipart.png" tvg-chno="" channel-id="Nickelodeon" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="Kids" group-title="Entertainment",Nickelodeon
 https://peer1.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MjY6MDAgQU0maGFzaF92YWx1ZT1mL2V3VSt2Y0F4emo2YjFSRlZ2eUdnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pinclipart.com/picdir/middle/494-4944830_nickelodeon-logo-png-nickelodeon-clipart.png" tvg-chno="" channel-id="Nickelodeon" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.pinclipart.com/picdir/middle/494-4944830_nickelodeon-logo-png-nickelodeon-clipart.png" tvg-chno="" channel-id="Nickelodeon" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",Nickelodeon
 https://peer1.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MjY6MDAgQU0maGFzaF92YWx1ZT1mL2V3VSt2Y0F4emo2YjFSRlZ2eUdnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Nfl-network-logo.jpg" tvg-chno="" channel-id="NFL Network" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",NFL Network
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Nfl-network-logo.jpg" tvg-chno="" channel-id="NFL Network" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",NFL Network
 https://peer3.ustv.to/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTI6NTUgQU0maGFzaF92YWx1ZT1TK0dXUWMvK01PSFJFWXpJT0RzMXhBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="https://www.nicepng.com/png/full/376-3768018_fxx-logo-fxx-logo-png-white.png" tvg-chno="" channel-id="FXX" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",FXX
+#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="https://www.nicepng.com/png/full/376-3768018_fxx-logo-fxx-logo-png-white.png" tvg-chno="" channel-id="FXX" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",FXX
 https://peer1.ustv.to/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTY6NTMgQU0maGFzaF92YWx1ZT1vSytjcjhmczhmZXBmY09xSnZEcGhRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" tvg-chno="" channel-id="FXM" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",FXM
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" tvg-chno="" channel-id="FXM" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",FXM
 https://peer5.ustv.to/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTg6MTYgQU0maGFzaF92YWx1ZT00dTZFR0w4UHZXZTdIcFNvbFQvTWNRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://www.pikpng.com/pngl/m/590-5901139_fx-logo-png-fx-hd-channel-logo-transparent.png" tvg-chno="" channel-id="FX" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWFXN
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://www.pikpng.com/pngl/m/590-5901139_fx-logo-png-fx-hd-channel-logo-transparent.png" tvg-chno="" channel-id="FX" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",OWFXN
 https://peer3.ustv.to/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTk6MzQgQU0maGFzaF92YWx1ZT1rTmtOcUtOZ0xEU3ErVjJFOU85WGd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Freeform" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2018/01/logo_freeform.png" tvg-chno="" channel-id="Freeform" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Freeform
+#EXTINF:-1 tvg-id="" tvg-name="Freeform" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2018/01/logo_freeform.png" tvg-chno="" channel-id="Freeform" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Freeform
 https://peer5.ustv.to/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDE6MDQgQU0maGFzaF92YWx1ZT1DNHhtY0c2bDBhOHdtbitlR0Z4eEpRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="DisneyXD" tvg-logo="https://www.nicepng.com/png/detail/273-2734677_disney-xd-fanmade-logo-by-therealcuddles-d9apg4y-new.png" tvg-chno="" channel-id="DisneyXD" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="DisneyXD" tvg-logo="https://www.nicepng.com/png/detail/273-2734677_disney-xd-fanmade-logo-by-therealcuddles-d9apg4y-new.png" tvg-chno="" channel-id="DisneyXD" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Disney XD
 https://peer2.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDI6MzIgQU0maGFzaF92YWx1ZT0rYXNGY0JUc1VCdGdrMEs3ek1TMTd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DisneyJr" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png" tvg-chno="" channel-id="DisneyJr" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",DisneyJr
+#EXTINF:-1 tvg-id="" tvg-name="DisneyJr" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png" tvg-chno="" channel-id="DisneyJr" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",DisneyJr
 https://peer5.ustv.to/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDM6NTAgQU0maGFzaF92YWx1ZT1TcmJEQkxSeGJGQjNFaWhka2FYV2VBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" tvg-chno="" channel-id="Disney Channel" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" tvg-chno="" channel-id="Disney Channel" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Disney Channel
 https://peer1.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDU6MTIgQU0maGFzaF92YWx1ZT11WHZRRHVwcjhUdTVxUkRSRFMrYzZ3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DisneyXD" tvg-logo="https://www.nicepng.com/png/detail/273-2734677_disney-xd-fanmade-logo-by-therealcuddles-d9apg4y-new.png" tvg-chno="" channel-id="DisneyXD" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="DisneyXD" tvg-logo="https://www.nicepng.com/png/detail/273-2734677_disney-xd-fanmade-logo-by-therealcuddles-d9apg4y-new.png" tvg-chno="" channel-id="DisneyXD" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",Disney XD
 https://peer2.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDI6MzIgQU0maGFzaF92YWx1ZT0rYXNGY0JUc1VCdGdrMEs3ek1TMTd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DisneyJr" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png" tvg-chno="" channel-id="DisneyJr" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",DisneyJr
+#EXTINF:-1 tvg-id="" tvg-name="DisneyJr" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png" tvg-chno="" channel-id="DisneyJr" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",DisneyJr
 https://peer5.ustv.to/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDM6NTAgQU0maGFzaF92YWx1ZT1TcmJEQkxSeGJGQjNFaWhka2FYV2VBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" tvg-chno="" channel-id="Disney Channel" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" tvg-chno="" channel-id="Disney Channel" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",Disney Channel
 https://peer1.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDU6MTIgQU0maGFzaF92YWx1ZT11WHZRRHVwcjhUdTVxUkRSRFMrYzZ3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
@@ -4895,11 +4872,11 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime Movie Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",Lifetime Movie Network
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Movie Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",Lifetime Movie Network
 https://peer2.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MjQ6MDQgUE0maGFzaF92YWx1ZT1YL0FPdU5Ra3JqSGRKaVZBS2ZULzBnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" tvg-chno="" channel-id="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",Hallmark Movies & Mysteries
 https://peer2.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDc6MzAgUE0maGFzaF92YWx1ZT04aHdNV1BmVWg2cUZMaytzVFh1OFhnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
@@ -4908,117 +4885,117 @@ https://peer2.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1417" channel-id="1417" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies", 24/7 Hollywood Film Channel 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1417" channel-id="1417" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies", 24/7 Hollywood Film Channel 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1418" channel-id="1418" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies", 24/7 Hollywood Film Channel 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1418" channel-id="1418" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies", 24/7 Hollywood Film Channel 2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Horror Movies
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Horror Movies
 http:////aldirect.hls.huya.com//huyalive//29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 1
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 1
 http:////tx.hls.huya.com//huyalive//30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="4" channel-id="4" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 2
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="4" channel-id="4" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 2
 https:////aldirect.hls.huya.com//huyalive//30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="5" channel-id="5" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 3
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="5" channel-id="5" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 3
 http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="6" channel-id="6" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 3
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="6" channel-id="6" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 3
 http:////aldirect.hls.huya.com//huyalive//30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="7" channel-id="7" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 4
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="7" channel-id="7" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 4
 http:////aldirect.hls.huya.com//huyalive//30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" tvg-chno="7" channel-id="7" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" tvg-chno="7" channel-id="7" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 7
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1411" channel-id="1411" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1411" channel-id="1411" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 9
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1412" channel-id="1412" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" tvg-chno="1412" channel-id="1412" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" tvg-chno="6" channel-id="6" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" tvg-chno="6" channel-id="6" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1413" channel-id="1413" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1413" channel-id="1413" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 12
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="8" channel-id="8" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 1
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="8" channel-id="8" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 1
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 2
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 2
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="10" channel-id="10" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 3
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="10" channel-id="10" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 3
 https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="11" channel-id="11" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 4
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="11" channel-id="11" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 4
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="12" channel-id="12" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 5
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="12" channel-id="12" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 5
 http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="13" channel-id="13" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 6
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="13" channel-id="13" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 6
 https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="14" channel-id="14" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 7
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="14" channel-id="14" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 7
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="15" channel-id="15" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 8
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="15" channel-id="15" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 8
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="16" channel-id="16" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 9
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="16" channel-id="16" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 9
 http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="17" channel-id="17" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 10
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="17" channel-id="17" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 10
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1419" channel-id="1419" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 11
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1419" channel-id="1419" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 11
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1420" channel-id="1420" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 12
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1420" channel-id="1420" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 12
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1421" channel-id="1421" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 13
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1421" channel-id="1421" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 13
 https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1422" channel-id="1422" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 14
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1422" channel-id="1422" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 14
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1423" channel-id="1423" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 15
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1423" channel-id="1423" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 15
 http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1424" channel-id="1424" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 16
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1424" channel-id="1424" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 16
 https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1425" channel-id="1425" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 17
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1425" channel-id="1425" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 17
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1426" channel-id="1426" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 18
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1426" channel-id="1426" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 18
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1427" channel-id="1427" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 19
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1427" channel-id="1427" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 19
 http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1428" channel-id="1428" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 20
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1428" channel-id="1428" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 20
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies ID" tvg-logo="http://static.iptv-epg.com/id/CelestialMovies.id.png" tvg-chno="1713" channel-id="1713" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies ID" tvg-logo="http://static.iptv-epg.com/id/CelestialMovies.id.png" tvg-chno="1713" channel-id="1713" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 
 
@@ -5033,56 +5010,56 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Action Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Action Movies
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Action Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Action Movies
 http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Big Movies
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Big Movies
 http:////tx.hls.huya.com//huyalive//30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="Hollywood Switch" tvg-name="Hollywood Switch" tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/Switch-hollywood-preview_157x157.jpg" tvg-chno="8" channel-id="8" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",Hollywood Switch
+#EXTINF:-1 tvg-id="Hollywood Switch" tvg-name="Hollywood Switch" tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/Switch-hollywood-preview_157x157.jpg" tvg-chno="8" channel-id="8" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",Hollywood Switch
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://miro.medium.com/max/3840/1*jfR0trcAPT3udktrFkOebA.jpeg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Science Fiction Movie
+#EXTINF:-1 tvg-language="English" tvg-logo="https://miro.medium.com/max/3840/1*jfR0trcAPT3udktrFkOebA.jpeg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Science Fiction Movie
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Hong Kong Film Channel
+#EXTINF:-1 tvg-language="English" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Hong Kong Film Channel
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Hollywood Film Channel
+#EXTINF:-1 tvg-language="English" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Hollywood Film Channel
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang Theory" tvg-logo="https://sqad.com/wp-content/uploads/2018/09/Big-Bang-Logo.jpg" tvg-chno="3" channel-id="3" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Big Bang Theory
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang Theory" tvg-logo="https://sqad.com/wp-content/uploads/2018/09/Big-Bang-Logo.jpg" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Big Bang Theory
 https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/big%20bang.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://st.cdjapan.co.jp/pictures/l/04/47/LACA-15249.jpg" tvg-chno="4" channel-id="4" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Kuroko's Basketball
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://st.cdjapan.co.jp/pictures/l/04/47/LACA-15249.jpg" tvg-chno="4" channel-id="4" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Kuroko's Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" tvg-chno="5" channel-id="5" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Reality TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" tvg-chno="5" channel-id="5" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Reality TV 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Jackie Chan Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Jackie Chan Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://img.jakpost.net/c/2017/01/13/2017_01_13_19434_1484287863._large.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Andy Lau Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://img.jakpost.net/c/2017/01/13/2017_01_13_19434_1484287863._large.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Andy Lau Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/iI26jtLfGpc/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Stephen Chow Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/iI26jtLfGpc/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.tentaran.com/wp-content/uploads/2018/07/friends-tv-serial.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Serial Friends
+#EXTINF:-1 tvg-language="English" tvg-logo="https://www.tentaran.com/wp-content/uploads/2018/07/friends-tv-serial.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Serial Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/w0Ou3YLeNaE/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Iron Man Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/w0Ou3YLeNaE/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Iron Man Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/G2oxuE2WBpE/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies"  tvg-name="", Taxi Driver Movies
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/G2oxuE2WBpE/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Taxi Driver Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
 
 #EXTINF:-1 tvg-id="Mr Bean Cartoon World 24/7" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rVmyZ-1achI/maxresdefault.jpg" group-title="Kids",Mr Bean Cartoon World
@@ -5246,16 +5223,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582068557/ei/7
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582068652/ei/Sx9MXtKtOoeViwSdlat4/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/uD3RTzck5cs.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgLsSSvDuJT2TbfiWolRv7MvcKBuEhbh-BT5mLjEEuBVcCIQCA0WsiecgtZZXOt5vTlmRaxlya5eFCovbXfPeYmb1CSw%3D%3D/file/index.m3u
 
 
-
-
 #EXTINF:-1 tvg-id="900" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/02/logo_arise.png" group-title="News",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="901" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="News",BBC News
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="902" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="Entertainment",Bloomberg Television
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
 #EXTINF:-1 tvg-id="904" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
@@ -5315,19 +5287,12 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.
 #EXTINF:-1 tvg-id="949" tvg-logo="https://i.imgur.com/YyXGOYy.png" group-title="Entertainment",The Jewellery Channel
 https://live-tjc.simplestreamcdn.com/tjc_sdi1/2/prog_index.m3u8
 
-
-#EXTINF:-1 tvg-id="600" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
- 
 #EXTINF:-1 tvg-id="601" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="News",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="602.2" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="News",BBC World News
 http://92.43.140.249/s24/04.m3u8
- 
-#EXTINF:-1 tvg-id="603" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="News",Bloomberg Asia
-http://45.126.83.51/uq2663/h/h03/index.m3u8
- 
+  
 #EXTINF:-1 tvg-id="604" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="News",CGTN
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
  
@@ -5360,9 +5325,6 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="618" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="News",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1 tvg-id="620" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="Entertainment",Bloomberg Television
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
  
 #EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="Entertainment",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
