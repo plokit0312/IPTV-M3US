@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/WG2MP.xml"
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" tvg-chno="1" channel-id="1" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="CN" tvg-language="English" group-title="Shopping",OFC Mercari
 https://www.dropbox.com/s/taob3gdg1ciioja/mercari.mp4?dl=1
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" tvg-country="USA" tvg-language="English" group-title="News",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" tvg-language="English" group-title="News",CNN
 http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
 
 
@@ -4853,10 +4853,10 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
 
 #EXTINF:-1 tvg-id="Mr Bean Cartoon World 24/7" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rVmyZ-1achI/maxresdefault.jpg" group-title="Kids",Mr Bean Cartoon World
-https://youtu.be/gXARGZF1Wp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582071144/ei/CClMXvCrBZWB4AHvva-ABA/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/gXARGZF1Wp4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgMiRZwPgw4EGRgJMV8sAlF58_LUuBrEFjg2Y6qTXVFs8CIHpZfHxz5KOEpEZGvtDuddokVSDiiGpEZlYC71PGIe_E/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Mr Bean Cartoon World 24/7" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rVmyZ-1achI/maxresdefault.jpg" group-title="Stream 24/7",Mr Bean Cartoon World
-https://youtu.be/gXARGZF1Wp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582071144/ei/CClMXvCrBZWB4AHvva-ABA/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/gXARGZF1Wp4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgMiRZwPgw4EGRgJMV8sAlF58_LUuBrEFjg2Y6qTXVFs8CIHpZfHxz5KOEpEZGvtDuddokVSDiiGpEZlYC71PGIe_E/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Booba 24/7" tvg-name="" tvg-logo="https://monsterent.s3.amazonaws.com/wp-content/uploads/2018/01/71KnxypH2CL._RI_.jpg" group-title="Kids",Booba
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582067645/ei/XRtMXoWWAcaeir4PgbCEuAM/ip/2600%3A8804%3A1f00%3A5400%3Ab9b7%3A19d3%3Ade3%3Afecd/id/QougB4t6TWU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23878762/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgeIukRdjze6_jBClCIY3nEDWQkT1stLQ9x_vduDESnxoCIAiaARNO9NrgE-NMot_HfxB8qPNq5MSZgu82f7D_oX-X/file/index.m3u
@@ -5101,7 +5101,7 @@ http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
 #EXTINF:-1 tvg-id="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",CNA
 http://210.210.155.35/uq2663/h/h29/01.m3u8
  
-#EXTINF:-1 tvg-id="607" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="NEWS",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="NEWS",CNN
 http://ott-cdn.ucom.am/s27/index.m3u8
  
 #EXTINF:-1 tvg-id="608" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="NEWS",DW
@@ -5143,7 +5143,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8
 EXTINF:-1 tvg-id="625" tvg-logo="https://i.imgur.com/xWVT3Dg.png" group-title="Entertainment",Cheddar News
 https://live.chdrstatic.com/cbn/primary/1.m3u8
 
-#EXTINF:-1 tvg-id="626" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="News",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="News",CNN
 http://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8
 
 #EXTINF:-1 tvg-id="628" tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="News",Fox News Radio
