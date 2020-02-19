@@ -165,7 +165,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d14fb6c84dd37df3b4290c5/featuredImage.jpg" group-title="Pluto", Dora TV
 https://stitcher.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/51c75f7bb6f26ba1cd00002f/featuredImage.jpg" group-title="Pluto", KIDS
+#EXTINF:-1 tvg-id="Pluto TV Kids" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/51c75f7bb6f26ba1cd00002f/featuredImage.jpg" group-title="Pluto", Pluto TV Kids
 https://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56171fafada51f8004c4b40f/featuredImage.jpg" group-title="Pluto", After School Cartoons
@@ -736,14 +736,22 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",452 Soar (Stirr) (NEW)
 https://dai.google.com/linear/hls/pa/event/_PDxBUttQYqkxPnmh3VOZA/stream/c42992f8-5ecc-4361-a124-db1459b45380:MRN/master.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Test TV",BBC1 - Test
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="Test TV",BBC2 - Test
-https://fathomless-cliffs-85079.herokuapp.com/http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v4a1/mono.m3u8
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=25
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="Test TV",BBC3 - Test
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1082223691503714309/_YSw37G__400x400.jpg" group-title="Test TV",ITV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=11
+
 
 
 
