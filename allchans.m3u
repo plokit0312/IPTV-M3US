@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Shopping",OFC Mercari
+#EXTINF:-1 tvg-id="" tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Shopping",OFC Mercari
 https://www.dropbox.com/s/taob3gdg1ciioja/mercari.mp4?dl=1
 
 
@@ -1413,7 +1413,7 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 #EXTINF:0 tvg-name="WFMZ Allentown" tvg-language="English" tvg-country="US" tvg-id="WFMZ Allentown" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKnlS4wpbDQkfi5KyJiITC_GBFB1vJJR2dB8g3DPBNMe_WgubeSujHMw" group-title="News",WFMZ Allentown (News) (US) (English)
 http://wfmz_live-lh.akamaihd.net/i/002zrxx41_1@167551/master.m3u8
 
-#EXTINF:0 tvg-name="CGTN Documentary" tvg-language="English" tvg-country="CN" tvg-id="CGTN Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQMjRWIHT-eRoQNjZm6Bugmw8WSXNvZDz-qCRP9rQBsTR_Vo56BvCQ7A" group-title="Documentary",CGTN Documentary (Documentary) (CN) (Mandarin)
+#EXTINF:0 tvg-name="CGTN Documentary" tvg-language="English" tvg-country="US" tvg-id="CGTN Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQMjRWIHT-eRoQNjZm6Bugmw8WSXNvZDz-qCRP9rQBsTR_Vo56BvCQ7A" group-title="Documentary",CGTN Documentary (Documentary) (CN) (Mandarin)
 http://live.cgtn.com/cctv-d.m3u8
 
 #EXTINF:0 tvg-name="CGTN English" tvg-language="English" tvg-country="UK" tvg-id="CGTN English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2CU3UuCSK1Fal1JqE0GGmYGFkrZ-y3dVrQ-uFCDrFgNDSLkdEsfIvu4" group-title="News",CGTN English (News) (UK) (Mandarin)
@@ -4750,7 +4750,7 @@ https://peer5.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 https://peer5.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MjQ6MzMgQU0maGFzaF92YWx1ZT1VVnhJbzFqTE02MFVlUHBHNyswcXd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Horror Movies
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Horror Movies
 http:////aldirect.hls.huya.com//huyalive//29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 
 
@@ -4758,34 +4758,34 @@ http:////aldirect.hls.huya.com//huyalive//29106097-2689286606-115503980223408373
 https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/big%20bang.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 5
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 5
 http:////tx.hls.huya.com//huyalive//30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="4" channel-id="4" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 4
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="4" channel-id="4" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 4
 https:////aldirect.hls.huya.com//huyalive//30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="5" channel-id="5" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 3
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="5" channel-id="5" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 3
 http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="6" channel-id="6" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 2
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="6" channel-id="6" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 2
 http:////aldirect.hls.huya.com//huyalive//30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="7" channel-id="7" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 1
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="7" channel-id="7" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 1
 http:////aldirect.hls.huya.com//huyalive//30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Action Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Action Movies
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Action Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Action Movies
 http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Big Movies
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Big Movies
 http:////tx.hls.huya.com//huyalive//30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Stream 24/7"  tvg-name="", Jackie Chan Movies
@@ -4808,9 +4808,9 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1417" channel-id="1417" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7", CN Hollywood Film Channel 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1417" channel-id="1417" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7", CN Hollywood Film Channel 
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1418" channel-id="1418" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7", JN Hollywood Film Channel 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1418" channel-id="1418" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7", JN Hollywood Film Channel 
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Stream 24/7", 24/7 Retro TV
@@ -4899,117 +4899,117 @@ https://peer2.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1417" channel-id="1417" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies", 24/7 Hollywood Film Channel 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1417" channel-id="1417" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies", 24/7 Hollywood Film Channel 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1418" channel-id="1418" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies", 24/7 Hollywood Film Channel 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-chno="1418" channel-id="1418" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies", 24/7 Hollywood Film Channel 2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Horror Movies
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Horror Movies
 http:////aldirect.hls.huya.com//huyalive//29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 1
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 1
 http:////tx.hls.huya.com//huyalive//30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="4" channel-id="4" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 2
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="4" channel-id="4" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 2
 https:////aldirect.hls.huya.com//huyalive//30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="5" channel-id="5" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 3
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="5" channel-id="5" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 3
 http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="6" channel-id="6" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 3
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="6" channel-id="6" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 3
 http:////aldirect.hls.huya.com//huyalive//30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="7" channel-id="7" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 4
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="7" channel-id="7" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 4
 http:////aldirect.hls.huya.com//huyalive//30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="1" channel-id="1" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="2" channel-id="2" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" tvg-chno="7" channel-id="7" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" tvg-chno="7" channel-id="7" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 7
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="3" channel-id="3" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1411" channel-id="1411" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1411" channel-id="1411" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 9
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" tvg-chno="1412" channel-id="1412" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Friends
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" tvg-chno="1412" channel-id="1412" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" tvg-chno="6" channel-id="6" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" tvg-chno="6" channel-id="6" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1413" channel-id="1413" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="1413" channel-id="1413" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Hollywood Movies 12
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="8" channel-id="8" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 1
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="8" channel-id="8" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR MOVIE 1
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 2
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR MOVIE 2
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="10" channel-id="10" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 3
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="10" channel-id="10" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR MOVIE 3
 https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="11" channel-id="11" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 4
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="11" channel-id="11" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR MOVIE 4
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="12" channel-id="12" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 5
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="12" channel-id="12" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR MOVIE 5
 http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="13" channel-id="13" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 6
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="13" channel-id="13" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR MOVIE 6
 https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="14" channel-id="14" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 7
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="14" channel-id="14" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR MOVIE 7
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="15" channel-id="15" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR MOVIE 8
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="15" channel-id="15" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR MOVIE 8
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="16" channel-id="16" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 9
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="16" channel-id="16" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 9
 http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="17" channel-id="17" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 10
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="17" channel-id="17" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 10
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 
 
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1419" channel-id="1419" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 11
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1419" channel-id="1419" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 11
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1420" channel-id="1420" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 12
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1420" channel-id="1420" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 12
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1421" channel-id="1421" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 13
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1421" channel-id="1421" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 13
 https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1422" channel-id="1422" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 14
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1422" channel-id="1422" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 14
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1423" channel-id="1423" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 15
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1423" channel-id="1423" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 15
 http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1424" channel-id="1424" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 16
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1424" channel-id="1424" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 16
 https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1425" channel-id="1425" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 17
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1425" channel-id="1425" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 17
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1426" channel-id="1426" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 18
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1426" channel-id="1426" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 18
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1427" channel-id="1427" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 19
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1427" channel-id="1427" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 19
 http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1428" channel-id="1428" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",AYSAR Movie 20
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies IN" tvg-logo="http://static.iptv-epg.com/in/UdayaMovies.in.png" tvg-chno="1428" channel-id="1428" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",AYSAR Movie 20
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies ID" tvg-logo="http://static.iptv-epg.com/id/CelestialMovies.id.png" tvg-chno="1713" channel-id="1713" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies ID" tvg-logo="http://static.iptv-epg.com/id/CelestialMovies.id.png" tvg-chno="1713" channel-id="1713" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 
 
@@ -5024,13 +5024,13 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Action Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Action Movies
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Action Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Action Movies
 http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",24/7 Big Movies
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" tvg-chno="9" channel-id="9" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",24/7 Big Movies
 http:////tx.hls.huya.com//huyalive//30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="Hollywood Switch" tvg-name="Hollywood Switch" tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/Switch-hollywood-preview_157x157.jpg" tvg-chno="8" channel-id="8" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Movies",Hollywood Switch
+#EXTINF:-1 tvg-id="Hollywood Switch" tvg-name="Hollywood Switch" tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/Switch-hollywood-preview_157x157.jpg" tvg-chno="8" channel-id="8" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Movies",Hollywood Switch
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 
@@ -5052,10 +5052,10 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/big%20bang.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://st.cdjapan.co.jp/pictures/l/04/47/LACA-15249.jpg" tvg-chno="4" channel-id="4" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Kuroko's Basketball
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://st.cdjapan.co.jp/pictures/l/04/47/LACA-15249.jpg" tvg-chno="4" channel-id="4" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Kuroko's Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" tvg-chno="5" channel-id="5" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="CN" tvg-language="English" group-title="Stream 24/7",24/7 Reality TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" tvg-chno="5" channel-id="5" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Stream 24/7",24/7 Reality TV 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-language="English" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" tvg-country="USA" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Movies"  tvg-name="", Jackie Chan Movies
