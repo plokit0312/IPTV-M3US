@@ -4863,14 +4863,14 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 #EXTINF:-1 group-title="USA"  tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" group-title="English Channels",CBS
 http://docs-8.gogleusercontent.host/live/cbs/chunks.m3u8|Referer=http://123tvnow.com/watch/cbs/
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png"  channel-id="CNN" tvg-id="CNN" group-title="News",CNN
+http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
+
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/CMC-269x151.jpg" group-title="English Channels",California Music Channel - CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnbc-269x149.png" group-title="English Channels",CNBC
 http://docs-7.gogleusercontent.host/live/cnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/cnbc-2/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" tvg-id="CNN" tvg-name="CNN" group-title="News",CNN
-http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" group-title="English Channels",CW
 http://docs-1.gogleusercontent.host/live/cw/chunks.m3u8|Referer=http://123tvnow.com/watch/the-cw/
