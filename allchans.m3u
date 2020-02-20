@@ -101,10 +101,10 @@ https://peer2.ustv.to/CBS/myStream/chunks.m3u8?nimblesessionid=157420099&wmsAuth
 https://peer3.ustv.to/NBC/myStream/chunks.m3u8?nimblesessionid=129619905&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjQzOjExIFBNJmhhc2hfdmFsdWU9bXZLU0NtWU5RUWpwZFhCL2RLLzJhUT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="ABC HD New York-US" tvg-name="ABC HD New York-US" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2017/05/abc.png" group-title="Entertainment",ABC
 https://peer2.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjQ1OjE5IFBNJmhhc2hfdmFsdWU9bEV0MkE5dGR2NzhsdUdib0xOSmI4dz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",Fox
-https://peer5.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDEwOjQwOjU0IFBNJmhhc2hfdmFsdWU9SHlNaEFHNFFWMmd4dkZsUHZ6dU0rQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-name="E!" tvg-logo="https://pmcvariety.files.wordpress.com/2019/08/e-logo.jpg" group-title="Entertainment",E!
-https://peer5.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzM6MzAgUE0maGFzaF92YWx1ZT1OalVsWGYycVpJTDk1TG5pSmRpY1Z3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+#EXTINF:-1 tvg-id="FOX UK" tvg-name="FOX UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",Fox
+https://peer1.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjQ5OjEzIFBNJmhhc2hfdmFsdWU9d2p5L3pYUjV5VjFsYUVMcVQ0Y2FMZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
+#EXTINF:-1 tvg-id="E! Entertainment USA - Eastern Feed-US" tvg-name="E! Entertainment USA - Eastern Feed-US" tvg-logo="https://pmcvariety.files.wordpress.com/2019/08/e-logo.jpg" group-title="Entertainment",E! Entertainment USA
+https://peer2.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjUyOjMzIFBNJmhhc2hfdmFsdWU9b2MyMzQ0cHArbjFGays4Y2dNbDdTQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-name="Game Show Network - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Entertainment",Game Show Network - East
 https://peer1.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzQ6MDggUE0maGFzaF92YWx1ZT16NDhJSFhRbk5PcGNqNDEvNXJrNHVRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-id="Do It Yourself Network HDTV (East) (DIYHD)" tvg-name="Do It Yourself Network HDTV (East) (DIYHD)" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" group-title="Entertainment",DIY
