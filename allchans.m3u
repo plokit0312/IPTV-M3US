@@ -1061,7 +1061,7 @@ https://peer5.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xN
 #EXTINF:-1 tvg-id="" tvg-name="Game Show Network - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" tvg-chno="" channel-id="Game Show Network - East" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Game Show Network - East
 https://peer1.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzQ6MDggUE0maGFzaF92YWx1ZT16NDhJSFhRbk5PcGNqNDEvNXJrNHVRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="DIY" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",DIY
+#EXTINF:-1 tvg-id="Do It Yourself Network HDTV (East) (DIYHD)" tvg-name="Do It Yourself Network HDTV (East) (DIYHD)" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",DIY
 https://peer1.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6MzU6NDAgUE0maGFzaF92YWx1ZT1PdUVzRTQ0RFQrYmNrZ0FCcm00VmFRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267679_lifetime-hd.jpg" tvg-chno="" channel-id="" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Lifetime
@@ -4092,7 +4092,7 @@ http://docs-3.gogleusercontent.host/live/discovery/chunks.m3u8|Referer=http://12
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="English Channels",DISCOVERY SCIENCE
 http://docs-2.gogleusercontent.host/live/sci/chunks.m3u8|Referer=http://123tvnow.com/watch/science-channel/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="English Channels",DIY Network
+#EXTINF:-1 tvg-id="Do It Yourself Network HDTV (East) (DIYHD)" tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="English Channels",DIY Network
 http://docs-8.gogleusercontent.host/live/diy/chunks.m3u8|Referer=http://123tvnow.com/watch/diy-network/
 
 #EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" group-title="English Channels",E!
@@ -4122,7 +4122,7 @@ http://docs-4.gogleusercontent.host/live/fx/chunks.m3u8|Referer=http://123tvnow.
 #EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" group-title="English Channels",HBO
 http://docs-6.gogleusercontent.host/live/hbo/chunks.m3u8|Referer=http://123tvnow.com/watch/hbo/
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" group-title="English Channels",HGTV
+#EXTINF:-1 tvg-id="Home &amp; Garden Television HDTV (East) (HGTVD)" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" group-title="English Channels",HGTV
 http://docs-2.gogleusercontent.host/live/hgtv/chunks.m3u8|Referer=http://123tvnow.com/watch/hgtv/
 
 #EXTINF:-1 tvg-id=""  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" group-title="English Channels",Investigation Discovery
