@@ -1,11 +1,11 @@
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/guide-usa.xml.gz"
-#EXTINF:-1 tvg-chno="1" tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" group-title="Shopping",OFC Mercari
+#EXTINF:-1 tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" group-title="Shopping",OFC Mercari
 https://www.dropbox.com/s/taob3gdg1ciioja/mercari.mp4?dl=1
-#EXTINF:-1 tvg-chno="2" tvg-id="CNN.us" tvg-name="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" group-title="News",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" group-title="News",CNN
 http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
-#EXTINF:-1 tvg-chno="1" tvg-id="KMTV" tvg-name="KMTV" tvg-logo="https://s3.amazonaws.com/www.scripps.com/ample_admin/attachments/files/000/002/336/original/3%20News%20Now%20Image.jpg" group-title="News",KMTV
+#EXTINF:-1 tvg-id="KMTV" tvg-name="KMTV" tvg-logo="https://s3.amazonaws.com/www.scripps.com/ample_admin/attachments/files/000/002/336/original/3%20News%20Now%20Image.jpg" group-title="News",KMTV
 https://content-ausw4.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70/e.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dvideos%26categories%3D%26refdomain%3D3newsnow.com%26iframed%3D0%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&pbs=a6a51b1c63844546bbae6503d22aea07
-#EXTINF:0 tvg-chno="3" tvg-id="i24News.en.nws" tvg-name="i24News.en.nws" tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png" group-title="News",i24 News (News) (US)
+#EXTINF:0 tvg-id="i24News.en.nws" tvg-name="i24News.en.nws" tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png" group-title="News",i24 News (News) (US)
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 #EXTINF:0 tvg-id="NDTV 24X7" tvg-name="NDTV 24X7" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrpASkp96wKvBBEGY8kEwnCdenV33lfXB8paYEWArJSAJnH_dg9RUaAoY" group-title="News",NDTV 24X7 (News) (IN) (English)
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/chunklist_w1329161945_b512000.m3u8
@@ -89,17 +89,17 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-id="633" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="News",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 tvg-chno="0" tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC One HD UK
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC One HD UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
-#EXTINF:-1 tvg-chno="2" tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="Entertainment",BBC Two UK
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="Entertainment",BBC Two UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=25
-#EXTINF:-1 tvg-chno="3" tvg-id="BBC3" tvg-name="BBC3" tvg-logo="https://spectatorblogs.imgix.net/files/2014/03/intro-ident.jpg" group-title="Entertainment",BBC3
+#EXTINF:-1 tvg-id="BBC3" tvg-name="BBC3" tvg-logo="https://spectatorblogs.imgix.net/files/2014/03/intro-ident.jpg" group-title="Entertainment",BBC3
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
-#EXTINF:-1 tvg-chno="4" tvg-id="ITV Channel" tvg-name="ITV Channel" tvg-logo="https://pbs.twimg.com/profile_images/1082223691503714309/_YSw37G__400x400.jpg" group-title="Entertainment",ITV
+#EXTINF:-1 tvg-id="ITV Channel" tvg-name="ITV Channel" tvg-logo="https://pbs.twimg.com/profile_images/1082223691503714309/_YSw37G__400x400.jpg" group-title="Entertainment",ITV
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=11
-#EXTINF:-1 tvg-chno="5" tvg-id="ITV2" tvg-name="ITV2" tvg-logo="https://www.stream2watch.ws/images/streams/117/stm/14592629385743.jpg" group-title="Entertainment",ITV2
+#EXTINF:-1 tvg-id="ITV2" tvg-name="ITV2" tvg-logo="https://www.stream2watch.ws/images/streams/117/stm/14592629385743.jpg" group-title="Entertainment",ITV2
 http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="ITV4" tvg-name="ITV4" tvg-logo="https://www.stream2watch.ws/images/streams/119/stm/14592630149048.jpg" group-title="Entertainment",ITV4
+#EXTINF:-1 tvg-id="ITV4" tvg-name="ITV4" tvg-logo="https://www.stream2watch.ws/images/streams/119/stm/14592630149048.jpg" group-title="Entertainment",ITV4
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=101
 #EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://i.ytimg.com/vi/IQy0Y29QhCs/hqdefault.jpg" group-title="Entertainment",Channel 4
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=2
