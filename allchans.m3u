@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/mainguide.xml.gz"
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/guide-usa.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" group-title="Shopping",OFC Mercari
 https://www.dropbox.com/s/taob3gdg1ciioja/mercari.mp4?dl=1
 #EXTINF:-1 tvg-chno="2" tvg-id="CNN.us" tvg-name="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" group-title="News",CNN
@@ -110,7 +110,7 @@ https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=22
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/741217/screenshots/2346037/charge-logo.jpg" group-title="Entertainment",Charge!
 https://content-ausw2.uplynk.com/channel/37eb732888614810b512fdd82604244e/g.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828&pbs=60ecd73677574b6cbe5bc2d724d619b1
 #EXTINF:-1 tvg-id="Hallmark Channel (East) (HALMRK)" tvg-name="Hallmark Channel (East) (HALMRK)" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="Entertainment",Hallmark Channel
-https://peer2.ustv.to/Hallmark/myStream/l_13408_9180676_5135.ts?nimblesessionid=157320043&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDg6Mzk6MzIgUE0maGFzaF92YWx1ZT02WVF2NG10Vk5rTk8wRFZoYzBBRlFnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+https://peer5.ustv.to/Hallmark/myStream/l_15736_14700273_6053.ts?nimblesessionid=23715242&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDEwOjExOjI0IFBNJmhhc2hfdmFsdWU9SCtMb01jZXZFQWVKRDUwN2dVcmlBUT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-name="Science" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/320/1x/cbbc/science-logo-final_alt7.png" group-title="Entertainment",Science
 https://peer1.ustv.to/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6Mjg6MzcgUE0maGFzaF92YWx1ZT14NU51eHV1VndTTkltNlUvRitMRStRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-name="CBS" tvg-logo="https://banner2.cleanpng.com/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="Entertainment",CBS
