@@ -8186,11 +8186,118 @@ https://live-content.xumo.com/198/modifiedm3u8/198/content/XM0WDCGQX677OW/212779
 
 
 
-#EXTINF:0 tvg-name="Sonic the Hedgehog - The Animated Movie" tvg-language="English" tvg-country="US" tvg-id="Sonic the Hedgehog - The Animated Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NjQxMzE0MV5BMl5BanBnXkFtZTcwODQ0OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="On-Demand" ,Sonic the Hedgehog - The Animated Movie
-https://www.dropbox.com/s/dp6a626r6m21uq2/Sonic%20the%20Hedgehog%20%28Dub%29%20OVA-720p.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODZkYzM3M2YtYzA1MC00ZGZkLTkzZTgtZWZiMDYwNjliNjFlXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg" group-title="On-Demand",Deathstroke - Knights And Dragons - Part One
+https://3aa37dc0e8bb47e08042e0ebb25acb34.dlvr1.net/nosec/The_CW/772/745/75971141765/Deathstroke-101-KnightsAndDragons-PartOne.m3u8
 
-#EXTINF:0 tvg-name="Sonic the Werehog" tvg-language="English" tvg-country="US" tvg-id="Sonic the Werehog" tvg-logo="https://i.ytimg.com/vi/gL9EtmAUwM4/maxresdefault.jpg" group-title="On-Demand" ,Sonic the Werehog
-https://www.dropbox.com/s/twxpl9ax6t6tvwy/Sonic_%20Night%20of%20the%20WereHog%20ONA-720p.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFiYjlhMWYtZjViOC00Mzg5LTgyYzAtMDhjNzgxOWMxOTI4XkEyXkFqcGdeQXVyMjc0MjgxNzM@._V1_.jpg" group-title="On-Demand",Constantine: City of Demons - Part One
+https://stream-hls.cwtv.com/nosec/The_CW/362/4/COD-Season1_A-E_a47d0672f.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFiYjlhMWYtZjViOC00Mzg5LTgyYzAtMDhjNzgxOWMxOTI4XkEyXkFqcGdeQXVyMjc0MjgxNzM@._V1_.jpg" group-title="On-Demand",Constantine: City of Demons - Part Two
+https://stream-hls.cwtv.com/nosec/The_CW/676/525/47952965932/COD-Sesaon2_F-L_3sAdPods.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91wOBZtX87L._SL1500_.jpg" group-title="On-Demand",Freedom Fighters: The Ray - Part One
+https://stream-hls.cwtv.com/nosec/The_CW/415/732/RAY-Season-1-Stringout_b76a7fd09.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91wOBZtX87L._SL1500_.jpg" group-title="On-Demand",Freedom Fighters: The Ray - Part Two
+https://stream-hls.cwtv.com/nosec/The_CW/838/929/29869637660/RAY-Season-2-Stringout_G-L_V2.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/586/12306586.jpg" group-title="On-Demand",Batman: Mystery of the Batwoman
+https://stream-hls.cwtv.com/nosec/The_CW/479/493/58483781701/BatmanMysteryOfTheBatwoman-Feature-wAdBreaks-CWS.m3u8
+
+#EXTINF:-1 tvg-logo="https://kbimages1-a.akamaihd.net/04f4e6bc-187e-46b5-bcad-2804516e441a/353/569/90/False/the-war-of-the-worlds-78.jpg" group-title="On-Demand",War of the Worlds
+https://cloudfront.tubi.video/01c10a9d-6b0b-4817-b365-18cb47318589/3q5msn40/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/assets/asset/XM0T4BBN1KO8X0/896x504.png" group-title="On-Demand",War of the Worlds 2: The Next Wave
+https://cloudfront.tubi.video/4c56b6d1-f397-465c-8fcb-5e3e3db75e85/1tcsy02t/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.de173.com/wp-content/uploads/2016/06/PX-Movie-Poster-1.jpg" group-title="On-Demand",The Philadelphia Experiment
+https://cloudfront.tubi.video/b6ebbc96-3995-4aef-8ea8-c4bd9c322aa3/jclkb41x/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TXIKPEqHL._RI_.jpg" group-title="On-Demand",Remo Williams: The Adventure Begins...
+https://cloudfront.tubi.video/3fddd884-c0ff-44a0-8fc1-1238b1f89b7a/h9u0wxkx/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.sci-fi-central.com/Database/SF/04/OR/images/Large.jpg" group-title="On-Demand",DNA
+https://cloudfront.tubi.video/c918ec71-3abd-42cd-967c-5591ba819af1/pv9hxy7z/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc3YmU3MzQtNTA4OC00ZjljLWFmODAtZDU1YzY5ZTNkZDU3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR91,0,630,1200_AL_.jpg" group-title="On-Demand",Highlander: The Movie
+https://cloudfront.tubi.video/3ff179c3-edde-4889-a446-fdfd61757acc/lv9fhnix/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY0ODFiNGQtZWQ2Yi00YTc0LWFhYTUtMmE3NGNhY2FhMmYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="On-Demand",Highlander 2: The Quickening
+https://cloudfront.tubi.video/2de93f15-50c0-4134-a43e-2484fab8a027/zu2znn1q/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/86/49/14/864914eb859cc0dda32f8333f3110b4e.jpg" group-title="On-Demand",I Spit on Your Grave
+https://cloudfront.tubi.video/1eaf65cb-cf48-4b85-a05a-fa8492a87b7f/8v62e5c8/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1Nzk3NjM0M15BMl5BanBnXkFtZTgwMjM5MzYyMDE@._V1_.jpg" group-title="On-Demand",I Spit on Your Grave 2
+https://cloudfront.tubi.video/8b4c59d1-335d-471b-ac55-ca9aeb1af38a/sq7nwe7n/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TZeTMaa1L._SL1500_.jpg" group-title="On-Demand",I Spit on Your Grave 3
+https://cloudfront.tubi.video/2b71b37f-f6f7-4991-b904-51bf51211582/e4qqfztl/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUzODQ5MDY5NV5BMl5BanBnXkFtZTgwOTc1NzcyMjE@._V1_.jpg" group-title="On-Demand",Teenage Mutant Ninja Turtles
+https://cloudfront.tubi.video/e6147dfe-0fac-4ed9-9990-7fc2b497049a/6su9jbd5/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images02.adrise.tv/0EP7SchNjiXv5PLuNsojxAOkV5Q=/400x574/smart/img.adrise.tv/5c8a8d5a-6f52-4834-9986-b39cba8f77cd.jpg" group-title="On-Demand",Ronin Mecha 1: Captain of Cosmos
+https://cloudfront.tubi.video/488c6884-c69f-454a-b6c1-1382eb3ccb4b/fg79mqkh/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.adrise.tv/cEeS9U7mrxcyt-bpbSwVk2-biME=/400x574/smart/img.adrise.tv/b60c047a-c555-4661-825a-863749c14909.jpg" group-title="On-Demand",Ronin Mecha 2: Defenders of Space
+https://cloudfront.tubi.video/c6013c9b-5401-4521-b3c3-6e499c672ee0/v292x4ts/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images02.adrise.tv/ScUlZABwUMmxfI892aGbNgmjlms=/400x574/smart/img.adrise.tv/d32fc509-d72c-4869-adaa-2fe805791ee5.jpg" group-title="On-Demand",Ronin Mecha 3: Space Transformer
+https://cloudfront.tubi.video/fc9f1e79-6ad7-4b34-b35c-d0f31dc9cd85/226c10nq/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images02.adrise.tv/BYJ-7mO6zjqLRr5YkTTz3vT07sM=/400x574/smart/img.adrise.tv/fc587d6f-2d77-4889-bd11-cb2e870a4d54.jpg" group-title="On-Demand",Ronin Mecha 4: Wonder of Frontier
+https://cloudfront.tubi.video/3d0dca5f-89ed-4f77-9d0e-4a58ce00c859/suenh887/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-XUK4UDMy9Lw/VlLjCyVWMdI/AAAAAAAAFIE/5UQATzf1QJY/s1600/Ninja%2B-%2BShadow%2Bof%2Ba%2BTear%2B%25282013%2529.jpg" group-title="On-Demand",Ninja
+https://cloudfront.tubi.video/f88bdca4-c4bf-4d5e-8a15-6f2c26dbe40a/po5idp5w/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MjI3NTE5NzleQTJeQWpwZ15BbWU4MDc2Mjg5ODAx._V1_.jpg" group-title="On-Demand",Ninja 2: Shadow of a Tear
+https://cloudfront.tubi.video/18529655-6e02-402d-abb0-93ad78dee2ca/j1uyajii/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4MTA3NjQ5M15BMl5BanBnXkFtZTgwNzYzMDMwNTE@._V1_.jpg" group-title="On-Demand",Ninja the Immovable Heart
+https://cloudfront.tubi.video/5ba3957e-4249-4197-9511-df877092c099/2y1fopz5/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY0MTEyNjQtYmM4Mi00Mjc1LWI2M2UtNmNlOTZlYmE4OWFhXkEyXkFqcGdeQXVyMTc1MTQxMjM@._V1_.jpg" group-title="On-Demand",Monsterland
+https://cloudfront.tubi.video/33a5a2f4-038f-4906-a7f6-1ee3151b1cd5/f59vy4mu/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815rWYO8CdL._SL1500_.jpg" group-title="On-Demand",Monsterland 2
+https://cloudfront.tubi.video/02851608-c735-4ccd-a86f-d41163ef4935/hjbh1bpm/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Y5BIDCqPL._RI_.jpg" group-title="On-Demand",Moribito: Guardian of the Spirit
+https://cloudfront.tubi.video/9863eb80-0bc0-475e-bf3d-3446433dc16b/0o8b3o2y/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmZTFhYjktMmYyZi00ZmE4LWI0NGEtMDY2MGEzMDY0YjdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="On-Demand",Teen Wolf
+https://cloudfront.tubi.video/98a62b7a-1858-462e-9b36-7eab1fb4ca0f/wf3mf9au/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/243727/4871877/MOVEH6259__19893.1542165331.jpg" group-title="On-Demand",Teen Wolf 2
+https://cloudfront.tubi.video/a8dde831-905d-4d0c-ae86-edcf0acb4b25/k46nf4f4/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0OTgxMDQwNl5BMl5BanBnXkFtZTgwMzk2MTU4MDE@._V1_.jpg" group-title="On-Demand",Black Coffee
+https://cloudfront.tubi.video/a83e9a81-d1df-4c07-a638-ad9b2094a8e8/2rk4lx79/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk1NDc5NDI1MF5BMl5BanBnXkFtZTgwMDMzNzMwODE@._V1_.jpg" group-title="On-Demand",A Weekend With the Family
+https://cloudfront.tubi.video/23f8f02c-6bd0-4a69-83b2-1ebb34636baa/omzrw6bq/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91By5NM0pFL._RI_.jpg" group-title="On-Demand",The Dirty 30
+https://cloudfront.tubi.video/7bab401a-441f-4e96-b944-cd171bc66a13/c3e2v2a0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0NTIxNTQ2OV5BMl5BanBnXkFtZTcwNTc2ODUzMQ@@._V1_.jpg" group-title="On-Demand",In The Mix
+https://cloudfront.tubi.video/8c58e1f0-7612-4f26-b07d-bc3d525f73db/d1of3zju/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_LsCWy_0P9o/maxresdefault.jpg" group-title="On-Demand",Act Like You Love Me
+https://cloudfront.tubi.video/986b2c4a-5c61-4eb9-8978-422772a0c6ee/96gxjuga/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxNDc4MzAyNV5BMl5BanBnXkFtZTYwMzQ1NDc2._V1_UY1200_CR89,0,630,1200_AL_.jpg" group-title="On-Demand",Be Cool
+https://cloudfront.tubi.video/f2e778cf-cd9d-4fe9-9672-8632628e204e/q52l6f5j/stream.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/cobra_nero-284208881-large.jpg" group-title="On-Demand",The Black Cobra (1987)
@@ -12322,117 +12429,6 @@ https://archive.org/download/Granddad1913/Granddad%201913.mp4
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODZkYzM3M2YtYzA1MC00ZGZkLTkzZTgtZWZiMDYwNjliNjFlXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg" group-title="On-Demand",Deathstroke - Knights And Dragons - Part One
-https://3aa37dc0e8bb47e08042e0ebb25acb34.dlvr1.net/nosec/The_CW/772/745/75971141765/Deathstroke-101-KnightsAndDragons-PartOne.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFiYjlhMWYtZjViOC00Mzg5LTgyYzAtMDhjNzgxOWMxOTI4XkEyXkFqcGdeQXVyMjc0MjgxNzM@._V1_.jpg" group-title="On-Demand",Constantine: City of Demons - Part One
-https://stream-hls.cwtv.com/nosec/The_CW/362/4/COD-Season1_A-E_a47d0672f.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFiYjlhMWYtZjViOC00Mzg5LTgyYzAtMDhjNzgxOWMxOTI4XkEyXkFqcGdeQXVyMjc0MjgxNzM@._V1_.jpg" group-title="On-Demand",Constantine: City of Demons - Part Two
-https://stream-hls.cwtv.com/nosec/The_CW/676/525/47952965932/COD-Sesaon2_F-L_3sAdPods.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91wOBZtX87L._SL1500_.jpg" group-title="On-Demand",Freedom Fighters: The Ray - Part One
-https://stream-hls.cwtv.com/nosec/The_CW/415/732/RAY-Season-1-Stringout_b76a7fd09.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91wOBZtX87L._SL1500_.jpg" group-title="On-Demand",Freedom Fighters: The Ray - Part Two
-https://stream-hls.cwtv.com/nosec/The_CW/838/929/29869637660/RAY-Season-2-Stringout_G-L_V2.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/586/12306586.jpg" group-title="On-Demand",Batman: Mystery of the Batwoman
-https://stream-hls.cwtv.com/nosec/The_CW/479/493/58483781701/BatmanMysteryOfTheBatwoman-Feature-wAdBreaks-CWS.m3u8
-
-#EXTINF:-1 tvg-logo="https://kbimages1-a.akamaihd.net/04f4e6bc-187e-46b5-bcad-2804516e441a/353/569/90/False/the-war-of-the-worlds-78.jpg" group-title="On-Demand",War of the Worlds
-https://cloudfront.tubi.video/01c10a9d-6b0b-4817-b365-18cb47318589/3q5msn40/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/assets/asset/XM0T4BBN1KO8X0/896x504.png" group-title="On-Demand",War of the Worlds 2: The Next Wave
-https://cloudfront.tubi.video/4c56b6d1-f397-465c-8fcb-5e3e3db75e85/1tcsy02t/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.de173.com/wp-content/uploads/2016/06/PX-Movie-Poster-1.jpg" group-title="On-Demand",The Philadelphia Experiment
-https://cloudfront.tubi.video/b6ebbc96-3995-4aef-8ea8-c4bd9c322aa3/jclkb41x/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TXIKPEqHL._RI_.jpg" group-title="On-Demand",Remo Williams: The Adventure Begins...
-https://cloudfront.tubi.video/3fddd884-c0ff-44a0-8fc1-1238b1f89b7a/h9u0wxkx/stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.sci-fi-central.com/Database/SF/04/OR/images/Large.jpg" group-title="On-Demand",DNA
-https://cloudfront.tubi.video/c918ec71-3abd-42cd-967c-5591ba819af1/pv9hxy7z/stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc3YmU3MzQtNTA4OC00ZjljLWFmODAtZDU1YzY5ZTNkZDU3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR91,0,630,1200_AL_.jpg" group-title="On-Demand",Highlander: The Movie
-https://cloudfront.tubi.video/3ff179c3-edde-4889-a446-fdfd61757acc/lv9fhnix/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY0ODFiNGQtZWQ2Yi00YTc0LWFhYTUtMmE3NGNhY2FhMmYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="On-Demand",Highlander 2: The Quickening
-https://cloudfront.tubi.video/2de93f15-50c0-4134-a43e-2484fab8a027/zu2znn1q/stream.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/86/49/14/864914eb859cc0dda32f8333f3110b4e.jpg" group-title="On-Demand",I Spit on Your Grave
-https://cloudfront.tubi.video/1eaf65cb-cf48-4b85-a05a-fa8492a87b7f/8v62e5c8/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1Nzk3NjM0M15BMl5BanBnXkFtZTgwMjM5MzYyMDE@._V1_.jpg" group-title="On-Demand",I Spit on Your Grave 2
-https://cloudfront.tubi.video/8b4c59d1-335d-471b-ac55-ca9aeb1af38a/sq7nwe7n/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TZeTMaa1L._SL1500_.jpg" group-title="On-Demand",I Spit on Your Grave 3
-https://cloudfront.tubi.video/2b71b37f-f6f7-4991-b904-51bf51211582/e4qqfztl/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUzODQ5MDY5NV5BMl5BanBnXkFtZTgwOTc1NzcyMjE@._V1_.jpg" group-title="On-Demand",Teenage Mutant Ninja Turtles
-https://cloudfront.tubi.video/e6147dfe-0fac-4ed9-9990-7fc2b497049a/6su9jbd5/stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images02.adrise.tv/0EP7SchNjiXv5PLuNsojxAOkV5Q=/400x574/smart/img.adrise.tv/5c8a8d5a-6f52-4834-9986-b39cba8f77cd.jpg" group-title="On-Demand",Ronin Mecha 1: Captain of Cosmos
-https://cloudfront.tubi.video/488c6884-c69f-454a-b6c1-1382eb3ccb4b/fg79mqkh/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.adrise.tv/cEeS9U7mrxcyt-bpbSwVk2-biME=/400x574/smart/img.adrise.tv/b60c047a-c555-4661-825a-863749c14909.jpg" group-title="On-Demand",Ronin Mecha 2: Defenders of Space
-https://cloudfront.tubi.video/c6013c9b-5401-4521-b3c3-6e499c672ee0/v292x4ts/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://images02.adrise.tv/ScUlZABwUMmxfI892aGbNgmjlms=/400x574/smart/img.adrise.tv/d32fc509-d72c-4869-adaa-2fe805791ee5.jpg" group-title="On-Demand",Ronin Mecha 3: Space Transformer
-https://cloudfront.tubi.video/fc9f1e79-6ad7-4b34-b35c-d0f31dc9cd85/226c10nq/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://images02.adrise.tv/BYJ-7mO6zjqLRr5YkTTz3vT07sM=/400x574/smart/img.adrise.tv/fc587d6f-2d77-4889-bd11-cb2e870a4d54.jpg" group-title="On-Demand",Ronin Mecha 4: Wonder of Frontier
-https://cloudfront.tubi.video/3d0dca5f-89ed-4f77-9d0e-4a58ce00c859/suenh887/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-XUK4UDMy9Lw/VlLjCyVWMdI/AAAAAAAAFIE/5UQATzf1QJY/s1600/Ninja%2B-%2BShadow%2Bof%2Ba%2BTear%2B%25282013%2529.jpg" group-title="On-Demand",Ninja
-https://cloudfront.tubi.video/f88bdca4-c4bf-4d5e-8a15-6f2c26dbe40a/po5idp5w/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MjI3NTE5NzleQTJeQWpwZ15BbWU4MDc2Mjg5ODAx._V1_.jpg" group-title="On-Demand",Ninja 2: Shadow of a Tear
-https://cloudfront.tubi.video/18529655-6e02-402d-abb0-93ad78dee2ca/j1uyajii/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4MTA3NjQ5M15BMl5BanBnXkFtZTgwNzYzMDMwNTE@._V1_.jpg" group-title="On-Demand",Ninja the Immovable Heart
-https://cloudfront.tubi.video/5ba3957e-4249-4197-9511-df877092c099/2y1fopz5/stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY0MTEyNjQtYmM4Mi00Mjc1LWI2M2UtNmNlOTZlYmE4OWFhXkEyXkFqcGdeQXVyMTc1MTQxMjM@._V1_.jpg" group-title="On-Demand",Monsterland
-https://cloudfront.tubi.video/33a5a2f4-038f-4906-a7f6-1ee3151b1cd5/f59vy4mu/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815rWYO8CdL._SL1500_.jpg" group-title="On-Demand",Monsterland 2
-https://cloudfront.tubi.video/02851608-c735-4ccd-a86f-d41163ef4935/hjbh1bpm/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Y5BIDCqPL._RI_.jpg" group-title="On-Demand",Moribito: Guardian of the Spirit
-https://cloudfront.tubi.video/9863eb80-0bc0-475e-bf3d-3446433dc16b/0o8b3o2y/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFmZTFhYjktMmYyZi00ZmE4LWI0NGEtMDY2MGEzMDY0YjdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="On-Demand",Teen Wolf
-https://cloudfront.tubi.video/98a62b7a-1858-462e-9b36-7eab1fb4ca0f/wf3mf9au/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/243727/4871877/MOVEH6259__19893.1542165331.jpg" group-title="On-Demand",Teen Wolf 2
-https://cloudfront.tubi.video/a8dde831-905d-4d0c-ae86-edcf0acb4b25/k46nf4f4/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0OTgxMDQwNl5BMl5BanBnXkFtZTgwMzk2MTU4MDE@._V1_.jpg" group-title="On-Demand",Black Coffee
-https://cloudfront.tubi.video/a83e9a81-d1df-4c07-a638-ad9b2094a8e8/2rk4lx79/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk1NDc5NDI1MF5BMl5BanBnXkFtZTgwMDMzNzMwODE@._V1_.jpg" group-title="On-Demand",A Weekend With the Family
-https://cloudfront.tubi.video/23f8f02c-6bd0-4a69-83b2-1ebb34636baa/omzrw6bq/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91By5NM0pFL._RI_.jpg" group-title="On-Demand",The Dirty 30
-https://cloudfront.tubi.video/7bab401a-441f-4e96-b944-cd171bc66a13/c3e2v2a0/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0NTIxNTQ2OV5BMl5BanBnXkFtZTcwNTc2ODUzMQ@@._V1_.jpg" group-title="On-Demand",In The Mix
-https://cloudfront.tubi.video/8c58e1f0-7612-4f26-b07d-bc3d525f73db/d1of3zju/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_LsCWy_0P9o/maxresdefault.jpg" group-title="On-Demand",Act Like You Love Me
-https://cloudfront.tubi.video/986b2c4a-5c61-4eb9-8978-422772a0c6ee/96gxjuga/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxNDc4MzAyNV5BMl5BanBnXkFtZTYwMzQ1NDc2._V1_UY1200_CR89,0,630,1200_AL_.jpg" group-title="On-Demand",Be Cool
-https://cloudfront.tubi.video/f2e778cf-cd9d-4fe9-9672-8632628e204e/q52l6f5j/stream.m3u8
 
 
 
@@ -12440,9 +12436,247 @@ https://cloudfront.tubi.video/f2e778cf-cd9d-4fe9-9672-8632628e204e/q52l6f5j/stre
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VDWLEPVjRSc/maxresdefault.jpg" group-title="On-Demand/Sonic",Sonic's Christmas Blast
+#EXTINF:0 tvg-name="Sonic the Hedgehog - The Animated Movie" tvg-language="English" tvg-country="US" tvg-id="Sonic the Hedgehog - The Animated Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NjQxMzE0MV5BMl5BanBnXkFtZTcwODQ0OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="On-Demand" ,Sonic the Hedgehog - The Animated Movie
+https://www.dropbox.com/s/dp6a626r6m21uq2/Sonic%20the%20Hedgehog%20%28Dub%29%20OVA-720p.mp4?dl=1
+
+#EXTINF:0 tvg-name="Sonic the Werehog" tvg-language="English" tvg-country="US" tvg-id="Sonic the Werehog" tvg-logo="https://i.ytimg.com/vi/gL9EtmAUwM4/maxresdefault.jpg" group-title="On-Demand" ,Sonic the Werehog
+https://www.dropbox.com/s/twxpl9ax6t6tvwy/Sonic_%20Night%20of%20the%20WereHog%20ONA-720p.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VDWLEPVjRSc/maxresdefault.jpg" group-title="On-Demand-Sonic",Sonic's Christmas Blast
 https://cloudfront.tubi.video/f825266b-9f57-44c9-ab9c-af509c571f7f/0sqhheqg/stream.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",1
+https://cloudfront.tubi.video/09a752f7-2a5e-4e3a-8758-1319f7bba041/vmvosctz/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",2
+https://cloudfront.tubi.video/2c5a7246-2492-4d51-8f27-44e0d954ea5d/m9mnb7ml/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",3
+https://cloudfront.tubi.video/24774790-a601-4da2-8d6b-26c26b102f68/idze3b0v/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",4
+https://cloudfront.tubi.video/f177cc21-bede-421f-a32a-4b31cae38572/thnt80ne/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",5
+https://cloudfront.tubi.video/7f90b0c9-4725-40b1-adcf-bfbabcb507c9/aeoj6ib8/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",6
+https://cloudfront.tubi.video/abfed947-52f5-4ea5-a1b7-9f3d68a4c455/n7uw2zu6/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",7
+https://cloudfront.tubi.video/58b639a6-ca98-479c-9b9a-fa071a6c8758/6t325d3p/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",8
+https://cloudfront.tubi.video/ee2f2bec-46b0-459f-a899-716116e18dcb/3rignucj/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",9
+https://cloudfront.tubi.video/cc662450-8aaa-4b96-823b-3469cf42718f/3hmqw19x/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",10
+https://cloudfront.tubi.video/7e3e1a1e-5159-4daf-b96f-c63ac0d1f661/3unkileh/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",11
+https://cloudfront.tubi.video/b2a587dc-8d4c-49ad-a28d-25fe656661e9/1433erzi/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",12
+https://cloudfront.tubi.video/8f3f3b68-1874-4cd2-96d7-e8b74a9d823c/3xhi9rpi/stream.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/sonic/images/e/e1/STH_TV_Season_2_Poster.jpg" group-title="On-Demand-Sonic the Hedgehog",13
+https://cloudfront.tubi.video/cdeabe27-e2ab-47e5-baee-b205c0e78463/g94u7ulb/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",1
+https://cloudfront.tubi.video/299f76ac-b507-4000-ae06-21946f0f95a3/rdf9adwh/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",2
+https://cloudfront.tubi.video/d69b536c-6811-4b60-8ebf-7f24f628d402/gwktvhqh/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",3
+https://cloudfront.tubi.video/72ef6935-772b-4ceb-acd0-c83452481ad5/yqyzgv0n/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",4
+https://cloudfront.tubi.video/52b7a331-d471-4847-ad8e-6a5fc8375fcd/n75oinhq/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",5
+https://cloudfront.tubi.video/fa41f337-043b-4e66-aa80-209b4d606f60/ayxp6gk0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",6
+https://cloudfront.tubi.video/8669e1c9-b68f-4f3c-a6a8-534eaf1dcd58/bsot4pem/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",7
+https://cloudfront.tubi.video/29e8b9f5-28d7-4d38-b1be-5bb19cccbada/q5vkczkz/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",8
+https://cloudfront.tubi.video/58aec0f5-9bc7-43dc-9879-dba6fc820813/avcpuplj/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",9
+https://cloudfront.tubi.video/0d5a7788-0d5a-4eaa-af38-69d035cc3b54/bnyov2s1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",10
+https://cloudfront.tubi.video/7ac05550-c1a2-4b21-a788-a7fdd095b46a/cwmaous1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",11
+https://cloudfront.tubi.video/648745cf-9c91-4193-9d60-e3d795a579f0/5kt6qse0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",12
+https://cloudfront.tubi.video/d3252ad6-b389-49a4-a7e0-9e66aaa65a4a/ytu1esn5/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",13
+https://cloudfront.tubi.video/6bdb1d54-e01c-4b2b-b9ce-1095481c1596/ecl6mn2z/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",14
+https://cloudfront.tubi.video/acb3306c-0969-43c4-a6a7-3b2b099d4f54/ymcgbm7y/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",15
+https://cloudfront.tubi.video/0f7a2945-66c8-4a38-9409-6defa6a9488b/fx9qhz1b/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",16
+https://cloudfront.tubi.video/f1346e77-08a9-4fd8-8143-71ae37fb7959/9uov26a9/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",17
+https://cloudfront.tubi.video/8cc30956-0fb4-4987-9635-9bee493fd185/6uu8eq1i/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",18
+https://cloudfront.tubi.video/5515c439-64c0-446d-9108-df32706f9d07/hk7u59jm/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",19
+https://cloudfront.tubi.video/d01415ec-edba-41e7-b980-bd45450ab96a/rogv4jv9/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gczv9jINL.jpg" group-title="On-Demand - Sonic Underground",2
+https://cloudfront.tubi.video/6b4cff8b-a236-4c59-92c3-a5a767935f87/tk77mv1r/stream.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",1
+https://cloudfront.tubi.video/ed35b1de-3ee0-4a40-8a69-c6f81a412e1e/3371xw5j/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",2
+https://cloudfront.tubi.video/4fe7da54-1bf7-454d-a205-f615db1390c5/nbjo0f2z/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",3
+https://cloudfront.tubi.video/51062640-8d5a-447d-973c-cc07c27122e1/kav8sg76/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",4
+https://cloudfront.tubi.video/b89162f3-a18f-4ffd-a6fc-21080c497e50/q1ng9725/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",5
+https://cloudfront.tubi.video/783b3494-28ce-4539-b971-b983026604f4/r2xzup04/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",6
+https://cloudfront.tubi.video/bf5ea87c-8946-4f71-b369-61b66d430235/jnyqtlhp/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",7
+https://cloudfront.tubi.video/03ef7994-7fb4-40b2-9bc0-3b1635aeb920/5ja2ked9/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",8
+https://cloudfront.tubi.video/2878db11-d546-45c7-bdfa-888a85f2a020/u8tctymh/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",9
+https://cloudfront.tubi.video/e646c49c-b50f-420a-8e40-73a33c06678a/fojin15q/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",10
+https://cloudfront.tubi.video/220d5d2e-9db6-4738-a10a-eb3f1c628117/c7crjct1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",11
+https://cloudfront.tubi.video/b5f4149c-b921-4b4e-afb4-ff66034c40c5/hh3gvu8t/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",12
+https://cloudfront.tubi.video/c1a27341-1b0b-48f1-822a-32b7aab3c2ee/z2lhbnn0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",13
+https://cloudfront.tubi.video/397b5b8c-31dc-47a8-94f3-abc0edd4faab/o0lcoufm/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",14
+https://cloudfront.tubi.video/6ead9f56-f192-424b-88db-40e78c7a6738/yn3aaf57/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",15
+https://cloudfront.tubi.video/24f286aa-6edb-47cd-9096-c3265b8a9689/jwercjas/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",16
+https://cloudfront.tubi.video/b3d661f2-6f64-4574-92c1-3f24f4164db0/i844oq6b/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",17
+https://cloudfront.tubi.video/b72beeb4-e756-417e-9dd3-ccc139a93959/mkf40qzz/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",18
+https://cloudfront.tubi.video/a354ae8e-fe5d-4f13-af21-5a40d0a313a9/i48jsnrx/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",19
+https://cloudfront.tubi.video/7bd2fe13-dd29-44ee-b70e-20c83bad9717/xhg3vs64/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",21
+https://cloudfront.tubi.video/1453a263-1b45-43ef-8e6f-48a3a3353590/qdlfuw19/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",22
+https://cloudfront.tubi.video/9894ef6b-8288-44a0-9023-00f37387e0c6/jogz0jhe/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",23
+https://cloudfront.tubi.video/b86845b6-aced-4efd-a3b2-8c9180cac369/vobvmw69/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",24
+https://cloudfront.tubi.video/d1a827ff-1f9e-439a-9d50-971b895b742b/o4nkvjmg/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",25
+https://cloudfront.tubi.video/50c796ad-5643-45f3-a62b-cf257399d189/8rgkj9c7/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",26
+https://cloudfront.tubi.video/0ccbea71-8673-4780-b99a-58938609282b/ndz4km1a/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",27
+https://cloudfront.tubi.video/0842a802-0c24-4e6e-92b1-4af437dbac9c/a502p8e0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",28
+https://cloudfront.tubi.video/7ef2daf3-4db5-407c-bf70-4d6cbbbd9424/yadmztqf/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",29
+https://cloudfront.tubi.video/66e9e19d-518a-4a96-8101-186bf48032f7/58jnpjcm/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",30
+https://cloudfront.tubi.video/b38b26ab-3342-4cf5-b9af-2a28568e6c31/uy8ao2ed/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",31
+https://cloudfront.tubi.video/9b80689d-b68c-4425-9ab7-5fc21ae6303a/58p40my7/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",32
+https://cloudfront.tubi.video/af32fc42-daf8-4c41-92a1-6314f4a2dc24/2ghnhtq8/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",33
+https://cloudfront.tubi.video/39c92d4f-8a1b-4c0c-9966-b564a8e040f1/3kk4j8qt/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",34
+https://cloudfront.tubi.video/b727bdb1-ce2e-4bac-8fe4-6f489e7a6810/dvocpbry/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",35
+https://cloudfront.tubi.video/1821b26c-8c7e-47b8-aabb-3bbd9993a541/0jbrnzie/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",36
+https://cloudfront.tubi.video/664be889-61ad-43c4-96fa-a6d59ce25bd0/csxdbi77/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",37
+https://cloudfront.tubi.video/0a3d7d35-7f19-460b-b437-d9d3541ebb63/i3b7gpex/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",38
+https://cloudfront.tubi.video/2b1aa74a-cf63-43cb-9248-8ee49b204f08/ckxbsyac/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",39
+https://cloudfront.tubi.video/c19ac3b3-39b3-4747-930d-94fb53c4a301/b0zu9d51/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",40
+https://cloudfront.tubi.video/6ce07b35-cdac-46c6-a1d9-3f3d2be46ac7/f997imi7/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",41
+https://cloudfront.tubi.video/dcac4aca-45d6-4296-85ea-239996f812ef/66cxfr2j/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",42
+https://cloudfront.tubi.video/39622f98-6239-4225-801f-e5e3c807c5bd/lj5paqm5/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",43
+https://cloudfront.tubi.video/5b2313da-e75e-496c-9ce6-da19423041ae/xhf5f7n1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",44
+https://cloudfront.tubi.video/11d8e005-b4dc-4067-bd78-b10c4acc8f75/6hwpe93n/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",45
+https://cloudfront.tubi.video/dc3a7dc4-6511-4e5a-817c-f1700061a70b/tvb5lm3l/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",46
+https://cloudfront.tubi.video/12805668-1030-47f8-8c49-3f233d8a3777/abeeao50/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",47
+https://cloudfront.tubi.video/55c5b13c-5d02-4d37-af22-24160eb76869/6xzyzj9w/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",48
+https://cloudfront.tubi.video/202a1461-a154-4000-8157-4030ba85d17d/gfjgie8c/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",49
+https://cloudfront.tubi.video/3da5671a-7cf8-4d63-bbd7-8eb19e46ed05/qhdtda2x/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",50
+https://cloudfront.tubi.video/27874f5e-a6c7-49e5-99b0-aaf051feeb2e/zbuu6apm/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",51
+https://cloudfront.tubi.video/73294c2b-941d-4709-bf6b-3b8621d5de0c/ftz4wmd4/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",52
+https://cloudfront.tubi.video/fd3fae3a-6c19-45d7-bb22-7e1f4dad6e97/3v0ev0b6/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",53
+https://cloudfront.tubi.video/0fe10a12-a052-41e6-a8a6-782483ae0ca9/w0yvt9ff/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",54
+https://cloudfront.tubi.video/e5ccc743-e1e9-43a5-a152-4a2ee29c03fd/gt7piuq7/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",55
+https://cloudfront.tubi.video/d0827de2-ecbc-423b-9d2d-38c380febd0d/act3kh66/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",56
+https://cloudfront.tubi.video/f7ad7d0f-56d0-4f07-98ac-9840f31de62a/q92fk5ra/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",57
+https://cloudfront.tubi.video/931a577b-56ff-446c-8213-aaff64ea6ff6/jea0qj0t/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",58
+https://cloudfront.tubi.video/485931bb-9f5d-460f-97da-4fb31244bd60/pi07gggn/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",59
+https://cloudfront.tubi.video/a7220fb5-d83a-4bde-872f-b3d12f36f8b6/ujrm550k/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",60
+https://cloudfront.tubi.video/42b324eb-bbca-4d2f-bd78-55ead7491a3f/5bbp587k/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",61
+https://cloudfront.tubi.video/457b5c8a-0903-4d28-a36e-f22d0f9c2e13/mesyllve/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",62
+https://cloudfront.tubi.video/ddafeaba-9295-4563-8037-9206a38a994c/qa524hh7/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",63
+https://cloudfront.tubi.video/497b68b1-5ec3-4733-b7d1-9032c1b8a457/jmhop9p5/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",64
+https://cloudfront.tubi.video/ec8d62ee-21f6-42c6-a7d3-0d4b78ee96ac/u2d7ec5m/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",65
+https://cloudfront.tubi.video/f4edae6b-8995-4545-acb0-c0d92ebc2408/qit8ag8e/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",66
+https://cloudfront.tubi.video/4cc8b34d-ea63-4d55-add3-bccf6e6069ec/sllyqb7b/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",67
+https://cloudfront.tubi.video/51870192-c8ba-484f-b833-ca404847d8b0/zlpeidz8/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",68
+https://cloudfront.tubi.video/179af07c-9b39-405f-a223-b444a690ce28/4y78hevq/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",69
+https://cloudfront.tubi.video/4e4cf690-d1f4-4c84-b3d0-d8c2db4b9456/7r0liwdg/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",70
+https://cloudfront.tubi.video/1bc3f8a8-0ca7-445b-86b6-e70a97dc3cef/7ctg7chl/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",71
+https://cloudfront.tubi.video/204a8b3c-f7ef-4b3b-8e6a-cc0e2f8985ae/pvw2coc0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",72
+https://cloudfront.tubi.video/f5c204c7-aef9-4980-9bae-0c8eaf2aec09/pczsw67h/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",73
+https://cloudfront.tubi.video/9c81f27a-f8f7-493f-b616-9193912995b3/3ghbzmvg/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",74
+https://cloudfront.tubi.video/68563a91-df46-47c1-83e7-df93c9e760a6/6y1582ut/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",75
+https://cloudfront.tubi.video/ad6e0724-4be2-4caa-8855-917373f1e866/20hswd5o/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",76
+https://cloudfront.tubi.video/ba852019-a079-43ae-8861-efda83423d88/1awlp3so/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",77
+https://cloudfront.tubi.video/5ff45dee-3d79-491a-aa47-00b808545da4/myeco2mz/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",78
+https://cloudfront.tubi.video/c2fa159e-856e-4784-84e3-bc573c6ab4d2/1dyj40xc/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TmthpLhTL._SL1500_.jpg" group-title="On-Demand - Sonic X",79
+https://cloudfront.tubi.video/a120dcc3-860a-4f84-9031-d67567e88200/dodqeb36/stream.m3u8
 
 
 
