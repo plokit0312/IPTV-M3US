@@ -1,30 +1,12 @@
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/mainguide.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-name="OFC Mercari" tvg-logo="https://www.dropbox.com/s/ln8v3u3zhhh1pfy/2020-02-17_16h09_21.png?dl=1" group-title="Shopping",OFC Mercari
 https://www.dropbox.com/s/taob3gdg1ciioja/mercari.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/www.scripps.com/ample_admin/attachments/files/000/002/336/original/3%20News%20Now%20Image.jpg" group-title="News",KMTV
+#EXTINF:-1 tvg-chno="1" tvg-id="KMTV" tvg-name="KMTV" tvg-logo="https://s3.amazonaws.com/www.scripps.com/ample_admin/attachments/files/000/002/336/original/3%20News%20Now%20Image.jpg" group-title="News",KMTV
 https://content-ausw4.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70/e.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dvideos%26categories%3D%26refdomain%3D3newsnow.com%26iframed%3D0%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&pbs=a6a51b1c63844546bbae6503d22aea07
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" group-title="News",CNN
+#EXTINF:-1 tvg-chno="2" tvg-id="CNN.us" tvg-name="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" group-title="News",CNN
 http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
-#EXTINF:0 tvg-id="i24News.en.nws" tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png" group-title="News",i24 News (News) (US) (English)
+#EXTINF:0 tvg-chno="3" tvg-id="i24News.en.nws" tvg-name="i24News.en.nws" tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png" group-title="News",i24 News (News) (US)
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-#EXTINF:0 tvg-id="news24" tvg-name="24 News" tvg-logo="http://i.imgur.com/VvA12Zz.jpg" group-title="News",24 News (News) (FR) (French)
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
-#EXTINF:0 tvg-id="ABP Asmita" tvg-name="ABP Asmita" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita (News) (IN) (Gujarati)
-http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
-#EXTINF:0 tvg-id="ABPNews.uk" tvg-name="ABP News" tvg-logo="http://a3.mzstatic.com/us/r30/Purple5/v4/2b/fc/2a/2bfc2a1c-1c9d-cdd4-4158-3253f0184560/icon175x175.png" group-title="News",ABP News (News) (IN) (Hindi)
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:0 tvg-id="AFRICABLE" tvg-name="AFRICABLE" tvg-logo="http://i.imgur.com/3W72VtI.jpg" group-title="News",AFRICABLE (News) (CF/CG) (French)
-http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-p.m3u8
-#EXTINF:0 tvg-id="AO Vivo" tvg-name="AO Vivo" tvg-logo="https://pbs.twimg.com/profile_images/2722537135/b531823696eb9e864710dd49102b7704_400x400.png" group-title="News",AO Vivo (News) (BR) (Portuguese)
-rtmp://srvvenus.canaldoboi.com/livecb/livestream
-#EXTINF:0 tvg-id="Aaj Tak Delhi" tvg-name="Aaj Tak Delhi" tvg-logo="http://malayalamhdtv2.com/admin_mhdtv/mhdtv/numbers/aaj_tak_delhi.png" group-title="News",Aaj Tak Delhi (News) (IN) (Hindi)
-http://livestream-f.akamaihd.net/i/14014394_1207184_1ae878c6_1@333052/master.m3u8?__b__=678&dw=100&hdnea=st=1469493899~exp=1469495699~acl=/i/14014394_1207184_1ae878c6_1@333052/*~hmac=3f53855768d6b150a964827bbf14be26abadc44b1f6f67866dbaee9c3dcd84d9&__a__=off
-#EXTINF:0 tvg-id="Aaj Tak Tez" tvg-name="Aaj Tak Tez" tvg-logo="http://media2.intoday.in/aajtak/static/tez/Tez_logo.png" group-title="News",Aaj Tak Tez (News) (IN) (Hindi)
-https://livestream-f.akamaihd.net/i/13995833_4198957_lsiggfmm7y60iq2i7st_1@447165/master.m3u8?__b__=678&dw=100&hdnea=st=1487175694~exp=1487177494~acl=/i/13995833_4198957_lsiggfmm7y60iq2i7st_1@447165/*~hmac=08a9c23088c500039edb959a0f0ffba8ff58933a997b228eb893fc61a02d73b3&__a__=off
-#EXTINF:0 tvg-id="Al Baghdadia 2" tvg-name="Al Baghdadia 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_baghdadia.jpg" group-title="News",Al Baghdadia 2 (News) (IQ) (Arabic)
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-#EXTINF:0 tvg-id="AlJazeera.nws" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/477px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera (News) (QA) (Arabic)
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 #EXTINF:0 tvg-id="Assemble Nationale" tvg-name="Assemble Nationale" tvg-logo="http://i.imgur.com/gn9PJHk.png" group-title="News",Assemble Nationale (News) (CA) (French)
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-j7C0DErUVHjgSY2cmOKTYfAEFr4gVhIiNZPPnV-ZlD-nl_VqkqbKIKc" group-title="News",Astro Awani (News) (MY) (Malay/Indonesian)
