@@ -8,65 +8,64 @@ https://www.dropbox.com/s/taob3gdg1ciioja/mercari.mp4?dl=1
 http://docs-3.gogleusercontent.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
 
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bac15e47d92bd45a878f59c/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Channel Lineup
+#EXTINF:-1 tvg-id="Channel Lineup" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bac15e47d92bd45a878f59c/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Channel Lineup
 https://stitcher.pluto.tv/stitch/hls/channel/5bac15e47d92bd45a878f59c/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5af09e645126c2157123f9eb/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",Kevin Harts Laugh Out Loud
+#EXTINF:-1 tvg-id="Laugh Out Loud" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5af09e645126c2157123f9eb/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",Kevin Harts Laugh Out Loud
 https://stitcher.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",Tv Spotlight
+#EXTINF:-1 tvg-id="Pluto TV Spotlight" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",Tv Spotlight
 https://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5df97894467dfa00091c873c/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",NBC News
+#EXTINF:-1 tvg-id="NBC News" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5df97894467dfa00091c873c/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",NBC News
 https://stitcher.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5df975e2b27cf5000921c102/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",BEIN Sports Extra
+#EXTINF:-1 tvg-id="beIN Sports (English) (BEIN)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5df975e2b27cf5000921c102/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",BEIN Sports Extra
 https://stitcher.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2e8c4a9e06fa0511b75276/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",TV Biography
+#EXTINF:-1 tvg-id="Pluto TV Biography" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2e8c4a9e06fa0511b75276/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto",TV Biography
 https://stitcher.pluto.tv/stitch/hls/channel/5c2e8c4a9e06fa0511b75276/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", TV Cine Estelar
+#EXTINF:-1 tvg-id="Pluto TV Cine Estelar" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", TV Cine Estelar
 https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cf96d351652631e36d4331f/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Lucha Libre Worldwide
+#EXTINF:-1 tvg-id="Lucha Libre AAA" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cf96d351652631e36d4331f/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Lucha Libre Worldwide
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c01df1759ee03633e7b272c/featuredImage.jpg" tvg-language="English" group-title="Pluto", MTV Latino
+#EXTINF:-1 tvg-id="MTV Latino" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c01df1759ee03633e7b272c/featuredImage.jpg" tvg-language="English" group-title="Pluto", MTV Latino
 https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto TV Movies
+#EXTINF:-1 tvg-id="Pluto TV Movies" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto TV Movies
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59976841a09fd13c9b590ce8/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto TV Movies 2
+#EXTINF:-1 tvg-id="Pluto TV Movies 2" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59976841a09fd13c9b590ce8/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto TV Movies 2
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Action Movies
+#EXTINF:-1 tvg-id="Pluto TV Action" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Action Movies
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d3a00ad95e4718ae8d8db/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Comedy Movies
+#EXTINF:-1 tvg-id="Pluto TV Comedy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d3a00ad95e4718ae8d8db/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Comedy Movies
 https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Romance Movies
+#EXTINF:-1 tvg-id="Pluto TV Romance" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Romance Movies
 https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5dc190f7bfed110009d934c3/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Drama Movies
+#EXTINF:-1 tvg-id="Pluto TV Drama" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5dc190f7bfed110009d934c3/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Drama Movies
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/2c4af0a3-b851-f212-1806-52cfe91abd28-Horror247_featured.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Horror Movies
+#EXTINF:-1 tvg-id="Pluto TV Horror" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/569546031a619b8f07ce6e25/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Horror Movies
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/8fS-Dc6XFzypL3KRxq5x0Z-UKARPJKuGqZ4rO3dgkKLTPLFMwLEiuQ53I1NAT3pbBRhDrX8gFGefSvf5aQzjINozNEGhEP515AmfM-QGh1iNBgCY3jXQ7qMCw_u-pcAbTB19dSOvpe0RvG44" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Terror Movies
+#EXTINF:-1 tvg-id="Pluto TV Terror" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6dc88fcd232425a6e0f06e/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Terror Movies
 https://stitcher.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Thrillers Movies
+#EXTINF:-1 tvg-id="Pluto TV Thrillers" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Thrillers Movies
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Black Cinema Movies
+#EXTINF:-1 tvg-id="Black Cinema" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto Black Cinema Movies
 https://stitcher.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b85a7582921777994caea63/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto TV Documentaries
+#EXTINF:-1 tvg-id="Pluto TV Documentaries" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b85a7582921777994caea63/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto TV Documentaries
 https://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58ed63525e2c798008323a1c/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Pluto TV Indies
@@ -162,7 +161,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dae09950c657500093121a2/master.m3u
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d0c16d686454ead733d08f8/featuredImage.jpg" group-title="Pluto",Totally Turtles
 https://stitcher.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d14fb6c84dd37df3b4290c5/featuredImage.jpg" group-title="Pluto", Dora TV
+#EXTINF:-1 tvg-id="Dora TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d14fb6c84dd37df3b4290c5/featuredImage.jpg" group-title="Pluto", Dora TV
 https://stitcher.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 #EXTINF:-1 tvg-id="Pluto TV Kids" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/51c75f7bb6f26ba1cd00002f/featuredImage.jpg" group-title="Pluto", Pluto TV Kids
@@ -173,8 +172,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b7d3249444e05d09cc49/featuredImage.jpg" group-title="Pluto", Anime All Ages
 https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/logo.png" group-title="Pluto",PGA TOUR
 http://stitcher.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
@@ -1554,8 +1551,7 @@ http://stream01183.westreamradio.com/wsm-am1?type=.flv
 http://server-07.stream-server.nl:8300/;
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO WBER FM 90.5 - USA (rock)
 http://wber-ice-encoder.monroe.edu:80/wber-high.mp3
-#EXTINF:-1,R n b)
-http://powerhitz.powerhitz.com:5030
+
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO KEXP SEATTLE - USA (electric)
 http://live-mp3-128.kexp.org:8000/kexp128.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO HARD ROCK - USA (death metal)
@@ -1566,78 +1562,16 @@ http://streaming.radionomy.com/HardRockRadioLiveClassic
 http://sc-sax4ever.1.fm:10148/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ALL COUNTRY LEGENDS - USA (COUNTRY)
 http://streaming.radionomy.com/ALLCOUNTRYLEGENDS
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/BestBigMix
-#EXTINF:-1,  tvg-logo="" group-title="Radio", indie)
-http://streaming.radionomy.com/CadenaNeoRadio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/ChuckUAtTheCLUB
-#EXTINF:-1,  tvg-logo="" group-title="Radio", house)
-http://streaming.radionomy.com/ChuckUNewMusicRadio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/ChuckUClassicRock
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 50e)
-http://streaming.radionomy.com/ChuckUJukebox50-s
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/ChuckU-KeepOnChuckin-70-s
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/ChuckUKickAssCountry
-#EXTINF:-1,  tvg-logo="" group-title="Radio", RnB)
-http://streaming.radionomy.com/ChuckUMillenium
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/ChuckUNewMusicRadio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/ChuckUPrimo60-s
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/ChuckURockU
-#EXTINF:-1,  tvg-logo="" group-title="Radio", popularno)
-http://streaming.radionomy.com/ChuckUSentimentalJourney
-#EXTINF:-1,  tvg-logo="" group-title="Radio", soundtracks)
-http://streaming.radionomy.com/ChuckUSilverScreen
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 80e)
-http://streaming.radionomy.com/ChuckU Ultimate80-s
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/ChuckUUnlimited90-s
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/ChuckU80S
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rap)
-http://streaming.radionomy.com/City-SlyckerRadio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO COUNTRY POWER STATION - USA (country)
 http://62.75.145.120:8000/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://listen.diesel.fm:9001/trance
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 90e)
-http://streaming.radionomy.com/elcumbion
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/ExposurewithDavidSadof
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO GENERACION 67 - USA (latino)
 http://streaming.radionomy.com/SAUCILLO-STEREO
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/Guitars
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO GURBANI - USA (punjabi)
 http://74.50.122.103:7024/stream/1/
-#EXTINF:-1,  tvg-logo="" group-title="Radio", salsa)
-http://streaming.radionomy.com/InolvidableDigital
-#EXTINF:-1,  tvg-logo="" group-title="Radio", hitovi)
-http://streaming.radionomy.com/ItaloDisco
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/LA-GRIETA
-#EXTINF:-1,  tvg-logo="" group-title="Radio", romantično)
-http://streaming.radionomy.com/LOS8ROMANTICOSRADIO
-#EXTINF:-1,  tvg-logo="" group-title="Radio", popularno)
-http://streaming.radionomy.com/country-and-pop-wombats
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO FEELING - USA
 http://turadioenvivo.com:8430/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", romantično)
-http://streaming.radionomy.com/ROMANTICADIGITAL
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/SancineHardRock
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO SIEMPRE JOVEN - USA (latino)
 http://streaming.radionomy.com/SiempreJoven
-#EXTINF:-1,  tvg-logo="" group-title="Radio", salsa)
-http://war.str3am.com:7380/live
-#EXTINF:-1,  tvg-logo="" group-title="Radio", soul)
-http://streaming.radionomy.com/TkMeBk
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO TOTAL HITS IN ESPANOL - USA (latino)
 http://sc2b-sjc.1.fm:10048/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO VILLANUEVA - USA - (rock)
@@ -1670,78 +1604,24 @@ http://sc2b-sjc.1.fm:8652/
 http://sc2b-sjc.1.fm:7040/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO BOMBAY BEATS(1.fm) - UK
 http://sc3c-sjc.1.fm:7044/
-#EXTINF:-1,klasika)
-http://sc-ccountry.1.fm:7808/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO COUNTRY(1.fm) - UK (country)
 http://sc-countryone.1.fm:7048/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO DANCE(1.fm) - UK (dance)
 http://sc2b-sjc.1.fm:3895/
-#EXTINF:-1,electro)
-http://88.208.218.19:9106/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", popularno)
-http://37.187.79.93:8031/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 80e)
-http://sc2b-sjc.1.fm:7020/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ENERGY 98(1.fm) - UK (dance)
 http://relay1.181.fm:8770/
-#EXTINF:-1,  tvg-logo="" group-title="Radio", house)
-http://listen.hardbase.fm/tunein-aacplus-pls
-#EXTINF:-1,  tvg-logo="" group-title="Radio", RnB)
-http://stream.nonstopplay.co.uk/nsp-128k-mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO OTTO´S BAROQUE MUSICK(1.fm) - UK (cllasic)
 http://sc2c-sjc.1.fm:7066/
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/PopClassicsRadio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO POWER DJ STATION - UK (house)
 http://streaming.radionomy.com/PowerDjRadioStation
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 90e)
-http://217.28.20.20:8140/stream
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO SMOOTH JAZZ(1.fm) - UK (jazz)
 http://sc-sjazz.1.fm:7082/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO SOULSTATION - UK (soul)
 http://streaming.radionomy.com/Soulstation
-#EXTINF:-1,  tvg-logo="" group-title="Radio", charts)
-http://sc3b-sjc.1.fm:7016/
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://sc-trance.1.fm:7012/
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/RadionoMiX
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO URBAN ADULT CHOISE(1.fm) - UK
 http://sc2b-sjc.1.fm:7086/
-#EXTINF:-1,Rock)
-http://stream.timlradio.co.uk/ABSOLUTERADIOIRAACS?type=.flv&awparams=loggedin:false;test:0;&amsparams=playerid:ABSWBPL
-#EXTINF:-1,Talk)
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/ABC60sIreland
-#EXTINF:-1,  tvg-logo="" group-title="Radio", oldies)
-http://streaming.radionomy.com/ABC70-sIreland
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/ABC80sIreland
-#EXTINF:-1,  tvg-logo="" group-title="Radio", country)
-http://streaming.radionomy.com/AllIrishRadioIreland
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 90e)
-http://streaming.radionomy.com/Dublin-sABC
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO HIGHLAND - IRELAND
 http://pri.gocaster.net/highlandradio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://streaming.radionomy.com/KISSFM-Ireland-
-#EXTINF:-1,  tvg-logo="" group-title="Radio", soul)
-http://streaming.radionomy.com/KISSJazz
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/Radio-Vera-Ireland
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/The-Freak
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://streaming.radionomy.com/TrancePulseFMDublin
-#EXTINF:-1,gothic)
-http://streaming.radionomy.com/Metal-FM-com
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/001FMcom-Pure80sHits
-#EXTINF:-1,  tvg-logo="" group-title="Radio", house)
-http://streaming.radionomy.com/001FMcom-PureEDMPower
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/001FMcom-Top40HitsChannel
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO 101 - GERMANY
 http://stream3.laut.fm/101fm
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ALPENRADIO BISTRO - GERMANY
@@ -1766,28 +1646,10 @@ http://streaming.radionomy.com/CulturaLatinaDe
 http://s11.genuinestream.de:8000/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO DISCOFOXHIMMEL - GERMANY (šlageri)
 http://s14.derstream24.de:80/
-#EXTINF:-1,  tvg-logo="" group-title="Radio", alternativa)
-http://95.141.24.119:80/
-#EXTINF:-1,  tvg-logo="" group-title="Radio", house)
-http://95.141.24.103:80/
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://tuner.gayfm.de:80/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO HOUSE TIME.FM - GERMANY (house)
 http://mp3.stream.tb-group.fm/ht.mp3?/;*.mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio", popularno)
-http://95.141.24.78:80/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO TECHNOBASE - GERMANY (techno)
 http://listen.technobase.fm/tunein-aacplus-pls
-#EXTINF:-1,  tvg-logo="" group-title="Radio", RnB)
-http://streaming.radionomy.com/The-Orange-Park-Radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/Listen-The-Pet-Shop-Boys-Radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", popularno)
-http://streaming.radionomy.com/Top100Germany-by001FMcom
-#EXTINF:-1,  tvg-logo="" group-title="Radio", popularno)
-http://streaming.radionomy.com/WonderRadio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", Electro )
-http://live96.917xfm.de:80/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ABSOLUT RELAX -  GERMANY (soft rock/soul)
 http://absolut.hoerradar.de/absolutradio-relax-mp3-128?sABC=54s7p4p5%230%2395npr18qo9qq43pn6102nrsr49s490sp%23yvfgrayvir.z3h&amsparams=playerid:listenlive.m3u;skey:1425523909
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ABSOLUT  -  GERMANY (album rock)
@@ -1966,32 +1828,6 @@ http://stream.radiowmw.de:8000/wmw128k
 http://radiox.istmein.de:8000/live
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO Z - GERMANY (local service/free radio)
 http://snd.radio-z.net:8000/Radio-Z
-#EXTINF:-1,  tvg-logo="" group-title="Radio", charts )
-http://main-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", electro)
-http://charthits-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://club-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", indie rock)
-http://rock-high.rautemusik.fm
-#EXTINF:-1,urban)
-http://jam-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", electro)
-http://house-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", Deep house)
-http://techhouse-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 80s)
-http://goldies-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", electro)
-http://bcb-high.rautemusik.fm
-#EXTINF:-1,#MUSIK.ORIENTAL - GERMANY (Arabian music)
-http://oriental-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", discofox)
-http://schlager-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", dubstep)
-http://drumstep-high.rautemusik.fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", uplifting)
-http://trance-high.rautemusik.fm
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO RMN- GERMANY (pop/mix)
 http://rmnradio.powerstream.de:8022/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO RMN KUSCHEL.FM - GERMANY (love songs)
@@ -2060,8 +1896,6 @@ http://tuner.defjay.de/;
 http://fluxfm.hoerradar.de/fluxfm-berlin
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO POWER RADIO - GERMANY (mix)
 http://stream.power-radio.de:8020/;?1426829660845.mp3
-#EXTINF:-1,pop)
-http://tuner.pulsfm.de:80
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO THE WAVE - GERMANY (chillout+lounge)
 http://rtlberlin.hoerradar.de/thewave-mp3-128?sABC=550oo384%230%2334q99s1s48pn7p029prn67s59s31ro20%23xbafbyr&amsparams=playerid:konsole;skey:1426830212
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO 21 104.9 HANNOVER - GERMANY (rock)
@@ -2070,12 +1904,6 @@ http://188.94.97.91/radio21.mp3
 http://fra.radiostream.de:36949/;*.nsv
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO MITTELWESER 103.3 FM - GERMANY (mix)
 http://server3.digital-webstream.de:7935/;*.nsv
-#EXTINF:-1,metal)
-http://streaming.radionomy.com/MetalHeart
-#EXTINF:-1,rock)
-http://hd.lagrosseradio.info:8200/;stream.nsv
-#EXTINF:-1,rock)
-http://streaming.radionomy.com/MetalRock06
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO TRASH ZONE - FRANCE (heavy metal/rock)
 http://streaming.radionomy.com/Thrash-Zone-Radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ROCK OLDIES SOUL - FRANCE (oldies)
@@ -2086,8 +1914,6 @@ http://streaming.radionomy.com/1UrbanPopSoulReggaeElectroRockJazzFunkHipHop
 http://streaming.radionomy.com/A-MEGA-Tube-Dance
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO A 33 PLAY DANCE - FRANCE (dance)
 http://streaming.radionomy.com/PowerDjRadioStation
-#EXTINF:-1,  tvg-logo="" group-title="Radio", ambijentalna)
-http://streaming.radionomy.com/ABC-Lounge
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ABCD BEYONCE - FRANCE (RnB)
 http://streaming.radionomy.com/ABCD-Beyonce
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ABCD BLACK EYED PEAS - FRANCE (RnB)
@@ -2104,30 +1930,14 @@ http://streaming.radionomy.com/ABCD-Rihanna
 http://streaming.radionomy.com/ACCESWEBRADIOS
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ALLOCAZIK - FRANCE (80e)
 http://94.23.26.193:9106/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", electro)
-http://streaming.radionomy.com/AMBIENT-AND-LOUNGE
-#EXTINF:-1,  tvg-logo="" group-title="Radio", groove)
-http://streaming.radionomy.com/An-Urban-Radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ARABIC MOOD - FRANCE (orijentalna)
 http://streaming.radionomy.com/arabicmood
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ARABZIK - FRANCE (orijentalna)
 http://streaming.radionomy.com/arabzik
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://ns304246.ovh.net:8005/bccrock.mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio", alternativa)
-http://streaming.radionomy.com/CETA
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO CHILL ONE - FRANCE (chillout)
 http://streaming.radionomy.com/CHILL-ONE
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO EAGLE COUNTRY - FRANCE (country)
 http://eaglecountryradio.ice.infomaniak.ch:80/eaglecountryradio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", electro)
-http://streaming.radionomy.com/Elium-ClubDance
-#EXTINF:-1,  tvg-logo="" group-title="Radio", soundtracks)
-http://streaming.radionomy.com/Elium
-#EXTINF:-1,rock)
-http://streaming.radionomy.com/Elium-Rock
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/EURO-MIXX
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO FLASH 80 - FRANCE (80e)
 http://streaming.radionomy.com/Flash80-Radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO FRANCE HITS - FRANCE (hits)
@@ -2142,74 +1952,22 @@ http://streamingads.hotmixradio.fm/hotmixradio-80-128.mp3
 http://streamingads.hotmixradio.fm/hotmixradio-90-48.aac
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO HOT MIX RADIO DANCE - FRANCE (dance)
 http://streamingads.hotmixradio.fm/hotmixradio-dance-48.aac
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streamingads.hotmixradio.fm/hotmixradio-rock-128.mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 80e)
-http://streaming.radionomy.com/ITALOPOWER
-#EXTINF:-1,  tvg-logo="" group-title="Radio", lounge)
-http://streaming.radionomy.com/juicylounge
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/juicyremixes
-#EXTINF:-1,  tvg-logo="" group-title="Radio", popularno)
-http://streaming.radionomy.com/MaxxizikONAIR
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO NJOJ HIT 40 - FEANCE (hits)
 http://streaming.radionomy.com/njoyhit40
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO NORCINE - FRANCE (pop)
 http://streaming.radionomy.com/norcineradio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ONE - FRANCE (dance)
 http://streaming.radionomy.com/RTSONE
-#EXTINF:-1,  tvg-logo="" group-title="Radio", electro)
-http://streaming.radionomy.com/onkiff
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/PanoramixRadioStation
-#EXTINF:-1,  tvg-logo="" group-title="Radio", progressive)
-http://streaming.radionomy.com/parisoneclub
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO PARIS ONE DANCE - FRANCE (dance)
 http://streaming.radionomy.com/parisonedance
-#EXTINF:-1,  tvg-logo="" group-title="Radio", lounge)
-http://streaming.radionomy.com/parisonedeeper
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/parisonereverse
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://streaming.radionomy.com/parisonetrance
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/Poptastic-Radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/premiumqualityradio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://icecast3.pulsradio.com:80/pulsHD.mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://icecast3.pulsradio.com:80/pulstranceHD.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO 87 - FRANCE (electro)
 http://live2.radio87.fr
-#EXTINF:-1,  tvg-logo="" group-title="Radio", novosti)
-http://live2.radio87.fr
-#EXTINF:-1,  tvg-logo="" group-title="Radio", new age)
-http://streaming.radionomy.com/Radio-PLENITUDE
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 90e)
-http://streaming.radionomy.com/Radio-Rock-VIntage
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/RADIOSATELLITE
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/R34
-#EXTINF:-1,  tvg-logo="" group-title="Radio", house)
-http://streaming.radionomy.com/RJM-Dance
-#EXTINF:-1,  tvg-logo="" group-title="Radio", soul)
-http://streaming.radionomy.com/JMaster
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://streaming.radionomy.com/RJM-Trance-radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/TopClub
-#EXTINF:-1,  tvg-logo="" group-title="Radio", RnB)
-http://streaming.radionomy.com/voltingradio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO VOLTINGDANCEFLOUR - FRANCE (dance)
 http://streaming.radionomy.com/voltingdancefloor
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO VOLTINGURBAN - FRANCE (RnB)
 http://streaming.radionomy.com/voltingurban
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO YOUMUSIC - FRANCE (hits)
 http://streaming.radionomy.com/YouMusic
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://stream.voice.dk:80/voice128
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO DR P1 - DENMARK (news/features)
 http://live-icy.gss.dr.dk:8000/A/A03H.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO DR P2 KLASSISK - DENMARK (classical/cultural programming)
@@ -2268,120 +2026,52 @@ http://media.wlmm.dk:80/skagafm
 http://netradio.solofm.dk/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO 3M SERIOS - HOLLAND
 http://icecast.omroep.nl:80/3fm-bb-mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio", oldies)
-http://streaming.radionomy.com/Alaska-Hit-Radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", RnB)
-http://streaming.radionomy.com/Back-to-the-90-s
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO BACK 2 TO THE 90s - HOLLAND (90e)
 http://streaming.radionomy.com/Back-to-the-90-s
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO BEYOUNG FM - HOLLAND
 http://streaming.radionomy.com/BeYoungFM
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO COLD PLAY - HOLLAND (alternativa)
 http://streaming.radionomy.com/Coldplay-radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", disco)
-http://streaming.radionomy.com/danceradio1
-#EXTINF:-1,  tvg-logo="" group-title="Radio", disco)
-http://italo.live-streams.nl:80/live
-#EXTINF:-1,  tvg-logo="" group-title="Radio", oldies)
-http://streaming.radionomy.com/Gold-Star-Radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://stream.intenseradio.net:8000/live
-#EXTINF:-1,  tvg-logo="" group-title="Radio", oldies)
-http://streaming.radionomy.com/J-Last
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO 1 - HOLLAND
 http://icecast.omroep.nl:80/radio1-bb-mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO 4 - HOLLAND
 http://icecast.omroep.nl:80/radio4-bb-mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 80e)
-http://streaming.radionomy.com/El-Dorado
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/Radio-IBIZA-ElectroDance
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO WORMER - HOLLAND (popular)
 http://streaming.radionomy.com/RadionoMiX
-#EXTINF:-1,  tvg-logo="" group-title="Radio", salsa)
-http://82.94.166.107:8067/stream
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO TRANCE - HOLLAND (trance)
 http://streaming.radionomy.com/tranceradio1
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO 2MFM - AUSTRALIA (religiozno)
 http://www.2mfm.org.au:8000/live
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://streaming.radionomy.com/RadionoMiX
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/RadioHot100
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  MARIA - OSTEREICH (religiozno)
 http://live.radiomaria.at:8000/rma
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  SOUNDPORTAL - OSTEREICH
 http://rs8.stream24.net:80/stream
-#EXTINF:-1,metal)
-http://streaming.radionomy.com/Gothica
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  ADICTIVE 50s - BELGIUM (50e)
 http://streaming.radionomy.com/Addictive-50s
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  ADICTIVE 70s - BELGIUM (70e)
 http://streaming.radionomy.com/Addictive-70s
-#EXTINF:-1,  tvg-logo="" group-title="Radio", oldies)
-http://streaming.radionomy.com/Belgian-Oldies-Radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", disco)
-http://streaming.radionomy.com/CoCoon-Oldies
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/wwwdepechemodebe-radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", šlageri)
-http://streaming.radionomy.com/ERiKA1
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/ibizaclub
-#EXTINF:-1,  tvg-logo="" group-title="Radio", soundtracks)
-http://streaming.radionomy.com/Instrumentals-Forever
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/musicforeveryoneradio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", new age)
-http://streaming.radionomy.com/arcadie
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  OOLDIES - BELGIUM (oldies)
 http://streaming.radionomy.com/DianaOldies
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  ROCK - BELGIUM (ROCK)
 http://streaming.radionomy.com/Rockradiobe
-#EXTINF:-1,  tvg-logo="" group-title="Radio", oldies)
-http://streaming.radionomy.com/Vlaamse-Wonderjaren
-#EXTINF:-1,  tvg-logo="" group-title="Radio", new age)
-http://streaming.radionomy.com/wiccaradio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", oldies)
-http://streaming.radionomy.com/AllTimeGreatestRadio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  MIX FM - CYPRUS (top 40/dance))
 http://eco.onestreaming.com:8127/;
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  EL GALLO ROCK - ESPANA (Rock / Heavy Metal / Music)
 http://streaming.radionomy.com/ElgalloRock
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  AMW- ESPANA (rock)
 http://streaming.radionomy.com/AMVRadioHD
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/AstroOnda
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  CLASSICS - ESPANA (cllasic)
 http://streaming.radionomy.com/ClassicsRadio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/CodiRadioFM
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  CONAT - ESPANA (jazz)
 http://streaming.radionomy.com/ConatRadio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", ambijentalna)
-http://sc-costadelmar.1.fm:10156/
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/ElgalloRock
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/ELECTROHOUSEMANIA
-#EXTINF:-1,  tvg-logo="" group-title="Radio", house)
-http://streaming.radionomy.com/energy-house-club
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/exitos-fm-radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  EXITOS FM - ESPANA (pop)
 http://streaming.radionomy.com/ExitosFMRadio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 70e)
-http://streaming.radionomy.com/80-EXITS
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  HOSPITALET FM RADIO DANCE - ESPANA (dance)
 http://streaming.radionomy.com/HOSPITALET-FM-radio-DANCE
-#EXTINF:-1,  tvg-logo="" group-title="Radio", house)
-http://streaming.radionomy.com/JavaHitRadio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  JAVA HIT - ESPANA (house)
 http://streaming.radionomy.com/Java-Hit-Radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  JOSE MARIA - ESPANA (acappella)
 http://streaming.radionomy.com/RadionoMiX
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/Le-Radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  LOS MEGAHITOS - ESPANA (80e)
 http://streaming.radionomy.com/losmegaexitos
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  MARCHES - ESPANA (cllasic)
@@ -2390,38 +2080,18 @@ http://streaming.radionomy.com/MarchesRadio
 http://streaming.radionomy.com/NEORADIOANDALUCIA
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  NTH - ESPANA (electro)
 http://streaming.radionomy.com/NTH-Radio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", soul)
-http://streaming.radionomy.com/ona92fm
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  PLAY MUSIC FM - ESPANA (funk)
 http://streaming.radionomy.com/partydancefm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/RBP
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  PERIGO TANGO - ESPANA (latino)
 http://streaming.radionomy.com/RadioPerikoTango
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rap)
-http://streaming.radionomy.com/TKPgaming
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/RadioFANes
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://188.165.187.84:8078/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/Rock-n-SoulRadio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  SMILE 21 - ESPANA (hits)
 http://streaming.radionomy.com/Smile21-radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  THE CHIEFTAINS - ESPANA (narodna)
 http://streaming.radionomy.com/TheChieftainsRadio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 80e)
-http://streaming.radionomy.com/RadioTodoExitos
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  TODOFOLK - ESPANA (narodna)
 http://streaming.radionomy.com/Todofolkradio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", šlageri)
-http://streaming.radionomy.com/Topradiodeutschland
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  VIVA - ESPANA (latino)
 http://streaming.radionomy.com/VIVARADIO
-#EXTINF:-1,  tvg-logo="" group-title="Radio", 60e)
-http://streaming.radionomy.com/Yesternow-Radio-1
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/zonafly
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  SUDTIROL FM! 2 - ITALY (Hip Hop / Rock / Heavy Metal / R'n'B / Music)
 http://streaming.radionomy.com/SudtirolFM-
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  AMIATA - ITALY
@@ -2436,8 +2106,6 @@ http://streaming.radionomy.com/GoldenradioItaliana
 http://streaming.radionomy.com/Goldenradio80s
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  JANGA - ITALY (chillout)
 http://streaming.radionomy.com/jangaradio
-#EXTINF:-1,  tvg-logo="" group-title="Radio", house)
-http://dance.lolliradio.net:8030/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  LOLLIORADIO SOFT - ITALY
 http://soft.lolliradio.net:8040/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  LOLLIORADIO HAPPY STATION - ITALY
@@ -2448,8 +2116,6 @@ http://hits.lolliradio.net:8080/
 http://italia.lolliradio.net:8010/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  NOVARADIO  - ITALY
 http://streaming.novaradio.info:8000/live
-#EXTINF:-1,  tvg-logo="" group-title="Radio", indie)
-http://streaming.radionomy.com/Streaming-101
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  35X80 - ITALY (80e)
 http://streaming.radionomy.com/35x80
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  CENTRO SUONO - ITALY
@@ -2460,10 +2126,6 @@ http://stream.wifi4all.it:8000/rcs
 http://comodino.org:8001/rcf.ogg
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  DEEGAY - ITALY
 http://94.23.66.173:80/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", dance)
-http://94.23.66.173:80/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", house)
-http://94.23.72.54:80/stream
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  DUE ZERO - ITALY
 http://vps.radioduepuntozero.it:8080/stream.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  GAMMA 5 - ITALY
@@ -2474,16 +2136,10 @@ http://ice10.fluidstream.net/anni60tn.aac
 http://streaming.radionomy.com/Latita
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  METRO - ITALY
 http://str01.fluidstream.net:6010
-#EXTINF:-1,  tvg-logo="" group-title="Radio", disco)
-http://ice04.fluidstream.net:80/fluid0402.mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/RADIOWEB-BASE
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  RSI LOUNGE- ITALY (lounge)
 http://streaming.radionomy.com/rsilounge
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  STUDIO JAZZ- ITALY (jazz)
 http://streaming.radionomy.com/STUDIOJAZZRADIO
-#EXTINF:-1,  tvg-logo="" group-title="Radio", techno)
-http://streaming.radionomy.com/sud-sound-radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  UNICA - ITALY (pop)
 http://streaming.unicaradio.it:80/unica192.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  VENICE CLASSIC- ITALY (classic)
@@ -2502,14 +2158,6 @@ http://188.165.195.176:8022/stream
 http://188.165.195.176:8010/stream
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO RMI SYNTH SPACE MUSIC - POLAND (80e)
 http://188.165.195.176:8028/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/Los-Mimos
-#EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  EL ARGENTINO - ARGENTINA (latino)
-http://streaming.radionomy.com/ElArgentino
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/radiounoplus
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/RadioViniloAlAire
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  COUNTRY - CZECH
 http://icecast4.play.cz:80/country128.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  DANCE - CZECH
@@ -2524,18 +2172,12 @@ http://icecast2.play.cz:80/radio1.mp3
 http://ice.abradio.cz:80/cityfm128.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  VAMBI - CZECH
 http://streaming.radionomy.com/RadioVambi
-#EXTINF:-1,  tvg-logo="" group-title="Radio", dance)
-http://streaming.radionomy.com/DjZoliPartyMixRadio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  VIVA LIVE - SLOVAKIA
 http://stream.sepia.sk:8000/viva128.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  MELODIVIEKA - BELARUS
 http://93.84.112.253:8010/MV128?1425443901754.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  BREST - BELARUS
 http://93.84.112.253:8039/stream
-#EXTINF:-1,  tvg-logo="" group-title="Radio", Old Pop)
-http://radio.vtv.by:8000/radio_vitebsk_128
-#EXTINF:-1,  tvg-logo="" group-title="Radio", Variety)
-http://93.84.113.142:8000/radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  LIDER - BELARUS (Top 40)
 http://lider-fm.by:8000/radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  MFM - BELARUS (Hot AC)
@@ -2576,8 +2218,6 @@ http://sc-chill.eldoradio.lu:80/
 http://sc-80s.eldoradio.lu:80/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  LRB - LUXEMBOURG  (top 40/dance)
 http://zeus.lrb.lu:8000/lrb.live
-#EXTINF:-1,5 - LUXEMBOURG  (top 40/specialist programmes)
-http://zeus.lrb.lu:8000/stream
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  NRK MP3 - NORWAY  (pop/music)
 http://lyd.nrk.no:80/nrk_radio_mp3_mp3_h
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  KLASSISK - NORWAY  (classical music)
@@ -2648,17 +2288,14 @@ http://178.209.2.100:10000/live.mp3
 http://stream1.radio-banovina.hr:8015/;stream.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO GVM
 http://37.187.79.153:5726/stream
-
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO NAUTIC KASTELA
 http://5.152.208.98:8010/
-
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO STUDENT - ZAGREB
 http://161.53.122.184:8000/aacPlus48.aac
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO UNIDU - DUBROVNIK
 http://true.etfos.hr:8000/unidu
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO NOVSKA
 http://217.172.184.117:8686/
-
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO DEE JAY
 http://live.deejay.hr:7002/;
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO 057 ZADAR
@@ -2673,8 +2310,6 @@ http://streaming.radionomy.com/OrkestarCarobnjaci
 http://radio.etfos.hr:8000/radioetfos.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  FOLKYTON
 http://85.25.135.86:8034/;*.mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio"Metal
-http://rs11.stream24.org:8130
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  SWISS POP - SWISS (pop hits)
 http://stream.srg-ssr.ch/m/rsp/mp3_128
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  SWISS JAZZ - SWISS (jazz)
@@ -2707,20 +2342,14 @@ http://icecastgreen.argovia.ch:80/radio24pop
 http://icecast.argovia.ch/argoviacr128
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  ARGOVIA HIT MIX - SWISS (top 40)
 http://icecast.argovia.ch/argoviahitmix
-#EXTINF:-1,  tvg-logo="" group-title="Radio" rock
-http://radio.nello.tv:80/radiobern1128k
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  KAISEREGG - SWISS (80s pop/rock)
 http://kaiseregg.ice.infomaniak.ch:80/stream128k
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  MELODY - SWISS (schlager/oldies)
 http://fm1melody.ice.infomaniak.ch:80/fm1melody-128.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  ZURISEE - SWISS (top 40)
 http://radio.nello.tv:80/radiozuerisee128k
-#EXTINF:-1,  tvg-logo="" group-title="Radio", world)
-http://stream001.radio.hu:8080/mr2.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  MR 3 BARTOK RADIO - HUNGARY (classical)
 http://stream001.radio.hu:8080/mr3.mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio", opera)
-http://stream001.radio.hu:8080/mr7.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  AKTIV RADIO - HUNGARY (top 40)
 http://aktivradio.hu:8000/aktiv.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  FORTUNA - HUNGARY (top 40)
@@ -2737,20 +2366,14 @@ http://siriusradio.hu:8500/relay_911.mp3
 http://stream.tilos.hu:80/tilos_128.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  MEGADANCE - HUNGARY
 http://megadanceradio.hopto.org:8000/livemega.mp3
-#EXTINF:-1,  tvg-logo="" group-title="Radio", alternativa)
-http://streaming.radionomy.com/AllAccessRdio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  ESPERANZA 7  - MEXICO (religius)
 http://streaming.radionomy.com/Esperanza-7
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/LouderRadio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  MESZCALITO  - MEXICO (60e)
 http://streaming.radionomy.com/Radio-Mezcalito
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  QUELITE - MEXICO (latino)
 http://streaming.radionomy.com/Radio-Quelite
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  RUTAS DEL ALMA  - MEXICO (new age)
 http://streaming.radionomy.com/RutasdelAlma
-#EXTINF:-1,  tvg-logo="" group-title="Radio" Rock2
-http://radio.alphamx.net:8070/;stream.mp3/;
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO   RADIO  COOL - SERBIA (narodna)
 http://176.9.30.66:80/
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  EUROPEAN HIT RADIO - LATVIA (top 40)
@@ -2871,12 +2494,8 @@ http://nashe1.hostingradio.ru:80/rock-128.mp3
 http://skycast.su:2007/3749
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO YUZNAYA VOLNA - RUSSIA (top 40)
 http://213.80.160.102:8000/channel4
-#EXTINF:-1,  tvg-logo="" group-title="Radio", trance)
-http://noisefm.ru:8000/play
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO YUOMO ROCK - RUSSIA (rock
 http://youmorock.ru:8000/play
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://streaming.radionomy.com/RockMixRadio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO AVTORADIO - UKRAINE (adult contemporary)
 http://cast.radiogroup.com.ua:8000/avtoradio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO FRESH FM - UKRAINE (top 40)
@@ -2923,8 +2542,6 @@ http://ua.uar.net:8000/vgolos
 http://yaltafm.no-ip.info:8000/online
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO ZAHIDNYI - UKRAINE (Hot AC / top 40)
 http://online.1043.com.ua:8000/1043fm
-#EXTINF:-1,  tvg-logo="" group-title="Radio", rock)
-http://91.206.30.79:8000/CW256
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO JAZZ FM 91 THE GROOVEYARD - CANADA (jazz)
 http://streamerepsilon.jazz.fm:8000/;
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO JAZZ FM 91 THE GREAT JAZZ SINGERS - CANADA (jazz)
@@ -2935,12 +2552,8 @@ http://5.39.82.140:8006/;stream.nsv
 http://198.178.123.2:7274/;stream.nsv
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  123 VALLENATO - COLOMBIA (latino)
 http://radiolatina.info:7087/;
-#EXTINF:-1,  tvg-logo="" group-title="Radio"salsa
-http://i60.letio.com/9162.aac?type=.flv?type=.flv
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  QUILLARADIO 97.9 - COLOMBIA (latin)
 http://www.player.pcpcomunicaciones.com/quillaradio/proxy.php?station=quillaradio2&proxy=true&rnd=1040
-#EXTINF:-1,  tvg-logo="" group-title="Radio", pop)
-http://streaming.radionomy.com/Mas-Musica-radio
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  EXPRESION STEREO - COLOMBIA (70e)
 http://streaming.radionomy.com/Romanticatotalstereo
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  MORE 94 FM - BAHAMAS (mix)
@@ -2949,8 +2562,6 @@ http://icecast.more94fm.com:8000/more94.ogg
 http://198.27.83.198:5006/;stream.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  KISS MALTA - MALTA (mix)
 http://s10.voscast.com:8202/;stream1427013601111/1
-#EXTINF:-1,  tvg-logo="" group-title="Radio",RnB
-http://s9.voscast.com:7824/;stream1427013996675/1
 #EXTINF:-1,  tvg-logo="" group-title="Radio", RADIO  Little Samaritean Radio
 http://162.251.160.26:80/stream
 #EXTINF:-1,  tvg-logo="" group-title="Radio",#1 - 11/75) 98.3 The Bridge FM - Powered by Shoutcheap.com
@@ -2961,8 +2572,6 @@ http://173.236.60.186:8028/stream
 http://stream.joyhits.online:8880/joyhits.mp3
 #EXTINF:-1,  tvg-logo="" group-title="Radio", BFBS
 http://icy-e-01-cr.sharp-stream.com/ssvcbfbs8.mp3
-
-
 #EXTINF:-1, tvg-logo="" group-title="Radio", Island of Chacha
 https://ice55.securenetsystems.net/DASH95
 #EXTINF:-1, tvg-logo="" group-title="Radio", Fireworks
