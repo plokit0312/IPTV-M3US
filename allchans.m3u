@@ -743,23 +743,23 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" group-title="Entertainment",CBS
 http://docs-8.gogleusercontent.host/live/cbs/chunks.m3u8|Referer=http://123tvnow.com/watch/cbs/
-#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="UK Channels",BBC One HD UK
+#EXTINF:-1 tvg-chno="1" tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="UK Channels",BBC One HD UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
-#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="UK Channels",BBC Two UK
+#EXTINF:-1 tvg-chno="2" tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="UK Channels",BBC Two UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=25
-#EXTINF:-1 tvg-id="BBC3" tvg-name="BBC3" tvg-logo="https://spectatorblogs.imgix.net/files/2014/03/intro-ident.jpg" group-title="UK Channels",BBC3
+#EXTINF:-1 tvg-chno="3" tvg-id="BBC3" tvg-name="BBC3" tvg-logo="https://spectatorblogs.imgix.net/files/2014/03/intro-ident.jpg" group-title="UK Channels",BBC3
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
-#EXTINF:-1 tvg-id="ITV Channel" tvg-name="ITV Channel" tvg-logo="https://pbs.twimg.com/profile_images/1082223691503714309/_YSw37G__400x400.jpg" group-title="UK Channels",ITV
+#EXTINF:-1 tvg-chno="5" tvg-id="ITV Channel" tvg-name="ITV Channel" tvg-logo="https://pbs.twimg.com/profile_images/1082223691503714309/_YSw37G__400x400.jpg" group-title="UK Channels",ITV
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=11
-#EXTINF:-1 tvg-id="ITV2" tvg-name="ITV2" tvg-logo="https://www.stream2watch.ws/images/streams/117/stm/14592629385743.jpg" group-title="UK Channels",ITV2
+#EXTINF:-1 tvg-chno="6" tvg-id="ITV2" tvg-name="ITV2" tvg-logo="https://www.stream2watch.ws/images/streams/117/stm/14592629385743.jpg" group-title="UK Channels",ITV2
 http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="ITV4" tvg-name="ITV4" tvg-logo="https://www.stream2watch.ws/images/streams/119/stm/14592630149048.jpg" group-title="UK Channels",ITV4
+#EXTINF:-1 tvg-chno="8" tvg-id="ITV4" tvg-name="ITV4" tvg-logo="https://www.stream2watch.ws/images/streams/119/stm/14592630149048.jpg" group-title="UK Channels",ITV4
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=101
-#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://i.ytimg.com/vi/IQy0Y29QhCs/hqdefault.jpg" group-title="UK Channels",Channel 4
+#EXTINF:-1 tvg-chno="9" tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://i.ytimg.com/vi/IQy0Y29QhCs/hqdefault.jpg" group-title="UK Channels",Channel 4
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=2
-#EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="UK Channels",E4
+#EXTINF:-1 tvg-chno="10" tvg-id="E4" tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="UK Channels",E4
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=65
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://dot-design.co.uk/wp-content/uploads/2016/02/C5_Pink_Blue-e1455043595606.jpg" group-title="UK Channels",Channel 5
+#EXTINF:-1 tvg-chno="15" tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://dot-design.co.uk/wp-content/uploads/2016/02/C5_Pink_Blue-e1455043595606.jpg" group-title="UK Channels",Channel 5
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=22
 #EXTINF:-1 tvg-id="Channel Lineup" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bac15e47d92bd45a878f59c/featuredImage.jpg" group-title="Pluto", Channel Lineup
 https://stitcher.pluto.tv/stitch/hls/channel/5bac15e47d92bd45a878f59c/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
