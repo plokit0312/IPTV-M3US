@@ -741,6 +741,26 @@ https://live-cdn.pbskids.org/out/u/aim/wtvs_2.m3u8
 
 
 
+#EXTINF:-1 tvg-id="759.2" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/10/Buzzr.jpg" group-title="Airy TV",BUZZR TV
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_3.m3u8
+
+#EXTINF:-1 tvg-id="759.2" tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/Network_CelebrityScene-520x293.jpg" group-title="Airy TV",Celebrity Scene TV
+https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="759.2" tvg-logo="" group-title="Airy TV",BUZZR TV
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_3.m3u8
+
+#EXTINF:-1 tvg-id="759.2" tvg-logo="" group-title="Airy TV",Celebrity Scene TV
+https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC1 - Test
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
 
@@ -12436,10 +12456,10 @@ https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_
 
 
 
-#EXTINF:0 tvg-name="Sonic the Hedgehog - The Animated Movie" tvg-language="English" tvg-country="US" tvg-id="Sonic the Hedgehog - The Animated Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NjQxMzE0MV5BMl5BanBnXkFtZTcwODQ0OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="On-Demand" ,Sonic the Hedgehog - The Animated Movie
+#EXTINF:0 tvg-name="Sonic the Hedgehog - The Animated Movie" tvg-language="English" tvg-country="US" tvg-id="Sonic the Hedgehog - The Animated Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NjQxMzE0MV5BMl5BanBnXkFtZTcwODQ0OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="On-Demand-Sonic" ,Sonic the Hedgehog - The Animated Movie
 https://www.dropbox.com/s/dp6a626r6m21uq2/Sonic%20the%20Hedgehog%20%28Dub%29%20OVA-720p.mp4?dl=1
 
-#EXTINF:0 tvg-name="Sonic the Werehog" tvg-language="English" tvg-country="US" tvg-id="Sonic the Werehog" tvg-logo="https://i.ytimg.com/vi/gL9EtmAUwM4/maxresdefault.jpg" group-title="On-Demand" ,Sonic the Werehog
+#EXTINF:0 tvg-name="Sonic the Werehog" tvg-language="English" tvg-country="US" tvg-id="Sonic the Werehog" tvg-logo="https://i.ytimg.com/vi/gL9EtmAUwM4/maxresdefault.jpg" group-title="On-Demand-Sonic" ,Sonic the Werehog
 https://www.dropbox.com/s/twxpl9ax6t6tvwy/Sonic_%20Night%20of%20the%20WereHog%20ONA-720p.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VDWLEPVjRSc/maxresdefault.jpg" group-title="On-Demand-Sonic",Sonic's Christmas Blast
