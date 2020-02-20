@@ -747,12 +747,18 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_3.m3u8
 #EXTINF:-1 tvg-id="759.2" tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/Network_CelebrityScene-520x293.jpg" group-title="Airy TV",Celebrity Scene TV
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="759.2" tvg-logo="" group-title="Airy TV",FightTV plus
+https://playout4multirtmp.tulix.tv/live5/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="759.2" tvg-logo="" group-title="Airy TV",BUZZR TV
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_3.m3u8
+#EXTINF:-1 tvg-id="759.2" tvg-logo="" group-title="Airy TV",SportsTV plus
+https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="759.2" tvg-logo="" group-title="Airy TV",Celebrity Scene TV
-https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="759.2" tvg-logo="" group-title="Airy TV",Camera Smile TV
+https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="759.2" tvg-logo="" group-title="Airy TV",Camera Smile TV
+https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
+
 
 
 
@@ -12450,10 +12456,22 @@ https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_
 
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ce83aw1uL._AC_SY879_.jpg" group-title="On-Demand",The Beastmaster
+https://r5---sn-vgqsrnek.googlevideo.com/videoplayback?expire=1582208632&ei=GEJOXs6FL8CNir4PtOS-yAg&ip=24.252.12.222&id=o-AAgphco-fI8H5W6fk23jC_GEXXntSfV3sbyXOvQehJwn&itag=18&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-vgqsrnek%2Csn-q4flrnee&ms=au%2Conr&mv=m&mvi=4&pl=18&gcr=us&initcwndbps=2335000&vprv=1&mime=video%2Fmp4&gir=yes&clen=431331430&ratebypass=yes&dur=7108.115&lmt=1579312013751653&mt=1582186956&fvip=5&fexp=23842630%2C23878762&beids=9466587&c=WEB_EMBEDDED_PLAYER&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgHHpqEyEjYXYkMDQf-Kw6gj3Xv_Goaju-dGSyXeNItvACIQD3TGS5U5RHumc6BafoJEYScnoguzCrKXtwFbb7ebVuNg%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAL754Wb4GYp6k3-qE9ze3w7bHzxe1E2KmTvkeCQvHMYLAiBfCLlIZ_67Xi4LX2BTn6ufygkx9KMdYz96zWUtyacFrA%3D%3D
 
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZlMDkxZTgtNTJiYS00NzBkLTllOTMtMjVkNzA5NTIxNTNkXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="On-Demand",The Beastmaster 2
+https://r6---sn-vgqseney.googlevideo.com/videoplayback?expire=1582209024&ei=oENOXo6UFr6Iir4P_cOz0Ak&ip=2600%3A8804%3A1f00%3A5400%3A849a%3Aa44d%3A3683%3Aaf9b&id=o-ANK0YsCaN-zCfj18Im9nvXg16_e1TgDVHlG6PsdhCCIB&itag=135&aitags=133%2C134%2C135%2C160%2C242%2C243%2C244%2C278&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-vgqseney%2Csn-q4flrne7&ms=au%2Conr&mv=m&mvi=3&pl=34&initcwndbps=2313750&vprv=1&mime=video%2Fmp4&gir=yes&clen=332892182&dur=6429.222&lmt=1542432855849468&mt=1582187318&fvip=4&keepalive=yes&fexp=9466587,23842630,23872990,23878762&beids=9466587&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgRcdob-54uELk2ApBEco9-1NIeU2KSsSXlL0tpyNkQEgCIGCBLrngyNW-IEviTdsBqvaI9Lwa19y_sTrfzqUiPbdQ&sig=ALgxI2wwRQIgYBk3cTODiccyJUtHlCqgqCD6Sqv2UGHAsCgx2WxamMgCIQC5h50rlNmiD2bfZH54yQe3yilIm9MvAY7kcmHIwwn-zQ%3D%3D&ir=1&rr=12
 
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjY5NTEzZGItMGY3My00NzE4LThkYTUtYjJkNzk3MDBiMWE3XkEyXkFqcGdeQXVyNzg5MDE1MDk@._V1_.jpg" group-title="On-Demand",Mortal Kombat
+https://ia800103.us.archive.org/5/items/MortalKombat1995/Mortal%20Kombat%20%281995%29.mp4
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM5ZTljOTUtYjVkYy00M2RmLWExNDctNWEyYTA5YTU3MWU0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="On-Demand",Mortal Kombat
+https://r2---sn-vgqskne6.googlevideo.com/videoplayback?expire=1582209170&ei=MkROXuTsHJ2Lir4PnJO_kAY&ip=2600%3A8804%3A1f00%3A5400%3A849a%3Aa44d%3A3683%3Aaf9b&id=o-ABwD_IH3cFRA2BZ6Kf6gDGEAnAEzY2GdVc-ssTTXSrBK&itag=22&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-vgqskne6%2Csn-q4fl6ney&ms=au%2Conr&mv=m&mvi=1&pl=34&gcr=us&initcwndbps=2318750&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=5444.545&lmt=1582072975900886&mt=1582187496&fvip=6&fexp=23842630%2C23878762&beids=9466587&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgMWjmp5zH0RJ85MiSd6FY1sM9RZqrZlJBZdfLrubwWMwCIQCxOTU3pNJCZ7ycTEGEp0nwToJrf4J3ZTU8P2ipgfsCeQ%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIgU6QJVOLEhrCZ8TBQMNxnnX-VjLVq7hj5eeufo8JEtT4CIQDBdB2DDfQDpVv-BwBnpsxvFGSYVgW-Xau4pSQKZSo70w%3D%3D
 
 
 #EXTINF:0 tvg-name="Sonic the Hedgehog - The Animated Movie" tvg-language="English" tvg-country="US" tvg-id="Sonic the Hedgehog - The Animated Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NjQxMzE0MV5BMl5BanBnXkFtZTcwODQ0OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="On-Demand-Sonic" ,Sonic the Hedgehog - The Animated Movie
