@@ -89,7 +89,7 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-id="633" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="News",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 tvg-chno="1" tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC One HD UK
+#EXTINF:-1 tvg-chno="0" tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC One HD UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
 #EXTINF:-1 tvg-chno="1" tvg-id="BBC1 East" tvg-name="BBC1 East" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC1 East
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
