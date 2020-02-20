@@ -750,6 +750,20 @@ https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1082223691503714309/_YSw37G__400x400.jpg" group-title="Test TV",ITV
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=11
 
+#EXTINF:-1 tvg-logo="https://www.stream2watch.ws/images/streams/117/stm/14592629385743.jpg" group-title="Test TV",ITV2
+http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stream2watch.ws/images/streams/119/stm/14592630149048.jpg" group-title="Test TV",ITV4
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=101
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IQy0Y29QhCs/hqdefault.jpg" group-title="Test TV",Channel 4
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="Test TV",E4
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=65
+
+#EXTINF:-1 tvg-logo="https://dot-design.co.uk/wp-content/uploads/2016/02/C5_Pink_Blue-e1455043595606.jpg" group-title="Test TV",Channel 5
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=22
 
 
 
@@ -760,7 +774,6 @@ https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV-2 财经" tvg-logo="https://p1.img.cctvpic.com/fmspic/vms/image/1557472318535.jpg" group-title="Test TV",CCTV-2 财经
 https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
-
 
 
 
