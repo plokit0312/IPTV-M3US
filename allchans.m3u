@@ -91,9 +91,7 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-chno="0" tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC One HD UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
-#EXTINF:-1 tvg-chno="1" tvg-id="BBC1 East" tvg-name="BBC1 East" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC1 East
-https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
-#EXTINF:-1 tvg-chno="2" tvg-id="BBC2" tvg-name="BBC2" tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="Entertainment",BBC2
+#EXTINF:-1 tvg-chno="2" tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="Entertainment",BBC Two UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=25
 #EXTINF:-1 tvg-chno="3" tvg-id="BBC3" tvg-name="BBC3" tvg-logo="https://spectatorblogs.imgix.net/files/2014/03/intro-ident.jpg" group-title="Entertainment",BBC3
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
