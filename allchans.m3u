@@ -767,7 +767,7 @@ https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC1 - Test
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="Entertainment",BBC1
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="Entertainment",BBC2
@@ -795,17 +795,14 @@ https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=65
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=22
 
 
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Kids",Kartoon Klassics
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=25
+
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/741217/screenshots/2346037/charge-logo.jpg" group-title="Entertainment",Charge!
 https://content-ausw2.uplynk.com/channel/37eb732888614810b512fdd82604244e/g.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828&pbs=60ecd73677574b6cbe5bc2d724d619b1
 
 
-
-
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-logo="https://i1.hdslb.com/bfs/archive/451e0ae75e45903f5ae7123085e0160523a0e23b.jpg" group-title="Test TV",CCTV-1 综合
-https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-logo="https://p1.img.cctvpic.com/fmspic/vms/image/1557472318535.jpg" group-title="Test TV",CCTV-2 财经
-https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
 
 
 
@@ -4519,8 +4516,7 @@ https://peer2.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 https://peer5.ustv.to/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDM6NTAgQU0maGFzaF92YWx1ZT1TcmJEQkxSeGJGQjNFaWhka2FYV2VBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" tvg-chno="" channel-id="Disney Channel" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Entertainment",Disney Channel
-https://peer1.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDU6MTIgQU0maGFzaF92YWx1ZT11WHZRRHVwcjhUdTVxUkRSRFMrYzZ3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DisneyXD" tvg-logo="https://www.nicepng.com/png/detail/273-2734677_disney-xd-fanmade-logo-by-therealcuddles-d9apg4y-new.png" tvg-chno="" channel-id="DisneyXD" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" tvg-country="US" tvg-language="English" group-title="Kids",Disney XD
 https://peer2.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDI6MzIgQU0maGFzaF92YWx1ZT0rYXNGY0JUc1VCdGdrMEs3ek1TMTd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
@@ -12455,9 +12451,15 @@ https://archive.org/download/Granddad1913/Granddad%201913.mp4
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/waroftheworlds/images/0/03/The_Night_That_Panicked_America.jpg" group-title="On-Demand",War of the Worlds Panic (1975)
+https://ia800702.us.archive.org/20/items/LandOfTheLostSeason2Episode9ANiceDay1975/War%20of%20the%20Worlds%20Panic%20%281975%29.mp4
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ce83aw1uL._AC_SY879_.jpg" group-title="On-Demand",The Beastmaster (1982) - original theatrical print recreation
+https://ia803105.us.archive.org/10/items/thebeastmaster1982originaltheatricalprintrecreation_201912/The%20Beastmaster%20%281982%29%20-%20original%20theatrical%20print%20recreation%201.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ce83aw1uL._AC_SY879_.jpg" group-title="On-Demand",The Beastmaster
-https://r5---sn-vgqsrnek.googlevideo.com/videoplayback?expire=1582208632&ei=GEJOXs6FL8CNir4PtOS-yAg&ip=24.252.12.222&id=o-AAgphco-fI8H5W6fk23jC_GEXXntSfV3sbyXOvQehJwn&itag=18&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-vgqsrnek%2Csn-q4flrnee&ms=au%2Conr&mv=m&mvi=4&pl=18&gcr=us&initcwndbps=2335000&vprv=1&mime=video%2Fmp4&gir=yes&clen=431331430&ratebypass=yes&dur=7108.115&lmt=1579312013751653&mt=1582186956&fvip=5&fexp=23842630%2C23878762&beids=9466587&c=WEB_EMBEDDED_PLAYER&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgHHpqEyEjYXYkMDQf-Kw6gj3Xv_Goaju-dGSyXeNItvACIQD3TGS5U5RHumc6BafoJEYScnoguzCrKXtwFbb7ebVuNg%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAL754Wb4GYp6k3-qE9ze3w7bHzxe1E2KmTvkeCQvHMYLAiBfCLlIZ_67Xi4LX2BTn6ufygkx9KMdYz96zWUtyacFrA%3D%3D
+https://ia802907.us.archive.org/5/items/TheBeastmaster1982/The%20Beastmaster%20%281982%29.mp4
 
 
 
@@ -12472,6 +12474,28 @@ https://ia800103.us.archive.org/5/items/MortalKombat1995/Mortal%20Kombat%20%2819
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM5ZTljOTUtYjVkYy00M2RmLWExNDctNWEyYTA5YTU3MWU0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="On-Demand",Mortal Kombat
 https://r2---sn-vgqskne6.googlevideo.com/videoplayback?expire=1582209170&ei=MkROXuTsHJ2Lir4PnJO_kAY&ip=2600%3A8804%3A1f00%3A5400%3A849a%3Aa44d%3A3683%3Aaf9b&id=o-ABwD_IH3cFRA2BZ6Kf6gDGEAnAEzY2GdVc-ssTTXSrBK&itag=22&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-vgqskne6%2Csn-q4fl6ney&ms=au%2Conr&mv=m&mvi=1&pl=34&gcr=us&initcwndbps=2318750&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=5444.545&lmt=1582072975900886&mt=1582187496&fvip=6&fexp=23842630%2C23878762&beids=9466587&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgMWjmp5zH0RJ85MiSd6FY1sM9RZqrZlJBZdfLrubwWMwCIQCxOTU3pNJCZ7ycTEGEp0nwToJrf4J3ZTU8P2ipgfsCeQ%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIgU6QJVOLEhrCZ8TBQMNxnnX-VjLVq7hj5eeufo8JEtT4CIQDBdB2DDfQDpVv-BwBnpsxvFGSYVgW-Xau4pSQKZSo70w%3D%3D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:0 tvg-name="Sonic the Hedgehog - The Animated Movie" tvg-language="English" tvg-country="US" tvg-id="Sonic the Hedgehog - The Animated Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NjQxMzE0MV5BMl5BanBnXkFtZTcwODQ0OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="On-Demand-Sonic" ,Sonic the Hedgehog - The Animated Movie
@@ -12722,6 +12746,227 @@ https://cloudfront.tubi.video/a120dcc3-860a-4f84-9031-d67567e88200/dodqeb36/stre
 
 
 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Viva
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=8
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",FilmOn Martial Arts
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=10
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Fashion TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=21
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",RTVE
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=23
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",BBC News
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=27
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Russia Today
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=93
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",4Music
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=95
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",More4
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=97
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",ITV4
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=101
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",CBEEBIES
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",CBBC
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=113
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",TUFF
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=216
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",RSquared
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=256
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Music Legends TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=257
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",The Ski Channel
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=265
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",The Spirit Word Channel
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=289
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Mini Movies
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=290
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Macabre Theatre
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=315
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Battlecam People
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=324
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Cultra
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=336
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Terror-Flix
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=339
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",ComedyTime TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=344
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",After Dark TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=345
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",The Soundtrack Channel
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=350
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Dave
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=370
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Pick TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=371
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Really
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=372
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Sci-Fi Telly
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=382
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",The Western Channel
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=384
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Films On Reels
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=395
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Hollywoodland Channel
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=411
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",PPV Celebrity Fight
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=412
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Filmon Stars
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=494
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Action Cinema
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=500
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Inspirational Films
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=503
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Popcorn TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=716
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Emba Kids
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=796
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Ginx
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=796
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Animal Atlas
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=799
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",DAYSTAR
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=833
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",horror channel
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=836
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Action Zone
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=1045
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Hollywood Fast Lane
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=1964
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Hooters' Calendar Girls
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=1970
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",iFlix TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=1991
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Moxie
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=2020
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",FilmOn Kids
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=7
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Food Network
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=20
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",FilmOn Classics
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=206
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",American Horrors
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=393
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Smile of Child
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=401
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Urban Comedy
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=497
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",American Primetime Television
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=707
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Punch TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=983
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Matriarch TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=1052
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Double Feature TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=1693
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Fun little movies
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=1727
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Fun Little Kids
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=1861
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-kartoon-klassics.jpg" group-title="Test TV",Catholic TV
+https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=1876
+
+
+
+
+
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-logo="https://i1.hdslb.com/bfs/archive/451e0ae75e45903f5ae7123085e0160523a0e23b.jpg" group-title="Test TV",CCTV-1 综合
+https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-logo="https://p1.img.cctvpic.com/fmspic/vms/image/1557472318535.jpg" group-title="Test TV",CCTV-2 财经
+https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
 
 
 
