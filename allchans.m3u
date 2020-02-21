@@ -1193,7 +1193,7 @@ https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/playl
 https://stream.ecable.tv/africancine/tracks-v3a1/mono.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f2YA7mD.png" group-title="Entertainment",VoxAfrica UK
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gg0ghnn.png" group-title="UK Channels",24/7 Cbeebies
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-logo="https://i.imgur.com/Gg0ghnn.png" group-title="UK Channels",24/7 Cbeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vl7OBse.png" group-title="UK Channels",24/7 Fix & Foxi
 https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
@@ -1201,9 +1201,9 @@ https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
 https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="UK Channels",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="UK Channels",AMC
+#EXTINF:-1 tvg-id="AMC from BT UK" tvg-name="AMC from BT UK" tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="UK Channels",AMC
 http://84.22.33.254/unicast.amc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="UK Channels",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="UK Channels",Animal Planet
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/02/logo_arise.png" group-title="UK Channels",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -1215,29 +1215,29 @@ https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=25
 #EXTINF:-1 tvg-chno="3" tvg-id="BBC3" tvg-name="BBC3" tvg-logo="https://spectatorblogs.imgix.net/files/2014/03/intro-ident.jpg" group-title="UK Channels",BBC3
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="UK Channels",BBC News
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="UK Channels",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcPajXf.png" group-title="UK Channels",beIN Sports 1
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bQw2g1.png" group-title="UK Channels",beIN Sports 2
 https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="UK Channels",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg TV UK" tvg-name="Bloomberg TV UK" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="UK Channels",Bloomberg TV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="UK Channels",Boomerang
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="UK Channels",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK Channels",Box Hits
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK Channels",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="UK Channels",BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1H0x1Zl.png" group-title="UK Channels",BT Sport 1 (Opt-1)
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 UK" tvg-logo="https://i.imgur.com/1H0x1Zl.png" group-title="UK Channels",BT Sport 1 (Opt-1)
 http://cstream9.com/hls/btsport1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1H0x1Zl.png" group-title="UK Channels",BT Sport 1 (Opt-2)
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 UK" tvg-logo="https://i.imgur.com/1H0x1Zl.png" group-title="UK Channels",BT Sport 1 (Opt-2)
 http://cstream8.com/hls/btsport1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K4wdk9.png" group-title="UK Channels",BT Sport 2
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 UK" tvg-logo="https://i.imgur.com/3K4wdk9.png" group-title="UK Channels",BT Sport 2
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K4wdk9.png" group-title="UK Channels",BT Sport 2 (Opt-2)
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 UK" tvg-logo="https://i.imgur.com/3K4wdk9.png" group-title="UK Channels",BT Sport 2 (Opt-2)
 http://cstream8.com/hls/btsport2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0z9v4j0.png" group-title="UK Channels",BT Sport ESPN
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="BT Sport ESPN UK" tvg-logo="https://i.imgur.com/0z9v4j0.png" group-title="UK Channels",BT Sport ESPN
 https://sportbar.biz/lba/123/g7/btse.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://dot-design.co.uk/wp-content/uploads/2016/02/C5_Pink_Blue-e1455043595606.jpg" group-title="UK Channels",Channel 5
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=22
@@ -19777,8 +19777,5 @@ http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/147/index.m3u8
 #EXTINF:0 tvg-id="Candy TV 18+" tvg-name="Candy TV 18+" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",Candy TV 18+ (Public-Adult) (US) (English)
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/922/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Bugs_Bunny_Roadrunner_movie.jpg" tvg-name="Bugs Bunny Road Runner Movie (1979)" description="{User Rating:} 4.600000\n{Desc:} The Bugs Bunny/Road Runner Movie (also known as The Great American Chase) is a 1979 American animated package film directed by Chuck Jones, consisting of a compilation of classic Looney Tunes/Merrie Melodies shorts and newly animated bridging sequences hosted by Bugs Bunny. The bridging sequences, which had been produced in 1978, show Bugs at his home, which is cantilevered over a carrot-juice waterfall (modeled on Frank Lloyd Wright's "Fallingwater" house in Bear Run, Pennsylvania). Early on, Bugs discusses the wild villains he had co-starred with in his cartoons, which is followed by a tongue-in-cheek sequence depicting the history of comedy and a scene in which Bugs discusses his "several fathers". The latter scene was written by Chuck Jones as a way to debunk fellow animation director Bob Clampett's claims throughout the 1970s that he alone created Bugs, and Clampett's name is notably missing from Bugs's list, as a result of the conflict between Jones and Clampett. The movie Bugs Bunny: Superstar featured Bob Clampett, and is another compilation of cartoon shorts, probably the first to examine the history of Warner cartoons, which under-played Bugs' other 'several fathers' and is part of the mentioned conflict.\n{Runtime:} 111\n{Rated:} Rated R\n{Genre:} Horror\n{Director:} Rusty Cundieff\n{Director:} Darin Scott\n{Year:} 2018\n{Studio:} Universal 1440 Entertainment" group-title="VOD",Bugs Bunny Road Runner Movie (1979)
+#EXTINF:-1 tvg-name="Bugs Bunny Road Runner Movie (1979)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Bugs_Bunny_Roadrunner_movie.jpg" group-title="VOD",Bugs Bunny Road Runner Movie (1979)
 https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Bugs%20Bunny%20Road%20Runner%20Movie%20(1979)%20-%20[arsenaloyal].mp4
