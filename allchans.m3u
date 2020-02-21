@@ -91,7 +91,7 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-id="Charge!" tvg-name="Charge!" tvg-logo="https://cdn.dribbble.com/users/741217/screenshots/2346037/charge-logo.jpg" group-title="Entertainment",Charge!
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-shift="-1" tvg-id="Hallmark - Eastern Feed-US" tvg-name="Hallmark - Eastern Feed-US" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="Entertainment",Hallmark - Eastern Feed-US
+#EXTINF:-1 tvg-shift="-1" tvg-id="Hallmark - Eastern Feed-US" tvg-name="Hallmark - Eastern Feed-US" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="Entertainment",Hallmark - Eastern Feed-US
 https://peer5.ustv.to/Hallmark/myStream/chunks.m3u8?nimblesessionid=23715242&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDEwOjExOjI0IFBNJmhhc2hfdmFsdWU9SCtMb01jZXZFQWVKRDUwN2dVcmlBUT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-shift="-1" tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-name="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Entertainment",Hallmark Movies & Mysteries
 https://peer3.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA1OjU1IEFNJmhhc2hfdmFsdWU9UUpHbFFPNHMwRElka0h5OFFxZFdlQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
@@ -745,7 +745,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" group-title="Entertainment",CBS
 http://docs-8.gogleusercontent.host/live/cbs/chunks.m3u8|Referer=http://123tvnow.com/watch/cbs/
-#EXTINF:-1 tvg-chno="1" tvg-shift="+6" tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="UK Channels",BBC One HD UK
+#EXTINF:-1 tvg-shift="+6" tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="UK Channels",BBC One HD UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
 #EXTINF:-1 tvg-chno="2" tvg-shift="+6" tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="UK Channels",BBC Two UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=25
@@ -1399,31 +1399,31 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-shift="-1" tvg-id="FOX MOVIES" tvg-name="FOX MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLD09ijL0gE-a-wLZ-SIMDgyWCALJT_QmrAJUA-J6WsMPBtswVAbxSA" group-title="Movies",FOX MOVIES (Public-Movie Channels) (US) (English)
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 tvg-chno="1403" tvg-id="SonyMoviesChristmas.uk" tvg-name="Sony Movies Christmas UK" tvg-logo="http://static.iptv-epg.com/uk/SonyMoviesChristmas.uk.png" group-title="Movies",Sony Movies Christmas UK
+#EXTINF:-1 tvg-id="SonyMoviesChristmas.uk" tvg-name="Sony Movies Christmas UK" tvg-logo="http://static.iptv-epg.com/uk/SonyMoviesChristmas.uk.png" group-title="Movies",Sony Movies Christmas UK
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-shift="-1" tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-name="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Movies",Hallmark Movies & Mysteries
 https://peer3.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA1OjU1IEFNJmhhc2hfdmFsdWU9UUpHbFFPNHMwRElka0h5OFFxZFdlQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-shift="-1" tvg-id="Lifetime Movies - East-US" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Movies",Lifetime Movie Network
 https://peer1.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA3OjE5IEFNJmhhc2hfdmFsdWU9Tk1ybWtKMkQ3cVZ5VTU4bXpQRjNZQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-chno="1417" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Film Channel 1
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Film Channel 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-chno="1418" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Film Channel 2
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Film Channel 2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Horror Movies
+#EXTINF:-1 tvg-name="Hollywood Horror Movies" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Horror Movies
 http:////aldirect.hls.huya.com//huyalive//29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 1
+#EXTINF:-1 tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 1
 http:////tx.hls.huya.com//huyalive//30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 2
+#EXTINF:-1 tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 2
 https:////aldirect.hls.huya.com//huyalive//30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 3
+#EXTINF:-1 tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 3
 http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 3
+#EXTINF:-1 tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 3
 http:////aldirect.hls.huya.com//huyalive//30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 4
+#EXTINF:-1 tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 4
 http:////aldirect.hls.huya.com//huyalive//30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 5
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 6
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Movies",24/7 Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" group-title="Movies",24/7 Hollywood Movies 7
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
