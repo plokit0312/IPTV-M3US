@@ -91,13 +91,13 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-id="Charge!" tvg-name="Charge!" tvg-logo="https://cdn.dribbble.com/users/741217/screenshots/2346037/charge-logo.jpg" group-title="Entertainment",Charge!
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-shift="+1" tvg-id="Hallmark - Eastern Feed-US" tvg-name="Hallmark - Eastern Feed-US" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="Entertainment",Hallmark - Eastern Feed-US
+#EXTINF:-1 tvg-chno="1" tvg-shift="-1" tvg-id="Hallmark - Eastern Feed-US" tvg-name="Hallmark - Eastern Feed-US" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="Entertainment",Hallmark - Eastern Feed-US
 https://peer5.ustv.to/Hallmark/myStream/chunks.m3u8?nimblesessionid=23715242&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDEwOjExOjI0IFBNJmhhc2hfdmFsdWU9SCtMb01jZXZFQWVKRDUwN2dVcmlBUT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-shift="+1" tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-name="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Entertainment",Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-shift="-1" tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-name="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Entertainment",Hallmark Movies & Mysteries
 https://peer3.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA1OjU1IEFNJmhhc2hfdmFsdWU9UUpHbFFPNHMwRElka0h5OFFxZFdlQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-shift="+1" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="Lifetime Network US - Eastern Feed-US" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267679_lifetime-hd.jpg" group-title="Entertainment",Lifetime
+#EXTINF:-1 tvg-shift="-1" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="Lifetime Network US - Eastern Feed-US" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267679_lifetime-hd.jpg" group-title="Entertainment",Lifetime
 https://peer2.ustv.to/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjAxOjM2IEFNJmhhc2hfdmFsdWU9bS9mLzFUNkl6VXhCdzhRVTdHVHpaUT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-shift="+1" tvg-id="Lifetime Movies - East-US" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Entertainment",Lifetime Movie Network
+#EXTINF:-1 tvg-shift="-1" tvg-id="Lifetime Movies - East-US" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Entertainment",Lifetime Movie Network
 https://peer1.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA3OjE5IEFNJmhhc2hfdmFsdWU9Tk1ybWtKMkQ3cVZ5VTU4bXpQRjNZQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="Science-US" tvg-name="Science-US" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/320/1x/cbbc/science-logo-final_alt7.png" group-title="Entertainment",Science-US
 https://peer5.ustv.to/Science/myStream/chunks.m3u8?nimblesessionid=23773310&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjM0OjA1IFBNJmhhc2hfdmFsdWU9NW9XUHZ1OFZibXZwY2xIa2tXZy9jQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
@@ -113,7 +113,7 @@ https://peer1.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 https://peer2.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjUyOjMzIFBNJmhhc2hfdmFsdWU9b2MyMzQ0cHArbjFGays4Y2dNbDdTQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="Game Show Network - East-US" tvg-name="Game Show Network - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Entertainment",Game Show Network
 https://peer3.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjU1OjQyIFBNJmhhc2hfdmFsdWU9RnpGVHdxZnJsQUNBUXhoa2dTcVlydz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-shift="+1" tvg-id="US-Do It Yourself Network (USA) - East" tvg-name="US-Do It Yourself Network (USA) - East" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" group-title="Entertainment",Do It Yourself Network
+#EXTINF:-1 tvg-shift="-1" tvg-id="US-Do It Yourself Network (USA) - East" tvg-name="US-Do It Yourself Network (USA) - East" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" group-title="Entertainment",Do It Yourself Network
 https://peer2.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjU2OjM0IFBNJmhhc2hfdmFsdWU9QWNqWWZUNnRSUXlkZ0NXbUpxbEY1QT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="Food Network USA - Eastern Feed-US" tvg-name="Food Network USA - Eastern Feed-US" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/20181111/rs_600x600-181211125229-600-food-network-stars.jpg" group-title="Entertainment",Food Network USA
 https://peer3.ustv.to/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjAzOjI2IEFNJmhhc2hfdmFsdWU9a09jdW9MNmR4Z2JKQkNIUU90ZlgxZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
@@ -745,23 +745,23 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" group-title="Entertainment",CBS
 http://docs-8.gogleusercontent.host/live/cbs/chunks.m3u8|Referer=http://123tvnow.com/watch/cbs/
-#EXTINF:-1 tvg-chno="1" tvg-shift="-6" tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="UK Channels",BBC One HD UK
+#EXTINF:-1 tvg-chno="1" tvg-shift="+6" tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://cdn.imgbin.com/14/11/24/imgbin-bbc-one-television-show-freeview-others-EjYLD97wKwjAV8LmyYgg84UD3.jpg" group-title="UK Channels",BBC One HD UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=14
-#EXTINF:-1 tvg-chno="2" tvg-shift="-6" tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="UK Channels",BBC Two UK
+#EXTINF:-1 tvg-chno="2" tvg-shift="+6" tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="https://i.ytimg.com/vi/W_6ikIOKguI/maxresdefault.jpg" group-title="UK Channels",BBC Two UK
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=25
-#EXTINF:-1 tvg-chno="3" tvg-shift="-6" tvg-id="BBC3" tvg-name="BBC3" tvg-logo="https://spectatorblogs.imgix.net/files/2014/03/intro-ident.jpg" group-title="UK Channels",BBC3
+#EXTINF:-1 tvg-chno="3" tvg-shift="+6" tvg-id="BBC3" tvg-name="BBC3" tvg-logo="https://spectatorblogs.imgix.net/files/2014/03/intro-ident.jpg" group-title="UK Channels",BBC3
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=103
-#EXTINF:-1 tvg-chno="5" tvg-shift="-6" tvg-id="ITV Channel" tvg-name="ITV Channel" tvg-logo="https://pbs.twimg.com/profile_images/1082223691503714309/_YSw37G__400x400.jpg" group-title="UK Channels",ITV
+#EXTINF:-1 tvg-chno="5" tvg-shift="+6" tvg-id="ITV Channel" tvg-name="ITV Channel" tvg-logo="https://pbs.twimg.com/profile_images/1082223691503714309/_YSw37G__400x400.jpg" group-title="UK Channels",ITV
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=11
-#EXTINF:-1 tvg-chno="6" tvg-shift="-6" tvg-id="ITV2" tvg-name="ITV2" tvg-logo="https://www.stream2watch.ws/images/streams/117/stm/14592629385743.jpg" group-title="UK Channels",ITV2
+#EXTINF:-1 tvg-chno="6" tvg-shift="+6" tvg-id="ITV2" tvg-name="ITV2" tvg-logo="https://www.stream2watch.ws/images/streams/117/stm/14592629385743.jpg" group-title="UK Channels",ITV2
 http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-shift="-6" tvg-id="ITV4" tvg-name="ITV4" tvg-logo="https://www.stream2watch.ws/images/streams/119/stm/14592630149048.jpg" group-title="UK Channels",ITV4
+#EXTINF:-1 tvg-chno="8" tvg-shift="+6" tvg-id="ITV4" tvg-name="ITV4" tvg-logo="https://www.stream2watch.ws/images/streams/119/stm/14592630149048.jpg" group-title="UK Channels",ITV4
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=101
-#EXTINF:-1 tvg-chno="9" tvg-shift="-6" tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://i.ytimg.com/vi/IQy0Y29QhCs/hqdefault.jpg" group-title="UK Channels",Channel 4
+#EXTINF:-1 tvg-chno="9" tvg-shift="+6" tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://i.ytimg.com/vi/IQy0Y29QhCs/hqdefault.jpg" group-title="UK Channels",Channel 4
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=2
-#EXTINF:-1 tvg-chno="10" tvg-shift="-6" tvg-id="E4" tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="UK Channels",E4
+#EXTINF:-1 tvg-chno="10" tvg-shift="+6" tvg-id="E4" tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="UK Channels",E4
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=65
-#EXTINF:-1 tvg-chno="15" tvg-shift="-6" tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://dot-design.co.uk/wp-content/uploads/2016/02/C5_Pink_Blue-e1455043595606.jpg" group-title="UK Channels",Channel 5
+#EXTINF:-1 tvg-chno="15" tvg-shift="+6" tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://dot-design.co.uk/wp-content/uploads/2016/02/C5_Pink_Blue-e1455043595606.jpg" group-title="UK Channels",Channel 5
 https://streamonion.com/manager/uk/fo/fo_fw.m3u8?cid=22
 #EXTINF:-1 tvg-id="Channel Lineup" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bac15e47d92bd45a878f59c/featuredImage.jpg" group-title="Pluto", Channel Lineup
 https://stitcher.pluto.tv/stitch/hls/channel/5bac15e47d92bd45a878f59c/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
@@ -1393,17 +1393,17 @@ https://nrpus.bozztv.com/36bay2/gusa-tvswsn/tracks-v1a1/index-1582092807-now.m3u
 https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/tracks-v1a1/index-1582092889-now.m3u8
 #EXTINF:0 tvg-id="THREE" tvg-name="THREE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMiu9JyrqRD_V1NympT4tBw90Isy9SbTCd5uWNWYhdBdtelFV0FJx1A" group-title="Movies",THREE (Movie Channels) (UK) (English)
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:0 tvg-id="FOX MOVIES" tvg-name="FOX MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLD09ijL0gE-a-wLZ-SIMDgyWCALJT_QmrAJUA-J6WsMPBtswVAbxSA" group-title="Movies",FOX MOVIES (Movie Channels) (US) (English)
+#EXTINF:0 tvg-shift="-1" tvg-id="FOX MOVIES" tvg-name="FOX MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLD09ijL0gE-a-wLZ-SIMDgyWCALJT_QmrAJUA-J6WsMPBtswVAbxSA" group-title="Movies",FOX MOVIES (Movie Channels) (US) (English)
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:0 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://2.bp.blogspot.com/-1L5Qo-Hs6Qc/TXxCPre9m_I/AAAAAAAACG4/k6UmYBngn9g/s1600/Picture%2B20.png" group-title="Movies",HBO 2 (Movie Channels) (US) (English)
+#EXTINF:0 tvg-shift="-1" tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://2.bp.blogspot.com/-1L5Qo-Hs6Qc/TXxCPre9m_I/AAAAAAAACG4/k6UmYBngn9g/s1600/Picture%2B20.png" group-title="Movies",HBO 2 (Movie Channels) (US) (English)
 http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="FOX MOVIES" tvg-name="FOX MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLD09ijL0gE-a-wLZ-SIMDgyWCALJT_QmrAJUA-J6WsMPBtswVAbxSA" group-title="Movies",FOX MOVIES (Public-Movie Channels) (US) (English)
+#EXTINF:0 tvg-shift="-1" tvg-id="FOX MOVIES" tvg-name="FOX MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLD09ijL0gE-a-wLZ-SIMDgyWCALJT_QmrAJUA-J6WsMPBtswVAbxSA" group-title="Movies",FOX MOVIES (Public-Movie Channels) (US) (English)
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1 tvg-chno="1403" tvg-id="SonyMoviesChristmas.uk" tvg-name="Sony Movies Christmas UK" tvg-logo="http://static.iptv-epg.com/uk/SonyMoviesChristmas.uk.png" group-title="Movies",Sony Movies Christmas UK
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-name="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Movies",Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-shift="-1" tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-name="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Movies",Hallmark Movies & Mysteries
 https://peer3.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA1OjU1IEFNJmhhc2hfdmFsdWU9UUpHbFFPNHMwRElka0h5OFFxZFdlQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-id="Lifetime Movies - East-US" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Movies",Lifetime Movie Network
+#EXTINF:-1 tvg-shift="-1" tvg-id="Lifetime Movies - East-US" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Movies",Lifetime Movie Network
 https://peer1.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA3OjE5IEFNJmhhc2hfdmFsdWU9Tk1ybWtKMkQ3cVZ5VTU4bXpQRjNZQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-chno="1417" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Film Channel 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
