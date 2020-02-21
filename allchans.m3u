@@ -95,6 +95,10 @@ https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e
 https://peer5.ustv.to/Hallmark/myStream/chunks.m3u8?nimblesessionid=23715242&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDEwOjExOjI0IFBNJmhhc2hfdmFsdWU9SCtMb01jZXZFQWVKRDUwN2dVcmlBUT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-name="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Entertainment",Hallmark Movies & Mysteries
 https://peer3.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA1OjU1IEFNJmhhc2hfdmFsdWU9UUpHbFFPNHMwRElka0h5OFFxZFdlQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
+#EXTINF:-1 tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="Lifetime Network US - Eastern Feed-US" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267679_lifetime-hd.jpg" group-title="Entertainment",Lifetime
+https://peer2.ustv.to/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjAxOjM2IEFNJmhhc2hfdmFsdWU9bS9mLzFUNkl6VXhCdzhRVTdHVHpaUT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
+#EXTINF:-1 tvg-id="Lifetime Movies - East-US" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Entertainment",Lifetime Movie Network
+https://peer1.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA3OjE5IEFNJmhhc2hfdmFsdWU9Tk1ybWtKMkQ3cVZ5VTU4bXpQRjNZQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="Science-US" tvg-name="Science-US" tvg-logo="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/320/1x/cbbc/science-logo-final_alt7.png" group-title="Entertainment",Science-US
 https://peer5.ustv.to/Science/myStream/chunks.m3u8?nimblesessionid=23773310&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjM0OjA1IFBNJmhhc2hfdmFsdWU9NW9XUHZ1OFZibXZwY2xIa2tXZy9jQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD" tvg-logo="https://banner2.cleanpng.com/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="Entertainment",CBS HD New York-US
@@ -111,10 +115,6 @@ https://peer2.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yM
 https://peer3.ustv.to/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjU1OjQyIFBNJmhhc2hfdmFsdWU9RnpGVHdxZnJsQUNBUXhoa2dTcVlydz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="US-Do It Yourself Network (USA) - East" tvg-name="US-Do It Yourself Network (USA) - East" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" group-title="Entertainment",Do It Yourself Network
 https://peer2.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjU2OjM0IFBNJmhhc2hfdmFsdWU9QWNqWWZUNnRSUXlkZ0NXbUpxbEY1QT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="Lifetime Network US - Eastern Feed-US" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267679_lifetime-hd.jpg" group-title="Entertainment",Lifetime
-https://peer2.ustv.to/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjAxOjM2IEFNJmhhc2hfdmFsdWU9bS9mLzFUNkl6VXhCdzhRVTdHVHpaUT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-chno="2" tvg-id="Lifetime Movies - East-US" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Entertainment",Lifetime Movie Network
-https://peer1.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA3OjE5IEFNJmhhc2hfdmFsdWU9Tk1ybWtKMkQ3cVZ5VTU4bXpQRjNZQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-id="Food Network USA - Eastern Feed-US" tvg-name="Food Network USA - Eastern Feed-US" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/20181111/rs_600x600-181211125229-600-food-network-stars.jpg" group-title="Entertainment",Food Network USA
 https://peer3.ustv.to/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjAzOjI2IEFNJmhhc2hfdmFsdWU9a09jdW9MNmR4Z2JKQkNIUU90ZlgxZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Entertainment",Paramount
@@ -685,8 +685,6 @@ http://docs-6.gogleusercontent.host/live/hbo/chunks.m3u8|Referer=http://123tvnow
 http://docs-2.gogleusercontent.host/live/hgtv/chunks.m3u8|Referer=http://123tvnow.com/watch/hgtv/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" group-title="Entertainment",Investigation Discovery
 http://docs-1.gogleusercontent.host/live/id/chunks.m3u8|Referer=http://123tvnow.com/watch/investigation-discovery/
-#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" group-title="Entertainment",Lifetime
-http://docs-5.gogleusercontent.host/live/lifetime/chunks.m3u8|Referer=http://123tvnow.com/watch/lifetime-tv/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" group-title="Entertainment",MSNBC
 http://docs-6.gogleusercontent.host/live/msnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/msnbc/
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" group-title="Entertainment",National Geographic
@@ -1405,7 +1403,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-name="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Movies",Hallmark Movies & Mysteries
 https://peer3.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA1OjU1IEFNJmhhc2hfdmFsdWU9UUpHbFFPNHMwRElka0h5OFFxZFdlQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-chno="2" tvg-id="Lifetime Movies - East-US" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Movies",Lifetime Movie Network
+#EXTINF:-1 tvg-id="Lifetime Movies - East-US" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Movies",Lifetime Movie Network
 https://peer1.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA3OjE5IEFNJmhhc2hfdmFsdWU9Tk1ybWtKMkQ3cVZ5VTU4bXpQRjNZQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-chno="1417" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movies", 24/7 Hollywood Film Channel 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
