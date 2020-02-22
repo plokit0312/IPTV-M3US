@@ -1,8 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/guide-usa.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="24/7", 24/7 Retro TV 
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="24/7", 24/7 Retro TV (Alt)
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://img.jakpost.net/c/2017/01/13/2017_01_13_19434_1484287863._large.jpg" group-title="24/7", Andy Lau Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d14fb6c84dd37df3b4290c5/featuredImage.jpg" group-title="24/7", Dora TV
@@ -21,44 +19,24 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-name="24/7 Big Bang Theory" tvg-logo="https://sqad.com/wp-content/uploads/2018/09/Big-Bang-Logo.jpg" group-title="24/7",24/7 Big Bang Theory
 https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/big%20bang.m3u
-#EXTINF:-1 tvg-chno="12" tvg-name="24/7 Big Bang Theory" tvg-logo="https://sqad.com/wp-content/uploads/2018/09/Big-Bang-Logo.jpg" group-title="24/7",24/7 Big Bang Theory
-https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/big%20bang.m3u
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://i.imgur.com/ggjJiDw.png" group-title="24/7",24/7 Friends
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" group-title="24/7",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://i.imgur.com/ggjJiDw.png" group-title="24/7",24/7 Friends
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://st.cdjapan.co.jp/pictures/l/04/47/LACA-15249.jpg" group-title="24/7",24/7 Kuroko's Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24/7",24/7 Kuroko's Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24/7",24/7 Kuroko's Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24/7",24/7 Marvel Movies
-http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24/7",24/7 Marvel Movies
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" group-title="24/7",24/7 Reality TV 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24/7",24/7 Resident Evil Movies
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24/7",24/7 Resident Evil Movies
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://i.imgur.com/FIO7zhZ.png" group-title="24/7",24/7 Sci-Fi Movies
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-logo="https://i.imgur.com/FIO7zhZ.png" group-title="24/7",24/7 Sci-Fi Movies
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://i.imgur.com/t0zs0ST.png" group-title="24/7",24/7 The Big Bang Theory
-https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-logo="https://i.imgur.com/t0zs0ST.png" group-title="24/7",24/7 The Big Bang Theory
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="24/7",After School Cartoons
 http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-chno="29" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b7d3249444e05d09cc49/featuredImage.jpg" group-title="24/7",Anime All Ages
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="30" tvg-name="Best of Bean | Live Stream | Mr Bean Official" tvg-logo="https://i.ytimg.com/vi/eQHKhg4dBlA/maxresdefault.jpg" group-title="24/7",Best of Bean | Live Stream | Mr Bean Official
-
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="24/7",BestTV UHD
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="24/7",BesTV 4K
@@ -79,10 +57,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-chno="40" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cda08d99ad3b121623d6dcb/featuredImage.jpg" group-title="24/7",ER Stories
 https://stitcher.pluto.tv/stitch/hls/channel/5cda08d99ad3b121623d6dcb/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="41" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/588128d17d64bc0d0f385c34/featuredImage.jpg" group-title="24/7",Fear Factor
-https://stitcher.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="42" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c362ded581a86051df509b4/featuredImage.jpg" group-title="24/7",Fear Factor
-https://stitcher.pluto.tv/stitch/hls/channel/5c362ded581a86051df509b4/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-chno="43" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24/7",Forensic Files
 https://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-chno="44" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" group-title="24/7",Gordon Ramsays Hells Kitchen Uncensored
