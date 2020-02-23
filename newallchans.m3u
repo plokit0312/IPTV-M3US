@@ -417,12 +417,12 @@ https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/CMC-269x151.jpg" group-title="Entertainment",California Music Channel - CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="CBS Action UK" tvg-name="CBS" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" group-title="Entertainment",CBS
+#EXTINF:-1 tvg-chno="50" tvg-id="CBS Reality UK" tvg-name="CBS" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" group-title="Entertainment",CBS
 http://docs-8.gogleusercontent.host/live/cbs/chunks.m3u8|Referer=http://123tvnow.com/watch/cbs/
-#EXTINF:-1 tvg-chno="51" tvg-id="CBS Action UK" tvg-name="CBS" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="Entertainment",CBS (EST)
+#EXTINF:-1 tvg-chno="51" tvg-id="CBS Reality UK" tvg-name="CBS" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="Entertainment",CBS (EST)
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="CBS Action UK" tvg-name="CBS HD" tvg-logo="https://banner2.cleanpng.com/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="Entertainment",CBS HD New York-US
-https://peer2.ustv.to/CBS/myStream/chunks.m3u8?nimblesessionid=157420099&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjM1OjQ3IFBNJmhhc2hfdmFsdWU9WGFFOElEUHh1TUZ5YVB0c1RWUUI4QT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
+#EXTINF:-1 tvg-chno="52" tvg-id="CBS HD New York-US" tvg-name="CBS HD" tvg-logo="https://banner2.cleanpng.com/20180604/pbf/kisspng-cbs-sports-logo-television-boho-logo-5b15ece25ac604.2221617415281635543718.jpg" group-title="Entertainment",CBS HD New York-US
+https://peer5.ustv.to/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDEyOjM3OjA4IEFNJmhhc2hfdmFsdWU9QkRzdlFMSWtJcHRUQzFDckQ1SWd5QT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-chno="53" tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="Entertainment",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="Entertainment",CGTN Documentary
