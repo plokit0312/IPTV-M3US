@@ -339,8 +339,6 @@ http://367449830.r.cdnsun.net/367449830/_definst_/svbctv/playlist.m3u8
 rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
 #EXTINF:-1 tvg-chno="1" tvg-id="ABC HD Los Angeles-US" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="Entertainment",23 ABC (KERO)
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="Entertainment",24-7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Entertainment",24/7 Retro TV 
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="Entertainment",30A Sidewalks
@@ -349,28 +347,18 @@ http://30a-tv.com/sidewalks.m3u8
 http://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://3abn.org/img/3abn-lat-ogg.jpg" group-title="Entertainment",3ABN Latino
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="A-E.us" tvg-logo="https://i.imgur.com/dIOSEtQ.png" group-title="Entertainment",A&E
-https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="A and E US - Eastern Feed-US" tvg-logo="https://i.imgur.com/dIOSEtQ.png" group-title="Entertainment",A&E
+https://peer2.ustv.to/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDExOjU2OjAzIFBNJmhhc2hfdmFsdWU9MFRvVkpDaFlQOTIzMjYrS1IvRGNHdz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-chno="8" tvg-id="ABC HD Los Angeles-US" tvg-name="ABC HD New York-US" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2017/05/abc.png" group-title="Entertainment",ABC
 https://peer2.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjQ1OjE5IFBNJmhhc2hfdmFsdWU9bEV0MkE5dGR2NzhsdUdib0xOSmI4dz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-chno="9" tvg-id="ABC HD Los Angeles-US" tvg-name="ABC HD New York-US" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="Entertainment",ABC (EST)
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="ABC HD Los Angeles-US" tvg-name="ABC (KABC) Los Angeles, CA" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="Entertainment",ABC (KABC) (PST)
-http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
-#EXTINF:-1 tvg-chno="11" tvg-id="ABC HD Los Angeles-US" tvg-name="ABC HD New York-US" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="Entertainment",ABC (WPLG) (EST)
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="ABC HD New York-US" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="Entertainment",ABC 10 Miami FL (WPLG)
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="ABC HD New York-US" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="Entertainment",ABC 2 Baton Rouge LA (WBRZ-HD)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="ABC HD New York-US" tvg-name="ABC" tvg-logo="https://gray.tv/uploads/redesign/COMPANIES/logos/WWSB.png" group-title="Entertainment",ABC 7 Sarasota FL (WWSB)
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://i.imgur.com/jLYjKFH.jpg" group-title="Entertainment",ACTV
-http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="Entertainment",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://i.imgur.com/xOSODRW.png" group-title="Entertainment",African Cinema
-https://stream.ecable.tv/africancine/tracks-v3a1/mono.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://i.imgur.com/MQET539.jpg" group-title="Entertainment",Akaku 53 (Hawaii)
 https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://i.imgur.com/MQET539.jpg" group-title="Entertainment",Akaku 54 (Hawaii)
@@ -381,8 +369,6 @@ https://akaku.vod.castus.tv/live/ch3.m3u8
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Entertainment",AKC TV
 https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Entertainment",AKC TV (Alt 1)
-https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://i.imgur.com/0qwmBEm.png" group-title="Entertainment",Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="AMC from BT UK" tvg-name="AMC" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" group-title="Entertainment",AMC
@@ -392,9 +378,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/12
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="Entertainment",American Classic TV
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="Entertainment",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-logo="https://i.imgur.com/1E41Fs3.png" group-title="Entertainment",Antenna TV
-https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8?fluxustv.m3u8
+https://nimble.dashstreams.net/onestudio/americanhorrors/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://i.imgur.com/bkikN6d.png" group-title="Entertainment",Apple Sauce Network
 https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Entertainment",Atlanta Channel
@@ -405,18 +389,16 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="Entertainment",Beach TV - Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:0 tvg-chno="35" tvg-id="BET UK" tvg-name="BET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4PRR3NDnUE7nm3clLJUR-jcbAMVfttmuNlqv3mHtR1zl9GMd4yIldr_4" group-title="Entertainment",BET (Entertainment) (US) (English)
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8#EXTINF:-1 tvg-id="640" tvg-logo="https://i.imgur.com/Zg4xLEn.png" group-title="Entertainment" channelId="637",Biz TV
+#EXTINF:0 tvg-chno="35" tvg-name="Smithsonian Channel: Pandas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51z0A1SB9%2BL._SY445_.jpg" group-title="Entertainment",BET (Entertainment) (US) (English)
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 #EXTINF:0 tvg-chno="36" tvg-logo="https://i.ytimg.com/vi/6Bk0JhfXTVs/maxresdefault.jpg" group-title="Entertainment",Black Jesus
 https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png" group-title="Entertainment",BlazeTV
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://i.imgur.com/RgYEjYE.png" group-title="Entertainment",Blush TV
 https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://i.imgur.com/JS08AAb.png" group-title="Entertainment",Bounce TV
-https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" group-title="Entertainment",Bravo Channel
-https://ok.ru/videoembed/1082884824675?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl/&quot;:/&quot;$$end=?p/&quot;,$$replace=PlaylistUrl/&quot;:/&quot;$$replacewith=$$add=
+#EXTINF:-1 tvg-chno="40" tvg-id="Bravo USA - Eastern Feed-US" tvg-name="Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" group-title="Entertainment",Bravo Channel
+https://peer5.ustv.to/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDEyOjMxOjMyIEFNJmhhc2hfdmFsdWU9SVA3b0s2Z29QOGJtNFBEdGlOcDJadz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 #EXTINF:-1 tvg-chno="41" tvg-logo="https://i.imgur.com/AOj9cgU.png" group-title="Entertainment",Brut
 http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="BUZZTV288.us" tvg-name="BUZZR (US) (English)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="Entertainment",Buzzr
