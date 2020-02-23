@@ -16863,7 +16863,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-chno="1937" group-title="US Channels",Stand-Up TV
 http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-chno="1938" group-title="US Channels",Star Movies HD Middle East
+#EXTINF:-1 tvg-chno="1938" group-title="US Channels" tvg-id="Star Movies-IN" tvg-name="Star Movies-IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz",Star Movies HD Middle East
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 tvg-chno="1939" group-title="US Channels",Star World HD Middle East
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
@@ -26919,7 +26919,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXY5XLu.png" group-title="Movies",Sony Movies Christmas
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Star Movies-IN" tvg-name="Star Movies-IN" tvg-logo="https://i.imgur.com/GylvfMQ.png" group-title="Movies",Star Movies HD Middle East
+#EXTINF:-1 tvg-id="Star Movies-IN" tvg-name="Star Movies-IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" tvg-logo="https://i.imgur.com/GylvfMQ.png" group-title="Movies",Star Movies HD Middle East
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="Movies",The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
