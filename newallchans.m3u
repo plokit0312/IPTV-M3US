@@ -289,7 +289,7 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
-#EXTINF:-1 tvg-id="HBO - Pacific Feed-US" tvg-name="HBO - Pacific Feed-US" group-title="Cable",USA: HBO HD
+#EXTINF:-1 tvg-id="HBO - Pacific Feed-US" tvg-name="HBO - Pacific Feed-US" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Cable",USA: HBO HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58589
 #EXTINF:-1 tvg-id="HBO 2 - Eastern Feed-US" group-title="Cable",USA: HBO 2 HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58590
