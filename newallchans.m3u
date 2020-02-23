@@ -337,6 +337,12 @@ https://rt-doc.secure.footprint.net/1101.m3u8
 http://367449830.r.cdnsun.net/367449830/_definst_/svbctv/playlist.m3u8
 #EXTINF:0 tvg-chno="18" tvg-name="USCG Television Ecuador" tvg-logo="http://puu.sh/nyTsI/8380211bcd.jpg" group-title="Documentary",USCG Television Ecuador (Documentary) (EC) (Spanish)
 rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://i.imgur.com/QNaPXLj.png" group-title="Documentary",Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="Documentary",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-logo="https://i.imgur.com/QtAXTGj.png" group-title="Documentary",DocuBox
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="ABC HD Los Angeles-US" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="Entertainment",23 ABC (KERO)
 
 #EXTINF:-1 tvg-chno="3" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Entertainment",24/7 Retro TV 
@@ -427,35 +433,19 @@ https://peer5.ustv.to/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="Entertainment",CGTN Documentary
 http://livefr.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://c44.com.au/wp-content/uploads/2018/04/44-Logo-Approved-clbkg-no-text.png" group-title="Entertainment",Channel 44 Adelaide
-https://bdz47wk-lh.akamaihd.net/i/bdz47wk6avrot1_1@683133/master.m3u8?attributes=off&
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="Entertainment",Cheddar Business
-https://live.chdrstatic.com/cheddar/primary/1.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="Entertainment",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://i.imgur.com/Qq70J9t.png" group-title="Entertainment",Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Entertainment",CMC
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Entertainment",CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="National Geographic US - Eastern-US" tvg-name="National Geographic US - Eastern" tvg-logo="https://www.pngitem.com/pimgs/m/399-3992590_cna-logo-hd-png-download.png" group-title="Entertainment",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="Entertainment",CNBC
+#EXTINF:-1 tvg-chno="62" tvg-id="CNBC USA-US" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="Entertainment",CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnbc-269x149.png" group-title="Entertainment",CNBC
+#EXTINF:-1 tvg-chno="63" tvg-id="CNBC USA-US" tvg-name="CNBC USA-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnbc-269x149.png" group-title="Entertainment",CNBC
 http://docs-7.gogleusercontent.host/live/cnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/cnbc-2/
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="Entertainment",CNBC Europe
+#EXTINF:-1 tvg-chno="64" tvg-id="CBS HD New York-US" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="Entertainment",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:0 tvg-chno="65" tvg-name="CNBC World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJwg4MT1jFXsvTuLj9QA6PuewJziBNbkTERWq-uWXYH3O--nUVMQ0jw" group-title="Entertainment",CNBC World (Entertainment) (US) (English)
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://i.imgur.com/gzq7god.png" group-title="Entertainment",Comet (KCTV)
-https://cvtv.cvalley.net/hls/KCTVComet/KCTVComet.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://i.imgur.com/gzq7god.png" group-title="Entertainment",Comet (KRCG)
-https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://i.imgur.com/gzq7god.png" group-title="Entertainment",Comet (KTVO)
-https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
-#EXTINF:0 tvg-chno="69" tvg-name="Comet TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGVemDl1jLZgLn3fBK431JitEcdhpPBA--sQZt08J_8plMoUtmJSlRA" group-title="Entertainment",Comet TV (Entertainment) (US) (English)
+#EXTINF:0 tvg-chno="69" tvg-id="US-Starz Edge - Eastern" tvg-name="Comet TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGVemDl1jLZgLn3fBK431JitEcdhpPBA--sQZt08J_8plMoUtmJSlRA" group-title="Entertainment",Comet TV (Entertainment) (US) (English)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" group-title="Entertainment",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
@@ -463,66 +453,42 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="Entertainment",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-logo="https://i.imgur.com/IcAM9uw.png" group-title="Entertainment",Cozi TV
-http://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/logo.png" group-title="Entertainment",Create and Craft
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" group-title="Entertainment",CW
+#EXTINF:-1 tvg-chno="75" tvg-id="cw11-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" group-title="Entertainment",CW
 http://docs-1.gogleusercontent.host/live/cw/chunks.m3u8|Referer=http://123tvnow.com/watch/the-cw/
-#EXTINF:-1 tvg-chno="76" tvg-logo="https://i.imgur.com/UbJ32O4.png" group-title="Entertainment",CW (CST)
-http://cvtv.cvalley.net/hls/WGEMCW/WGEMCW.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-logo="https://i.imgur.com/UbJ32O4.png" group-title="Entertainment",CW (EST)
+#EXTINF:-1 tvg-chno="77" tvg-id="cw11-US" tvg-name="cw11-US" tvg-logo="https://i.imgur.com/UbJ32O4.png" group-title="Entertainment",CW (EST)
 http://190.80.3.28/CW/CW.isml/index.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://i.imgur.com/UbJ32O4.png" group-title="Entertainment",CW (WGEM) (CST)
-https://cvtv.cvalley.net/hls/WGEMCW/WGEMCW.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-logo="https://i.imgur.com/UbJ32O4.png" group-title="Entertainment",CW (WSFL) (EST)
+#EXTINF:-1 tvg-chno="79" tvg-id="cw11-US" tvg-name="cw11-US" tvg-logo="https://i.imgur.com/UbJ32O4.png" group-title="Entertainment",CW (WSFL) (EST)
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="80" tvg-logo="https://i.imgur.com/4rUusB8.png" group-title="Entertainment",DABL
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png" group-title="Entertainment",Dancestar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://i.imgur.com/zGVnGPv.png" group-title="Entertainment",Dave
+#EXTINF:-1 tvg-chno="82" tvg-id="Dave UK" tvg-logo="https://i.imgur.com/zGVnGPv.png" group-title="Entertainment",Dave
 http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-dave/tracks-v1a1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" group-title="Entertainment",Discovery Channel
+#EXTINF:-1 tvg-chno="83" tvg-id="Disney Channel UK" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" group-title="Entertainment",Discovery Channel
 http://docs-3.gogleusercontent.host/live/discovery/chunks.m3u8|Referer=http://123tvnow.com/watch/discovery-channel/
 #EXTINF:-1 tvg-chno="84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Entertainment",DISCOVERY SCIENCE
 http://docs-2.gogleusercontent.host/live/sci/chunks.m3u8|Referer=http://123tvnow.com/watch/science-channel/
-#EXTINF:-1 tvg-chno="85" tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="Entertainment",DIY Network
+#EXTINF:-1 tvg-chno="85" tvg-id="US-Do It Yourself Network (USA) - East" tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="Entertainment",DIY Network
 http://docs-8.gogleusercontent.host/live/diy/chunks.m3u8|Referer=http://123tvnow.com/watch/diy-network/
 #EXTINF:-1 tvg-chno="86" tvg-shift="-1" tvg-id="US-Do It Yourself Network (USA) - East" tvg-name="US-Do It Yourself Network (USA) - East" tvg-logo="https://www.moneycrashers.com/wp-content/uploads/2018/11/diy-do-it-yourself-wooden-block-letters.jpg" group-title="Entertainment",Do It Yourself Network
 https://peer2.ustv.to/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjU2OjM0IFBNJmhhc2hfdmFsdWU9QWNqWWZUNnRSUXlkZ0NXbUpxbEY1QT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-chno="87" tvg-logo="https://i.imgur.com/QtAXTGj.png" group-title="Entertainment",DocuBox
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-logo="https://i.imgur.com/QNaPXLj.png" group-title="Entertainment",Documentaries 4U
-https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="Entertainment",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:0 tvg-chno="90" tvg-logo="https://i.imgur.com/azzpKrT.png" group-title="Entertainment",Dream Corp LLC
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-logo="https://i.imgur.com/9mTwMJk.png" group-title="Entertainment",Dream TV
 https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-logo="https://i.imgur.com/4qrQOr7.png" group-title="Entertainment",DSport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="Entertainment",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" group-title="Entertainment",E!
+#EXTINF:-1 tvg-chno="94" tvg-id="E! UK" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" group-title="Entertainment",E!
 http://docs-2.gogleusercontent.host/live/enw/chunks.m3u8|Referer=http://123tvnow.com/watch/e-network/
 #EXTINF:-1 tvg-chno="95" tvg-id="E! Entertainment USA - Eastern Feed-US" tvg-name="E! Entertainment USA - Eastern Feed-US" tvg-logo="https://pmcvariety.files.wordpress.com/2019/08/e-logo.jpg" group-title="Entertainment",E! Entertainment USA
 https://peer2.ustv.to/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjUyOjMzIFBNJmhhc2hfdmFsdWU9b2MyMzQ0cHArbjFGays4Y2dNbDdTQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-chno="96" tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="Entertainment",EMCI TV Montreal
-https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
 #EXTINF:-1 tvg-chno="97" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="Entertainment",English Club TV
 http://ott-cdn.ucom.am/s37/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-chno="98" tvg-logo="https://tvbtn.files.wordpress.com/2016/08/the-eric-andre-show.jpg?w=640" group-title="Entertainment",Eric Andre Show
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="BT Sport ESPN UK" tvg-name="ESPN" tvg-logo="https://i.imgur.com/Ib6qgru.png" group-title="Entertainment",ESPN
-http://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://i.imgur.com/kYhdM9c.png" group-title="Entertainment",ESPN 2
-http://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/01/03214531-586b-4683-813e-a3252999e063/thumbnail/1280x720/e359894b45362a16a256ad90e5a1aec2/et-live-logo-1920x1080.jpg" group-title="Entertainment",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-#EXTINF:-1 tvg-chno="102" tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="Entertainment",ET Live (Opt-1)
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-logo="https://i.imgur.com/0rfBAWY.png" group-title="Entertainment",Exercise 4U
 https://nimble.dashmedia.tv/onestudio/exercise_4u_tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-logo="https://i.imgur.com/9IlPgqf.png" group-title="Entertainment",EZWay Network
@@ -533,34 +499,28 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/ind
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="Entertainment",FightBox
 http://ott-cdn.ucom.am/s86/index.m3u8
-#EXTINF:0 tvg-chno="108" tvg-name="fishing channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkp-sceADvTQCVDHpXQtCyWY7eksWgU6s4Y7iETQ4PY_kJ4AHq2p1Mw" group-title="Entertainment",fishing channel (Entertainment) (CA) (English)
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="Entertainment",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="FOX UK" tvg-name="FOX UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",Fox
 https://peer1.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDExOjQ5OjEzIFBNJmhhc2hfdmFsdWU9d2p5L3pYUjV5VjFsYUVMcVQ0Y2FMZz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-chno="111" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fbn-269x151.jpg" group-title="Entertainment",FOX Business
+#EXTINF:-1 tvg-chno="111" tvg-id="Fox Business-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fbn-269x151.jpg" group-title="Entertainment",FOX Business
 http://docs-4.gogleusercontent.host/live/fbn/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-business/
 #EXTINF:-1 tvg-chno="112" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fox-269x151.png" group-title="Entertainment",FOX Network
 http://docs-5.gogleusercontent.host/live/foxnw/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-network/
-#EXTINF:-1 tvg-chno="113" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" group-title="Entertainment",FOX NEWS HD
-http://fn-1.gogleusercontent.host/live/666f786e657773/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-news-hd/
-#EXTINF:-1 tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Entertainment",Fox Sports
+#EXTINF:-1 tvg-chno="114" tvg-id="Fox Sports 1-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Entertainment",Fox Sports
 http://45.58.62.92:8080
-#EXTINF:-1 tvg-chno="115" tvg-logo="https://i.imgur.com/G6cIBwe.png" group-title="Entertainment",Fox Sports 1
-http://cvtv.cvalley.net/hls/FS1/FS1.m3u8
-#EXTINF:-1 tvg-chno="116" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" group-title="Entertainment",FOX Sports 1
+#EXTINF:-1 tvg-chno="116" tvg-id="Fox Sports 1-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" group-title="Entertainment",FOX Sports 1
 http://docs-6.gogleusercontent.host/live/fs1/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-
-#EXTINF:-1 tvg-chno="117" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" group-title="Entertainment",FOX Sports 2
+#EXTINF:-1 tvg-chno="117" tvg-id="Fox Sports 2-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" group-title="Entertainment",FOX Sports 2
 http://docs-2.gogleusercontent.host/live/fs2/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-2/
 #EXTINF:-1 tvg-chno="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="Entertainment",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 tvg-chno="119" tvg-id="Freeform - East Feed-US" tvg-name="Freeform" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2018/01/logo_freeform.png" group-title="Entertainment",Freeform
-https://peer5.ustv.to/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDM6MDE6MDQgQU0maGFzaF92YWx1ZT1DNHhtY0c2bDBhOHdtbitlR0Z4eEpRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:-1 tvg-chno="120" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fx-269x151.png" group-title="Entertainment",FX
+#EXTINF:-1 tvg-chno="119" tvg-shift="-1" tvg-id="Freeform" tvg-name="Freeform" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2018/01/logo_freeform.png" group-title="Entertainment",Freeform
+https://peer5.ustv.to/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDE6MTE6NTQgQU0maGFzaF92YWx1ZT0yMml5eXFkMFF1YWVBYVlLUURiNEZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+#EXTINF:-1 tvg-chno="120" tvg-id="FX Networks East Coast-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fx-269x151.png" group-title="Entertainment",FX
 http://docs-4.gogleusercontent.host/live/fx/chunks.m3u8|Referer=http://123tvnow.com/watch/fx-live/
-#EXTINF:-1 tvg-chno="121" tvg-name="FX Movie Channel (FXM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="Entertainment",FX Movie Channel (FXM)
-https://peer5.ustv.to/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTg6MTYgQU0maGFzaF92YWx1ZT00dTZFR0w4UHZXZTdIcFNvbFQvTWNRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+#EXTINF:-1 tvg-chno="121" tvg-id="FX Movie Channel (FXM)" tvg-name="FX Movie Channel (FXM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="Entertainment",FX Movie Channel (FXM)
+https://peer1.ustv.to/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDE6MTQ6NDYgQU0maGFzaF92YWx1ZT00OVl4ZmNrRXRmUmFZNFF0bmRoa0VBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-chno="122" tvg-id="FXX USA - Eastern-US" tvg-name="FXX" tvg-logo="https://www.nicepng.com/png/full/376-3768018_fxx-logo-fxx-logo-png-white.png" group-title="Entertainment",FXX
 https://peer1.ustv.to/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6NTY6NTMgQU0maGFzaF92YWx1ZT1vSytjcjhmczhmZXBmY09xSnZEcGhRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-chno="123" tvg-id="Game Show Network - East-US" tvg-name="Game Show Network - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Entertainment",Game Show Network
@@ -1967,6 +1927,10 @@ http://nvkdn.redi-vo.com/iptv/ch4505?code=138137164006399&key=12698
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-chno="37" tvg-name="Wah Punjabi" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Music",Wah Punjabi (Music) (IN) (Punjabi)
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:0 tvg-chno="1" tvg-name="360North" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="News",360North (News) (US) (English)
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="News",3News Now (KMTV-TV)
@@ -9699,6 +9663,8 @@ http://nvkdn.redi-vo.com/iptv/ch8516?code=138137164006399&key=61545
 http://nvkdn.redi-vo.com/iptv/ch517?code=138137164006399&key=38569
 #EXTINF:0 tvg-chno="150" tvg-logo="http://logo.ddnb.tn/logochanel/8517.png" group-title="Sports",BeInSport 16 SD 
 http://nvkdn.redi-vo.com/iptv/ch8517?code=138137164006399&key=64210
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://i.imgur.com/4qrQOr7.png" group-title="Sports",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",1 Stirr National Feed
 https://playoutengine.sinclairstoryline.com/playout/74594c4d-49cd-416c-8ecd-a01f77d7b0b3.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",1 Stirr TV New York
