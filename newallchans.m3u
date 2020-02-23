@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+﻿#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/main.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" group-title="24 Hours A Day Streams",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24 Hours A Day Streams",24/7 Kuroko's Basketball
