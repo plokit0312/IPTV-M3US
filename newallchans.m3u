@@ -537,19 +537,11 @@ http://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8?fluxustv.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-shift="-1" tvg-id="Hallmark - Eastern Feed-US" tvg-name="Hallmark - Eastern Feed-US" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="Entertainment",Hallmark - Eastern Feed-US
 https://peer5.ustv.to/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDk6MjE6MzMgUE0maGFzaF92YWx1ZT1KcUV3NEJmalhxL1pvSUppL0dpdml3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:-1 tvg-chno="130" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" group-title="Entertainment",HBO
+#EXTINF:-1 tvg-chno="130" tvg-id="HBO - Eastern Feed-US" tvg-name="HBO - Eastern Feed-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" group-title="Entertainment",HBO
 http://docs-6.gogleusercontent.host/live/hbo/chunks.m3u8|Referer=http://123tvnow.com/watch/hbo/
-#EXTINF:0 tvg-chno="131" tvg-id="HBO 2 - Eastern Feed-US" tvg-name="HBO 2" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Entertainment",HBO 2 (Plex-Share) (US) (English)
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-id="HBO 2 - Eastern Feed-US" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="Entertainment",HBO HD
-https://peer4.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDk6NDI6MjUgUE0maGFzaF92YWx1ZT1HSElidmFsS3czUkh5OHlLV2c4RDd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:0 tvg-chno="133" tvg-name="Hbo Now" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Hbo Now (Entertainment) (GR) (English)
-rtmp://[wowza-ip-address]:[port]/[application]/[appInstance]/[prefix]:[path1]/[path2]/[streamName]
-#EXTINF:-1 tvg-chno="134" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" group-title="Entertainment",HGTV
+#EXTINF:-1 tvg-chno="134" tvg-id="HGTV USA - Western Feed-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" group-title="Entertainment",HGTV
 http://docs-2.gogleusercontent.host/live/hgtv/chunks.m3u8|Referer=http://123tvnow.com/watch/hgtv/
 #EXTINF:-1 tvg-chno="135" tvg-logo="https://i.imgur.com/s8J5khw.png" group-title="Entertainment",HGTV
-https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-logo="https://i.imgur.com/s8J5khw.png" group-title="Entertainment",HGTV
 https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="137" tvg-id="HGTV USA - Eastern Feed-US" tvg-name="HGTV" tvg-logo="https://www.kindpng.com/picc/m/195-1958586_hgtv-logo-png-transparent-hgtv-logo-png-png.png" group-title="Entertainment",HGTV
 https://peer1.ustv.to/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MTE6MjggQU0maGFzaF92YWx1ZT04YjBVRDVGaG5xbm55YUJYWkhjOU1nPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
