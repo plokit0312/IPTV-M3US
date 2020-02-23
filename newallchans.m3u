@@ -706,7 +706,7 @@ https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
 #EXTINF:-1 tvg-chno="282" tvg-logo="https://i.imgur.com/YeSygn7.png" group-title="Entertainment",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-chno="286" tvg-shift="+2" tvg-id="TBS - East-US" tvg-logo="https://i.imgur.com/X53CnlC.png" group-title="Entertainment",TBS
-https://peer2.ustv.to/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDI6MjQ6MzEgQU0maGFzaF92YWx1ZT1WSU9YMThTZkRtTzI4d2lNYUJhci9nPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+https://peer5.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDI6MzM6MzQgQU0maGFzaF92YWx1ZT1oeDhWRkxQS21KdTFhVmk1OG9nTzdBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-chno="287" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" group-title="Entertainment",TBS
 http://docs-3.gogleusercontent.host/live/tbs/chunks.m3u8|Referer=http://123tvnow.com/watch/tbs/
 #EXTINF:-1 tvg-chno="284" tvg-id="TBS - East-US" tvg-name="TBS" tvg-logo="https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/TBS_logo_2016.png" group-title="Entertainment",TBS
