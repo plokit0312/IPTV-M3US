@@ -707,14 +707,10 @@ https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-chno="286" tvg-shift="+2" tvg-id="TBS - East-US" tvg-logo="https://i.imgur.com/X53CnlC.png" group-title="Entertainment",TBS
 https://peer5.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDI6MzM6MzQgQU0maGFzaF92YWx1ZT1oeDhWRkxQS21KdTFhVmk1OG9nTzdBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:-1 tvg-chno="287" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" group-title="Entertainment",TBS
+#EXTINF:-1 tvg-chno="287" tvg-shift="-2" tvg-id="TBS - East-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" group-title="Entertainment",TBS
 http://docs-3.gogleusercontent.host/live/tbs/chunks.m3u8|Referer=http://123tvnow.com/watch/tbs/
-#EXTINF:-1 tvg-chno="284" tvg-id="TBS - East-US" tvg-name="TBS" tvg-logo="https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/TBS_logo_2016.png" group-title="Entertainment",TBS
-https://peer3.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTQ6MTMgQU0maGFzaF92YWx1ZT1nQ1RXVXlLcy9DblQxbHl6Y1lsSTdBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:-1 tvg-chno="289" tvg-logo="https://static.iptv-epg.com/us/TCM.us.png" group-title="Entertainment",TCM
-http://185.246.209.109:8080/TCM/index.m3u8
 #EXTINF:-1 tvg-chno="288" tvg-id="TCM UK" tvg-name="TCM" tvg-logo="https://miro.medium.com/max/560/1*mL17Y3sJOozsz3MgANzMQQ.jpeg" group-title="Entertainment",TCM
-https://peer3.ustv.to/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTI6MTcgQU0maGFzaF92YWx1ZT1tRWoxc1gweW9hcmFwL3FFVStOYXFBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+https://peer2.ustv.to/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDI6Mzg6MzggQU0maGFzaF92YWx1ZT1EVFdnNTFMbGpXRXlzVGp3M0RLbHN3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://i.imgur.com/C3LheXq.png" group-title="Entertainment",Tele-Quebec
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="Entertainment",Tennis Channel
@@ -723,8 +719,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-chno="293" tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="Entertainment",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 tvg-chno="294" tvg-name="The CW" tvg-logo="https://c2.staticflickr.com/9/8090/29366791633_0f00856506_b.jpg" group-title="Entertainment",The CW
-https://peer1.ustv.to/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NTA6MzkgQU0maGFzaF92YWx1ZT1OVW5LbHFrbk5iV1gvRmcwNXFIczFnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+#EXTINF:-1 tvg-chno="294" tvg-id="cw11-US" tvg-name="The CW" tvg-logo="https://c2.staticflickr.com/9/8090/29366791633_0f00856506_b.jpg" group-title="Entertainment",The CW
+https://peer1.ustv.to/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDI6NDE6MDEgQU0maGFzaF92YWx1ZT05UzBMdHhJa3c0MVQvNThFa1JlNVpRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-chno="295" tvg-logo="https://i.imgur.com/nCB6LNt.png" group-title="Entertainment",The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:-1 tvg-chno="296" tvg-logo="https://i.imgur.com/YyXGOYy.png" group-title="Entertainment",The Jewellery Channel
@@ -739,42 +735,26 @@ https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:0 tvg-chno="301" tvg-logo="https://i.ytimg.com/vi/mkkK3EQ4fek/maxresdefault.jpg" group-title="Entertainment",Tim and Eric
 https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-#EXTINF:-1 tvg-chno="303" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" group-title="Entertainment",TLC
-https://ok.ru/videoembed/1218455936611?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl/&quot;:/&quot;$$end=?p/&quot;,$$replace=PlaylistUrl/&quot;:/&quot;$$replacewith=$$add=
-#EXTINF:-1 tvg-chno="302" tvg-id="TLC UK" tvg-name="TLC" tvg-logo="https://logosolusa.com/wp-content/uploads/parser/TLC-Logo-1.png" group-title="Entertainment",TLC
-https://peer2.ustv.to/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NDg6MTAgQU0maGFzaF92YWx1ZT1Na3pyRW15V295dW1CSm9Sa2ZSWWdBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+#EXTINF:-1 tvg-chno="302" tvg-id="TLC USA - Eastern-US" tvg-logo="https://logosolusa.com/wp-content/uploads/parser/TLC-Logo-1.png" group-title="Entertainment",TLC
+https://peer3.ustv.to/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDI6NDI6MjIgQU0maGFzaF92YWx1ZT1COFhubXpJcVVPRzQvUjB4TElnNDZRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Entertainment",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-chno="307" tvg-id="TNT - Eastern Feed-US" tvg-name="TNT" tvg-logo="https://cdn.imgbin.com/17/12/15/imgbin-tnt-production-logo-television-shook-mFmC7atVnqjXG4mGM0FwraaeE.jpg" group-title="Entertainment",TNT
-https://peer5.ustv.to/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NDY6MTYgQU0maGFzaF92YWx1ZT1oSzd4aVJ0MlhkQ2RNbG9Ca2tqVGNBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:-1 tvg-chno="306" tvg-logo="https://i.imgur.com/5UYWQwQ.png" group-title="Entertainment",TNT
-https://cvtv.cvalley.net/hls/TNTHD/TNTHD.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="305" tvg-logo="https://i.imgur.com/5UYWQwQ.png" group-title="Entertainment",TNT
-http://cvtv.cvalley.net/hls/TNTHD/TNTHD.m3u8
-#EXTINF:-1 tvg-chno="308" tvg-id="Travel Channel UK" tvg-name="Travel" tvg-logo="https://travel.home.sndimg.com/content/dam/images/travel/editorial/homepage/TRVL-default-image_4x3.jpg.rend.hgtvcom.616.462.suffix/1539121995359.jpeg" group-title="Entertainment",Travel
-https://peer5.ustv.to/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6NDM6NDEgQU0maGFzaF92YWx1ZT0yc0dkQ2dEL1hkYU5RVHVtT0lzNFBnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+https://peer5.ustv.to/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDI6NDQ6MDggQU0maGFzaF92YWx1ZT1pc081dnc4STlJaXZXUERVM2FaUDd3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-chno="309" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Travel-269x151.png" group-title="Entertainment",Travel Channel
 http://docs-6.gogleusercontent.host/live/travel/chunks.m3u8|Referer=http://123tvnow.com/watch/travel-channel/
 #EXTINF:-1 tvg-chno="310" tvg-id="truTV USA - Eastern-US" tvg-name="TruTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_logo.svg/1200px-TruTV_logo.svg.png" group-title="Entertainment",TruTV
-https://peer5.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MzI6MjIgQU0maGFzaF92YWx1ZT00cUdZRUxkYXlLTkx6ZjVtczcxa21nPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+https://peer1.ustv.to/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDI6NDU6NDUgQU0maGFzaF92YWx1ZT1GT0M0MHVZRXA5TGdCY2xORFp3bk93PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-chno="311" tvg-id="TV Land - Eastern-US" tvg-name="TV Land" tvg-logo="https://www.logolynx.com/images/logolynx/s_68/68963b708fe54cc1adbedafeee9f278e.png" group-title="Entertainment",TV Land
-https://peer1.ustv.to/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6MzA6NDUgQU0maGFzaF92YWx1ZT1NdTBVbjRFSFZtSnNJUFBNUEZPRkh3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+https://peer5.ustv.to/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDI6NDY6MjUgQU0maGFzaF92YWx1ZT1QVzM0VG9qdXJkMEhUSUY0YUlFMGJ3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://i.imgur.com/qg0QrUp.png" group-title="Entertainment",TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="Entertainment",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 #EXTINF:-1 tvg-chno="314" tvg-id="Univision - Eastern Feed-US" tvg-name="Univision" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/11/univision.png" group-title="Entertainment",Univision
 https://peer2.ustv.to/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6Mjk6MTIgQU0maGFzaF92YWx1ZT1oNnZYWVg0Q0J0YmdZRzJ3cUxDZ2Z3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:-1 tvg-chno="319" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" group-title="Entertainment",USA Network
+#EXTINF:-1 tvg-chno="319" tvg-id="USA Network - East Feed-US" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" group-title="Entertainment",USA Network
 http://docs-4.gogleusercontent.host/live/usa/chunks.m3u8|Referer=http://123tvnow.com/watch/usa-network/
-#EXTINF:-1 tvg-chno="318" tvg-id="USA Network - East Feed-US" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1280px-USA_Network_logo_%282006%29.svg.png" group-title="Entertainment",USA Network
-https://peer2.ustv.to/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDE6Mjc6MjMgQU0maGFzaF92YWx1ZT0zZzRMZVg1cnNoVlMrOWZtM3BBMnpBPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="Entertainment",USA Network
-https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="316" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="Entertainment",USA Network
-https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="315" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="Entertainment",USA Network
-http://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
 #EXTINF:0 tvg-chno="320" tvg-logo="https://scdn.nflximg.net/images/5409/3955409.jpg" group-title="Entertainment",Venture Bros.
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8?hdnts=
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="Entertainment",VH1
