@@ -8,10 +8,10 @@
     <display-name lang="en">24-7 Family Guy</display-name>
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200224160000 +0000" stop="20220224161000 +0000" channel="friends247">
+  <programme start="20200224160000 +0000" stop="20222224161000 +0000" channel="friends247">
     <title lang="en">Friends 24/7</title>
     <desc lang="en">Three young men and three young women -- of the BFF kind -- live in the same apartment complex and face life and love in New York. They're not above sticking their noses into one another's business and swapping romantic partners, which always leads to the kind of hilarity average people will never experience -- especially during breakups.</desc></programme>
-    <programme start="20200224000000 +0000" stop="20220224161000 +0000" channel="247 Family Guy">
+    <programme start="20200222120000 +0000" stop="20222224161000 +0000" channel="247 Family Guy">
     <title lang="en">Movie</title>
     <sub-title lang="en">Mandela</sub-title>
     <desc lang="en">Explore the life of Nelson Mandela from his early activism against racial injustice to becoming South Africa's first democratically elected leader.</desc>
