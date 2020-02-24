@@ -689,7 +689,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58705
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58751
 #EXTINF:-1 tvg-chno="4" tvg-id="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable USA",USA: ABC NY HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58704
-#EXTINF:-1 tvg-chno="5" tvg-id="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable USA",USA: ABC WEST
+#EXTINF:-1 tvg-chno="5" tvg-shift="-2" tvg-id="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable USA",USA: ABC WEST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58703
 #EXTINF:-1 tvg-chno="6" tvg-id="AMC - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/oxygen.png" group-title="Cable USA",USA: AMC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58702
