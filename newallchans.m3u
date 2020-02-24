@@ -689,7 +689,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58705
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58751
 #EXTINF:-1 tvg-chno="4" tvg-id="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable USA",USA: ABC NY HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58704
-#EXTINF:-1 tvg-chno="5" tvg-shift="-180" tvg-id="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable USA",USA: ABC WEST
+#EXTINF:-1 tvg-chno="5" tvg-shift="-2" tvg-id="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable USA",USA: ABC WEST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58703
 #EXTINF:-1 tvg-chno="6" tvg-id="AMC - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/oxygen.png" group-title="Cable USA",USA: AMC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58702
@@ -705,7 +705,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58699
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58698
 #EXTINF:-1 tvg-chno="12" tvg-id="BabyTV-UK" tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/babytv-22214-1.jpg" group-title="Cable USA",USA: BABY TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58708
-#EXTINF:-1 tvg-chno="13" tvg-id="BBCAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1214207021592932353/ahUlP3hd_400x400.jpg" group-title="Cable USA",USA: BBC AMERICA
+#EXTINF:-1 tvg-chno="13" tvg-id="142 BBC ALBA-UK" tvg-logo="https://pbs.twimg.com/profile_images/1214207021592932353/ahUlP3hd_400x400.jpg" group-title="Cable USA",USA: BBC AMERICA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58697
 #EXTINF:-1 tvg-chno="14" tvg-id="Bein Sports HD1 English-AR" tvg-logo="http://elifetv.etisalat.ae:33100/EPG/jsp/images/universal/film/logo/20161231/1/100000000000001521332/100000000000001521332_6315165264_1483219842952.jpg" group-title="Cable USA",USA: BEIN SPORT USA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58812
@@ -723,7 +723,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58742
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58724
 #EXTINF:-1 tvg-chno="21" group-title="Cable USA",USA: BOUNCE TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58693
-#EXTINF:-1 tvg-chno="22" group-title="Cable USA",USA: BRAVO
+#EXTINF:-1 tvg-chno="22" tvg-id="Bravo USA - Eastern Feed-US" tvg-name="https://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_1200/v1523639696/photos/9415_original.jpg" group-title="Cable USA",USA: BRAVO
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58692
 #EXTINF:-1 tvg-chno="23" group-title="Cable USA",USA: BUZZER
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58691
@@ -14081,6 +14081,12 @@ http://162.244.81.111:1937/liveTrans/livestream_720p/playlist.m3u8
 https://593fcf545b0c5.streamlock.net/liveTrans/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://i.imgur.com/HExbxPF.png" group-title="Test",ZNS Network
 https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w519231001_b2628000_sleng.m3u8
+#EXTINF:-1 group-title="testing 2",https://apps.erdesigns.eu/youtube/T0Brv0AqgkA
+https://apps.erdesigns.eu/youtube/T0Brv0AqgkA
+#EXTINF:-1 group-title="testing 2",https://apps.erdesigns.eu/youtube/Ja0Fl10dd3o
+https://apps.erdesigns.eu/youtube/Ja0Fl10dd3o
+#EXTINF:-1 group-title="testing 2",https://apps.erdesigns.eu/youtube/B7T7YS8KdzA
+https://apps.erdesigns.eu/youtube/B7T7YS8KdzA
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="TRAVEL",30A TV
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="TRAVEL",30A TV
