@@ -1967,42 +1967,82 @@ http://topiptv.net:5890/aziz/1234/55910
 http://topiptv.net:5890/aziz/1234/55911
 #EXTINF:-1 tvg-chno="274" tvg-id="YourTV UK" tvg-name="YourTV UK" tvg-logo="http://195.154.221.171/picons/yourtvuk.png" group-title="Cable - UK",YourTV UK
 http://topiptv.net:5890/aziz/1234/55912
-#EXTINF:-1 tvg-chno="1" tvg-id="A and E US - Eastern Feed-US" tvg-name="A&E HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Cable - USA",We TV
-http://topiptv.net:5890/aziz/1234/66594
-#EXTINF:-1 tvg-chno="2" tvg-id="A and E US - Eastern Feed-US" tvg-name="We TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Cable - USA",We TV
-http://topiptv.net:5890/aziz/1234/66595
+#EXTINF:-1 tvg-chno="343" tvg-id="ABC HD Los Angeles-US" tvg-name="ABC HD Los Angeles-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/impact-network.png" group-title="Cable - USA",ABC EAST HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58705
 #EXTINF:-1 tvg-chno="3" tvg-id="ABC (WKBW) Buffalo, NY-CA" tvg-name="ABC FHD US" group-title="Cable - USA",ABC FHD US
 http://topiptv.net:5890/aziz/1234/66596
 #EXTINF:-1 tvg-chno="4" tvg-id="ABC (WKBW) Buffalo, NY-CA" tvg-name="ABC HD US" group-title="Cable - USA",ABC HD US
 http://topiptv.net:5890/aziz/1234/66597
+#EXTINF:-1 tvg-chno="344" tvg-id="2: ABC News-AUL" tvg-name="2: ABC News-AUL" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FTA/ASD_425x243.png" group-title="Cable - USA",ABC NEWS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58751
 #EXTINF:-1 tvg-chno="5" tvg-id="ABC News-AL" tvg-name="ABC News HD US" group-title="Cable - USA",ABC News HD US
 http://topiptv.net:5890/aziz/1234/66598
+#EXTINF:-1 tvg-chno="345" tvg-id="ABC HD New York-US" tvg-name="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable - USA",ABC NY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58704
+#EXTINF:-1 tvg-chno="346" tvg-id="ABC HD New York-US" tvg-name="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable - USA",ABC WEST
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58703
 #EXTINF:-1 tvg-chno="6" tvg-name="AFN Spectrum HD US" group-title="Cable - USA",AFN Spectrum HD US
 http://topiptv.net:5890/aziz/1234/66599
 #EXTINF:-1 tvg-chno="7" tvg-name="AFN Sport 1 US" group-title="Cable - USA",AFN Sport 1 US
 http://topiptv.net:5890/aziz/1234/66600
 #EXTINF:-1 tvg-chno="10" tvg-name="Amazing Discoveries HD US" group-title="Cable - USA",Amazing Discoveries HD US
 http://topiptv.net:5890/aziz/1234/66603
-#EXTINF:-1 tvg-chno="8" tvg-id="AMC - Eastern Feed-US" tvg-name="AMC HD US" group-title="Cable - USA",AMC HD US
+#EXTINF:-1 tvg-chno="347" tvg-id="AMC - Eastern Feed-US" tvg-name="AMC - Eastern Feed-US" group-title="Cable - USA",AMC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58702
+#EXTINF:-1 tvg-chno="8" tvg-name="AMC HD US" group-title="Cable - USA",AMC HD US
 http://topiptv.net:5890/aziz/1234/66601
-#EXTINF:-1 tvg-chno="9" tvg-id="AMC - Eastern Feed-US" tvg-name="AMC US" group-title="Cable - USA",AMC US
+#EXTINF:-1 tvg-chno="9" tvg-name="AMC US" group-title="Cable - USA",AMC US
 http://topiptv.net:5890/aziz/1234/66602
-#EXTINF:-1 tvg-chno="11" tvg-id="Animal Planet US - East-US" tvg-name="Animal Planet US" group-title="Cable - USA",Animal PlanetUS
+#EXTINF:-1 tvg-chno="348" tvg-id="Disney XD USA - Eastern Feed-US" tvg-name="Disney XD USA - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ahc_logo.png" group-title="Cable - USA",AMERICAN HEROES CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58701
+#EXTINF:-1 tvg-chno="349" tvg-id="Animal Planet US - East-US" tvg-name="Animal Planet US - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/discovery2016.png" group-title="Cable - USA",ANIMAL PLANET
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58726
+#EXTINF:-1 tvg-chno="11" tvg-name="Animal Planet US" group-title="Cable - USA",Animal PlanetUS
 http://topiptv.net:5890/aziz/1234/66604
+#EXTINF:-1 tvg-chno="350" tvg-name="USA: ANTENNA TV" group-title="Cable - USA",ANTENNA TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58700
+#EXTINF:-1 tvg-chno="351" tvg-name="USA: AWE CHANNEL" group-title="Cable - USA",AWE CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58699
+#EXTINF:-1 tvg-chno="352" tvg-name="USA: AXS TV" group-title="Cable - USA",AXS TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58698
+#EXTINF:-1 tvg-chno="353" tvg-id="BabyTV-UK" tvg-name="BabyTV-UK" tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/babytv-22214-1.jpg" group-title="Cable - USA",BABY TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58708
+#EXTINF:-1 tvg-chno="354" tvg-id="History Channel US - Eastern Feed-US" tvg-name="BBCAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1214207021592932353/ahUlP3hd_400x400.jpg" group-title="Cable - USA",BBC AMERICA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58697
+#EXTINF:-1 tvg-chno="355" tvg-id="Bein Sports HD1 English-AR" tvg-name="Bein Sports HD1 English-AR" tvg-logo="http://elifetv.etisalat.ae:33100/EPG/jsp/images/universal/film/logo/20161231/1/100000000000001521332/100000000000001521332_6315165264_1483219842952.jpg" group-title="Cable - USA",BEIN SPORT USA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58812
 #EXTINF:-1 tvg-chno="12" tvg-name="beINSports HD US" group-title="Cable - USA",beINSports HD US
 http://topiptv.net:5890/aziz/1234/66605
-#EXTINF:-1 tvg-chno="13" tvg-id="El Rey Network-US" tvg-name="BET HD US" group-title="Cable - USA",BET HD US
+#EXTINF:-1 tvg-chno="356" tvg-id="El Rey Network-US" tvg-name="USA: BET HD" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bettv.png" group-title="Cable - USA",BET HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58696
+#EXTINF:-1 tvg-chno="13" tvg-id="El Rey Network-US" tvg-name="BET HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bettv.png" group-title="Cable - USA",BET HD US
 http://topiptv.net:5890/aziz/1234/66606
+#EXTINF:-1 tvg-chno="357" tvg-id="Fusion-US" tvg-name="Fusion-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bet-her.png" group-title="Cable - USA",BET HER
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58695
+#EXTINF:-1 tvg-chno="358" tvg-id="https://www.dailydot.com/wp-content/uploads/2018/09/big_ten_network_streaming_on" tvg-name="https://www.dailydot.com/wp-content/uploads/2018/09/big_ten_network_streaming_on" group-title="Cable - USA",BIG TEN NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58811
+#EXTINF:-1 tvg-chno="359" tvg-id="565 BLAZE-UK" tvg-name="565 BLAZE-UK" tvg-logo="https://bloximages.newyork1.vip.townnews.com/insideradio.com/content/tncms/assets/v3/editorial/6/ad/6adfbcca-0eda-11e9-8306-473f9c14f05e/5c2d358926812.image.jpg" group-title="Cable - USA",BLAZE TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58694
+#EXTINF:-1 tvg-chno="360" tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="Cable - USA",BLOOMBERG
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58742
 #EXTINF:-1 tvg-chno="15" tvg-name="Bloomberg Europe US" group-title="Cable - USA",Bloomberg Europe US
 http://topiptv.net:5890/aziz/1234/66608
-#EXTINF:-1 tvg-chno="16" tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV HD US" group-title="Cable - USA",Bloomberg TV HD US
+#EXTINF:-1 tvg-chno="16" tvg-name="Bloomberg TV HD US" group-title="Cable - USA",Bloomberg TV HD US
 http://topiptv.net:5890/aziz/1234/66609
-#EXTINF:-1 tvg-chno="17" tvg-id="Boomerang-US" tvg-name="Boomerang US" group-title="Cable - USA",Boomerang US
+#EXTINF:-1 tvg-chno="361" tvg-id="Boomerang-US" tvg-name="Boomerang-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Boomerang-cartoon-network.png" group-title="Cable - USA",BOOMERANG
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58724
+#EXTINF:-1 tvg-chno="17" tvg-name="Boomerang US" group-title="Cable - USA",Boomerang US
 http://topiptv.net:5890/aziz/1234/66610
-#EXTINF:-1 tvg-chno="18" tvg-id="Bravo USA - Eastern Feed-US" tvg-name="Bravo HD US" group-title="Cable - USA",Bravo HD US
+#EXTINF:-1 tvg-chno="362" tvg-name="USA: BOUNCE TV" group-title="Cable - USA",BOUNCE TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58693
+#EXTINF:-1 tvg-chno="363" tvg-id="Bravo USA - Eastern Feed-US" tvg-name="USA: BRAVO" group-title="Cable - USA",BRAVO
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58692
+#EXTINF:-1 tvg-chno="18" tvg-name="Bravo HD US" group-title="Cable - USA",Bravo HD US
 http://topiptv.net:5890/aziz/1234/66611
-#EXTINF:-1 tvg-chno="19" tvg-id="Bravo USA - Eastern Feed-US" tvg-name="Bravo US" group-title="Cable - USA",Bravo US
+#EXTINF:-1 tvg-chno="19" tvg-name="Bravo US" group-title="Cable - USA",Bravo US
 http://topiptv.net:5890/aziz/1234/66612
+#EXTINF:-1 tvg-chno="364" tvg-name="USA: BUZZER" group-title="Cable - USA",BUZZER
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58691
 #EXTINF:-1 tvg-chno="14" tvg-id="BYU (Brigham Young University) HD-US" tvg-name="BYU TV US" group-title="Cable - USA",BYU TV US
 http://topiptv.net:5890/aziz/1234/66607
 #EXTINF:-1 tvg-chno="20" tvg-id="CSPAN-US" tvg-name="C-Span 1 US" group-title="Cable - USA",C-Span 1 US
@@ -2013,76 +2053,162 @@ http://topiptv.net:5890/aziz/1234/66614
 http://topiptv.net:5890/aziz/1234/66615
 #EXTINF:-1 tvg-chno="30" tvg-name="Cable News Network HD US" group-title="Cable - USA",Cable News Network HD US
 http://topiptv.net:5890/aziz/1234/66623
-#EXTINF:-1 tvg-chno="31" tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="Cartoon Network US" group-title="Cable - USA",Cartoon Network US
+#EXTINF:-1 tvg-chno="365" tvg-id="Oprah Winfrey Network USA Eastern-US" tvg-name="USA: CARTOON NETWORK" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cartoonnetwork.png" group-title="Cable - USA",CARTOON NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58723
+#EXTINF:-1 tvg-chno="31" tvg-id="Oprah Winfrey Network USA Eastern-US" tvg-name="Cartoon Network US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cartoonnetwork.png" group-title="Cable - USA",Cartoon Network US
 http://topiptv.net:5890/aziz/1234/66624
+#EXTINF:-1 tvg-chno="366" tvg-name="USA: CARTOONITO ES" group-title="Cable - USA",CARTOONITO ES
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58722
+#EXTINF:-1 tvg-chno="367" tvg-name="USA: CBS EAST" group-title="Cable - USA",CBS EAST
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58690
+#EXTINF:-1 tvg-chno="368" tvg-id="https://tvtv.us/tvm/i/image/station/100x100/cbs.png" tvg-name="CBS HD New York-US" group-title="Cable - USA",CBS NY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58689
+#EXTINF:-1 tvg-chno="115" tvg-id="CBS Sports Network USA-US" tvg-name="CBS Sports Network USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBS Sports Network
+http://topiptv.net:5890/aziz/1234/66708
+#EXTINF:-1 tvg-chno="369" tvg-id="CBS Sports Network USA-US" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nbcsports.png" group-title="Cable - USA",CBS SPORTS NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58810
 #EXTINF:-1 tvg-chno="23" tvg-id="CBS HD New York-US" tvg-name="CBS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CBS_2018.png" group-title="Cable - USA",CBS US
 http://topiptv.net:5890/aziz/1234/66616
 #EXTINF:-1 tvg-chno="24" tvg-id="CBS HD New York-US" tvg-name="CBSN HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CBS_2018.png" group-title="Cable - USA",CBSN HD US
 http://topiptv.net:5890/aziz/1234/66617
+#EXTINF:-1 tvg-chno="370" tvg-name="USA: CBSN SPORTS NETWORK" group-title="Cable - USA",CBSN SPORTS NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58809
 #EXTINF:-1 tvg-chno="32" tvg-name="CineMax 5 StarMax US" group-title="Cable - USA",CineMax 5 StarMax US
 http://topiptv.net:5890/aziz/1234/66625
 #EXTINF:-1 tvg-chno="33" tvg-name="CineMax Action HD US" group-title="Cable - USA",CineMax Action HD US
 http://topiptv.net:5890/aziz/1234/66626
+#EXTINF:-1 tvg-chno="371" tvg-id="Starz Encore Suspense - Eastern-US" tvg-name="USA: CINEMAX ACTION MAX EAST" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CINEMAX ACTION MAX EAST
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58612
 #EXTINF:-1 tvg-chno="37" tvg-name="Cinemax Action US" group-title="Cable - USA",Cinemax Action US
 http://topiptv.net:5890/aziz/1234/66630
-#EXTINF:-1 tvg-chno="34" tvg-name="CineMax ActionMax East US" group-title="Cable - USA",CineMax ActionMax East US
+#EXTINF:-1 tvg-chno="34" tvg-name="CineMax ActionMax East US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CineMax ActionMax East US
 http://topiptv.net:5890/aziz/1234/66627
-#EXTINF:-1 tvg-chno="35" tvg-id="Cinemax - Eastern Feed-US" tvg-name="CineMax East US" group-title="Cable - USA",CineMax East US
+#EXTINF:-1 tvg-chno="372" tvg-id="Showtime - Eastern Feed-US" tvg-name="USA: CINEMAX EAST" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cinemax.png" group-title="Cable - USA",CINEMAX EAST
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58611
+#EXTINF:-1 tvg-chno="35" tvg-id="Showtime - Eastern Feed-US" tvg-name="CineMax East US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cinemax.png" group-title="Cable - USA",CineMax East US
 http://topiptv.net:5890/aziz/1234/66628
 #EXTINF:-1 tvg-chno="38" tvg-name="Cinemax More HD US" group-title="Cable - USA",Cinemax More HD US
 http://topiptv.net:5890/aziz/1234/66631
-#EXTINF:-1 tvg-chno="36" tvg-name="CineMax MoreMax US" group-title="Cable - USA",CineMax MoreMax US
+#EXTINF:-1 tvg-chno="36" tvg-id="Starz Encore Westerns - Eastern-US" tvg-name="CineMax MoreMax US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moremax.png" group-title="Cable - USA",CineMax MoreMax US
 http://topiptv.net:5890/aziz/1234/66629
-#EXTINF:-1 tvg-chno="25" tvg-id="CNBC USA-US" tvg-name="CNBC US" group-title="Cable - USA",Fusion
-http://topiptv.net:5890/aziz/1234/66618
+#EXTINF:-1 tvg-chno="373" tvg-id="Starz Encore Action - Eastern-US" tvg-name="USA: CINEMAX MOVIEMAX" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moviemax.png" group-title="Cable - USA",CINEMAX MOVIEMAX
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58610
+#EXTINF:-1 tvg-chno="374" tvg-name="USA: CINEMAX OUTER MAX" group-title="Cable - USA",CINEMAX OUTER MAX
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58609
+#EXTINF:-1 tvg-chno="375" tvg-name="USA: CINEMAX THRILLERMAX HD" group-title="Cable - USA",CINEMAX THRILLERMAX HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58608
+#EXTINF:-1 tvg-chno="376" tvg-id="Starz Encore Westerns - Eastern-US" tvg-name="USA: CINEMAXX MORE MAXX" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moremax.png" group-title="Cable - USA",CINEMAXX MORE MAXX
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58607
+#EXTINF:-1 tvg-chno="377" tvg-name="USA: CMT HD" group-title="Cable - USA",CMT HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58688
+#EXTINF:-1 tvg-chno="378" tvg-id="CNBC USA-US" tvg-name="USA: CNBC" group-title="Cable - USA",CNBC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58744
+#EXTINF:-1 tvg-chno="379" tvg-id="CNN-US" tvg-name="USA: CNN" group-title="Cable - USA",CNN
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58743
 #EXTINF:-1 tvg-chno="26" tvg-id="CNN-CA" tvg-name="CNN HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Cable - USA",CNN HD US
 http://topiptv.net:5890/aziz/1234/66619
+#EXTINF:-1 tvg-chno="380" tvg-id="Comedy Central (US) - Eastern Feed-US" tvg-name="USA: COMEDY CENTRAL" group-title="Cable - USA",COMEDY CENTRAL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58687
 #EXTINF:-1 tvg-chno="39" tvg-name="Comedy Central FHD US" group-title="Cable - USA",Comedy Central FHD US
 http://topiptv.net:5890/aziz/1234/66632
 #EXTINF:-1 tvg-chno="40" tvg-name="Comedy Central US" group-title="Cable - USA",Comedy Central US
 http://topiptv.net:5890/aziz/1234/66633
+#EXTINF:-1 tvg-chno="381" tvg-name="USA: COMET TV" group-title="Cable - USA",COMET TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58686
+#EXTINF:-1 tvg-chno="382" tvg-id="E! Entertainment USA - Eastern Feed-US" tvg-name="USA: COOKING CHANNEL HD" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cooking_channel.png" group-title="Cable - USA",COOKING CHANNEL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58685
+#EXTINF:-1 tvg-chno="383" tvg-name="USA: COUNTRY NETWORK" group-title="Cable - USA",COUNTRY NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58684
+#EXTINF:-1 tvg-chno="384" tvg-name="USA: COZI TV" group-title="Cable - USA",COZI TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58683
+#EXTINF:-1 tvg-chno="385" tvg-id="Crime and Investigation Network USA-US" tvg-name="USA: CRIME AND INVESTIGATION" group-title="Cable - USA",CRIME AND INVESTIGATION
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58736
 #EXTINF:-1 tvg-chno="27" tvg-id="WAPA America-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cw.png" group-title="Cable - USA",CW HD US
 http://topiptv.net:5890/aziz/1234/66620
 #EXTINF:-1 tvg-chno="28" tvg-id="WAPA America-US" tvg-name="CW US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cw.png" group-title="Cable - USA",CW US
 http://topiptv.net:5890/aziz/1234/66621
 #EXTINF:-1 tvg-chno="29" tvg-id="cw11-US" tvg-name="CW11 US" group-title="Cable - USA",CW11 US
 http://topiptv.net:5890/aziz/1234/66622
+#EXTINF:-1 tvg-chno="386" tvg-name="USA: DESTINATION AMERICA" group-title="Cable - USA",DESTINATION AMERICA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58682
 #EXTINF:-1 tvg-chno="44" tvg-id="Animal Planet US - East-US" tvg-name="Discovery Channel CA FHD US" group-title="Cable - USA",Discovery Channel CA FHD US
 http://topiptv.net:5890/aziz/1234/66637
+#EXTINF:-1 tvg-chno="387" tvg-id="US-Discovery Channel (US) - Eastern Feed" tvg-name="USA: DISCOVERY CHANNEL HD" group-title="Cable - USA",DISCOVERY CHANNEL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58735
 #EXTINF:-1 tvg-chno="45" tvg-id="Animal Planet US - East-US" tvg-name="Discovery Channel HD US" group-title="Cable - USA",Discovery Channel HD US
 http://topiptv.net:5890/aziz/1234/66638
+#EXTINF:-1 tvg-chno="388" tvg-id="Discovery Family Channel-US" tvg-name="USA: DISCOVERY FAMILY" group-title="Cable - USA",DISCOVERY FAMILY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58734
 #EXTINF:-1 tvg-chno="46" tvg-name="Discovery HD Showcase US" group-title="Cable - USA",Discovery HD Showcase US
 http://topiptv.net:5890/aziz/1234/66639
 #EXTINF:-1 tvg-chno="47" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="Discovery HD US" group-title="Cable - USA",Discovery HD US
 http://topiptv.net:5890/aziz/1234/66640
+#EXTINF:-1 tvg-chno="389" tvg-name="USA: DISCOVERY LIFE" group-title="Cable - USA",DISCOVERY LIFE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58733
+#EXTINF:-1 tvg-chno="390" tvg-name="USA: DISCOVERY SCIENCE HD" group-title="Cable - USA",DISCOVERY SCIENCE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58732
 #EXTINF:-1 tvg-chno="48" tvg-name="Discovery Science HD US" group-title="Cable - USA",Discovery Science HD US
 http://topiptv.net:5890/aziz/1234/66641
 #EXTINF:-1 tvg-chno="49" tvg-name="Discovery Velocity US" group-title="Cable - USA",Discovery Velocity US
 http://topiptv.net:5890/aziz/1234/66642
+#EXTINF:-1 tvg-chno="391" tvg-name="USA: DISNEY CHANNEL HD" group-title="Cable - USA",DISNEY CHANNEL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58718
 #EXTINF:-1 tvg-chno="50" tvg-name="Disney Channel HD US" group-title="Cable - USA",Disney Channel HD US
 http://topiptv.net:5890/aziz/1234/66643
+#EXTINF:-1 tvg-chno="392" tvg-name="USA: DISNEY JR" group-title="Cable - USA",DISNEY JR
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58717
+#EXTINF:-1 tvg-chno="393" tvg-id="Disney XD USA - Eastern Feed-US" tvg-name="USA: DISNEY XD" group-title="Cable - USA",DISNEY XD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58716
 #EXTINF:-1 tvg-chno="51" tvg-id="Disney XD USA - Eastern Feed-US" tvg-name="Disney XD HD US" group-title="Cable - USA",Disney XD HD US
 http://topiptv.net:5890/aziz/1234/66644
-#EXTINF:-1 tvg-chno="41" tvg-id="CA-Do It Yourself Network (Canada)-CA" tvg-name="DIY Network HD US" group-title="Cable - USA",DIY Network HD US
+#EXTINF:-1 tvg-chno="394" tvg-id="Food Network USA - Eastern Feed-US" tvg-name="USA: DIY NETWORK HD" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/diy.png" group-title="Cable - USA",DIY NETWORK HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58681
+#EXTINF:-1 tvg-chno="41" tvg-id="Food Network USA - Eastern Feed-US" tvg-name="DIY Network HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/diy.png" group-title="Cable - USA",DIY Network HD US
 http://topiptv.net:5890/aziz/1234/66634
-#EXTINF:-1 tvg-chno="42" tvg-id="CA-Do It Yourself Network (Canada)-CA" tvg-name="DIY Network US" group-title="Cable - USA",DIY Network US
+#EXTINF:-1 tvg-chno="42" tvg-id="Food Network USA - Eastern Feed-US" tvg-name="DIY Network US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/diy.png" group-title="Cable - USA",DIY Network US
 http://topiptv.net:5890/aziz/1234/66635
+#EXTINF:-1 tvg-chno="395" tvg-name="USA: DOG TV" group-title="Cable - USA",DOG TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58680
 #EXTINF:-1 tvg-chno="43" tvg-name="DW US" group-title="Cable - USA",DW US
 http://topiptv.net:5890/aziz/1234/66636
-#EXTINF:-1 tvg-chno="52" tvg-id="E! Entertainment USA - Eastern Feed-US" tvg-name="E! Entertainment HD US" group-title="Cable - USA",E! Entertainment HD US
+#EXTINF:-1 tvg-chno="396" tvg-id="ReelzChannel-US" tvg-name="USA: E!" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/eentertain.png" group-title="Cable - USA",E!
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58679
+#EXTINF:-1 tvg-chno="52" tvg-id="ReelzChannel-US" tvg-name="E! Entertainment HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/eentertain.png" group-title="Cable - USA",E! Entertainment HD US
 http://topiptv.net:5890/aziz/1234/66645
+#EXTINF:-1 tvg-chno="397" tvg-id="El Rey Network-US" tvg-name="USA: EL REY NETWORK" group-title="Cable - USA",EL REY NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58677
+#EXTINF:-1 tvg-chno="398" tvg-id="El Rey Network-US" tvg-name="USA: EL REY NETWORK HD" group-title="Cable - USA",EL REY NETWORK HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58678
 #EXTINF:-1 tvg-chno="58" tvg-id="El Rey Network-US" tvg-name="El Rey Network HD US" group-title="Cable - USA",El Rey Network HD US
 http://topiptv.net:5890/aziz/1234/66651
-#EXTINF:-1 tvg-chno="53" tvg-id="ESPN-US" tvg-name="ESPN 1 HD US" group-title="Cable - USA",ESPN 1 HD US
+#EXTINF:-1 tvg-chno="399" tvg-id="Eleven Sports-US" tvg-name="USA: ELEVEN SPORTS HD" group-title="Cable - USA",ELEVEN SPORTS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58808
+#EXTINF:-1 tvg-chno="400" tvg-name="USA: EPIX 2" group-title="Cable - USA",EPIX 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58606
+#EXTINF:-1 tvg-chno="401" tvg-name="USA: EPIX HD" group-title="Cable - USA",EPIX HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58605
+#EXTINF:-1 tvg-chno="402" tvg-name="USA: EPIX HITS" group-title="Cable - USA",EPIX HITS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58604
+#EXTINF:-1 tvg-chno="403" tvg-id="ESPN News-US" tvg-name="USA: ESPN" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espn.png" group-title="Cable - USA",ESPN
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58807
+#EXTINF:-1 tvg-chno="53" tvg-id="ESPN U-US" tvg-name="ESPN 1 HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espnews.png" group-title="Cable - USA",ESPN 1 HD US
 http://topiptv.net:5890/aziz/1234/66646
 #EXTINF:-1 tvg-chno="54" tvg-id="ESPN-US" tvg-name="ESPN 1 US" group-title="Cable - USA",ESPN 1 US
 http://topiptv.net:5890/aziz/1234/66647
+#EXTINF:-1 tvg-chno="404" tvg-name="USA: ESPN 2" group-title="Cable - USA",ESPN 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58806
 #EXTINF:-1 tvg-chno="55" tvg-id="ESPN U-US" tvg-name="ESPN 2 FHD US" group-title="Cable - USA",ESPN 2 FHD US
 http://topiptv.net:5890/aziz/1234/66648
 #EXTINF:-1 tvg-chno="56" tvg-id="ESPN U-US" tvg-name="ESPN 2 US" group-title="Cable - USA",ESPN 2 US
 http://topiptv.net:5890/aziz/1234/66649
-#EXTINF:-1 tvg-chno="57" tvg-id="ESPN News-US" tvg-name="ESPN HD US" group-title="Cable - USA",ESPN HD US
+#EXTINF:-1 tvg-chno="57" tvg-id="ESPN News-US" tvg-name="ESPN HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espn.png" group-title="Cable - USA",ESPN HD US
 http://topiptv.net:5890/aziz/1234/66650
+#EXTINF:-1 tvg-chno="405" tvg-id="ESPN U-US" tvg-name="USA: ESPN NEWS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espnews.png" group-title="Cable - USA",ESPN NEWS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58750
+#EXTINF:-1 tvg-chno="406" tvg-id="ESPN U-US" tvg-name="USA: ESPN U" group-title="Cable - USA",ESPN U
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58805
+#EXTINF:-1 tvg-chno="407" tvg-name="USA: FANTASY SPORTS NETWORK" group-title="Cable - USA",FANTASY SPORTS NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58804
 #EXTINF:-1 tvg-chno="62" tvg-name="Fashion One HD US" group-title="Cable - USA",Fashion One HD US
 http://topiptv.net:5890/aziz/1234/66655
 #EXTINF:-1 tvg-chno="63" tvg-name="Fight HD US" group-title="Cable - USA",Fight HD US
@@ -2091,24 +2217,48 @@ http://topiptv.net:5890/aziz/1234/66656
 http://topiptv.net:5890/aziz/1234/66657
 #EXTINF:-1 tvg-chno="65" tvg-name="Fine Living US" group-title="Cable - USA",Fine Living US
 http://topiptv.net:5890/aziz/1234/66658
-#EXTINF:-1 tvg-chno="66" tvg-id="Food Network USA - Eastern Feed-US" tvg-name="Food Network HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foodtv.png" group-title="Cable - USA",Food Network HD US
+#EXTINF:-1 tvg-chno="408" tvg-id="The Cooking Channel-US" tvg-name="USA: FOOD NETWORK" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foodtv.png" group-title="Cable - USA",FOOD NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58676
+#EXTINF:-1 tvg-chno="66" tvg-id="The Cooking Channel-US" tvg-name="Food Network HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foodtv.png" group-title="Cable - USA",Food Network HD US
 http://topiptv.net:5890/aziz/1234/66659
 #EXTINF:-1 tvg-chno="67" tvg-id="The Cooking Channel-US" tvg-name="The Cooking Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foodtv.png" group-title="Cable - USA",Food Network US
 http://topiptv.net:5890/aziz/1234/66660
 #EXTINF:-1 tvg-chno="59" tvg-id="Daystar  - Network-US" tvg-name="FOX 43 US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fbn2019.png" group-title="Cable - USA",FOX 43 US
 http://topiptv.net:5890/aziz/1234/66652
-#EXTINF:-1 tvg-chno="68" tvg-name="Fox HD US" group-title="Cable - USA",Fox HD US
+#EXTINF:-1 tvg-chno="409" tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="USA: FOX 5 HD" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",FOX 5 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58755
+#EXTINF:-1 tvg-chno="410" tvg-name="USA: FOX 50" group-title="Cable - USA",FOX 50
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58754
+#EXTINF:-1 tvg-chno="411" tvg-id="Daystar  - Network-US" tvg-name="USA: FOX BUSINESS HD" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fbn2019.png" group-title="Cable - USA",FOX BUSINESS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58753
+#EXTINF:-1 tvg-chno="412" tvg-name="USA: FOX COLLEGE ATLANTIC" group-title="Cable - USA",FOX COLLEGE ATLANTIC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58803
+#EXTINF:-1 tvg-chno="413" tvg-name="USA: FOX COLLEGE CENTRAL" group-title="Cable - USA",FOX COLLEGE CENTRAL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58802
+#EXTINF:-1 tvg-chno="414" tvg-name="USA: FOX COLLEGE PACIFIC" group-title="Cable - USA",FOX COLLEGE PACIFIC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58801
+#EXTINF:-1 tvg-chno="415" tvg-id="Fox Deportes-US" tvg-name="USA: FOX DEPORTES" group-title="Cable - USA",FOX DEPORTES
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58800
+#EXTINF:-1 tvg-chno="68" tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="Fox HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox HD US
 http://topiptv.net:5890/aziz/1234/66661
+#EXTINF:-1 tvg-chno="416" tvg-id="Fox News-US" tvg-name="USA: FOX NEWS" group-title="Cable - USA",FOX NEWS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58749
 #EXTINF:-1 tvg-chno="69" tvg-name="Fox News HD US" group-title="Cable - USA",Fox News HD US
 http://topiptv.net:5890/aziz/1234/66662
+#EXTINF:-1 tvg-chno="417" tvg-id="FOX Soccer Plus-US" tvg-name="USA: FOX SOCCER PLUS" group-title="Cable - USA",FOX SOCCER PLUS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58799
 #EXTINF:-1 tvg-chno="70" tvg-id="FOX Soccer Plus-US" tvg-name="Fox Soccer Plus HD US" group-title="Cable - USA",Fox Soccer Plus HD US
 http://topiptv.net:5890/aziz/1234/66663
 #EXTINF:-1 tvg-chno="71" tvg-id="FOX Soccer Plus-US" tvg-name="Fox Soccer Plus US" group-title="Cable - USA",Fox Soccer Plus US
 http://topiptv.net:5890/aziz/1234/66664
+#EXTINF:-1 tvg-chno="418" tvg-id="Fox Sports San Diego-US" tvg-name="USA: FOX SPORTS 1" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",FOX SPORTS 1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58797
 #EXTINF:-1 tvg-chno="72" tvg-id="Fox Sports Midwest-US" tvg-name="Fox Sports 1 HD US" group-title="Cable - USA",Fox Sports 1 HD US
 http://topiptv.net:5890/aziz/1234/66665
 #EXTINF:-1 tvg-chno="73" tvg-id="Fox Sports Midwest-US" tvg-name="Fox Sports 1 US" group-title="Cable - USA",Fox Sports 1 US
 http://topiptv.net:5890/aziz/1234/66666
+#EXTINF:-1 tvg-chno="419" tvg-id="Fox Sports 2-US" tvg-name="USA: FOX SPORTS 2" group-title="Cable - USA",FOX SPORTS 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58798
 #EXTINF:-1 tvg-chno="74" tvg-id="Fox Sports 2-US" tvg-name="Fox Sports 2 FHD US" group-title="Cable - USA",Fox Sports 2 FHD US
 http://topiptv.net:5890/aziz/1234/66667
 #EXTINF:-1 tvg-chno="75" tvg-id="Fox Sports 2-US" tvg-name="Fox Sports 2 HD US" group-title="Cable - USA",Fox Sports 2 HD US
@@ -2117,70 +2267,168 @@ http://topiptv.net:5890/aziz/1234/66668
 http://topiptv.net:5890/aziz/1234/66669
 #EXTINF:-1 tvg-chno="77" tvg-name="Fox Sports College Central HD US" group-title="Cable - USA",Fox Sports College Central HD US
 http://topiptv.net:5890/aziz/1234/66670
-#EXTINF:-1 tvg-chno="78" tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="Fox Sports HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox Sports HD US
+#EXTINF:-1 tvg-chno="78" tvg-id="Fox Sports San Diego-US" tvg-name="Fox Sports HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox Sports HD US
 http://topiptv.net:5890/aziz/1234/66671
 #EXTINF:-1 tvg-chno="79" tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="Fox Sports North HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox Sports North HD US
 http://topiptv.net:5890/aziz/1234/66672
 #EXTINF:-1 tvg-chno="80" tvg-id="Freeform - East Feed-US" tvg-name="Free Form HD US" group-title="Cable - USA",Free Form HD US
 http://topiptv.net:5890/aziz/1234/66673
+#EXTINF:-1 tvg-chno="420" tvg-id="Freeform - East Feed-US" tvg-name="USA: FREEFORM HD" group-title="Cable - USA",FREEFORM HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58675
 #EXTINF:-1 tvg-chno="81" tvg-id="Freeform - East Feed-US" tvg-name="FreeForm HD US" group-title="Cable - USA",FreeForm HD US
 http://topiptv.net:5890/aziz/1234/66674
+#EXTINF:-1 tvg-chno="421" tvg-id="FUSE TV - Eastern feed-US" tvg-name="USA: FUSE" group-title="Cable - USA",FUSE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58674
+#EXTINF:-1 tvg-chno="422" tvg-id="CNBC USA-US" tvg-name="USA: FUSION" group-title="Cable - USA",FUSION
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58673
+#EXTINF:-1 tvg-chno="25" tvg-id="CNBC USA-US" tvg-name="CNBC US" group-title="Cable - USA",Fusion
+http://topiptv.net:5890/aziz/1234/66618
+#EXTINF:-1 tvg-chno="423" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="USA: FX HD" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" group-title="Cable - USA",FX HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58672
 #EXTINF:-1 tvg-chno="60" tvg-id="FX Networks East Coast-US" tvg-name="FX HD US" group-title="Cable - USA",FX HD US
 http://topiptv.net:5890/aziz/1234/66653
-#EXTINF:-1 tvg-chno="61" tvg-id="FX Networks East Coast-US" tvg-name="FX US" group-title="Cable - USA",FX US
+#EXTINF:-1 tvg-chno="61" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="FX US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" group-title="Cable - USA",FX US
 http://topiptv.net:5890/aziz/1234/66654
+#EXTINF:-1 tvg-chno="424" tvg-name="USA: FXM" group-title="Cable - USA",FXM
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58671
+#EXTINF:-1 tvg-chno="425" tvg-id="FXX USA - Eastern-US" tvg-name="USA: FXX" group-title="Cable - USA",FXX
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58670
+#EXTINF:-1 tvg-chno="426" tvg-name="USA: FYI NETWORK" group-title="Cable - USA",FYI NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58669
+#EXTINF:-1 tvg-chno="427" tvg-id="Galavision - Eastern Feed-US" tvg-name="USA: GALAVISION" group-title="Cable - USA",GALAVISION
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58668
+#EXTINF:-1 tvg-chno="428" tvg-id="Game Show Network - East-US" tvg-name="USA: GAME SHOW NETWORK" group-title="Cable - USA",GAME SHOW NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58796
+#EXTINF:-1 tvg-chno="429" tvg-id="Golf Channel USA-US" tvg-name="USA: GOLF CHANNEL" group-title="Cable - USA",GOLF CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58795
+#EXTINF:-1 tvg-chno="430" tvg-name="USA: GRIT TV" group-title="Cable - USA",GRIT TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58667
 #EXTINF:-1 tvg-chno="82" tvg-name="GSN HD US" group-title="Cable - USA",GSN HD US
 http://topiptv.net:5890/aziz/1234/66675
 #EXTINF:-1 tvg-chno="83" tvg-name="H2 US" group-title="Cable - USA",H2 US
 http://topiptv.net:5890/aziz/1234/66676
 #EXTINF:-1 tvg-chno="94" tvg-id="Hallmark - Eastern Feed-US" tvg-name="Hallmark Channel HD US" group-title="Cable - USA",Hallmark Channel HD US
 http://topiptv.net:5890/aziz/1234/66687
+#EXTINF:-1 tvg-chno="431" tvg-name="USA: HALLMARK DRAMA" group-title="Cable - USA",HALLMARK DRAMA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58597
+#EXTINF:-1 tvg-chno="432" tvg-id="Hallmark - Eastern Feed-US" tvg-name="Hallmark - Eastern Feed-US" group-title="Cable - USA",HALLMARK HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58596
+#EXTINF:-1 tvg-chno="433" tvg-id="Hallmark Movies & Mysteries - Eastern-US" tvg-name="Hallmark Movies & Mysteries - Eastern-US" group-title="Cable - USA",HALLMARK MOVIES & MYSTERIES HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58595
 #EXTINF:-1 tvg-chno="96" tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-name="Hallmark Movies & Mysteries HD US" group-title="Cable - USA",Hallmark Movies & Mysteries HD US
 http://topiptv.net:5890/aziz/1234/66689
 #EXTINF:-1 tvg-chno="95" tvg-id="Hallmark - Eastern Feed-US" tvg-name="Hallmark US" group-title="Cable - USA",Hallmark US
 http://topiptv.net:5890/aziz/1234/66688
-#EXTINF:-1 tvg-chno="84" tvg-id="HBO Comedy - East-US" tvg-name="HBO Comedy HD US" group-title="Cable - USA",HBO Comedy HD US
+#EXTINF:-1 tvg-chno="434" tvg-id="Starz Kids and Family - Eastern-US" tvg-name="HBO 2 - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo2.png" group-title="Cable - USA",HBO 2 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58590
+#EXTINF:-1 tvg-chno="435" tvg-id="Starz Comedy - Eastern-US" tvg-name="HBO Comedy - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-comedy.png" group-title="Cable - USA",HBO COMEDY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58594
+#EXTINF:-1 tvg-chno="84" tvg-id="Starz Comedy - Eastern-US" tvg-name="HBO Comedy HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-comedy.png" group-title="Cable - USA",HBO Comedy HD US
 http://topiptv.net:5890/aziz/1234/66677
 #EXTINF:-1 tvg-chno="85" tvg-id="HBO - Eastern Feed-US" tvg-name="HBO East US" group-title="Cable - USA",HBO East US
 http://topiptv.net:5890/aziz/1234/66678
+#EXTINF:-1 tvg-chno="436" tvg-id="HBO Family - Eastern Feed-US" tvg-name="HBO Family - Eastern Feed-US" group-title="Cable - USA",HBO FAMILY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58593
 #EXTINF:-1 tvg-chno="86" tvg-id="HBO Family - Eastern Feed-US" tvg-name="HBO Family HD US" group-title="Cable - USA",HBO Family HD US
 http://topiptv.net:5890/aziz/1234/66679
+#EXTINF:-1 tvg-chno="437" tvg-id="HBO - Pacific Feed-US" tvg-name="HBO - Pacific Feed-US" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Cable - USA",HBO HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58589
 #EXTINF:-1 tvg-chno="87" tvg-id="HBO - Pacific Feed-US" tvg-name="HBO HD US" group-title="Cable - USA",HBO HD US
 http://topiptv.net:5890/aziz/1234/66680
+#EXTINF:-1 tvg-chno="438" tvg-id="HBO Signature (HBO 3) - Eastern-US" tvg-name="HBO Signature (HBO 3) - Eastern-US" group-title="Cable - USA",HBO SIGNATURE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58592
 #EXTINF:-1 tvg-chno="88" tvg-id="HBO Signature (HBO 3) - Eastern-US" tvg-name="HBO Signature HD US" group-title="Cable - USA",HBO Signature HD US
 http://topiptv.net:5890/aziz/1234/66681
 #EXTINF:-1 tvg-chno="89" tvg-id="HBO Signature (HBO 3) - Eastern-US" tvg-name="HBO Signature US" group-title="Cable - USA",HBO Signature US
 http://topiptv.net:5890/aziz/1234/66682
 #EXTINF:-1 tvg-chno="90" tvg-id="HBO - Pacific Feed-US" tvg-name="HBO US" group-title="Cable - USA",HBO US
 http://topiptv.net:5890/aziz/1234/66683
-#EXTINF:-1 tvg-chno="91" tvg-id="HBO Zone - East-US" tvg-name="HBO Zone US" group-title="Cable - USA",HBO Zone US
+#EXTINF:-1 tvg-chno="439" tvg-id="Starz Cinema - Eastern-US" tvg-name="HBO Zone - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-zone.png" group-title="Cable - USA",HBO ZONE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58591
+#EXTINF:-1 tvg-chno="91" tvg-id="Starz Cinema - Eastern-US" tvg-name="HBO Zone US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-zone.png" group-title="Cable - USA",HBO Zone US
 http://topiptv.net:5890/aziz/1234/66684
+#EXTINF:-1 tvg-chno="440" tvg-name="USA: HEROS & ICONS" group-title="Cable - USA",HEROS & ICONS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58666
+#EXTINF:-1 tvg-chno="441" tvg-id="HGTV USA - Eastern Feed-US" tvg-name="USA: HGTV HD" group-title="Cable - USA",HGTV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58664
 #EXTINF:-1 tvg-chno="92" tvg-id="HGTV USA - Eastern Feed-US" tvg-name="HGTV HD US" group-title="Cable - USA",HGTV HD US
 http://topiptv.net:5890/aziz/1234/66685
+#EXTINF:-1 tvg-chno="442" tvg-name="USA: HGTV UHD" group-title="Cable - USA",HGTV UHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58665
 #EXTINF:-1 tvg-chno="93" tvg-id="HGTV USA - Eastern Feed-US" tvg-name="HGTV US" group-title="Cable - USA",HGTV US
 http://topiptv.net:5890/aziz/1234/66686
+#EXTINF:-1 tvg-chno="443" tvg-name="USA: HISTORY 2" group-title="Cable - USA",HISTORY 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58731
+#EXTINF:-1 tvg-chno="444" tvg-id="History Channel US - Eastern Feed-US" tvg-name="USA: HISTORY CHANNEL" group-title="Cable - USA",HISTORY CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58730
 #EXTINF:-1 tvg-chno="97" tvg-id="History Channel US - Eastern Feed-US" tvg-name="History HD US" group-title="Cable - USA",History HD US
 http://topiptv.net:5890/aziz/1234/66690
 #EXTINF:-1 tvg-chno="98" tvg-id="History Channel US - Eastern Feed-US" tvg-name="History US" group-title="Cable - USA",History US
 http://topiptv.net:5890/aziz/1234/66691
+#EXTINF:-1 tvg-chno="445" tvg-id="ESPN-US" tvg-name="USA: HLN" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hln.png" group-title="Cable - USA",HLN
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58663
+#EXTINF:-1 tvg-chno="446" tvg-id="HSN  - Home Shopping Network-US" tvg-name="USA: HSN" group-title="Cable - USA",HSN
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58662
+#EXTINF:-1 tvg-chno="447" tvg-name="USA: IFC" group-title="Cable - USA",IFC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58661
 #EXTINF:-1 tvg-chno="99" tvg-name="IFC HD US" group-title="Cable - USA",IFC HD US
 http://topiptv.net:5890/aziz/1234/66692
+#EXTINF:-1 tvg-chno="448" tvg-name="USA: INFOWARS" group-title="Cable - USA",INFOWARS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58660
+#EXTINF:-1 tvg-chno="449" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="USA: INVESTIGATION DISCOVERY HD" group-title="Cable - USA",INVESTIGATION DISCOVERY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58729
 #EXTINF:-1 tvg-chno="100" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="Investigation Discovery HD US" group-title="Cable - USA",Investigation Discovery HD US
 http://topiptv.net:5890/aziz/1234/66693
+#EXTINF:-1 tvg-chno="450" tvg-id="Hallmark - Eastern Feed-US" tvg-name="USA: ION TV" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ion_2016.png" group-title="Cable - USA",ION TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58659
+#EXTINF:-1 tvg-chno="451" tvg-name="USA: LAFF TV" group-title="Cable - USA",LAFF TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58658
+#EXTINF:-1 tvg-chno="452" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="USA: LIFETIME" group-title="Cable - USA",LIFETIME
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58657
 #EXTINF:-1 tvg-chno="101" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="Lifetime HD US" group-title="Cable - USA",Lifetime HD US
 http://topiptv.net:5890/aziz/1234/66694
+#EXTINF:-1 tvg-chno="453" tvg-id="Lifetime Movies - East-US" tvg-name="USA: LIFETIME MOVIES" group-title="Cable - USA",LIFETIME MOVIES
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58656
+#EXTINF:-1 tvg-chno="454" tvg-name="USA: LONGHORN NETWORK" group-title="Cable - USA",LONGHORN NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58794
+#EXTINF:-1 tvg-chno="455" tvg-id="NHL Network USA-US" tvg-name="USA: MAV TV" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/mavtv_logo.png" group-title="Cable - USA",MAV TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58655
+#EXTINF:-1 tvg-chno="456" tvg-name="USA: ME TV" group-title="Cable - USA",ME TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58654
 #EXTINF:-1 tvg-chno="102" tvg-id="MLB Network-US" tvg-name="MLB HD US" group-title="Cable - USA",MLB HD US
 http://topiptv.net:5890/aziz/1234/66695
+#EXTINF:-1 tvg-chno="457" tvg-id="MLB Network-US" tvg-name="USA: MLB NETWORK" group-title="Cable - USA",MLB NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58793
 #EXTINF:-1 tvg-chno="103" tvg-id="MLB Network-US" tvg-name="MLB Network HD US" group-title="Cable - USA",MLB Network HD US
 http://topiptv.net:5890/aziz/1234/66696
 #EXTINF:-1 tvg-chno="104" tvg-id="MLB Network-US" tvg-name="MLB Network US" group-title="Cable - USA",MLB Network US
 http://topiptv.net:5890/aziz/1234/66697
+#EXTINF:-1 tvg-chno="458" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="USA: MOTOR TREND" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/motortrend.png" group-title="Cable - USA",MOTOR TREND
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58792
+#EXTINF:-1 tvg-chno="459" tvg-id="Madison Square Garden HD (MSGHD)-US" tvg-name="USA: MSG" group-title="Cable - USA",MSG
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58791
+#EXTINF:-1 tvg-chno="460" tvg-name="USA: MSG +" group-title="Cable - USA",MSG +
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58790
+#EXTINF:-1 tvg-chno="461" tvg-id="MSNBC USA-US" tvg-name="USA: MSNBC" group-title="Cable - USA",MSNBC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58653
 #EXTINF:-1 tvg-chno="105" tvg-id="MSNBC USA-US" tvg-name="MSNBC HD US" group-title="Cable - USA",MSNBC HD US
 http://topiptv.net:5890/aziz/1234/66698
+#EXTINF:-1 tvg-chno="462" tvg-name="USA: MTV 2" group-title="Cable - USA",MTV 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58757
 #EXTINF:-1 tvg-chno="106" tvg-name="MTV Base HD US" group-title="Cable - USA",MTV Base HD US
 http://topiptv.net:5890/aziz/1234/66699
+#EXTINF:-1 tvg-chno="463" tvg-id="MTV USA - Eastern Feed-US" tvg-name="USA: MTV HD" group-title="Cable - USA",MTV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58759
+#EXTINF:-1 tvg-chno="464" tvg-name="USA: MTV LIVE" group-title="Cable - USA",MTV LIVE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58758
 #EXTINF:-1 tvg-chno="107" tvg-name="MTV Rocks US" group-title="Cable - USA",MTV Rocks US
 http://topiptv.net:5890/aziz/1234/66700
+#EXTINF:-1 tvg-chno="465" tvg-name="USA: MY 9" group-title="Cable - USA",MY 9
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58652
+#EXTINF:-1 tvg-chno="466" tvg-name="USA: NAT GEO USA" group-title="Cable - USA",NAT GEO USA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58728
+#EXTINF:-1 tvg-chno="467" tvg-name="USA: NAT GEO WILD HD US" group-title="Cable - USA",NAT GEO WILD HD US
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58727
 #EXTINF:-1 tvg-chno="123" tvg-name="Nat Geo Wild HD US" group-title="Cable - USA",Nat Geo Wild HD US
 http://topiptv.net:5890/aziz/1234/66716
 #EXTINF:-1 tvg-chno="124" tvg-name="Nat Geographic HD US" group-title="Cable - USA",Nat Geographic HD US
@@ -2205,44 +2453,112 @@ http://topiptv.net:5890/aziz/1234/66765
 http://topiptv.net:5890/aziz/1234/66766
 #EXTINF:-1 tvg-chno="174" tvg-name="NBA Live 8 HD US [ Match Time Only ]" group-title="Cable - USA",NBA Live 8 HD US [ Match Time Only ]
 http://topiptv.net:5890/aziz/1234/66767
-#EXTINF:-1 tvg-chno="109" tvg-name="NBC Golf Channel FHD US" group-title="Cable - USA",NBC Golf Channel FHD US
+#EXTINF:-1 tvg-chno="468" tvg-id="NBA TV USA-US" tvg-name="USA: NBA TV HD" group-title="Cable - USA",NBA TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58789
+#EXTINF:-1 tvg-chno="469" tvg-name="USA: NBC 10 EAST" group-title="Cable - USA",NBC 10 EAST
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58788
+#EXTINF:-1 tvg-chno="470" tvg-name="USA: NBC 4 NY" group-title="Cable - USA",NBC 4 NY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58651
+#EXTINF:-1 tvg-chno="471" tvg-name="USA: NBC 5" group-title="Cable - USA",NBC 5
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58650
+#EXTINF:-1 tvg-chno="472" tvg-id="Fox Sports 1-US" tvg-name="USA: NBC GOLF" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/golf.png" group-title="Cable - USA",NBC GOLF
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58787
+#EXTINF:-1 tvg-chno="109" tvg-id="Fox Sports 1-US" tvg-name="NBC Golf Channel FHD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/golf.png" group-title="Cable - USA",NBC Golf Channel FHD US
 http://topiptv.net:5890/aziz/1234/66702
-#EXTINF:-1 tvg-chno="110" tvg-name="NBC Golf Channel HD US" group-title="Cable - USA",NBC Golf Channel HD US
+#EXTINF:-1 tvg-chno="110" tvg-id="Fox Sports 1-US" tvg-name="NBC Golf Channel HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/golf.png" group-title="Cable - USA",NBC Golf Channel HD US
 http://topiptv.net:5890/aziz/1234/66703
-#EXTINF:-1 tvg-chno="111" tvg-name="NBC Golf HD US" group-title="Cable - USA",NBC Golf HD US
+#EXTINF:-1 tvg-chno="111" tvg-id="Fox Sports 1-US" tvg-name="NBC Golf HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/golf.png" group-title="Cable - USA",NBC Golf HD US
 http://topiptv.net:5890/aziz/1234/66704
 #EXTINF:-1 tvg-chno="112" tvg-name="NBC News HD US" group-title="Cable - USA",NBC News HD US
 http://topiptv.net:5890/aziz/1234/66705
 #EXTINF:-1 tvg-chno="113" tvg-name="NBC SN HD US" group-title="Cable - USA",NBC SN HD US
 http://topiptv.net:5890/aziz/1234/66706
-#EXTINF:-1 tvg-chno="114" tvg-id="CNBC USA-US" tvg-name="NBC US" group-title="Cable - USA",NBC US
+#EXTINF:-1 tvg-chno="473" tvg-id="NBC Sports Bay Area-US" tvg-name="USA: NBC SPORTS BAY AREA HD" group-title="Cable - USA",NBC SPORTS BAY AREA HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58786
+#EXTINF:-1 tvg-chno="474" tvg-name="USA: NBC SPORTS BOSTON HD" group-title="Cable - USA",NBC SPORTS BOSTON HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58785
+#EXTINF:-1 tvg-chno="475" tvg-id="NBC Sports California-US" tvg-name="USA: NBC SPORTS CALIFORNIA HD" group-title="Cable - USA",NBC SPORTS CALIFORNIA HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58784
+#EXTINF:-1 tvg-chno="476" tvg-name="USA: NBC SPORTS CHICAGO HD" group-title="Cable - USA",NBC SPORTS CHICAGO HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58783
+#EXTINF:-1 tvg-chno="477" tvg-id="NBC Sports Network Northwest-US" tvg-name="USA: NBC SPORTS NETWORK" group-title="Cable - USA",NBC SPORTS NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58782
+#EXTINF:-1 tvg-chno="478" tvg-name="USA: NBC SPORTS NORTHWEST HD" group-title="Cable - USA",NBC SPORTS NORTHWEST HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58781
+#EXTINF:-1 tvg-chno="479" tvg-name="USA: NBC SPORTS PHILADELPHIA HD" group-title="Cable - USA",NBC SPORTS PHILADELPHIA HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58780
+#EXTINF:-1 tvg-chno="480" tvg-name="USA: NBC UNIVERSO" group-title="Cable - USA",NBC UNIVERSO
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58649
+#EXTINF:-1 tvg-chno="114" tvg-name="NBC US" group-title="Cable - USA",NBC US
 http://topiptv.net:5890/aziz/1234/66707
-#EXTINF:-1 tvg-chno="115" tvg-id="CBS Sports Network USA-US" tvg-name="CBS Sports Network USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBS Sports Network
-http://topiptv.net:5890/aziz/1234/66708
+#EXTINF:-1 tvg-chno="481" tvg-name="USA: NESN" group-title="Cable - USA",NESN
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58779
+#EXTINF:-1 tvg-chno="482" tvg-name="USA: NEWS 12 LONG ISLAND" group-title="Cable - USA",NEWS 12 LONG ISLAND
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58748
+#EXTINF:-1 tvg-chno="483" tvg-name="USA: NEWS 12 NEW JERSEY" group-title="Cable - USA",NEWS 12 NEW JERSEY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58747
+#EXTINF:-1 tvg-chno="484" tvg-id="NFL Network-US" tvg-name="USA: NFL NETWORK" group-title="Cable - USA",NFL NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58778
 #EXTINF:-1 tvg-chno="116" tvg-name="NFL Network 1 US" group-title="Cable - USA",NFL Network 1 US
 http://topiptv.net:5890/aziz/1234/66709
-#EXTINF:-1 tvg-chno="117" tvg-name="NFL Network FHD US" group-title="Cable - USA",NFL Network FHD US
+#EXTINF:-1 tvg-chno="117" tvg-id="MLB Network-US" tvg-name="NFL Network FHD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nfl_network.png" group-title="Cable - USA",NFL Network FHD US
 http://topiptv.net:5890/aziz/1234/66710
-#EXTINF:-1 tvg-chno="118" tvg-name="NFL Network HD US" group-title="Cable - USA",NFL Network HD US
+#EXTINF:-1 tvg-chno="118" tvg-id="MLB Network-US" tvg-name="NFL Network HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nfl_network.png" group-title="Cable - USA",NFL Network HD US
 http://topiptv.net:5890/aziz/1234/66711
-#EXTINF:-1 tvg-chno="119" tvg-name="NFL Network US" group-title="Cable - USA",NFL Network US
+#EXTINF:-1 tvg-chno="119" tvg-id="MLB Network-US" tvg-name="NFL Network US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nfl_network.png" group-title="Cable - USA",NFL Network US
 http://topiptv.net:5890/aziz/1234/66712
 #EXTINF:-1 tvg-chno="120" tvg-name="NFL Now HD US" group-title="Cable - USA",NFL Now HD US
 http://topiptv.net:5890/aziz/1234/66713
+#EXTINF:-1 tvg-chno="485" tvg-id="NFL Red Zone-US" tvg-name="USA: NFL RED ZONE" group-title="Cable - USA",NFL RED ZONE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58777
 #EXTINF:-1 tvg-chno="121" tvg-name="NFL Redzone HD US" group-title="Cable - USA",NFL Redzone HD US
 http://topiptv.net:5890/aziz/1234/66714
-#EXTINF:-1 tvg-chno="122" tvg-id="NHL Network USA-US" tvg-name="NHL Network US" group-title="Cable - USA",NHL Network US
+#EXTINF:-1 tvg-chno="486" tvg-id="NHL Network USA-US" tvg-name="USA: NHL NETWORK" group-title="Cable - USA",NHL NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58776
+#EXTINF:-1 tvg-chno="122" tvg-id="NBA TV USA-US" tvg-name="NHL Network US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nhlnetwork.png" group-title="Cable - USA",NHL Network US
 http://topiptv.net:5890/aziz/1234/66715
+#EXTINF:-1 tvg-chno="487" tvg-id="Nick Jr. - East-US" tvg-name="USA: NICK HD" group-title="Cable - USA",NICK HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58715
+#EXTINF:-1 tvg-chno="488" tvg-id="Nick Jr. - East-US" tvg-name="USA: NICK JR" group-title="Cable - USA",NICK JR
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58714
+#EXTINF:-1 tvg-chno="489" tvg-name="USA: NICK JR. TOO" group-title="Cable - USA",NICK JR. TOO
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58713
+#EXTINF:-1 tvg-chno="490" tvg-name="USA: NICKTOONS" group-title="Cable - USA",NICKTOONS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58712
+#EXTINF:-1 tvg-chno="491" tvg-name="USA: ONE AMERICA NEWS" group-title="Cable - USA",ONE AMERICA NEWS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58746
 #EXTINF:-1 tvg-chno="126" tvg-id="Oprah Winfrey Network USA Eastern-US" tvg-name="Oprah Winfrey Network HD US" group-title="Cable - USA",Oprah Winfrey Network HD US
 http://topiptv.net:5890/aziz/1234/66719
+#EXTINF:-1 tvg-chno="492" tvg-id="Outdoor Channel US-US" tvg-name="USA: OUTDOOR CHANNEL" group-title="Cable - USA",OUTDOOR CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58740
 #EXTINF:-1 tvg-chno="127" tvg-id="Outdoor Channel US-US" tvg-name="Outdoor Channel HD US" group-title="Cable - USA",Outdoor Channel HD US
 http://topiptv.net:5890/aziz/1234/66720
+#EXTINF:-1 tvg-chno="493" tvg-name="USA: OUTSIDE TV" group-title="Cable - USA",OUTSIDE TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58739
+#EXTINF:-1 tvg-chno="494" tvg-name="USA: OVATION" group-title="Cable - USA",OVATION
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58648
+#EXTINF:-1 tvg-chno="495" tvg-name="USA: OWN NETWORK HD" group-title="Cable - USA",OWN NETWORK HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58647
+#EXTINF:-1 tvg-chno="496" tvg-name="USA: OXYGEN" group-title="Cable - USA",OXYGEN
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58646
+#EXTINF:-1 tvg-chno="497" tvg-name="USA: PAC 12 LOS ANGELES" group-title="Cable - USA",PAC 12 LOS ANGELES
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58775
+#EXTINF:-1 tvg-chno="498" tvg-name="USA: PAC 12 NETWORK" group-title="Cable - USA",PAC 12 NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58774
+#EXTINF:-1 tvg-chno="499" tvg-name="USA: PAC-12 ARIZONA" group-title="Cable - USA",PAC-12 ARIZONA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58773
 #EXTINF:-1 tvg-chno="128" tvg-name="PAC-12 Arizona US" group-title="Cable - USA",PAC-12 Arizona US
 http://topiptv.net:5890/aziz/1234/66721
+#EXTINF:-1 tvg-chno="500" tvg-name="USA: PAC-12 BAY AREA" group-title="Cable - USA",PAC-12 BAY AREA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58772
 #EXTINF:-1 tvg-chno="129" tvg-name="PAC-12 Bay Area US" group-title="Cable - USA",PAC-12 Bay Area US
 http://topiptv.net:5890/aziz/1234/66722
 #EXTINF:-1 tvg-chno="130" tvg-name="PAC-12 Los Angeles FHD US" group-title="Cable - USA",PAC-12 Los Angeles FHD US
 http://topiptv.net:5890/aziz/1234/66723
+#EXTINF:-1 tvg-chno="501" tvg-name="USA: PAC-12 MOUNTAIN" group-title="Cable - USA",PAC-12 MOUNTAIN
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58771
+#EXTINF:-1 tvg-chno="502" tvg-name="USA: PAC-12 OREGON" group-title="Cable - USA",PAC-12 OREGON
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58770
 #EXTINF:-1 tvg-chno="131" tvg-name="PAC-12 Oregon FHD US" group-title="Cable - USA",PAC-12 Oregon FHD US
 http://topiptv.net:5890/aziz/1234/66724
 #EXTINF:-1 tvg-chno="132" tvg-name="PAC-12 Washington FHD US" group-title="Cable - USA",PAC-12 Washington FHD US
@@ -2251,64 +2567,186 @@ http://topiptv.net:5890/aziz/1234/66725
 http://topiptv.net:5890/aziz/1234/66736
 #EXTINF:-1 tvg-chno="144" tvg-id="Paramount Network USA - Eastern Feed-US" tvg-name="Paramount Network US" group-title="Cable - USA",Paramount Network US
 http://topiptv.net:5890/aziz/1234/66737
-#EXTINF:-1 tvg-chno="133" tvg-name="Reelz HD US" group-title="Cable - USA",Reelz HD US
+#EXTINF:-1 tvg-chno="503" tvg-name="USA: PBS" group-title="Cable - USA",PBS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58721
+#EXTINF:-1 tvg-chno="504" tvg-name="USA: PBS KIDS EAST" group-title="Cable - USA",PBS KIDS EAST
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58720
+#EXTINF:-1 tvg-chno="505" tvg-name="USA: PBS WLIW 21" group-title="Cable - USA",PBS WLIW 21
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58719
+#EXTINF:-1 tvg-chno="506" tvg-id="POP - East-US" tvg-name="USA: POP" group-title="Cable - USA",POP
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58645
+#EXTINF:-1 tvg-chno="507" tvg-id="FOX Soccer Plus-US" tvg-name="FOX Soccer Plus-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/pursuit-channel.png" group-title="Cable - USA",PURSUIT CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58644
+#EXTINF:-1 tvg-chno="508" tvg-name="USA: QVC" group-title="Cable - USA",QVC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58643
+#EXTINF:-1 tvg-chno="509" tvg-name="USA: RED BULL TV" group-title="Cable - USA",RED BULL TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58642
+#EXTINF:-1 tvg-chno="510" tvg-id="Paramount Network USA - Eastern Feed-US" tvg-name="USA: REELZ" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/reelz.png" group-title="Cable - USA",REELZ
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58641
+#EXTINF:-1 tvg-chno="133" tvg-id="Paramount Network USA - Eastern Feed-US" tvg-name="Reelz HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/reelz.png" group-title="Cable - USA",Reelz HD US
 http://topiptv.net:5890/aziz/1234/66726
+#EXTINF:-1 tvg-chno="511" tvg-id="Revolt HD-US" tvg-name="USA: REVOLT" group-title="Cable - USA",REVOLT
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58640
+#EXTINF:-1 tvg-chno="512" tvg-name="USA: RT NEWS" group-title="Cable - USA",RT NEWS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58745
 #EXTINF:-1 tvg-chno="135" tvg-id="Disney Junior USA - East-US" tvg-name="Science HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/science16.png" group-title="Cable - USA",Science HD US
 http://topiptv.net:5890/aziz/1234/66728
+#EXTINF:-1 tvg-chno="513" tvg-id="SEC Network-US" tvg-name="USA: SEC NETWORK" group-title="Cable - USA",SEC NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58769
 #EXTINF:-1 tvg-chno="134" tvg-name="SEC Network HD US" group-title="Cable - USA",SEC Network HD US
 http://topiptv.net:5890/aziz/1234/66727
+#EXTINF:-1 tvg-chno="514" tvg-name="USA: SHOWTIME 2" group-title="Cable - USA",SHOWTIME 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58639
 #EXTINF:-1 tvg-chno="136" tvg-id="Showtime Extreme - Eastern-US" tvg-name="Showtime 2 HD US" group-title="Cable - USA",Showtime 2 HD US
 http://topiptv.net:5890/aziz/1234/66729
 #EXTINF:-1 tvg-chno="137" tvg-id="Showtime Extreme - Eastern-US" tvg-name="Showtime 2 US" group-title="Cable - USA",Showtime 2 US
 http://topiptv.net:5890/aziz/1234/66730
 #EXTINF:-1 tvg-chno="138" tvg-id="Showtime - Eastern Feed-US" tvg-name="Showtime East HD US" group-title="Cable - USA",Showtime East HD US
 http://topiptv.net:5890/aziz/1234/66731
+#EXTINF:-1 tvg-chno="515" tvg-id="Showtime Extreme - Eastern-US" tvg-name="USA: SHOWTIME EXTREME" group-title="Cable - USA",SHOWTIME EXTREME
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58638
 #EXTINF:-1 tvg-chno="139" tvg-id="Showtime - Eastern Feed-US" tvg-name="Showtime FHD US" group-title="Cable - USA",Showtime FHD US
 http://topiptv.net:5890/aziz/1234/66732
+#EXTINF:-1 tvg-chno="516" tvg-id="Showtime Extreme - Eastern-US" tvg-name="USA: SHOWTIME HD" group-title="Cable - USA",SHOWTIME HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58637
+#EXTINF:-1 tvg-chno="517" tvg-id="Showtime Showcase - Eastern-US" tvg-name="USA: SHOWTIME SHOWCASE" group-title="Cable - USA",SHOWTIME SHOWCASE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58636
 #EXTINF:-1 tvg-chno="140" tvg-id="Showtime Showcase - Eastern-US" tvg-name="Showtime Showcase HD US" group-title="Cable - USA",Showtime Showcase HD US
 http://topiptv.net:5890/aziz/1234/66733
 #EXTINF:-1 tvg-chno="141" tvg-id="Showtime West-US" tvg-name="Showtime West US" group-title="Cable - USA",Showtime West US
 http://topiptv.net:5890/aziz/1234/66734
 #EXTINF:-1 tvg-chno="142" tvg-name="Smile Of A Child US" group-title="Cable - USA",Smile Of A Child US
 http://topiptv.net:5890/aziz/1234/66735
+#EXTINF:-1 tvg-chno="518" tvg-name="USA: SMITHSONIAN CHANNEL" group-title="Cable - USA",SMITHSONIAN CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58635
 #EXTINF:-1 tvg-chno="175" tvg-name="Smithsonian Channel US" group-title="Cable - USA",Smithsonian Channel US
 http://topiptv.net:5890/aziz/1234/66768
+#EXTINF:-1 tvg-chno="519" tvg-name="USA: SPIKE/PARAMOUNT" group-title="Cable - USA",SPIKE/PARAMOUNT
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58634
+#EXTINF:-1 tvg-chno="520" tvg-id="Sportsman Channel-US" tvg-name="USA: SPORTSMAN CHANNEL" group-title="Cable - USA",SPORTSMAN CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58768
+#EXTINF:-1 tvg-chno="521" tvg-name="USA: SPORTSNET LA" group-title="Cable - USA",SPORTSNET LA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58767
+#EXTINF:-1 tvg-chno="522" tvg-name="USA: SPORTSNET NY" group-title="Cable - USA",SPORTSNET NY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58766
+#EXTINF:-1 tvg-chno="523" tvg-id="Showtime West-US" tvg-name="US-Starz - Pacific" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starz.png" group-title="Cable - USA",STARZ
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58598
 #EXTINF:-1 tvg-chno="145" tvg-id="Starz Cinema - Eastern-US" tvg-name="Starz Cinema US" group-title="Cable - USA",Starz Cinema US
 http://topiptv.net:5890/aziz/1234/66738
-#EXTINF:-1 tvg-chno="146" tvg-id="Starz Comedy - Eastern-US" tvg-name="Starz Comedy US" group-title="Cable - USA",Starz Comedy US
+#EXTINF:-1 tvg-chno="524" tvg-id="Showtime Extreme - Eastern-US" tvg-name="Starz Comedy - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starzcomedy.png" group-title="Cable - USA",STARZ COMEDY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58603
+#EXTINF:-1 tvg-chno="146" tvg-id="Showtime Extreme - Eastern-US" tvg-name="Starz Comedy US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starzcomedy.png" group-title="Cable - USA",Starz Comedy US
 http://topiptv.net:5890/aziz/1234/66739
+#EXTINF:-1 tvg-chno="525" tvg-id="Starz Edge - Eastern-US" tvg-name="Starz Edge - Eastern-US" group-title="Cable - USA",STARZ EDGE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58602
 #EXTINF:-1 tvg-chno="147" tvg-id="Starz Edge - Eastern-US" tvg-name="Starz Edge HD US" group-title="Cable - USA",Starz Edge HD US
 http://topiptv.net:5890/aziz/1234/66740
 #EXTINF:-1 tvg-chno="148" tvg-id="Starz Edge - Eastern-US" tvg-name="Starz Edge US" group-title="Cable - USA",Starz Edge US
 http://topiptv.net:5890/aziz/1234/66741
+#EXTINF:-1 tvg-chno="526" tvg-id="Starz Encore - Eastern-US" tvg-name="Starz Encore - Eastern-US" group-title="Cable - USA",STARZ ENCORE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58601
 #EXTINF:-1 tvg-chno="149" tvg-id="Starz Encore - Eastern-US" tvg-name="Starz Encore HD US" group-title="Cable - USA",Starz Encore HD US
 http://topiptv.net:5890/aziz/1234/66742
 #EXTINF:-1 tvg-chno="150" tvg-id="Starz Encore - Eastern-US" tvg-name="Starz Encore US" group-title="Cable - USA",Starz Encore US
 http://topiptv.net:5890/aziz/1234/66743
+#EXTINF:-1 tvg-chno="527" tvg-id="Starz Encore Westerns - Eastern-US" tvg-name="Starz Encore Westerns - Eastern-US" group-title="Cable - USA",STARZ ENCORE WESTERNS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58600
+#EXTINF:-1 tvg-chno="528" tvg-id="Starz Encore Black - Eastern-US" tvg-name="Starz Encore Black - Eastern-US" group-title="Cable - USA",STARZ IN BLACK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58599
+#EXTINF:-1 tvg-chno="529" tvg-id="Showtime Showcase - Eastern-US" tvg-name="USA: STARZ KIDS & FAMILY" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starz_family.png" group-title="Cable - USA",STARZ KIDS & FAMILY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58711
+#EXTINF:-1 tvg-chno="530" tvg-id="SundanceTV USA - East-US" tvg-name="USA: SUNDANCE" group-title="Cable - USA",SUNDANCE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58633
+#EXTINF:-1 tvg-chno="531" tvg-id="Syfy - Eastern Feed-US" tvg-name="USA: SYFY" group-title="Cable - USA",SYFY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58632
 #EXTINF:-1 tvg-chno="151" tvg-id="Syfy - Eastern Feed-US" tvg-name="SyFy HD US" group-title="Cable - USA",SyFy HD US
 http://topiptv.net:5890/aziz/1234/66744
 #EXTINF:-1 tvg-chno="152" tvg-id="Syfy - Eastern Feed-US" tvg-name="SyFy US" group-title="Cable - USA",SyFy US
 http://topiptv.net:5890/aziz/1234/66745
+#EXTINF:-1 tvg-chno="532" tvg-name="USA: TBN TRINITY BROADCASTING NETWORK" group-title="Cable - USA",TBN TRINITY BROADCASTING NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58631
+#EXTINF:-1 tvg-chno="533" tvg-id="TBS - East-US" tvg-name="USA: TBS" group-title="Cable - USA",TBS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58630
 #EXTINF:-1 tvg-chno="153" tvg-id="TBS - East-US" tvg-name="TBS HD US" group-title="Cable - USA",TBS HD US
 http://topiptv.net:5890/aziz/1234/66746
-#EXTINF:-1 tvg-chno="154" tvg-id="TNT - Eastern Feed-US" tvg-name="TNT HD US" group-title="Cable - USA",TNT HD US
+#EXTINF:-1 tvg-chno="534" tvg-name="USA: TCM" group-title="Cable - USA",TCM
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58629
+#EXTINF:-1 tvg-chno="535" tvg-name="USA: TEEN NICK" group-title="Cable - USA",TEEN NICK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58710
+#EXTINF:-1 tvg-chno="536" tvg-name="USA: TELEMUNDO" group-title="Cable - USA",TELEMUNDO
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58628
+#EXTINF:-1 tvg-chno="537" tvg-id="Golf Channel USA-US" tvg-name="USA: TENNIS HD" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tennischannel.png" group-title="Cable - USA",TENNIS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58765
+#EXTINF:-1 tvg-chno="538" tvg-name="USA: THE CW HD CHICAGO" group-title="Cable - USA",THE CW HD CHICAGO
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58626
+#EXTINF:-1 tvg-chno="539" tvg-name="USA: THE CW PIX 11" group-title="Cable - USA",THE CW PIX 11
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58627
+#EXTINF:-1 tvg-chno="540" tvg-id="The Weather Channel-US" tvg-name="USA: THE WEATHER CHANNEL HD" group-title="Cable - USA",THE WEATHER CHANNEL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58752
+#EXTINF:-1 tvg-chno="541" tvg-id="Science-US" tvg-name="USA: TLC CHANNEL" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tlc.png" group-title="Cable - USA",TLC CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58625
+#EXTINF:-1 tvg-chno="542" tvg-id="FX Networks East Coast-US" tvg-name="USA: TNT" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tnt.png" group-title="Cable - USA",TNT
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58624
+#EXTINF:-1 tvg-chno="154" tvg-id="FX Networks East Coast-US" tvg-name="TNT HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tnt.png" group-title="Cable - USA",TNT HD US
 http://topiptv.net:5890/aziz/1234/66747
+#EXTINF:-1 tvg-chno="543" tvg-name="USA: TRAVEL CHANNEL" group-title="Cable - USA",TRAVEL CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58737
 #EXTINF:-1 tvg-chno="155" tvg-name="Travel Channel HD US" group-title="Cable - USA",Travel Channel HD US
 http://topiptv.net:5890/aziz/1234/66748
-#EXTINF:-1 tvg-chno="156" tvg-id="truTV USA - Eastern-US" tvg-name="truTV HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_logo.svg/1200px-TruTV_logo.svg.png" group-title="Cable - USA",truTV HD US
+#EXTINF:-1 tvg-chno="544" tvg-id="Comedy Central (US) - Eastern Feed-US" tvg-name="USA: TRU TV" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/trutv.png" group-title="Cable - USA",TRU TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58623
+#EXTINF:-1 tvg-chno="156" tvg-id="Comedy Central (US) - Eastern Feed-US" tvg-name="truTV HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_logo.svg/1200px-TruTV_logo.svg.png" group-title="Cable - USA",truTV HD US
 http://topiptv.net:5890/aziz/1234/66749
+#EXTINF:-1 tvg-chno="545" tvg-id="Freeform - East Feed-US" tvg-name="USA: TV LAND HD" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tvland2015.png" group-title="Cable - USA",TV LAND HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58622
+#EXTINF:-1 tvg-chno="546" tvg-id="Fox Sports 2-US" tvg-name="USA: TVG HORSE RACING" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tvgnetwork.png" group-title="Cable - USA",TVG HORSE RACING
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58764
+#EXTINF:-1 tvg-chno="547" tvg-name="USA: TVONE" group-title="Cable - USA",TVONE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58621
+#EXTINF:-1 tvg-chno="548" tvg-name="USA: UFC 24/7" group-title="Cable - USA",UFC 24/7
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58763
 #EXTINF:-1 tvg-chno="157" tvg-name="UFC Fight Pass US" group-title="Cable - USA",UFC Fight Pass US
 http://topiptv.net:5890/aziz/1234/66750
+#EXTINF:-1 tvg-chno="549" tvg-name="USA: UNIMAS" group-title="Cable - USA",UNIMAS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58620
+#EXTINF:-1 tvg-chno="550" tvg-id="Universal Kids-US" tvg-name="USA: UNIVERSAL HD" group-title="Cable - USA",UNIVERSAL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58619
+#EXTINF:-1 tvg-chno="551" tvg-id="Universal Kids-US" tvg-name="USA: UNIVERSAL KIDS HD" group-title="Cable - USA",UNIVERSAL KIDS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58709
+#EXTINF:-1 tvg-chno="552" tvg-id="Univision - Eastern Feed-US" tvg-name="USA: UNIVISION" group-title="Cable - USA",UNIVISION
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58618
 #EXTINF:-1 tvg-chno="161" tvg-id="Univision - Eastern Feed-US" tvg-name="Univision HD US" group-title="Cable - USA",Univision HD US
 http://topiptv.net:5890/aziz/1234/66754
+#EXTINF:-1 tvg-chno="553" tvg-name="USA: UNIVISION TDN" group-title="Cable - USA",UNIVISION TDN
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58617
 #EXTINF:-1 tvg-chno="158" tvg-name="US Network HD US" group-title="Cable - USA",US Network HD US
 http://topiptv.net:5890/aziz/1234/66751
 #EXTINF:-1 tvg-chno="159" tvg-id="USA Network - East Feed-US" tvg-name="USA HD US" group-title="Cable - USA",USA HD US
 http://topiptv.net:5890/aziz/1234/66752
+#EXTINF:-1 tvg-chno="554" tvg-id="USA Network - East Feed-US" tvg-name="USA: USA NETWORK" group-title="Cable - USA",USA NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58616
 #EXTINF:-1 tvg-chno="160" tvg-id="USA Network - East Feed-US" tvg-name="USA Network HD US" group-title="Cable - USA",USA Network HD US
 http://topiptv.net:5890/aziz/1234/66753
 #EXTINF:-1 tvg-chno="162" tvg-id="VH1 - Eastern Feed-US" tvg-name="VH1 Classic US" group-title="Cable - USA",VH1 Classic US
 http://topiptv.net:5890/aziz/1234/66755
+#EXTINF:-1 tvg-chno="555" tvg-id="VH1 - Eastern Feed-US" tvg-name="USA: VH1 HD" group-title="Cable - USA",VH1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58760
+#EXTINF:-1 tvg-chno="556" tvg-name="USA: VICELAND" group-title="Cable - USA",VICELAND
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58615
+#EXTINF:-1 tvg-chno="342" tvg-id="A and E US - Eastern Feed-US" tvg-name="A and E US - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/we_womens.png" group-title="Cable - USA",We TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58706
+#EXTINF:-1 tvg-chno="1" tvg-id="A and E US - Eastern Feed-US" tvg-name="A&E HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Cable - USA",We Tv
+http://topiptv.net:5890/aziz/1234/66594
+#EXTINF:-1 tvg-chno="557" tvg-name="USA: WE TV" group-title="Cable - USA",WE TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58614
+#EXTINF:-1 tvg-chno="2" tvg-id="A and E US - Eastern Feed-US" tvg-name="We TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Cable - USA",We TV HD
+http://topiptv.net:5890/aziz/1234/66595
+#EXTINF:-1 tvg-chno="558" tvg-id="WGN America - Eastern Feed-US" tvg-name="USA: WGN AMERICA" group-title="Cable - USA",WGN AMERICA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58613
+#EXTINF:-1 tvg-chno="559" tvg-name="USA: WORLD FISHING NETWORK" group-title="Cable - USA",WORLD FISHING NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58738
+#EXTINF:-1 tvg-chno="560" tvg-name="USA: WWE" group-title="Cable - USA",WWE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58762
 #EXTINF:-1 tvg-chno="163" tvg-name="WWE HD US" group-title="Cable - USA",WWE HD US
 http://topiptv.net:5890/aziz/1234/66756
 #EXTINF:-1 tvg-chno="164" tvg-name="WWE Network FHD US" group-title="Cable - USA",WWE Network FHD US
@@ -2317,444 +2755,6 @@ http://topiptv.net:5890/aziz/1234/66757
 http://topiptv.net:5890/aziz/1234/66758
 #EXTINF:-1 tvg-chno="166" tvg-name="Zee Cinema US" group-title="Cable - USA",Zee Cinema US
 http://topiptv.net:5890/aziz/1234/66759
-#EXTINF:-1 tvg-chno="342" tvg-id="A and E US - Eastern Feed-US" tvg-name="A and E US - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/we_womens.png" group-title="Cable USA - 2 Test",A&E HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58706
-#EXTINF:-1 tvg-chno="343" tvg-id="ABC HD Los Angeles-US" tvg-name="ABC HD Los Angeles-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/impact-network.png" group-title="Cable USA - 2 Test",ABC EAST HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58705
-#EXTINF:-1 tvg-chno="344" tvg-id="2: ABC News-AUL" tvg-name="2: ABC News-AUL" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FTA/ASD_425x243.png" group-title="Cable USA - 2 Test",ABC NEWS HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58751
-#EXTINF:-1 tvg-chno="345" tvg-id="ABC HD New York-US" tvg-name="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable USA - 2 Test",ABC NY HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58704
-#EXTINF:-1 tvg-chno="346" tvg-id="ABC HD New York-US" tvg-name="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable USA - 2 Test",ABC WEST
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58703
-#EXTINF:-1 tvg-chno="347" tvg-id="AMC - Eastern Feed-US" tvg-name="AMC - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/oxygen.png" group-title="Cable USA - 2 Test",AMC
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58702
-#EXTINF:-1 tvg-chno="348" tvg-id="Disney XD USA - Eastern Feed-US" tvg-name="Disney XD USA - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ahc_logo.png" group-title="Cable USA - 2 Test",AMERICAN HEROES CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58701
-#EXTINF:-1 tvg-chno="349" tvg-id="Animal Planet US - East-US" tvg-name="Animal Planet US - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/discovery2016.png" group-title="Cable USA - 2 Test",ANIMAL PLANET
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58726
-#EXTINF:-1 tvg-chno="350" tvg-name="USA: ANTENNA TV" group-title="Cable USA - 2 Test",ANTENNA TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58700
-#EXTINF:-1 tvg-chno="351" tvg-name="USA: AWE CHANNEL" group-title="Cable USA - 2 Test",AWE CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58699
-#EXTINF:-1 tvg-chno="352" tvg-name="USA: AXS TV" group-title="Cable USA - 2 Test",AXS TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58698
-#EXTINF:-1 tvg-chno="353" tvg-id="BabyTV-UK" tvg-name="BabyTV-UK" tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/babytv-22214-1.jpg" group-title="Cable USA - 2 Test",BABY TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58708
-#EXTINF:-1 tvg-chno="354" tvg-id="BBCAmerica.us" tvg-name="BBCAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1214207021592932353/ahUlP3hd_400x400.jpg" group-title="Cable USA - 2 Test",BBC AMERICA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58697
-#EXTINF:-1 tvg-chno="355" tvg-id="Bein Sports HD1 English-AR" tvg-name="Bein Sports HD1 English-AR" tvg-logo="http://elifetv.etisalat.ae:33100/EPG/jsp/images/universal/film/logo/20161231/1/100000000000001521332/100000000000001521332_6315165264_1483219842952.jpg" group-title="Cable USA - 2 Test",BEIN SPORT USA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58812
-#EXTINF:-1 tvg-chno="356" tvg-name="USA: BET HD" group-title="Cable USA - 2 Test",BET HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58696
-#EXTINF:-1 tvg-chno="357" tvg-id="Fusion-US" tvg-name="Fusion-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bet-her.png" group-title="Cable USA - 2 Test",BET HER
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58695
-#EXTINF:-1 tvg-chno="358" tvg-id="https://www.dailydot.com/wp-content/uploads/2018/09/big_ten_network_streaming_on" tvg-name="https://www.dailydot.com/wp-content/uploads/2018/09/big_ten_network_streaming_on" group-title="Cable USA - 2 Test",BIG TEN NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58811
-#EXTINF:-1 tvg-chno="359" tvg-id="565 BLAZE-UK" tvg-name="565 BLAZE-UK" tvg-logo="https://bloximages.newyork1.vip.townnews.com/insideradio.com/content/tncms/assets/v3/editorial/6/ad/6adfbcca-0eda-11e9-8306-473f9c14f05e/5c2d358926812.image.jpg" group-title="Cable USA - 2 Test",BLAZE TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58694
-#EXTINF:-1 tvg-chno="360" tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="Cable USA - 2 Test",BLOOMBERG
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58742
-#EXTINF:-1 tvg-chno="361" tvg-id="Boomerang-US" tvg-name="Boomerang-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Boomerang-cartoon-network.png" group-title="Cable USA - 2 Test",BOOMERANG
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58724
-#EXTINF:-1 tvg-chno="362" tvg-name="USA: BOUNCE TV" group-title="Cable USA - 2 Test",BOUNCE TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58693
-#EXTINF:-1 tvg-chno="363" tvg-id="Bravo USA - Eastern Feed-US" tvg-name="USA: BRAVO" group-title="Cable USA - 2 Test",BRAVO
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58692
-#EXTINF:-1 tvg-chno="364" tvg-name="USA: BUZZER" group-title="Cable USA - 2 Test",BUZZER
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58691
-#EXTINF:-1 tvg-chno="365" tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="USA: CARTOON NETWORK" group-title="Cable USA - 2 Test",CARTOON NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58723
-#EXTINF:-1 tvg-chno="366" tvg-name="USA: CARTOONITO ES" group-title="Cable USA - 2 Test",CARTOONITO ES
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58722
-#EXTINF:-1 tvg-chno="367" tvg-name="USA: CBS EAST" group-title="Cable USA - 2 Test",CBS EAST
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58690
-#EXTINF:-1 tvg-chno="368" tvg-name="USA: CBS NY HD" group-title="Cable USA - 2 Test",CBS NY HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58689
-#EXTINF:-1 tvg-chno="369" tvg-id="CBS Sports Network USA-US" tvg-name="USA: CBS SPORTS NETWORK" group-title="Cable USA - 2 Test",CBS SPORTS NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58810
-#EXTINF:-1 tvg-chno="370" tvg-name="USA: CBSN SPORTS NETWORK" group-title="Cable USA - 2 Test",CBSN SPORTS NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58809
-#EXTINF:-1 tvg-chno="371" tvg-name="USA: CINEMAX ACTION MAX EAST" group-title="Cable USA - 2 Test",CINEMAX ACTION MAX EAST
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58612
-#EXTINF:-1 tvg-chno="372" tvg-name="USA: CINEMAX EAST" group-title="Cable USA - 2 Test",CINEMAX EAST
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58611
-#EXTINF:-1 tvg-chno="373" tvg-name="USA: CINEMAX MOVIEMAX" group-title="Cable USA - 2 Test",CINEMAX MOVIEMAX
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58610
-#EXTINF:-1 tvg-chno="374" tvg-name="USA: CINEMAX OUTER MAX" group-title="Cable USA - 2 Test",CINEMAX OUTER MAX
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58609
-#EXTINF:-1 tvg-chno="375" tvg-name="USA: CINEMAX THRILLERMAX HD" group-title="Cable USA - 2 Test",CINEMAX THRILLERMAX HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58608
-#EXTINF:-1 tvg-chno="376" tvg-name="USA: CINEMAXX MORE MAXX" group-title="Cable USA - 2 Test",CINEMAXX MORE MAXX
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58607
-#EXTINF:-1 tvg-chno="377" tvg-name="USA: CMT HD" group-title="Cable USA - 2 Test",CMT HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58688
-#EXTINF:-1 tvg-chno="378" tvg-id="CNBC USA-US" tvg-name="USA: CNBC" group-title="Cable USA - 2 Test",CNBC
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58744
-#EXTINF:-1 tvg-chno="379" tvg-id="CNN-US" tvg-name="USA: CNN" group-title="Cable USA - 2 Test",CNN
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58743
-#EXTINF:-1 tvg-chno="380" tvg-id="Comedy Central (US) - Eastern Feed-US" tvg-name="USA: COMEDY CENTRAL" group-title="Cable USA - 2 Test",COMEDY CENTRAL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58687
-#EXTINF:-1 tvg-chno="381" tvg-name="USA: COMET TV" group-title="Cable USA - 2 Test",COMET TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58686
-#EXTINF:-1 tvg-chno="382" tvg-id="The Cooking Channel-US" tvg-name="USA: COOKING CHANNEL HD" group-title="Cable USA - 2 Test",COOKING CHANNEL HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58685
-#EXTINF:-1 tvg-chno="383" tvg-name="USA: COUNTRY NETWORK" group-title="Cable USA - 2 Test",COUNTRY NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58684
-#EXTINF:-1 tvg-chno="384" tvg-name="USA: COZI TV" group-title="Cable USA - 2 Test",COZI TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58683
-#EXTINF:-1 tvg-chno="385" tvg-id="Crime and Investigation Network USA-US" tvg-name="USA: CRIME AND INVESTIGATION" group-title="Cable USA - 2 Test",CRIME AND INVESTIGATION
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58736
-#EXTINF:-1 tvg-chno="386" tvg-name="USA: DESTINATION AMERICA" group-title="Cable USA - 2 Test",DESTINATION AMERICA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58682
-#EXTINF:-1 tvg-chno="387" tvg-id="US-Discovery Channel (US) - Eastern Feed" tvg-name="USA: DISCOVERY CHANNEL HD" group-title="Cable USA - 2 Test",DISCOVERY CHANNEL HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58735
-#EXTINF:-1 tvg-chno="388" tvg-id="Discovery Family Channel-US" tvg-name="USA: DISCOVERY FAMILY" group-title="Cable USA - 2 Test",DISCOVERY FAMILY
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58734
-#EXTINF:-1 tvg-chno="389" tvg-name="USA: DISCOVERY LIFE" group-title="Cable USA - 2 Test",DISCOVERY LIFE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58733
-#EXTINF:-1 tvg-chno="390" tvg-name="USA: DISCOVERY SCIENCE HD" group-title="Cable USA - 2 Test",DISCOVERY SCIENCE HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58732
-#EXTINF:-1 tvg-chno="391" tvg-name="USA: DISNEY CHANNEL HD" group-title="Cable USA - 2 Test",DISNEY CHANNEL HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58718
-#EXTINF:-1 tvg-chno="392" tvg-name="USA: DISNEY JR" group-title="Cable USA - 2 Test",DISNEY JR
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58717
-#EXTINF:-1 tvg-chno="393" tvg-id="Disney XD USA - Eastern Feed-US" tvg-name="USA: DISNEY XD" group-title="Cable USA - 2 Test",DISNEY XD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58716
-#EXTINF:-1 tvg-chno="394" tvg-name="USA: DIY NETWORK HD" group-title="Cable USA - 2 Test",DIY NETWORK HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58681
-#EXTINF:-1 tvg-chno="395" tvg-name="USA: DOG TV" group-title="Cable USA - 2 Test",DOG TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58680
-#EXTINF:-1 tvg-chno="396" tvg-id="E! Entertainment USA - Eastern Feed-US" tvg-name="USA: E!" group-title="Cable USA - 2 Test",E!
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58679
-#EXTINF:-1 tvg-chno="397" tvg-id="El Rey Network-US" tvg-name="USA: EL REY NETWORK" group-title="Cable USA - 2 Test",EL REY NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58677
-#EXTINF:-1 tvg-chno="398" tvg-id="El Rey Network-US" tvg-name="USA: EL REY NETWORK HD" group-title="Cable USA - 2 Test",EL REY NETWORK HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58678
-#EXTINF:-1 tvg-chno="399" tvg-id="Eleven Sports-US" tvg-name="USA: ELEVEN SPORTS HD" group-title="Cable USA - 2 Test",ELEVEN SPORTS HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58808
-#EXTINF:-1 tvg-chno="400" tvg-name="USA: EPIX 2" group-title="Cable USA - 2 Test",EPIX 2
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58606
-#EXTINF:-1 tvg-chno="401" tvg-name="USA: EPIX HD" group-title="Cable USA - 2 Test",EPIX HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58605
-#EXTINF:-1 tvg-chno="402" tvg-name="USA: EPIX HITS" group-title="Cable USA - 2 Test",EPIX HITS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58604
-#EXTINF:-1 tvg-chno="403" tvg-id="ESPN-US" tvg-name="USA: ESPN" group-title="Cable USA - 2 Test",ESPN
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58807
-#EXTINF:-1 tvg-chno="404" tvg-name="USA: ESPN 2" group-title="Cable USA - 2 Test",ESPN 2
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58806
-#EXTINF:-1 tvg-chno="405" tvg-id="ESPN News-US" tvg-name="USA: ESPN NEWS" group-title="Cable USA - 2 Test",ESPN NEWS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58750
-#EXTINF:-1 tvg-chno="406" tvg-id="ESPN U-US" tvg-name="USA: ESPN U" group-title="Cable USA - 2 Test",ESPN U
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58805
-#EXTINF:-1 tvg-chno="407" tvg-name="USA: FANTASY SPORTS NETWORK" group-title="Cable USA - 2 Test",FANTASY SPORTS NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58804
-#EXTINF:-1 tvg-chno="408" tvg-id="Food Network USA - Eastern Feed-US" tvg-name="USA: FOOD NETWORK" group-title="Cable USA - 2 Test",FOOD NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58676
-#EXTINF:-1 tvg-chno="409" tvg-name="USA: FOX 5 HD" group-title="Cable USA - 2 Test",FOX 5 HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58755
-#EXTINF:-1 tvg-chno="410" tvg-name="USA: FOX 50" group-title="Cable USA - 2 Test",FOX 50
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58754
-#EXTINF:-1 tvg-chno="411" tvg-id="Fox Business-US" tvg-name="USA: FOX BUSINESS HD" group-title="Cable USA - 2 Test",FOX BUSINESS HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58753
-#EXTINF:-1 tvg-chno="412" tvg-name="USA: FOX COLLEGE ATLANTIC" group-title="Cable USA - 2 Test",FOX COLLEGE ATLANTIC
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58803
-#EXTINF:-1 tvg-chno="413" tvg-name="USA: FOX COLLEGE CENTRAL" group-title="Cable USA - 2 Test",FOX COLLEGE CENTRAL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58802
-#EXTINF:-1 tvg-chno="414" tvg-name="USA: FOX COLLEGE PACIFIC" group-title="Cable USA - 2 Test",FOX COLLEGE PACIFIC
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58801
-#EXTINF:-1 tvg-chno="415" tvg-id="Fox Deportes-US" tvg-name="USA: FOX DEPORTES" group-title="Cable USA - 2 Test",FOX DEPORTES
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58800
-#EXTINF:-1 tvg-chno="416" tvg-id="Fox News-US" tvg-name="USA: FOX NEWS" group-title="Cable USA - 2 Test",FOX NEWS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58749
-#EXTINF:-1 tvg-chno="417" tvg-id="FOX Soccer Plus-US" tvg-name="USA: FOX SOCCER PLUS" group-title="Cable USA - 2 Test",FOX SOCCER PLUS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58799
-#EXTINF:-1 tvg-chno="418" tvg-id="Fox Sports 1-US" tvg-name="USA: FOX SPORTS 1" group-title="Cable USA - 2 Test",FOX SPORTS 1
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58797
-#EXTINF:-1 tvg-chno="419" tvg-id="Fox Sports 2-US" tvg-name="USA: FOX SPORTS 2" group-title="Cable USA - 2 Test",FOX SPORTS 2
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58798
-#EXTINF:-1 tvg-chno="420" tvg-id="Freeform - East Feed-US" tvg-name="USA: FREEFORM HD" group-title="Cable USA - 2 Test",FREEFORM HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58675
-#EXTINF:-1 tvg-chno="421" tvg-id="FUSE TV - Eastern feed-US" tvg-name="USA: FUSE" group-title="Cable USA - 2 Test",FUSE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58674
-#EXTINF:-1 tvg-chno="422" tvg-id="Fusion-US" tvg-name="USA: FUSION" group-title="Cable USA - 2 Test",FUSION
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58673
-#EXTINF:-1 tvg-chno="423" tvg-id="FX Networks East Coast-US" tvg-name="USA: FX HD" group-title="Cable USA - 2 Test",FX HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58672
-#EXTINF:-1 tvg-chno="424" tvg-name="USA: FXM" group-title="Cable USA - 2 Test",FXM
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58671
-#EXTINF:-1 tvg-chno="425" tvg-id="FXX USA - Eastern-US" tvg-name="USA: FXX" group-title="Cable USA - 2 Test",FXX
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58670
-#EXTINF:-1 tvg-chno="426" tvg-name="USA: FYI NETWORK" group-title="Cable USA - 2 Test",FYI NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58669
-#EXTINF:-1 tvg-chno="427" tvg-id="Galavision - Eastern Feed-US" tvg-name="USA: GALAVISION" group-title="Cable USA - 2 Test",GALAVISION
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58668
-#EXTINF:-1 tvg-chno="428" tvg-id="Game Show Network - East-US" tvg-name="USA: GAME SHOW NETWORK" group-title="Cable USA - 2 Test",GAME SHOW NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58796
-#EXTINF:-1 tvg-chno="429" tvg-id="Golf Channel USA-US" tvg-name="USA: GOLF CHANNEL" group-title="Cable USA - 2 Test",GOLF CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58795
-#EXTINF:-1 tvg-chno="430" tvg-name="USA: GRIT TV" group-title="Cable USA - 2 Test",GRIT TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58667
-#EXTINF:-1 tvg-chno="431" tvg-name="USA: HALLMARK DRAMA" group-title="Cable USA - 2 Test",HALLMARK DRAMA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58597
-#EXTINF:-1 tvg-chno="432" tvg-id="Hallmark - Eastern Feed-US" tvg-name="Hallmark - Eastern Feed-US" group-title="Cable USA - 2 Test",HALLMARK HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58596
-#EXTINF:-1 tvg-chno="433" tvg-id="Hallmark Movies & Mysteries - Eastern-US" tvg-name="Hallmark Movies & Mysteries - Eastern-US" group-title="Cable USA - 2 Test",HALLMARK MOVIES & MYSTERIES HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58595
-#EXTINF:-1 tvg-chno="434" tvg-id="HBO 2 - Eastern Feed-US" tvg-name="HBO 2 - Eastern Feed-US" group-title="Cable USA - 2 Test",HBO 2 HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58590
-#EXTINF:-1 tvg-chno="435" tvg-id="HBO Comedy - East-US" tvg-name="HBO Comedy - East-US" group-title="Cable USA - 2 Test",HBO COMEDY HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58594
-#EXTINF:-1 tvg-chno="436" tvg-id="HBO Family - Eastern Feed-US" tvg-name="HBO Family - Eastern Feed-US" group-title="Cable USA - 2 Test",HBO FAMILY HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58593
-#EXTINF:-1 tvg-chno="437" tvg-id="HBO - Pacific Feed-US" tvg-name="HBO - Pacific Feed-US" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Cable USA - 2 Test",HBO HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58589
-#EXTINF:-1 tvg-chno="438" tvg-id="HBO Signature (HBO 3) - Eastern-US" tvg-name="HBO Signature (HBO 3) - Eastern-US" group-title="Cable USA - 2 Test",HBO SIGNATURE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58592
-#EXTINF:-1 tvg-chno="439" tvg-id="HBO Zone - East-US" tvg-name="HBO Zone - East-US" group-title="Cable USA - 2 Test",HBO ZONE HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58591
-#EXTINF:-1 tvg-chno="440" tvg-name="USA: HEROS & ICONS" group-title="Cable USA - 2 Test",HEROS & ICONS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58666
-#EXTINF:-1 tvg-chno="441" tvg-id="HGTV USA - Eastern Feed-US" tvg-name="USA: HGTV HD" group-title="Cable USA - 2 Test",HGTV HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58664
-#EXTINF:-1 tvg-chno="442" tvg-name="USA: HGTV UHD" group-title="Cable USA - 2 Test",HGTV UHD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58665
-#EXTINF:-1 tvg-chno="443" tvg-name="USA: HISTORY 2" group-title="Cable USA - 2 Test",HISTORY 2
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58731
-#EXTINF:-1 tvg-chno="444" tvg-id="History Channel US - Eastern Feed-US" tvg-name="USA: HISTORY CHANNEL" group-title="Cable USA - 2 Test",HISTORY CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58730
-#EXTINF:-1 tvg-chno="445" tvg-name="USA: HLN" group-title="Cable USA - 2 Test",HLN
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58663
-#EXTINF:-1 tvg-chno="446" tvg-id="HSN  - Home Shopping Network-US" tvg-name="USA: HSN" group-title="Cable USA - 2 Test",HSN
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58662
-#EXTINF:-1 tvg-chno="447" tvg-name="USA: IFC" group-title="Cable USA - 2 Test",IFC
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58661
-#EXTINF:-1 tvg-chno="448" tvg-name="USA: INFOWARS" group-title="Cable USA - 2 Test",INFOWARS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58660
-#EXTINF:-1 tvg-chno="449" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="USA: INVESTIGATION DISCOVERY HD" group-title="Cable USA - 2 Test",INVESTIGATION DISCOVERY HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58729
-#EXTINF:-1 tvg-chno="450" tvg-name="USA: ION TV" group-title="Cable USA - 2 Test",ION TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58659
-#EXTINF:-1 tvg-chno="451" tvg-name="USA: LAFF TV" group-title="Cable USA - 2 Test",LAFF TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58658
-#EXTINF:-1 tvg-chno="452" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-name="USA: LIFETIME" group-title="Cable USA - 2 Test",LIFETIME
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58657
-#EXTINF:-1 tvg-chno="453" tvg-id="Lifetime Movies - East-US" tvg-name="USA: LIFETIME MOVIES" group-title="Cable USA - 2 Test",LIFETIME MOVIES
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58656
-#EXTINF:-1 tvg-chno="454" tvg-name="USA: LONGHORN NETWORK" group-title="Cable USA - 2 Test",LONGHORN NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58794
-#EXTINF:-1 tvg-chno="455" tvg-name="USA: MAV TV" group-title="Cable USA - 2 Test",MAV TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58655
-#EXTINF:-1 tvg-chno="456" tvg-name="USA: ME TV" group-title="Cable USA - 2 Test",ME TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58654
-#EXTINF:-1 tvg-chno="457" tvg-id="MLB Network-US" tvg-name="USA: MLB NETWORK" group-title="Cable USA - 2 Test",MLB NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58793
-#EXTINF:-1 tvg-chno="458" tvg-name="USA: MOTOR TREND" group-title="Cable USA - 2 Test",MOTOR TREND
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58792
-#EXTINF:-1 tvg-chno="459" tvg-id="Madison Square Garden HD (MSGHD)-US" tvg-name="USA: MSG" group-title="Cable USA - 2 Test",MSG
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58791
-#EXTINF:-1 tvg-chno="460" tvg-name="USA: MSG +" group-title="Cable USA - 2 Test",MSG +
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58790
-#EXTINF:-1 tvg-chno="461" tvg-id="MSNBC USA-US" tvg-name="USA: MSNBC" group-title="Cable USA - 2 Test",MSNBC
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58653
-#EXTINF:-1 tvg-chno="462" tvg-name="USA: MTV 2" group-title="Cable USA - 2 Test",MTV 2
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58757
-#EXTINF:-1 tvg-chno="463" tvg-id="MTV USA - Eastern Feed-US" tvg-name="USA: MTV HD" group-title="Cable USA - 2 Test",MTV HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58759
-#EXTINF:-1 tvg-chno="464" tvg-name="USA: MTV LIVE" group-title="Cable USA - 2 Test",MTV LIVE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58758
-#EXTINF:-1 tvg-chno="465" tvg-name="USA: MY 9" group-title="Cable USA - 2 Test",MY 9
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58652
-#EXTINF:-1 tvg-chno="466" tvg-name="USA: NAT GEO USA" group-title="Cable USA - 2 Test",NAT GEO USA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58728
-#EXTINF:-1 tvg-chno="467" tvg-name="USA: NAT GEO WILD HD US" group-title="Cable USA - 2 Test",NAT GEO WILD HD US
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58727
-#EXTINF:-1 tvg-chno="468" tvg-id="NBA TV USA-US" tvg-name="USA: NBA TV HD" group-title="Cable USA - 2 Test",NBA TV HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58789
-#EXTINF:-1 tvg-chno="469" tvg-name="USA: NBC 10 EAST" group-title="Cable USA - 2 Test",NBC 10 EAST
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58788
-#EXTINF:-1 tvg-chno="470" tvg-name="USA: NBC 4 NY" group-title="Cable USA - 2 Test",NBC 4 NY
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58651
-#EXTINF:-1 tvg-chno="471" tvg-name="USA: NBC 5" group-title="Cable USA - 2 Test",NBC 5
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58650
-#EXTINF:-1 tvg-chno="472" tvg-name="USA: NBC GOLF" group-title="Cable USA - 2 Test",NBC GOLF
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58787
-#EXTINF:-1 tvg-chno="473" tvg-id="NBC Sports Bay Area-US" tvg-name="USA: NBC SPORTS BAY AREA HD" group-title="Cable USA - 2 Test",NBC SPORTS BAY AREA HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58786
-#EXTINF:-1 tvg-chno="474" tvg-name="USA: NBC SPORTS BOSTON HD" group-title="Cable USA - 2 Test",NBC SPORTS BOSTON HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58785
-#EXTINF:-1 tvg-chno="475" tvg-id="NBC Sports California-US" tvg-name="USA: NBC SPORTS CALIFORNIA HD" group-title="Cable USA - 2 Test",NBC SPORTS CALIFORNIA HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58784
-#EXTINF:-1 tvg-chno="476" tvg-name="USA: NBC SPORTS CHICAGO HD" group-title="Cable USA - 2 Test",NBC SPORTS CHICAGO HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58783
-#EXTINF:-1 tvg-chno="477" tvg-id="NBC Sports Network Northwest-US" tvg-name="USA: NBC SPORTS NETWORK" group-title="Cable USA - 2 Test",NBC SPORTS NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58782
-#EXTINF:-1 tvg-chno="478" tvg-name="USA: NBC SPORTS NORTHWEST HD" group-title="Cable USA - 2 Test",NBC SPORTS NORTHWEST HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58781
-#EXTINF:-1 tvg-chno="479" tvg-name="USA: NBC SPORTS PHILADELPHIA HD" group-title="Cable USA - 2 Test",NBC SPORTS PHILADELPHIA HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58780
-#EXTINF:-1 tvg-chno="480" tvg-name="USA: NBC UNIVERSO" group-title="Cable USA - 2 Test",NBC UNIVERSO
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58649
-#EXTINF:-1 tvg-chno="481" tvg-name="USA: NESN" group-title="Cable USA - 2 Test",NESN
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58779
-#EXTINF:-1 tvg-chno="482" tvg-name="USA: NEWS 12 LONG ISLAND" group-title="Cable USA - 2 Test",NEWS 12 LONG ISLAND
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58748
-#EXTINF:-1 tvg-chno="483" tvg-name="USA: NEWS 12 NEW JERSEY" group-title="Cable USA - 2 Test",NEWS 12 NEW JERSEY
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58747
-#EXTINF:-1 tvg-chno="484" tvg-id="NFL Network-US" tvg-name="USA: NFL NETWORK" group-title="Cable USA - 2 Test",NFL NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58778
-#EXTINF:-1 tvg-chno="485" tvg-id="NFL Red Zone-US" tvg-name="USA: NFL RED ZONE" group-title="Cable USA - 2 Test",NFL RED ZONE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58777
-#EXTINF:-1 tvg-chno="486" tvg-id="NHL Network USA-US" tvg-name="USA: NHL NETWORK" group-title="Cable USA - 2 Test",NHL NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58776
-#EXTINF:-1 tvg-chno="487" tvg-id="Nick Jr. - East-US" tvg-name="USA: NICK HD" group-title="Cable USA - 2 Test",NICK HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58715
-#EXTINF:-1 tvg-chno="488" tvg-id="Nick Jr. - East-US" tvg-name="USA: NICK JR" group-title="Cable USA - 2 Test",NICK JR
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58714
-#EXTINF:-1 tvg-chno="489" tvg-name="USA: NICK JR. TOO" group-title="Cable USA - 2 Test",NICK JR. TOO
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58713
-#EXTINF:-1 tvg-chno="490" tvg-name="USA: NICKTOONS" group-title="Cable USA - 2 Test",NICKTOONS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58712
-#EXTINF:-1 tvg-chno="491" tvg-name="USA: ONE AMERICA NEWS" group-title="Cable USA - 2 Test",ONE AMERICA NEWS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58746
-#EXTINF:-1 tvg-chno="492" tvg-id="Outdoor Channel US-US" tvg-name="USA: OUTDOOR CHANNEL" group-title="Cable USA - 2 Test",OUTDOOR CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58740
-#EXTINF:-1 tvg-chno="493" tvg-name="USA: OUTSIDE TV" group-title="Cable USA - 2 Test",OUTSIDE TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58739
-#EXTINF:-1 tvg-chno="494" tvg-name="USA: OVATION" group-title="Cable USA - 2 Test",OVATION
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58648
-#EXTINF:-1 tvg-chno="495" tvg-name="USA: OWN NETWORK HD" group-title="Cable USA - 2 Test",OWN NETWORK HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58647
-#EXTINF:-1 tvg-chno="496" tvg-name="USA: OXYGEN" group-title="Cable USA - 2 Test",OXYGEN
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58646
-#EXTINF:-1 tvg-chno="497" tvg-name="USA: PAC 12 LOS ANGELES" group-title="Cable USA - 2 Test",PAC 12 LOS ANGELES
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58775
-#EXTINF:-1 tvg-chno="498" tvg-name="USA: PAC 12 NETWORK" group-title="Cable USA - 2 Test",PAC 12 NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58774
-#EXTINF:-1 tvg-chno="499" tvg-name="USA: PAC-12 ARIZONA" group-title="Cable USA - 2 Test",PAC-12 ARIZONA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58773
-#EXTINF:-1 tvg-chno="500" tvg-name="USA: PAC-12 BAY AREA" group-title="Cable USA - 2 Test",PAC-12 BAY AREA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58772
-#EXTINF:-1 tvg-chno="501" tvg-name="USA: PAC-12 MOUNTAIN" group-title="Cable USA - 2 Test",PAC-12 MOUNTAIN
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58771
-#EXTINF:-1 tvg-chno="502" tvg-name="USA: PAC-12 OREGON" group-title="Cable USA - 2 Test",PAC-12 OREGON
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58770
-#EXTINF:-1 tvg-chno="503" tvg-name="USA: PBS" group-title="Cable USA - 2 Test",PBS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58721
-#EXTINF:-1 tvg-chno="504" tvg-name="USA: PBS KIDS EAST" group-title="Cable USA - 2 Test",PBS KIDS EAST
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58720
-#EXTINF:-1 tvg-chno="505" tvg-name="USA: PBS WLIW 21" group-title="Cable USA - 2 Test",PBS WLIW 21
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58719
-#EXTINF:-1 tvg-chno="506" tvg-id="POP - East-US" tvg-name="USA: POP" group-title="Cable USA - 2 Test",POP
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58645
-#EXTINF:-1 tvg-chno="507" tvg-name="USA: PURSUIT CHANNEL" group-title="Cable USA - 2 Test",PURSUIT CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58644
-#EXTINF:-1 tvg-chno="508" tvg-name="USA: QVC" group-title="Cable USA - 2 Test",QVC
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58643
-#EXTINF:-1 tvg-chno="509" tvg-name="USA: RED BULL TV" group-title="Cable USA - 2 Test",RED BULL TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58642
-#EXTINF:-1 tvg-chno="510" tvg-id="ReelzChannel-US" tvg-name="USA: REELZ" group-title="Cable USA - 2 Test",REELZ
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58641
-#EXTINF:-1 tvg-chno="511" tvg-id="Revolt HD-US" tvg-name="USA: REVOLT" group-title="Cable USA - 2 Test",REVOLT
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58640
-#EXTINF:-1 tvg-chno="512" tvg-name="USA: RT NEWS" group-title="Cable USA - 2 Test",RT NEWS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58745
-#EXTINF:-1 tvg-chno="513" tvg-id="SEC Network-US" tvg-name="USA: SEC NETWORK" group-title="Cable USA - 2 Test",SEC NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58769
-#EXTINF:-1 tvg-chno="514" tvg-name="USA: SHOWTIME 2" group-title="Cable USA - 2 Test",SHOWTIME 2
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58639
-#EXTINF:-1 tvg-chno="515" tvg-id="Showtime Extreme - Eastern-US" tvg-name="USA: SHOWTIME EXTREME" group-title="Cable USA - 2 Test",SHOWTIME EXTREME
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58638
-#EXTINF:-1 tvg-chno="516" tvg-id="Showtime Extreme - Eastern-US" tvg-name="USA: SHOWTIME HD" group-title="Cable USA - 2 Test",SHOWTIME HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58637
-#EXTINF:-1 tvg-chno="517" tvg-id="Showtime Showcase - Eastern-US" tvg-name="USA: SHOWTIME SHOWCASE" group-title="Cable USA - 2 Test",SHOWTIME SHOWCASE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58636
-#EXTINF:-1 tvg-chno="518" tvg-name="USA: SMITHSONIAN CHANNEL" group-title="Cable USA - 2 Test",SMITHSONIAN CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58635
-#EXTINF:-1 tvg-chno="519" tvg-name="USA: SPIKE/PARAMOUNT" group-title="Cable USA - 2 Test",SPIKE/PARAMOUNT
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58634
-#EXTINF:-1 tvg-chno="520" tvg-id="Sportsman Channel-US" tvg-name="USA: SPORTSMAN CHANNEL" group-title="Cable USA - 2 Test",SPORTSMAN CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58768
-#EXTINF:-1 tvg-chno="521" tvg-name="USA: SPORTSNET LA" group-title="Cable USA - 2 Test",SPORTSNET LA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58767
-#EXTINF:-1 tvg-chno="522" tvg-name="USA: SPORTSNET NY" group-title="Cable USA - 2 Test",SPORTSNET NY
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58766
-#EXTINF:-1 tvg-chno="523" tvg-id="US-Starz - Pacific" tvg-name="US-Starz - Pacific" group-title="Cable USA - 2 Test",STARZ
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58598
-#EXTINF:-1 tvg-chno="524" tvg-id="Starz Comedy - Eastern-US" tvg-name="Starz Comedy - Eastern-US" group-title="Cable USA - 2 Test",STARZ COMEDY
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58603
-#EXTINF:-1 tvg-chno="525" tvg-id="Starz Edge - Eastern-US" tvg-name="Starz Edge - Eastern-US" group-title="Cable USA - 2 Test",STARZ EDGE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58602
-#EXTINF:-1 tvg-chno="526" tvg-id="Starz Encore - Eastern-US" tvg-name="Starz Encore - Eastern-US" group-title="Cable USA - 2 Test",STARZ ENCORE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58601
-#EXTINF:-1 tvg-chno="527" tvg-id="Starz Encore Westerns - Eastern-US" tvg-name="Starz Encore Westerns - Eastern-US" group-title="Cable USA - 2 Test",STARZ ENCORE WESTERNS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58600
-#EXTINF:-1 tvg-chno="528" tvg-id="Starz Encore Black - Eastern-US" tvg-name="Starz Encore Black - Eastern-US" group-title="Cable USA - 2 Test",STARZ IN BLACK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58599
-#EXTINF:-1 tvg-chno="529" tvg-name="USA: STARZ KIDS & FAMILY" group-title="Cable USA - 2 Test",STARZ KIDS & FAMILY
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58711
-#EXTINF:-1 tvg-chno="530" tvg-id="SundanceTV USA - East-US" tvg-name="USA: SUNDANCE" group-title="Cable USA - 2 Test",SUNDANCE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58633
-#EXTINF:-1 tvg-chno="531" tvg-id="Syfy - Eastern Feed-US" tvg-name="USA: SYFY" group-title="Cable USA - 2 Test",SYFY
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58632
-#EXTINF:-1 tvg-chno="532" tvg-name="USA: TBN TRINITY BROADCASTING NETWORK" group-title="Cable USA - 2 Test",TBN TRINITY BROADCASTING NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58631
-#EXTINF:-1 tvg-chno="533" tvg-id="TBS - East-US" tvg-name="USA: TBS" group-title="Cable USA - 2 Test",TBS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58630
-#EXTINF:-1 tvg-chno="534" tvg-name="USA: TCM" group-title="Cable USA - 2 Test",TCM
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58629
-#EXTINF:-1 tvg-chno="535" tvg-name="USA: TEEN NICK" group-title="Cable USA - 2 Test",TEEN NICK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58710
-#EXTINF:-1 tvg-chno="536" tvg-name="USA: TELEMUNDO" group-title="Cable USA - 2 Test",TELEMUNDO
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58628
-#EXTINF:-1 tvg-chno="537" tvg-id="The Tennis Channel-US" tvg-name="USA: TENNIS HD" group-title="Cable USA - 2 Test",TENNIS HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58765
-#EXTINF:-1 tvg-chno="538" tvg-name="USA: THE CW HD CHICAGO" group-title="Cable USA - 2 Test",THE CW HD CHICAGO
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58626
-#EXTINF:-1 tvg-chno="539" tvg-name="USA: THE CW PIX 11" group-title="Cable USA - 2 Test",THE CW PIX 11
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58627
-#EXTINF:-1 tvg-chno="540" tvg-id="The Weather Channel-US" tvg-name="USA: THE WEATHER CHANNEL HD" group-title="Cable USA - 2 Test",THE WEATHER CHANNEL HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58752
-#EXTINF:-1 tvg-chno="541" tvg-name="USA: TLC CHANNEL" group-title="Cable USA - 2 Test",TLC CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58625
-#EXTINF:-1 tvg-chno="542" tvg-id="TNT - Eastern Feed-US" tvg-name="USA: TNT" group-title="Cable USA - 2 Test",TNT
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58624
-#EXTINF:-1 tvg-chno="543" tvg-name="USA: TRAVEL CHANNEL" group-title="Cable USA - 2 Test",TRAVEL CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58737
-#EXTINF:-1 tvg-chno="544" tvg-name="USA: TRU TV" group-title="Cable USA - 2 Test",TRU TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58623
-#EXTINF:-1 tvg-chno="545" tvg-id="TV Land - Eastern-US" tvg-name="USA: TV LAND HD" group-title="Cable USA - 2 Test",TV LAND HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58622
-#EXTINF:-1 tvg-chno="546" tvg-name="USA: TVG HORSE RACING" group-title="Cable USA - 2 Test",TVG HORSE RACING
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58764
-#EXTINF:-1 tvg-chno="547" tvg-name="USA: TVONE" group-title="Cable USA - 2 Test",TVONE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58621
-#EXTINF:-1 tvg-chno="548" tvg-name="USA: UFC 24/7" group-title="Cable USA - 2 Test",UFC 24/7
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58763
-#EXTINF:-1 tvg-chno="549" tvg-name="USA: UNIMAS" group-title="Cable USA - 2 Test",UNIMAS
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58620
-#EXTINF:-1 tvg-chno="550" tvg-id="Universal Kids-US" tvg-name="USA: UNIVERSAL HD" group-title="Cable USA - 2 Test",UNIVERSAL HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58619
-#EXTINF:-1 tvg-chno="551" tvg-id="Universal Kids-US" tvg-name="USA: UNIVERSAL KIDS HD" group-title="Cable USA - 2 Test",UNIVERSAL KIDS HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58709
-#EXTINF:-1 tvg-chno="552" tvg-id="Univision - Eastern Feed-US" tvg-name="USA: UNIVISION" group-title="Cable USA - 2 Test",UNIVISION
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58618
-#EXTINF:-1 tvg-chno="553" tvg-name="USA: UNIVISION TDN" group-title="Cable USA - 2 Test",UNIVISION TDN
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58617
-#EXTINF:-1 tvg-chno="554" tvg-id="USA Network - East Feed-US" tvg-name="USA: USA NETWORK" group-title="Cable USA - 2 Test",USA NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58616
-#EXTINF:-1 tvg-chno="555" tvg-id="VH1 - Eastern Feed-US" tvg-name="USA: VH1 HD" group-title="Cable USA - 2 Test",VH1 HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58760
-#EXTINF:-1 tvg-chno="556" tvg-name="USA: VICELAND" group-title="Cable USA - 2 Test",VICELAND
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58615
-#EXTINF:-1 tvg-chno="557" tvg-name="USA: WE TV" group-title="Cable USA - 2 Test",WE TV
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58614
-#EXTINF:-1 tvg-chno="558" tvg-id="WGN America - Eastern Feed-US" tvg-name="USA: WGN AMERICA" group-title="Cable USA - 2 Test",WGN AMERICA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58613
-#EXTINF:-1 tvg-chno="559" tvg-name="USA: WORLD FISHING NETWORK" group-title="Cable USA - 2 Test",WORLD FISHING NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58738
-#EXTINF:-1 tvg-chno="560" tvg-name="USA: WWE" group-title="Cable USA - 2 Test",WWE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58762
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fb3iZnm.png" group-title="CANADA",Assemblee Nationale du Quebec
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/1200px-CBC_News_Logo.svg.png" group-title="CANADA",CBC News
@@ -11391,8 +11391,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3
 https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qg0QrUp.png" group-title="TECHNOLOGY",TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-name="bestkids" group-title="test",bestkids
-mms://tubtubsbestkids.networkwebcast.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="TRAVEL",30A TV
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="TRAVEL",Atlanta Channel
