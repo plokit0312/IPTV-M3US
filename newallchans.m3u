@@ -2741,168 +2741,170 @@ http://nvkdn.redi-vo.com/iptv/ch327?code=138137164006399&key=40590
 http://nvkdn.redi-vo.com/iptv/ch328?code=138137164006399&key=64740
 #EXTINF:0 tvg-chno="10" tvg-logo="http://logo.ddnb.tn/logochanel/329.png" group-title="--- US Box Office ----",US Box Office 10
 http://nvkdn.redi-vo.com/iptv/ch329?code=138137164006399&key=33896
-#EXTINF:-1 tvg-chno="1" tvg-id="friends247" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" group-title="24 Hours A Day Streams",24/7 Friends
+#EXTINF:-1 tvg-chno="1" tvg-id="friends247" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" group-title="24-7 Streams",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24 Hours A Day Streams",24/7 Kuroko's Basketball
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24-7 Streams",24/7 Kuroko's Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24 Hours A Day Streams",24/7 Marvel Movies
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24-7 Streams",24/7 Marvel Movies
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" group-title="24 Hours A Day Streams",24/7 Reality TV 2
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" group-title="24-7 Streams",24/7 Reality TV 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24 Hours A Day Streams",24/7 Resident Evil Movies
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24-7 Streams",24/7 Resident Evil Movies
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="24 Hours A Day Streams",24/7 Retro TV 
+#EXTINF:-1 tvg-chno="6" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="24-7 Streams",24/7 Retro TV 
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/FIO7zhZ.png" group-title="24 Hours A Day Streams",24/7 Sci-Fi Movies
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/FIO7zhZ.png" group-title="24-7 Streams",24/7 Sci-Fi Movies
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://i.imgur.com/t0zs0ST.png" group-title="24 Hours A Day Streams",24/7 The Big Bang Theory
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://i.imgur.com/t0zs0ST.png" group-title="24-7 Streams",24/7 The Big Bang Theory
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="24 Hours A Day Streams",After School Cartoons
+#EXTINF:-1 tvg-chno="9" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="24-7 Streams",After School Cartoons
 http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="10" tvg-name="American Dad Full Episodes 24/7 - American Dad Live Stream HD #201" tvg-logo="https://i.ytimg.com/vi/5t71YUiSIfU/maxresdefault.jpg" group-title="24 Hours A Day Streams",American Dad Full Episodes 24/7 - American Dad Live Stream HD #201
+#EXTINF:-1 tvg-chno="10" tvg-name="American Dad Full Episodes 24/7 - American Dad Live Stream HD #201" tvg-logo="https://i.ytimg.com/vi/5t71YUiSIfU/maxresdefault.jpg" group-title="24-7 Streams",American Dad Full Episodes 24/7 - American Dad Live Stream HD #201
 https://apps.erdesigns.eu/youtube/5t71YUiSIfU
-#EXTINF:-1 tvg-chno="11" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b7d3249444e05d09cc49/featuredImage.jpg" group-title="24 Hours A Day Streams",Anime All Ages
+#EXTINF:-1 tvg-chno="11" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b7d3249444e05d09cc49/featuredImage.jpg" group-title="24-7 Streams",Anime All Ages
 http://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="12" tvg-name="Best of Bean | Live Stream | Mr Bean Official" tvg-logo="https://i.ytimg.com/vi/eQHKhg4dBlA/maxresdefault.jpg" group-title="24 Hours A Day Streams",Best of Bean
+#EXTINF:-1 tvg-chno="12" tvg-name="Best of Bean | Live Stream | Mr Bean Official" tvg-logo="https://i.ytimg.com/vi/eQHKhg4dBlA/maxresdefault.jpg" group-title="24-7 Streams",Best of Bean
 https://apps.erdesigns.eu/youtube/eQHKhg4dBlA
-#EXTINF:-1 tvg-chno="13" tvg-name="Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7" tvg-logo="https://i.ytimg.com/vi/Jobv7js-DTw/maxresdefault.jpg" group-title="24 Hours A Day Streams",Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7
+#EXTINF:-1 tvg-chno="13" tvg-name="Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7" tvg-logo="https://i.ytimg.com/vi/Jobv7js-DTw/maxresdefault.jpg" group-title="24-7 Streams",Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7
 https://apps.erdesigns.eu/youtube/Jobv7js-DTw
-#EXTINF:-1 tvg-chno="14" tvg-name="Booba - All episodes - Funny cartoons for kids - Booba ToonsTV" tvg-logo="https://i.ytimg.com/vi/uNAuMO54yvY/maxresdefault.jpg" group-title="24 Hours A Day Streams",Booba - All episodes - Funny cartoons for kids - Booba ToonsTV
+#EXTINF:-1 tvg-chno="14" tvg-name="Booba - All episodes - Funny cartoons for kids - Booba ToonsTV" tvg-logo="https://i.ytimg.com/vi/uNAuMO54yvY/maxresdefault.jpg" group-title="24-7 Streams",Booba - All episodes - Funny cartoons for kids - Booba ToonsTV
 https://apps.erdesigns.eu/youtube/uNAuMO54yvY
-#EXTINF:-1 tvg-chno="15" tvg-name="Cartoon Marathon | Bananas in Pyjamas Official" tvg-logo="https://i.ytimg.com/vi/OBfKgENfF1w/maxresdefault.jpg" group-title="24 Hours A Day Streams",Cartoon Marathon | Bananas in Pyjamas Official
+#EXTINF:-1 tvg-chno="15" tvg-name="Cartoon Marathon | Bananas in Pyjamas Official" tvg-logo="https://i.ytimg.com/vi/OBfKgENfF1w/maxresdefault.jpg" group-title="24-7 Streams",Cartoon Marathon | Bananas in Pyjamas Official
 https://apps.erdesigns.eu/youtube/OBfKgENfF1w
-#EXTINF:-1 tvg-chno="16" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/599375885ceaac3cabccbed7/featuredImage.jpg" group-title="24 Hours A Day Streams",Cats 24/7
+#EXTINF:-1 tvg-chno="16" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/599375885ceaac3cabccbed7/featuredImage.jpg" group-title="24-7 Streams",Cats 24/7
 http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="17" tvg-name="Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou" tvg-logo="https://i.ytimg.com/vi/4bvh4npvgyA/maxresdefault.jpg" group-title="24 Hours A Day Streams",Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou
+#EXTINF:-1 tvg-chno="17" tvg-name="Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou" tvg-logo="https://i.ytimg.com/vi/4bvh4npvgyA/maxresdefault.jpg" group-title="24-7 Streams",Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou
 https://apps.erdesigns.eu/youtube/4bvh4npvgyA
-#EXTINF:-1 tvg-chno="18" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d14fb6c84dd37df3b4290c5/featuredImage.jpg" group-title="24 Hours A Day Streams",Dora TV
+#EXTINF:-1 tvg-chno="18" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d14fb6c84dd37df3b4290c5/featuredImage.jpg" group-title="24-7 Streams",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/997452/playlist.m3u8?terminate=false&deviceId=c83eedcd-f4e4-4653-b455-f8cd60d4d52f&deviceVersion=79.0.3945.130&appVersion=5.0.1-308be7403c61c8b9a22474dfd29d14e05c5bb65b&deviceType=web&deviceMake=Chrome&sid=49b99cce-cc22-4fbf-8568-844c6e05f1bb&advertisingId=&deviceLat=41.2969&deviceLon=-95.9674&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="19" tvg-name="LIVE LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL" tvg-logo="https://i.ytimg.com/vi/ZY5oov1_jbo/maxresdefault.jpg" group-title="24 Hours A Day Streams",LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL
+#EXTINF:-1 tvg-chno="19" tvg-name="LIVE LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL" tvg-logo="https://i.ytimg.com/vi/ZY5oov1_jbo/maxresdefault.jpg" group-title="24-7 Streams",LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL
 https://apps.erdesigns.eu/youtube/ZY5oov1_jbo
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="24 Hours A Day Streams",Law & Crime
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="24-7 Streams",Law & Crime
 https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="24 Hours A Day Streams",Law & Crime 2
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="24-7 Streams",Law & Crime 2
 https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="24 Hours A Day Streams",Law & Crime 3
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="24-7 Streams",Law & Crime 3
 https://live-lawandcrime.simplestreamcdn.com/landc_d3/live.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="24 Hours A Day Streams",Law & Crime 4
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="24-7 Streams",Law & Crime 4
 https://live-lawandcrime.simplestreamcdn.com/landc_d4/live.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-name="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="24 Hours A Day Streams",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
+#EXTINF:-1 tvg-chno="24" tvg-name="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="24-7 Streams",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
 https://apps.erdesigns.eu/youtube/933-mhry0Bc
-#EXTINF:-1 tvg-chno="25" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/20daeac7-6437-270c-68a6-4c00b17e3474-manup_hero.jpg" group-title="24 Hours A Day Streams",Man Up
+#EXTINF:-1 tvg-chno="25" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/20daeac7-6437-270c-68a6-4c00b17e3474-manup_hero.jpg" group-title="24-7 Streams",Man Up
 http://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="26" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c393cad2de254456f7ef8c2/featuredImage.jpg" group-title="24 Hours A Day Streams",Man Up: Outdoors
+#EXTINF:-1 tvg-chno="26" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c393cad2de254456f7ef8c2/featuredImage.jpg" group-title="24-7 Streams",Man Up: Outdoors
 https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="27" tvg-name="Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!" tvg-logo="https://i.ytimg.com/vi/L1aUhHjflk0/maxresdefault.jpg" group-title="24 Hours A Day Streams",Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!
+#EXTINF:-1 tvg-chno="27" tvg-name="Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!" tvg-logo="https://i.ytimg.com/vi/L1aUhHjflk0/maxresdefault.jpg" group-title="24-7 Streams",Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!
 https://apps.erdesigns.eu/youtube/L1aUhHjflk0
-#EXTINF:-1 tvg-chno="28" tvg-name="Full Cartoon Episodes Live | Mr Bean Cartoon World" tvg-logo="https://i.ytimg.com/vi/gXARGZF1Wp4/maxresdefault.jpg" group-title="24 Hours A Day Streams",Mr Bean Cartoon World
+#EXTINF:-1 tvg-chno="28" tvg-name="Full Cartoon Episodes Live | Mr Bean Cartoon World" tvg-logo="https://i.ytimg.com/vi/gXARGZF1Wp4/maxresdefault.jpg" group-title="24-7 Streams",Mr Bean Cartoon World
 https://apps.erdesigns.eu/youtube/gXARGZF1Wp4
-#EXTINF:-1 tvg-chno="29" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68acec16f7d78dc161fe1/featuredImage.jpg" group-title="24 Hours A Day Streams",MTV Guy Code
+#EXTINF:-1 tvg-chno="29" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68acec16f7d78dc161fe1/featuredImage.jpg" group-title="24-7 Streams",MTV Guy Code
 https://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="30" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d48685da7e9f476aa8a1888/featuredImage.jpg" group-title="24 Hours A Day Streams",MTV The Challange
+#EXTINF:-1 tvg-chno="30" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d48685da7e9f476aa8a1888/featuredImage.jpg" group-title="24-7 Streams",MTV The Challange
 https://stitcher.pluto.tv/stitch/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="31" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68b45d0bd6c2689c96537/featuredImage.jpg" group-title="24 Hours A Day Streams",MTV The Hills
+#EXTINF:-1 tvg-chno="31" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68b45d0bd6c2689c96537/featuredImage.jpg" group-title="24-7 Streams",MTV The Hills
 https://stitcher.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="32" tvg-name="PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!" tvg-logo="https://i.ytimg.com/vi/AeO6VZ5SLss/maxresdefault.jpg" group-title="24 Hours A Day Streams",PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!
+#EXTINF:-1 tvg-chno="32" tvg-name="PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!" tvg-logo="https://i.ytimg.com/vi/AeO6VZ5SLss/maxresdefault.jpg" group-title="24-7 Streams",PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!
 https://apps.erdesigns.eu/youtube/AeO6VZ5SLss
-#EXTINF:-1 tvg-chno="33" tvg-name="PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes" tvg-logo="https://i.ytimg.com/vi/HOOqENZeUEI/maxresdefault.jpg" group-title="24 Hours A Day Streams",PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes
+#EXTINF:-1 tvg-chno="33" tvg-name="PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes" tvg-logo="https://i.ytimg.com/vi/HOOqENZeUEI/maxresdefault.jpg" group-title="24-7 Streams",PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes
 https://apps.erdesigns.eu/youtube/HOOqENZeUEI
-#EXTINF:-1 tvg-chno="34" tvg-name="PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon" tvg-logo="https://i.ytimg.com/vi/XWMwQkiRrGI/maxresdefault.jpg" group-title="24 Hours A Day Streams",PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon
+#EXTINF:-1 tvg-chno="34" tvg-name="PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon" tvg-logo="https://i.ytimg.com/vi/XWMwQkiRrGI/maxresdefault.jpg" group-title="24-7 Streams",PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon
 https://apps.erdesigns.eu/youtube/XWMwQkiRrGI
-#EXTINF:-1 tvg-chno="35" tvg-name="Peppa Pig English Episodes LIVE NOW | Peppa Pig Official" tvg-logo="https://i.ytimg.com/vi/ZKCnjxti3mw/maxresdefault.jpg" group-title="24 Hours A Day Streams",Peppa Pig English Episodes LIVE NOW | Peppa Pig Official
+#EXTINF:-1 tvg-chno="35" tvg-name="Peppa Pig English Episodes LIVE NOW | Peppa Pig Official" tvg-logo="https://i.ytimg.com/vi/ZKCnjxti3mw/maxresdefault.jpg" group-title="24-7 Streams",Peppa Pig English Episodes LIVE NOW | Peppa Pig Official
 https://apps.erdesigns.eu/youtube/ZKCnjxti3mw
-#EXTINF:-1 tvg-chno="36" tvg-name="POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS" tvg-logo="https://i.ytimg.com/vi/4dblIyFKtP0/maxresdefault.jpg" group-title="24 Hours A Day Streams",POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS
+#EXTINF:-1 tvg-chno="36" tvg-name="POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS" tvg-logo="https://i.ytimg.com/vi/4dblIyFKtP0/maxresdefault.jpg" group-title="24-7 Streams",POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS
 https://apps.erdesigns.eu/youtube/4dblIyFKtP0
-#EXTINF:-1 tvg-chno="37" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2b9d8002db3c3e0b1c6d/featuredImage.jpg" group-title="24 Hours A Day Streams",Retro Toons
+#EXTINF:-1 tvg-chno="37" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2b9d8002db3c3e0b1c6d/featuredImage.jpg" group-title="24-7 Streams",Retro Toons
 https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="38" tvg-name="Talking Tom and Friends FULL EPISODES!" tvg-logo="https://i.ytimg.com/vi/PbP0_yYXcHU/maxresdefault.jpg" group-title="24 Hours A Day Streams",Talking Tom and Friends FULL EPISODES!
+#EXTINF:-1 tvg-chno="38" tvg-name="Talking Tom and Friends FULL EPISODES!" tvg-logo="https://i.ytimg.com/vi/PbP0_yYXcHU/maxresdefault.jpg" group-title="24-7 Streams",Talking Tom and Friends FULL EPISODES!
 https://apps.erdesigns.eu/youtube/PbP0_yYXcHU
-#EXTINF:-1 tvg-chno="39" tvg-name="The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7" tvg-logo="https://i.ytimg.com/vi/MDfNSxkCceI/maxresdefault.jpg" group-title="24 Hours A Day Streams",The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7
+#EXTINF:-1 tvg-chno="39" tvg-name="The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7" tvg-logo="https://i.ytimg.com/vi/MDfNSxkCceI/maxresdefault.jpg" group-title="24-7 Streams",The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7
 https://apps.erdesigns.eu/youtube/MDfNSxkCceI
-#EXTINF:-1 tvg-chno="40" tvg-name="The Fairly OddParents | Full Episodes | OFFICIAL Live Stream" tvg-logo="https://i.ytimg.com/vi/SYKNqX_pzR4/maxresdefault.jpg" group-title="24 Hours A Day Streams",The Fairly OddParents | Full Episodes | OFFICIAL Live Stream
+#EXTINF:-1 tvg-chno="40" tvg-name="The Fairly OddParents | Full Episodes | OFFICIAL Live Stream" tvg-logo="https://i.ytimg.com/vi/SYKNqX_pzR4/maxresdefault.jpg" group-title="24-7 Streams",The Fairly OddParents | Full Episodes | OFFICIAL Live Stream
 https://apps.erdesigns.eu/youtube/SYKNqX_pzR4
-#EXTINF:-1 tvg-chno="41" tvg-name="The Simpson The Princess Guide part 001" tvg-logo="https://i.ytimg.com/vi/c54VaZLzH44/maxresdefault.jpg" group-title="24 Hours A Day Streams",The Simpson The Princess Guide part 001
-https://apps.erdesigns.eu/youtube/c54VaZLzH44
-#EXTINF:-1 tvg-chno="42" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="24 Hours A Day Streams",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="42" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="24-7 Streams",Unsolved Mysteries
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="43" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="24 Hours A Day Streams",Unsolved Mysteries (Opt-2)
+#EXTINF:-1 tvg-chno="43" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="24-7 Streams",Unsolved Mysteries (Opt-2)
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="44" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="24 Hours A Day Streams",Unsolved Mysteriess (Opt-1)
+#EXTINF:-1 tvg-chno="44" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="24-7 Streams",Unsolved Mysteriess (Opt-1)
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="45" tvg-name="Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation" tvg-logo="https://i.ytimg.com/vi/yxIZbzf-D9s/maxresdefault.jpg" group-title="24 Hours A Day Streams",Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation
+#EXTINF:-1 tvg-chno="45" tvg-name="Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation" tvg-logo="https://i.ytimg.com/vi/yxIZbzf-D9s/maxresdefault.jpg" group-title="24-7 Streams",Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation
 https://apps.erdesigns.eu/youtube/yxIZbzf-D9s
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://img.jakpost.net/c/2017/01/13/2017_01_13_19434_1484287863._large.jpg" group-title="24 Hours A Day Streams 2",Andy Lau Movies
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://img.jakpost.net/c/2017/01/13/2017_01_13_19434_1484287863._large.jpg" group-title="24-7 Streams 2",Andy Lau Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="24 Hours A Day Streams 2",BestTV UHD
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="24-7 Streams 2",BestTV UHD
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="24 Hours A Day Streams 2",BesTV 4K
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="24-7 Streams 2",BesTV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d816172389c9d153be6a448/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Chris Angel Mindfreak
+#EXTINF:-1 tvg-chno="4" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d816172389c9d153be6a448/featuredImage.jpg" group-title="24-7 Streams 2",Chris Angel Mindfreak
 https://stitcher.pluto.tv/stitch/hls/channel/5d816172389c9d153be6a448/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50
-#EXTINF:-1 tvg-chno="5" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d40855b3fb0855028c99b6f/featuredImage.jpg" group-title="24 Hours A Day Streams 2",CMT Dallas Cowboys Cheerleaders
+#EXTINF:-1 tvg-chno="5" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d40855b3fb0855028c99b6f/featuredImage.jpg" group-title="24-7 Streams 2",CMT Dallas Cowboys Cheerleaders
 https://stitcher.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="6" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37d6712de254456f7ec340/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Cold Case Files
+#EXTINF:-1 tvg-chno="6" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37d6712de254456f7ec340/featuredImage.jpg" group-title="24-7 Streams 2",Cold Case Files
 https://stitcher.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="7" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce4475cd43850831ca91ce7/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Doctor Who Classic
+#EXTINF:-1 tvg-chno="7" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce4475cd43850831ca91ce7/featuredImage.jpg" group-title="24-7 Streams 2",Doctor Who Classic
 https://stitcher.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="8" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bee1a7359ee03633e780238/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Dog the Bounty Hunter
+#EXTINF:-1 tvg-chno="8" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bee1a7359ee03633e780238/featuredImage.jpg" group-title="24-7 Streams 2",Dog the Bounty Hunter
 https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="9" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cda08d99ad3b121623d6dcb/featuredImage.jpg" group-title="24 Hours A Day Streams 2",ER Stories
+#EXTINF:-1 tvg-chno="9" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cda08d99ad3b121623d6dcb/featuredImage.jpg" group-title="24-7 Streams 2",ER Stories
 https://stitcher.pluto.tv/stitch/hls/channel/5cda08d99ad3b121623d6dcb/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="10" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Forensic Files
+#EXTINF:-1 tvg-chno="10" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24-7 Streams 2",Forensic Files
 https://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="11" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Gordon Ramsays Hells Kitchen Uncensored
+#EXTINF:-1 tvg-chno="11" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" group-title="24-7 Streams 2",Gordon Ramsays Hells Kitchen Uncensored
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="12" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Hell's Kitchen
+#EXTINF:-1 tvg-chno="12" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" group-title="24-7 Streams 2",Hell's Kitchen
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="13" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca2ac3688925d78c857465f/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Hoarding: Buried Alive
+#EXTINF:-1 tvg-chno="13" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca2ac3688925d78c857465f/featuredImage.jpg" group-title="24-7 Streams 2",Hoarding: Buried Alive
 https://stitcher.pluto.tv/stitch/hls/channel/5ca2ac3688925d78c857465f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="14" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c99f5810c95814ff92512f9/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Hunter
+#EXTINF:-1 tvg-chno="14" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c99f5810c95814ff92512f9/featuredImage.jpg" group-title="24-7 Streams 2",Hunter
 https://stitcher.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://i.ytimg.com/vi/w0Ou3YLeNaE/maxresdefault.jpg" group-title="24 Hours A Day Streams 2",Iron Man Movies
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://i.ytimg.com/vi/w0Ou3YLeNaE/maxresdefault.jpg" group-title="24-7 Streams 2",Iron Man Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" group-title="24 Hours A Day Streams 2",Jackie Chan Movies
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" group-title="24-7 Streams 2",Jackie Chan Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d6603bdf11b71587184b9/featuredImage.jpg" group-title="24 Hours A Day Streams 2",LA Ink + NY Ink
+#EXTINF:-1 tvg-chno="17" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d6603bdf11b71587184b9/featuredImage.jpg" group-title="24-7 Streams 2",LA Ink + NY Ink
 https://stitcher.pluto.tv/stitch/hls/channel/5c2d6603bdf11b71587184b9/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="18" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d9ccebb60a26500097dc5a4/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Leverage
+#EXTINF:-1 tvg-chno="18" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d9ccebb60a26500097dc5a4/featuredImage.jpg" group-title="24-7 Streams 2",Leverage
 https://stitcher.pluto.tv/stitch/hls/channel/5d9ccebb60a26500097dc5a4/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="24 Hours A Day Streams 2",Mandarin Series
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="24-7 Streams 2",Mandarin Series
 http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cbf6a868a1bce4a3d52a5e9/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Midsomer Murders
+#EXTINF:-1 tvg-chno="20" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cbf6a868a1bce4a3d52a5e9/featuredImage.jpg" group-title="24-7 Streams 2",Midsomer Murders
 https://stitcher.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="21" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/59925e4c-00de-2e8d-5a1f-86b55d2cc36e-MINECRAFTV_HERO.jpg" group-title="24 Hours A Day Streams 2",MinecrafTV
+#EXTINF:-1 tvg-chno="21" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/59925e4c-00de-2e8d-5a1f-86b55d2cc36e-MINECRAFTV_HERO.jpg" group-title="24-7 Streams 2",MinecrafTV
 http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://miro.medium.com/max/3840/1*jfR0trcAPT3udktrFkOebA.jpeg" group-title="24 Hours A Day Streams 2",Science Fiction Movie
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://miro.medium.com/max/3840/1*jfR0trcAPT3udktrFkOebA.jpeg" group-title="24-7 Streams 2",Science Fiction Movie
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://www.tentaran.com/wp-content/uploads/2018/07/friends-tv-serial.jpg" group-title="24 Hours A Day Streams 2",Serial Friends
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://www.tentaran.com/wp-content/uploads/2018/07/friends-tv-serial.jpg" group-title="24-7 Streams 2",Serial Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://i.ytimg.com/vi/iI26jtLfGpc/maxresdefault.jpg" group-title="24 Hours A Day Streams 2",Stephen Chow Movies
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://i.ytimg.com/vi/iI26jtLfGpc/maxresdefault.jpg" group-title="24-7 Streams 2",Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6eec031846c82e15e01a9a/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Survivorman
+#EXTINF:-1 tvg-chno="25" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6eec031846c82e15e01a9a/featuredImage.jpg" group-title="24-7 Streams 2",Survivorman
 https://stitcher.pluto.tv/stitch/hls/channel/5c6eec031846c82e15e01a9a/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://i.ytimg.com/vi/G2oxuE2WBpE/maxresdefault.jpg" group-title="24 Hours A Day Streams 2",Taxi Driver Movies
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://i.ytimg.com/vi/G2oxuE2WBpE/maxresdefault.jpg" group-title="24-7 Streams 2",Taxi Driver Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d81607ab737153ea3c1c80e/featuredImage.jpg" group-title="24 Hours A Day Streams 2",The Adams Family
+#EXTINF:-1 tvg-chno="27" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d81607ab737153ea3c1c80e/featuredImage.jpg" group-title="24-7 Streams 2",The Adams Family
 https://stitcher.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="28" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/featuredImage.jpg" group-title="24 Hours A Day Streams 2",The New Detectives
+#EXTINF:-1 tvg-chno="28" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/featuredImage.jpg" group-title="24-7 Streams 2",The New Detectives
 https://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="29" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d51e791b7dba3b2ae990ab2/featuredImage.jpg" group-title="24 Hours A Day Streams 2",This Old House
+#EXTINF:-1 tvg-chno="29" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d51e791b7dba3b2ae990ab2/featuredImage.jpg" group-title="24-7 Streams 2",This Old House
 https://stitcher.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="30" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d0c16d686454ead733d08f8/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Totally Turtles
+#EXTINF:-1 tvg-chno="30" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d0c16d686454ead733d08f8/featuredImage.jpg" group-title="24-7 Streams 2",Totally Turtles
 https://stitcher.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="31" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d51e2bceca5b4b2c0e06c50/featuredImage.jpg" group-title="24 Hours A Day Streams 2",VH1 Black Ink Crew
+#EXTINF:-1 tvg-chno="31" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d51e2bceca5b4b2c0e06c50/featuredImage.jpg" group-title="24-7 Streams 2",VH1 Black Ink Crew
 https://stitcher.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="32" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d51ddf0369acdb278dfb05e/featuredImage.jpg" group-title="24 Hours A Day Streams 2",VH1 Love And Hip Hop
+#EXTINF:-1 tvg-chno="32" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d51ddf0369acdb278dfb05e/featuredImage.jpg" group-title="24-7 Streams 2",VH1 Love And Hip Hop
 https://stitcher.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="33" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/589aa03df9ba56a84197a560/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Voyager Documentaries
+#EXTINF:-1 tvg-chno="33" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/589aa03df9ba56a84197a560/featuredImage.jpg" group-title="24-7 Streams 2",Voyager Documentaries
 https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="34" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6eeb011846c82e15e01a99/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Wahlburgers
+#EXTINF:-1 tvg-chno="34" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6eeb011846c82e15e01a99/featuredImage.jpg" group-title="24-7 Streams 2",Wahlburgers
 https://stitcher.pluto.tv/stitch/hls/channel/5c6eeb011846c82e15e01a99/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="35" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ab3e1242be690697279c75d/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Wipeout
+#EXTINF:-1 tvg-chno="35" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ab3e1242be690697279c75d/featuredImage.jpg" group-title="24-7 Streams 2",Wipeout
 http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1 tvg-chno="36" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24 Hours A Day Streams 2",Yu-Gi-Oh! 5D’s
+#EXTINF:-1 tvg-chno="36" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24-7 Streams 2",Yu-Gi-Oh! 5D’s
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-name="90s cartoon central" group-title="24-7 Streams 3",90s cartoon central
+
+#EXTINF:-1 group-title="24-7 Streams 3",Seinfield
+https://stream-cdn.vaughnsoft.net/play/live_b_czar.flv?s=ujO4lnVSd1xlwaKyJkqZEQ&e=1582651824
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="24/7 ADULT SWIM",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/slawVDH.png" group-title="24/7 ADULT SWIM",Black Jesus
@@ -3845,9 +3847,9 @@ http://topiptv.net:5890/aziz/1234/47
 http://topiptv.net:5890/aziz/1234/48
 #EXTINF:-1 tvg-chno="8" tvg-name="beIN DRAMA HD1" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/DramaHD1.png" group-title="BEIN Entertainment | LIVE ",beIN DRAMA HD1
 http://topiptv.net:5890/aziz/1234/46
-#EXTINF:-1 tvg-chno="9" tvg-name="beIN FOX MOVIES HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2018/03/FOXMovies.png" group-title="BEIN Entertainment | LIVE ",beIN FOX MOVIES HD
+#EXTINF:-1 tvg-chno="9" tvg-id="EN-FOXMovies English" tvg-name="beIN FOX MOVIES HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2018/03/FOXMovies.png" group-title="BEIN Entertainment | LIVE ",beIN FOX MOVIES HD
 http://topiptv.net:5890/aziz/1234/53
-#EXTINF:-1 tvg-chno="10" tvg-name="beIN FOX MOVIES ACTION HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2018/03/FoxActionMovies.png" group-title="BEIN Entertainment | LIVE ",beIN FOX MOVIES ACTION HD
+#EXTINF:-1 tvg-chno="10" tvg-id="EN-FOXActionMovies English" tvg-name="beIN FOX MOVIES ACTION HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2018/03/FoxActionMovies.png" group-title="BEIN Entertainment | LIVE ",beIN FOX MOVIES ACTION HD
 http://topiptv.net:5890/aziz/1234/54
 #EXTINF:-1 tvg-chno="11" tvg-name="beIN JEEM KIDS" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Jeem.png" group-title="BEIN Entertainment | LIVE ",beIN JEEM KIDS
 http://topiptv.net:5890/aziz/1234/56
@@ -3857,7 +3859,7 @@ http://topiptv.net:5890/aziz/1234/57
 http://topiptv.net:5890/aziz/1234/58
 #EXTINF:-1 tvg-chno="14" tvg-name="beIN boomerang HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/BoomerangHD.png" group-title="BEIN Entertainment | LIVE ",beIN boomerang HD
 http://topiptv.net:5890/aziz/1234/59
-#EXTINF:-1 tvg-chno="15" tvg-name="beIN GOURMET HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Gourmet.png" group-title="BEIN Entertainment | LIVE ",beIN GOURMET HD
+#EXTINF:-1 tvg-chno="15" tvg-id="EN-gourmet English" tvg-name="beIN GOURMET HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Gourmet.png" group-title="BEIN Entertainment | LIVE ",beIN GOURMET HD
 http://topiptv.net:5890/aziz/1234/61
 #EXTINF:-1 tvg-chno="16" tvg-name="beIN Fatafeat HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/fatafeat.png" group-title="BEIN Entertainment | LIVE ",beIN Fatafeat HD
 http://topiptv.net:5890/aziz/1234/62
@@ -3869,9 +3871,9 @@ http://topiptv.net:5890/aziz/1234/63
 http://topiptv.net:5890/aziz/1234/55
 #EXTINF:-1 tvg-chno="1" tvg-name="---- beIN SPORTS HD ----" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Global.png" group-title="beIN SPORTS | LIVE ",---- beIN SPORTS HD ----
 http://topiptv.net:5890/aziz/1234/15
-#EXTINF:-1 tvg-chno="2" tvg-id="beIN Sports Global ARB" tvg-name="beIN SPORTS FHD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Global.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS FHD
+#EXTINF:-1 tvg-chno="2" tvg-id="PH beIN Sports 1-PH" tvg-name="beIN SPORTS FHD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Global.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS FHD
 http://topiptv.net:5890/aziz/1234/3
-#EXTINF:-1 tvg-chno="3" tvg-id="beIN Sports News ARB" tvg-name="beIN SPORTS News FHD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Logo_0022_NEWS-1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS News FHD
+#EXTINF:-1 tvg-chno="3" tvg-id="EN-News_ar English" tvg-name="beIN SPORTS News FHD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Logo_0022_NEWS-1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS News FHD
 http://topiptv.net:5890/aziz/1234/4
 #EXTINF:-1 tvg-chno="4" tvg-id="beIN Sports 1 ARB" tvg-name="beIN SPORTS 1HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1HD
 http://topiptv.net:5890/aziz/1234/16
@@ -3911,13 +3913,13 @@ http://topiptv.net:5890/aziz/1234/32
 http://topiptv.net:5890/aziz/1234/33
 #EXTINF:-1 tvg-chno="22" tvg-id="beIN Sports Global ARB" tvg-name="-- beIN SPORTS FHD --" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Global.png" group-title="beIN SPORTS | LIVE ",-- beIN SPORTS FHD --
 http://topiptv.net:5890/aziz/1234/2
-#EXTINF:-1 tvg-chno="23" tvg-id="beIN Sports 1 ARB" tvg-name="beIN SPORTS 1 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 FHD
+#EXTINF:-1 tvg-chno="23" tvg-id="PH beIN Sports 1-PH" tvg-name="beIN SPORTS 1 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 FHD
 http://topiptv.net:5890/aziz/1234/5
-#EXTINF:-1 tvg-chno="24" tvg-id="beIN Sports 2 ARB" tvg-name="beIN SPORTS 2 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2 FHD
+#EXTINF:-1 tvg-chno="24" tvg-id="PH beIN Sports 2-PH" tvg-name="beIN SPORTS 2 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2 FHD
 http://topiptv.net:5890/aziz/1234/6
-#EXTINF:-1 tvg-chno="25" tvg-id="beIN Sports 3 ARB" tvg-name="beIN SPORTS 3 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3 FHD
+#EXTINF:-1 tvg-chno="25" tvg-id="beIN Sports 3-PH" tvg-name="beIN SPORTS 3 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3 FHD
 http://topiptv.net:5890/aziz/1234/7
-#EXTINF:-1 tvg-chno="26" tvg-id="beIN Sports 4 ARB" tvg-name="beIN SPORTS 4 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_4.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 4 FHD
+#EXTINF:-1 tvg-chno="26" tvg-id="beIN SPORTS 4-TR" tvg-name="beIN SPORTS 4 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_4.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 4 FHD
 http://topiptv.net:5890/aziz/1234/8
 #EXTINF:-1 tvg-chno="27" tvg-id="beIN Sports 5 ARB" tvg-name="beIN SPORTS 5 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_5.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 5 FHD
 http://topiptv.net:5890/aziz/1234/9
@@ -3933,13 +3935,13 @@ http://topiptv.net:5890/aziz/1234/13
 http://topiptv.net:5890/aziz/1234/14
 #EXTINF:-1 tvg-chno="33" tvg-name="-- beIN SPORTS SD --" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Global.png" group-title="beIN SPORTS | LIVE ",-- beIN SPORTS SD --
 http://topiptv.net:5890/aziz/1234/34
-#EXTINF:-1 tvg-chno="34" tvg-id="beIN Sports 1 ARB" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 SD
+#EXTINF:-1 tvg-chno="34" tvg-id="PH beIN Sports 1-PH" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 SD
 http://topiptv.net:5890/aziz/1234/35
-#EXTINF:-1 tvg-chno="35" tvg-id="beIN Sports 2 ARB" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2 SD
+#EXTINF:-1 tvg-chno="35" tvg-id="PH beIN Sports 2-PH" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2 SD
 http://topiptv.net:5890/aziz/1234/36
-#EXTINF:-1 tvg-chno="36" tvg-id="beIN Sports 3 ARB" tvg-name="beIN SPORTS 3 SD" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3 SD
+#EXTINF:-1 tvg-chno="36" tvg-id="beIN Sports 3-PH" tvg-name="beIN SPORTS 3 SD" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3 SD
 http://topiptv.net:5890/aziz/1234/37
-#EXTINF:-1 tvg-chno="37" tvg-id="beIN Sports 4 ARB" tvg-name="beIN SPORTS 4 SD" tvg-logo="http://channelstream.net/images/prog/channel/bein_4.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 4 SD
+#EXTINF:-1 tvg-chno="37" tvg-id="beIN SPORTS 4-TR" tvg-name="beIN SPORTS 4 SD" tvg-logo="http://channelstream.net/images/prog/channel/bein_4.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 4 SD
 http://topiptv.net:5890/aziz/1234/38
 #EXTINF:-1 tvg-chno="38" tvg-id="beIN Sports 5 ARB" tvg-name="beIN SPORTS 5 SD" tvg-logo="http://channelstream.net/images/prog/channel/bein_5.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 5 SD
 http://topiptv.net:5890/aziz/1234/39
@@ -5265,7 +5267,7 @@ https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?fluxustv.m
 http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="ABC Spark-CA" tvg-name="CA: ABC SPARK" group-title="Cable - CANADA",CA: ABC SPARK
 http://topiptv.net:5890/aziz/1234/67110
-#EXTINF:-1 tvg-chno="2" tvg-name="CA: BBC CANADA" group-title="Cable - CANADA",CA: BBC CANADA
+#EXTINF:-1 tvg-chno="2" tvg-id="BBC World HD-CA" tvg-name="BBC World HD-CA" group-title="Cable - CANADA",CA: BBC CANADA
 http://topiptv.net:5890/aziz/1234/67112
 #EXTINF:-1 tvg-chno="3" tvg-id="CA-BNN Bloomberg" tvg-name="CA: BNN BLOOMBERG" group-title="Cable - CANADA",CA: BNN BLOOMBERG
 http://topiptv.net:5890/aziz/1234/67113
@@ -5391,7 +5393,7 @@ http://topiptv.net:5890/aziz/1234/67195
 http://topiptv.net:5890/aziz/1234/67196
 #EXTINF:-1 tvg-chno="64" tvg-id="NAT GEO HD-TH" tvg-name="CA: NAT GEO" group-title="Cable - CANADA",CA: NAT GEO
 http://topiptv.net:5890/aziz/1234/67197
-#EXTINF:-1 tvg-chno="65" tvg-id="nat geo wild-CA" tvg-name="CA: NAT GEO WILD" group-title="Cable - CANADA",CA: NAT GEO WILD
+#EXTINF:-1 tvg-chno="65" tvg-id="NAT GEO WILD-IS" tvg-name="CA: NAT GEO WILD" group-title="Cable - CANADA",CA: NAT GEO WILD
 http://topiptv.net:5890/aziz/1234/67198
 #EXTINF:-1 tvg-chno="66" tvg-id="HNTV-EXYU" tvg-name="CA: NTV" group-title="Cable - CANADA",CA: NTV
 http://topiptv.net:5890/aziz/1234/67199
@@ -5465,7 +5467,7 @@ http://topiptv.net:5890/aziz/1234/55645
 http://topiptv.net:5890/aziz/1234/55644
 #EXTINF:-1 tvg-chno="4" tvg-id="176 5STAR-UK" tvg-name="5STAR-UK" tvg-logo="http://195.154.221.171/picons/5staruk.png" group-title="Cable - UK",5Star
 http://topiptv.net:5890/aziz/1234/55646
-#EXTINF:-1 tvg-chno="5" tvg-name="5STAR-UK" tvg-logo="http://195.154.221.171/picons/5usauk.png" group-title="Cable - UK",5USA
+#EXTINF:-1 tvg-chno="5" tvg-id="176 5STAR-UK" tvg-name="5STAR-UK" tvg-logo="http://195.154.221.171/picons/5usauk.png" group-title="Cable - UK",5USA
 http://topiptv.net:5890/aziz/1234/55647
 #EXTINF:-1 tvg-chno="6" tvg-id="132 alibi-UK" tvg-name="alibi-UK" tvg-logo="http://195.154.221.171/picons/alibiuk.png" group-title="Cable - UK",Alibi
 http://topiptv.net:5890/aziz/1234/55650
@@ -6035,11 +6037,11 @@ http://topiptv.net:5890/aziz/1234/66606
 http://topiptv.net:5890/aziz/1234/66607
 #EXTINF:-1 tvg-chno="15" tvg-name="Bloomberg Europe US" group-title="Cable - USA",Bloomberg Europe US
 http://topiptv.net:5890/aziz/1234/66608
-#EXTINF:-1 tvg-chno="16" tvg-name="Bloomberg TV HD US" group-title="Cable - USA",Bloomberg TV HD US
+#EXTINF:-1 tvg-chno="16" tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV HD US" group-title="Cable - USA",Bloomberg TV HD US
 http://topiptv.net:5890/aziz/1234/66609
 #EXTINF:-1 tvg-chno="17" tvg-name="Boomerang US" group-title="Cable - USA",Boomerang US
 http://topiptv.net:5890/aziz/1234/66610
-#EXTINF:-1 tvg-chno="18" tvg-name="Bravo HD US" group-title="Cable - USA",Bravo HD US
+#EXTINF:-1 tvg-chno="18" tvg-id="Bravo USA - Eastern Feed-US" tvg-name="Bravo HD US" group-title="Cable - USA",Bravo HD US
 http://topiptv.net:5890/aziz/1234/66611
 #EXTINF:-1 tvg-chno="19" tvg-id="Bravo USA - Eastern Feed-US" tvg-name="Bravo US" group-title="Cable - USA",Bravo US
 http://topiptv.net:5890/aziz/1234/66612
@@ -6097,7 +6099,7 @@ http://topiptv.net:5890/aziz/1234/66637
 http://topiptv.net:5890/aziz/1234/66638
 #EXTINF:-1 tvg-chno="46" tvg-name="Discovery HD Showcase US" group-title="Cable - USA",Discovery HD Showcase US
 http://topiptv.net:5890/aziz/1234/66639
-#EXTINF:-1 tvg-chno="47" tvg-name="Discovery HD US" group-title="Cable - USA",Discovery HD US
+#EXTINF:-1 tvg-chno="47" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="Discovery HD US" group-title="Cable - USA",Discovery HD US
 http://topiptv.net:5890/aziz/1234/66640
 #EXTINF:-1 tvg-chno="48" tvg-name="Discovery Science HD US" group-title="Cable - USA",Discovery Science HD US
 http://topiptv.net:5890/aziz/1234/66641
@@ -6105,9 +6107,9 @@ http://topiptv.net:5890/aziz/1234/66641
 http://topiptv.net:5890/aziz/1234/66642
 #EXTINF:-1 tvg-chno="50" tvg-name="Disney Channel HD US" group-title="Cable - USA",Disney Channel HD US
 http://topiptv.net:5890/aziz/1234/66643
-#EXTINF:-1 tvg-chno="51" tvg-name="Disney XD HD US" group-title="Cable - USA",Disney XD HD US
+#EXTINF:-1 tvg-chno="51" tvg-id="Disney XD USA - Eastern Feed-US" tvg-name="Disney XD HD US" group-title="Cable - USA",Disney XD HD US
 http://topiptv.net:5890/aziz/1234/66644
-#EXTINF:-1 tvg-chno="52" tvg-name="E! Entertainment HD US" group-title="Cable - USA",E! Entertainment HD US
+#EXTINF:-1 tvg-chno="52" tvg-id="E! Entertainment USA - Eastern Feed-US" tvg-name="E! Entertainment HD US" group-title="Cable - USA",E! Entertainment HD US
 http://topiptv.net:5890/aziz/1234/66645
 #EXTINF:-1 tvg-chno="53" tvg-name="ESPN 1 HD US" group-title="Cable - USA",ESPN 1 HD US
 http://topiptv.net:5890/aziz/1234/66646
@@ -6135,7 +6137,7 @@ http://topiptv.net:5890/aziz/1234/66656
 http://topiptv.net:5890/aziz/1234/66657
 #EXTINF:-1 tvg-chno="65" tvg-name="Fine Living US" group-title="Cable - USA",Fine Living US
 http://topiptv.net:5890/aziz/1234/66658
-#EXTINF:-1 tvg-chno="66" tvg-name="Food Network HD US" group-title="Cable - USA",Food Network HD US
+#EXTINF:-1 tvg-chno="66" tvg-id="Food Network USA - Eastern Feed-US" tvg-name="Food Network HD US" group-title="Cable - USA",Food Network HD US
 http://topiptv.net:5890/aziz/1234/66659
 #EXTINF:-1 tvg-chno="67" tvg-id="Food Network USA - Eastern Feed-US" tvg-name="Food Network US" group-title="Cable - USA",Food Network US
 http://topiptv.net:5890/aziz/1234/66660
@@ -6187,7 +6189,7 @@ http://topiptv.net:5890/aziz/1234/66682
 http://topiptv.net:5890/aziz/1234/66683
 #EXTINF:-1 tvg-chno="91" tvg-name="HBO Zone US" group-title="Cable - USA",HBO Zone US
 http://topiptv.net:5890/aziz/1234/66684
-#EXTINF:-1 tvg-chno="92" tvg-name="HGTV HD US" group-title="Cable - USA",HGTV HD US
+#EXTINF:-1 tvg-chno="92" tvg-id="HGTV USA - Eastern Feed-US" tvg-name="HGTV HD US" group-title="Cable - USA",HGTV HD US
 http://topiptv.net:5890/aziz/1234/66685
 #EXTINF:-1 tvg-chno="93" tvg-id="HGTV USA - Eastern Feed-US" tvg-name="HGTV US" group-title="Cable - USA",HGTV US
 http://topiptv.net:5890/aziz/1234/66686
@@ -6203,7 +6205,7 @@ http://topiptv.net:5890/aziz/1234/66690
 http://topiptv.net:5890/aziz/1234/66691
 #EXTINF:-1 tvg-chno="99" tvg-name="IFC HD US" group-title="Cable - USA",IFC HD US
 http://topiptv.net:5890/aziz/1234/66692
-#EXTINF:-1 tvg-chno="100" tvg-name="Investigation Discovery HD US" group-title="Cable - USA",Investigation Discovery HD US
+#EXTINF:-1 tvg-chno="100" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="Investigation Discovery HD US" group-title="Cable - USA",Investigation Discovery HD US
 http://topiptv.net:5890/aziz/1234/66693
 #EXTINF:-1 tvg-chno="101" tvg-name="Lifetime HD US" group-title="Cable - USA",Lifetime HD US
 http://topiptv.net:5890/aziz/1234/66694
@@ -6213,7 +6215,7 @@ http://topiptv.net:5890/aziz/1234/66695
 http://topiptv.net:5890/aziz/1234/66696
 #EXTINF:-1 tvg-chno="104" tvg-name="MLB Network US" group-title="Cable - USA",MLB Network US
 http://topiptv.net:5890/aziz/1234/66697
-#EXTINF:-1 tvg-chno="105" tvg-name="MSNBC HD US" group-title="Cable - USA",MSNBC HD US
+#EXTINF:-1 tvg-chno="105" tvg-id="MSNBC USA-US" tvg-name="MSNBC HD US" group-title="Cable - USA",MSNBC HD US
 http://topiptv.net:5890/aziz/1234/66698
 #EXTINF:-1 tvg-chno="106" tvg-name="MTV Base HD US" group-title="Cable - USA",MTV Base HD US
 http://topiptv.net:5890/aziz/1234/66699
@@ -6255,9 +6257,9 @@ http://topiptv.net:5890/aziz/1234/66716
 http://topiptv.net:5890/aziz/1234/66717
 #EXTINF:-1 tvg-chno="125" tvg-id="National Geographic US - Eastern-US" tvg-name="National Geographic US" group-title="Cable - USA",National Geographic US
 http://topiptv.net:5890/aziz/1234/66718
-#EXTINF:-1 tvg-chno="126" tvg-name="Oprah Winfrey Network HD US" group-title="Cable - USA",Oprah Winfrey Network HD US
+#EXTINF:-1 tvg-chno="126" tvg-id="Oprah Winfrey Network USA Eastern-US" tvg-name="Oprah Winfrey Network HD US" group-title="Cable - USA",Oprah Winfrey Network HD US
 http://topiptv.net:5890/aziz/1234/66719
-#EXTINF:-1 tvg-chno="127" tvg-name="Outdoor Channel HD US" group-title="Cable - USA",Outdoor Channel HD US
+#EXTINF:-1 tvg-chno="127" tvg-id="Outdoor Channel US-US" tvg-name="Outdoor Channel HD US" group-title="Cable - USA",Outdoor Channel HD US
 http://topiptv.net:5890/aziz/1234/66720
 #EXTINF:-1 tvg-chno="128" tvg-name="PAC-12 Arizona US" group-title="Cable - USA",PAC-12 Arizona US
 http://topiptv.net:5890/aziz/1234/66721
@@ -6289,7 +6291,7 @@ http://topiptv.net:5890/aziz/1234/66733
 http://topiptv.net:5890/aziz/1234/66734
 #EXTINF:-1 tvg-chno="142" tvg-name="Smile Of A Child US" group-title="Cable - USA",Smile Of A Child US
 http://topiptv.net:5890/aziz/1234/66735
-#EXTINF:-1 tvg-chno="143" tvg-name="Paramount Network HD US" group-title="Cable - USA",Paramount Network HD US
+#EXTINF:-1 tvg-chno="143" tvg-id="Paramount Network USA - Eastern Feed-US" tvg-name="Paramount Network HD US" group-title="Cable - USA",Paramount Network HD US
 http://topiptv.net:5890/aziz/1234/66736
 #EXTINF:-1 tvg-chno="144" tvg-id="Paramount Network USA - Eastern Feed-US" tvg-name="Paramount Network US" group-title="Cable - USA",Paramount Network US
 http://topiptv.net:5890/aziz/1234/66737
@@ -6315,7 +6317,7 @@ http://topiptv.net:5890/aziz/1234/66746
 http://topiptv.net:5890/aziz/1234/66747
 #EXTINF:-1 tvg-chno="155" tvg-name="Travel Channel HD US" group-title="Cable - USA",Travel Channel HD US
 http://topiptv.net:5890/aziz/1234/66748
-#EXTINF:-1 tvg-chno="156" tvg-name="truTV HD US" group-title="Cable - USA",truTV HD US
+#EXTINF:-1 tvg-chno="156" tvg-id="truTV USA - Eastern-US" tvg-name="truTV HD US" group-title="Cable - USA",truTV HD US
 http://topiptv.net:5890/aziz/1234/66749
 #EXTINF:-1 tvg-chno="157" tvg-name="UFC Fight Pass US" group-title="Cable - USA",UFC Fight Pass US
 http://topiptv.net:5890/aziz/1234/66750
@@ -7253,13 +7255,13 @@ http://topiptv.net:5890/aziz/1234/66578
 http://topiptv.net:5890/aziz/1234/66579
 #EXTINF:-1 tvg-chno="13" tvg-name="Event SPORTS (4)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Copa_del_Rey_logo_since_2012.png/180px-Copa_del_Rey_logo_since_2012.png" group-title="Event SPORTS | LIVE",Event SPORTS (4)
 http://topiptv.net:5890/aziz/1234/66580
-#EXTINF:-1 tvg-chno="14" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Copa_del_Rey_logo_since_2012.png/180px-Copa_del_Rey_logo_since_2012.png" group-title="Event SPORTS | LIVE",beIN SPORTS MAX 1
+#EXTINF:-1 tvg-chno="14" tvg-id="beIN SPORTS MAX 1 HD-TR" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Copa_del_Rey_logo_since_2012.png/180px-Copa_del_Rey_logo_since_2012.png" group-title="Event SPORTS | LIVE",beIN SPORTS MAX 1
 http://topiptv.net:5890/aziz/1234/68455
-#EXTINF:-1 tvg-chno="15" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Copa_del_Rey_logo_since_2012.png/180px-Copa_del_Rey_logo_since_2012.png" group-title="Event SPORTS | LIVE",beIN SPORTS MAX 2
+#EXTINF:-1 tvg-chno="15" tvg-id="beIN SPORTS MAX 2 HD-TR" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Copa_del_Rey_logo_since_2012.png/180px-Copa_del_Rey_logo_since_2012.png" group-title="Event SPORTS | LIVE",beIN SPORTS MAX 2
 http://topiptv.net:5890/aziz/1234/68456
 #EXTINF:-1 tvg-chno="16" tvg-name="beIN SPORTS MAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Copa_del_Rey_logo_since_2012.png/180px-Copa_del_Rey_logo_since_2012.png" group-title="Event SPORTS | LIVE",beIN SPORTS MAX 3
 http://topiptv.net:5890/aziz/1234/68457
-#EXTINF:-1 tvg-chno="17" tvg-name="beIN SPORTS MAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Copa_del_Rey_logo_since_2012.png/180px-Copa_del_Rey_logo_since_2012.png" group-title="Event SPORTS | LIVE",beIN SPORTS MAX 4
+#EXTINF:-1 tvg-chno="17" tvg-id="beIN SPORTS MAX 4-FR" tvg-name="beIN SPORTS MAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Copa_del_Rey_logo_since_2012.png/180px-Copa_del_Rey_logo_since_2012.png" group-title="Event SPORTS | LIVE",beIN SPORTS MAX 4
 http://topiptv.net:5890/aziz/1234/68458
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHmnFAw.png" group-title="FASHION",Fashion Channel
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
@@ -7567,7 +7569,7 @@ http://topiptv.net:5890/aziz/1234/94
 http://topiptv.net:5890/aziz/1234/95
 #EXTINF:-1 tvg-chno="24" tvg-name="OSN paramount channel" tvg-logo="https://content.osn.com/logo/channel/cropped/PAR.png" group-title="OSN | LIVE ",OSN paramount channel
 http://topiptv.net:5890/aziz/1234/96
-#EXTINF:-1 tvg-chno="25" tvg-name="OSN Discovery HD" tvg-logo="http://content.osn.com/logo/channel/cropped/DSC.png" group-title="OSN | LIVE ",OSN Discovery HD
+#EXTINF:-1 tvg-chno="25" tvg-id="SA-Discovery Channel HD" tvg-name="OSN Discovery HD" tvg-logo="http://content.osn.com/logo/channel/cropped/DSC.png" group-title="OSN | LIVE ",OSN Discovery HD
 http://topiptv.net:5890/aziz/1234/97
 #EXTINF:-1 tvg-chno="26" tvg-name="OSN DISCOVERY ID HD" tvg-logo="http://content.osn.com/logo/channel/cropped/DCX.png" group-title="OSN | LIVE ",OSN DISCOVERY ID HD
 http://topiptv.net:5890/aziz/1234/98
