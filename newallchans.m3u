@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U x-tvg-url="http://epgportal.us.to/epg/IPTV_guide.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-id="friends247" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" group-title="24-7 Streams",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24-7 Streams",24/7 Kuroko's Basketball
@@ -863,85 +863,131 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
 #EXTINF:-1 tvg-chno="1" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-2)
-http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-2)
 http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-3)
+#EXTINF:-1 tvg-chno="3" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-3)
 http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-1)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-1)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-2)
-http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-2)
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-1)
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-1)
-http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-2)
 http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-4)
+https://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-5)
+http://45.92.69.76:8000/play/a03x
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-6)
+http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-7)
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV Asia (HK)
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV Europe (GB) (New!)
+http://45.92.69.76:8000/play/a05g
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-3)
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-1)
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-2)
+http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-3)
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="24/7 WORLD NEWS",CNBC Europe (GB)
+http://45.92.69.76:8000/play/a05h
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://i.imgur.com/knyzqhB.png" group-title="24/7 WORLD NEWS",CNBC World (US)
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-1)
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-2)
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-3)
+http://persik.tv/stream/1060/419250/10479.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-4)
+http://45.92.69.76:8000/play/a03v
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW (DE) (Opt-1)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW (DE) (Opt-2)
+http://43.224.120.99:8080/dwenglish.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-3)
+http://45.92.69.76:8000/play/a03z
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS",i24 News (IL)
+https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-1)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-2)
+http://45.126.83.51/uq2663/h/h23/index.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-3)
+http://45.92.69.76:8000/play/a052
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-1)
+https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/chunklist.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-2)
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-1)
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-2)
+http://ott-cdn.ucom.am/s96/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK (RU)
+https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News (UK)
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR (VE)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="24/7 WORLD NEWS",TRT World (TR)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-2)
+http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-3)
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-1)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-2)
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-1)
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-2)
 http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg Television Asia
 http://45.126.83.51/uq2663/h/h03/index.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV Asia (HK)
-http://45.126.83.51/uq2663/h/h03/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV Europe (GB) (New!)
-http://45.92.69.76:8000/play/a05g
 #EXTINF:-1 tvg-chno="53" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-1)
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-2)
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-3)
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-1)
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-1)
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-2)
 http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-2)
-http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-3)
 http://45.126.83.51/uq2663/h/h29/index.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="24/7 WORLD NEWS",CNBC Europe (GB)
-http://45.92.69.76:8000/play/a05h
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://i.imgur.com/knyzqhB.png" group-title="24/7 WORLD NEWS",CNBC World (US)
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-logo="https://i.imgur.com/knyzqhB.png" group-title="24/7 WORLD NEWS",CNBC World (US)
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-1)
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-1)
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-2)
-http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-2)
 http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-3)
-http://persik.tv/stream/1060/419250/10479.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-3)
 http://persik.tv/stream/1060/419250/10479.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-4)
-http://45.92.69.76:8000/play/a03v
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW (DE) (Opt-1)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW (DE) (Opt-1)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW (DE) (Opt-2)
-http://43.224.120.99:8080/dwenglish.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW (DE) (Opt-2)
 http://43.224.120.99:8080/dwenglish.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR) (Opt-1)
 http://45.126.83.51/qwr9ew/s/s15/index.m3u8
@@ -949,67 +995,37 @@ http://45.126.83.51/qwr9ew/s/s15/index.m3u8
 http://164.40.161.46:8002/play/s4
 #EXTINF:-1 tvg-chno="67" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-3)
-http://45.92.69.76:8000/play/a03z
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS",i24 News (IL)
-https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="24/7 WORLD NEWS",i24 News (IL)
 https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-1)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-1)
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-2)
-http://45.126.83.51/uq2663/h/h23/index.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-2)
 http://45.126.83.51/uq2663/h/h23/index.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-3)
-http://45.92.69.76:8000/play/a052
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR)
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-1)
-https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-2)
-https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-1)
-https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-1)
 https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-2)
-http://ott-cdn.ucom.am/s96/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-2)
 http://ott-cdn.ucom.am/s96/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="75" tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-3)
 http://45.126.83.51/qwr9ew/s/s23/index.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="615" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK (RU)
-https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK (RU)
 https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="616" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News (UK)
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News (UK)
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR (VE)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="24/7 WORLD NEWS",TRT World (TR)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="615" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK
+https://rt-uk.secure.footprint.net/1106.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="616" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 #EXTINF:-1 tvg-chno="82" tvg-id="617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR (VE)
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR (VE)
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-id="618" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="24/7 WORLD NEWS",TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="24/7 WORLD NEWS",TRT World (TR)
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="24/7 WORLD NEWS",TRT World (TR)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="SA-Abu Dhabi Sports" tvg-name="SA-Abu Dhabi Sports" tvg-logo="https://adsports.ae/images/logo.png" group-title="AD SPORT",Abu Dhabi Sports 1 HD AE
 http://topiptv.net:5890/aziz/1234/65
@@ -1147,27 +1163,27 @@ http://topiptv.net:5890/aziz/1234/31
 http://topiptv.net:5890/aziz/1234/32
 #EXTINF:-1 tvg-chno="21" tvg-name="beIN SPORTS NBA" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/NBA-3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS NBA
 http://topiptv.net:5890/aziz/1234/33
-#EXTINF:-1 tvg-chno="22" tvg-id="beIN Sports Global ARB" tvg-name="-- beIN SPORTS FHD --" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Global.png" group-title="beIN SPORTS | LIVE ",-- beIN SPORTS FHD --
+#EXTINF:-1 tvg-chno="22" tvg-id="beIN Sports Global ARB" tvg-name="-- beIN SPORTS 4K--" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Global.png" group-title="beIN SPORTS | LIVE ",-- beIN SPORTS 4K--
 http://topiptv.net:5890/aziz/1234/2
-#EXTINF:-1 tvg-chno="23" tvg-id="PH beIN Sports 1-PH" tvg-name="beIN SPORTS 1 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 FHD
+#EXTINF:-1 tvg-chno="23" tvg-id="PH beIN Sports 1-PH" tvg-name="beIN SPORTS 1 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1 4K
 http://topiptv.net:5890/aziz/1234/5
-#EXTINF:-1 tvg-chno="24" tvg-id="PH beIN Sports 2-PH" tvg-name="beIN SPORTS 2 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2 FHD
+#EXTINF:-1 tvg-chno="24" tvg-id="PH beIN Sports 2-PH" tvg-name="beIN SPORTS 2 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2 4K
 http://topiptv.net:5890/aziz/1234/6
-#EXTINF:-1 tvg-chno="25" tvg-id="beIN Sports 3-PH" tvg-name="beIN SPORTS 3 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3 FHD
+#EXTINF:-1 tvg-chno="25" tvg-id="beIN Sports 3-PH" tvg-name="beIN SPORTS 3 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3 4K
 http://topiptv.net:5890/aziz/1234/7
-#EXTINF:-1 tvg-chno="26" tvg-id="beIN SPORTS 4-TR" tvg-name="beIN SPORTS 4 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_4.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 4 FHD
+#EXTINF:-1 tvg-chno="26" tvg-id="beIN SPORTS 4-TR" tvg-name="beIN SPORTS 4 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_4.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 4 4K
 http://topiptv.net:5890/aziz/1234/8
-#EXTINF:-1 tvg-chno="27" tvg-id="beIN Sports 5 ARB" tvg-name="beIN SPORTS 5 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_5.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 5 FHD
+#EXTINF:-1 tvg-chno="27" tvg-id="beIN Sports 5 ARB" tvg-name="beIN SPORTS 5 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_5.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 5 4K
 http://topiptv.net:5890/aziz/1234/9
-#EXTINF:-1 tvg-chno="28" tvg-id="beIN Sports 6 ARB" tvg-name="beIN SPORTS 6 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_6.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 6 FHD
+#EXTINF:-1 tvg-chno="28" tvg-id="beIN Sports 6 ARB" tvg-name="beIN SPORTS 6 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_6.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 6 4K
 http://topiptv.net:5890/aziz/1234/10
-#EXTINF:-1 tvg-chno="29" tvg-id="beIN Sports 7 ARB" tvg-name="beIN SPORTS 7 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_7.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 7 FHD
+#EXTINF:-1 tvg-chno="29" tvg-id="beIN Sports 7 ARB" tvg-name="beIN SPORTS 7 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_7.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 7 4K
 http://topiptv.net:5890/aziz/1234/11
-#EXTINF:-1 tvg-chno="30" tvg-id="beIN Sports 8 ARB" tvg-name="beIN SPORTS 8 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_8.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 8 FHD
+#EXTINF:-1 tvg-chno="30" tvg-id="beIN Sports 8 ARB" tvg-name="beIN SPORTS 8 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_8.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 8 4K
 http://topiptv.net:5890/aziz/1234/12
-#EXTINF:-1 tvg-chno="31" tvg-id="beIN Sports 9 ARB" tvg-name="beIN SPORTS 9 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_9.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 9 FHD
+#EXTINF:-1 tvg-chno="31" tvg-id="beIN Sports 9 ARB" tvg-name="beIN SPORTS 9 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_9.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 9 4K
 http://topiptv.net:5890/aziz/1234/13
-#EXTINF:-1 tvg-chno="32" tvg-id="beIN Sports 10 ARB" tvg-name="beIN SPORTS 10 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_10.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 10 FHD
+#EXTINF:-1 tvg-chno="32" tvg-id="beIN Sports 10 ARB" tvg-name="beIN SPORTS 10 4K" tvg-logo="http://channelstream.net/images/prog/channel/bein_10.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 10 4K
 http://topiptv.net:5890/aziz/1234/14
 #EXTINF:-1 tvg-chno="33" tvg-name="-- beIN SPORTS SD --" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Global.png" group-title="beIN SPORTS | LIVE ",-- beIN SPORTS SD --
 http://topiptv.net:5890/aziz/1234/34
@@ -1217,7 +1233,7 @@ http://topiptv.net:5890/aziz/1234/67112
 http://topiptv.net:5890/aziz/1234/67113
 #EXTINF:-1 tvg-chno="4" tvg-name="CANAL D FR" group-title="Cable - CANADA",CANAL D FR
 http://topiptv.net:5890/aziz/1234/67114
-#EXTINF:-1 tvg-chno="5" tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-name="CARTOON NETWORK" group-title="Cable - CANADA",CARTOON NETWORK
+#EXTINF:-1 tvg-chno="5" tvg-id="Cartoon Network USA - Eastern Feed" tvg-name="CARTOON NETWORK" group-title="Cable - CANADA",CARTOON NETWORK
 http://topiptv.net:5890/aziz/1234/67116
 #EXTINF:-1 tvg-chno="6" tvg-id="CBC News Network-CA" tvg-name="CBC" group-title="Cable - CANADA",CBC
 http://topiptv.net:5890/aziz/1234/67118
@@ -1299,9 +1315,9 @@ http://topiptv.net:5890/aziz/1234/67163
 http://topiptv.net:5890/aziz/1234/67164
 #EXTINF:-1 tvg-chno="45" tvg-name="DAY STAR" group-title="Cable - CANADA",DAY STAR
 http://topiptv.net:5890/aziz/1234/67165
-#EXTINF:-1 tvg-chno="46" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="DISCOVERY" group-title="Cable - CANADA",DISCOVERY
+#EXTINF:-1 tvg-chno="46" tvg-id="Investigation Discovery USA - Eastern" tvg-name="DISCOVERY" group-title="Cable - CANADA",DISCOVERY
 http://topiptv.net:5890/aziz/1234/67167
-#EXTINF:-1 tvg-chno="47" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="INVESTIGATION DISCOVERY" group-title="Cable - CANADA",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-chno="47" tvg-id="Investigation Discovery USA - Eastern" tvg-name="INVESTIGATION DISCOVERY" group-title="Cable - CANADA",INVESTIGATION DISCOVERY
 http://topiptv.net:5890/aziz/1234/67168
 #EXTINF:-1 tvg-chno="48" tvg-id="Discovery Science HD-EXYU" tvg-name="DISCOVERY SCIENCE" group-title="Cable - CANADA",DISCOVERY SCIENCE
 http://topiptv.net:5890/aziz/1234/67169
@@ -1309,15 +1325,15 @@ http://topiptv.net:5890/aziz/1234/67169
 http://topiptv.net:5890/aziz/1234/67171
 #EXTINF:-1 tvg-chno="50" tvg-id="Fashion One-RU" tvg-name="FASHION" group-title="Cable - CANADA",FASHION
 http://topiptv.net:5890/aziz/1234/67172
-#EXTINF:-1 tvg-chno="51" tvg-id="Food Network USA - Eastern Feed-US" tvg-name="FOOD NETWORK" group-title="Cable - CANADA",FOOD NETWORK
+#EXTINF:-1 tvg-chno="51" tvg-id="Food Network USA - Eastern Feed" tvg-name="FOOD NETWORK" group-title="Cable - CANADA",FOOD NETWORK
 http://topiptv.net:5890/aziz/1234/67173
-#EXTINF:-1 tvg-chno="52" tvg-id="FOX Soccer Plus-US" tvg-name="FOX" group-title="Cable - CANADA",FOX
+#EXTINF:-1 tvg-chno="52" tvg-id="FOX Soccer Plus" tvg-name="FOX" group-title="Cable - CANADA",FOX
 http://topiptv.net:5890/aziz/1234/67174
 #EXTINF:-1 tvg-chno="53" tvg-name="GLOBAL NATIONAL" group-title="Cable - CANADA",GLOBAL NATIONAL
 http://topiptv.net:5890/aziz/1234/67176
 #EXTINF:-1 tvg-chno="54" tvg-id="CA-Global BC-CA" tvg-name="GLOBAL VANCOUVER" group-title="Cable - CANADA",GLOBAL VANCOUVER
 http://topiptv.net:5890/aziz/1234/67178
-#EXTINF:-1 tvg-chno="55" tvg-id="HGTV USA - Eastern Feed-US" tvg-name="HGTV" group-title="Cable - CANADA",HGTV
+#EXTINF:-1 tvg-chno="55" tvg-id="HGTV USA - Eastern Feed" tvg-name="HGTV" group-title="Cable - CANADA",HGTV
 http://topiptv.net:5890/aziz/1234/67182
 #EXTINF:-1 tvg-chno="56" tvg-name="ICI MONTREAL FR" group-title="Cable - CANADA",ICI MONTREAL FR
 http://topiptv.net:5890/aziz/1234/67185
@@ -1345,7 +1361,7 @@ http://topiptv.net:5890/aziz/1234/67199
 http://topiptv.net:5890/aziz/1234/67200
 #EXTINF:-1 tvg-chno="68" tvg-name="ONE GET FIT" group-title="Cable - CANADA",ONE GET FIT
 http://topiptv.net:5890/aziz/1234/67201
-#EXTINF:-1 tvg-chno="69" tvg-id="Paramount Network USA - Eastern Feed-US" tvg-name="PARAMOUNT NETWORK" group-title="Cable - CANADA",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-chno="69" tvg-id="Paramount Network USA - Eastern Feed" tvg-name="PARAMOUNT NETWORK" group-title="Cable - CANADA",PARAMOUNT NETWORK
 http://topiptv.net:5890/aziz/1234/67202
 #EXTINF:-1 tvg-chno="70" tvg-name="PEACH TREE" group-title="Cable - CANADA",PEACH TREE
 http://topiptv.net:5890/aziz/1234/67203
@@ -1365,7 +1381,7 @@ http://topiptv.net:5890/aziz/1234/67212
 http://topiptv.net:5890/aziz/1234/67213
 #EXTINF:-1 tvg-chno="78" tvg-id="Treehouse-CA" tvg-name="TREEHOUSE" group-title="Cable - CANADA",TREEHOUSE
 http://topiptv.net:5890/aziz/1234/67214
-#EXTINF:-1 tvg-chno="79" tvg-id="Univision - Eastern Feed-US" tvg-name="VISION" group-title="Cable - CANADA",VISION
+#EXTINF:-1 tvg-chno="79" tvg-id="Univision - Eastern Feed" tvg-name="VISION" group-title="Cable - CANADA",VISION
 http://topiptv.net:5890/aziz/1234/67216
 #EXTINF:-1 tvg-chno="80" tvg-id="Weather Network-CA" tvg-name="WEATHER NETWORK" group-title="Cable - CANADA",WEATHER NETWORK
 http://topiptv.net:5890/aziz/1234/67217
@@ -1377,7 +1393,7 @@ http://topiptv.net:5890/aziz/1234/67219
 http://topiptv.net:5890/aziz/1234/67220
 #EXTINF:-1 tvg-chno="84" tvg-name="BLOBAL BC" group-title="Cable - CANADA",BLOBAL BC
 http://topiptv.net:5890/aziz/1234/67221
-#EXTINF:-1 tvg-chno="85" tvg-id="FX Networks East Coast-US" tvg-name="FX" group-title="Cable - CANADA",FX
+#EXTINF:-1 tvg-chno="85" tvg-id="FX Networks East Coast" tvg-name="FX" group-title="Cable - CANADA",FX
 http://topiptv.net:5890/aziz/1234/67222
 #EXTINF:-1 tvg-chno="86" tvg-name="CTV KITCHNER" group-title="Cable - CANADA",CTV KITCHNER
 http://topiptv.net:5890/aziz/1234/67223
@@ -1951,793 +1967,793 @@ http://topiptv.net:5890/aziz/1234/55910
 http://topiptv.net:5890/aziz/1234/55911
 #EXTINF:-1 tvg-chno="274" tvg-id="YourTV UK" tvg-name="YourTV UK" tvg-logo="http://195.154.221.171/picons/yourtvuk.png" group-title="Cable - UK",YourTV UK
 http://topiptv.net:5890/aziz/1234/55912
-#EXTINF:-1 tvg-chno="1" group-title="Cable - USA",A&E Tv
+#EXTINF:-1 tvg-chno="1" tvg-id="A&amp;E FHD US" tvg-logo="https://www.allamericandish.com/wp-content/uploads/2015/09/AE-logo.jpg" group-title="Cable - USA",A&E Tv
 http://topiptv.net:5890/aziz/1234/66594
-#EXTINF:-1 tvg-chno="2" group-title="Cable - USA",A&E TV HD
+#EXTINF:-1 tvg-chno="2" tvg-id="A&amp;E FHD US" tvg-logo="https://www.allamericandish.com/wp-content/uploads/2015/09/AE-logo.jpg" group-title="Cable - USA",A&E TV HD
 http://topiptv.net:5890/aziz/1234/66595
-#EXTINF:-1 tvg-chno="3" group-title="Cable - USA",ABC EAST HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58705
-#EXTINF:-1 tvg-chno="4" group-title="Cable - USA",ABC FHD US
+#EXTINF:-1 tvg-chno="4" tvg-id="ABC HD US" tvg-logo="https://www.soapoperadigest.com/wp-content/uploads/files/ABC_logo_2007_0.png" group-title="Cable - USA",ABC 4K
 http://topiptv.net:5890/aziz/1234/66596
-#EXTINF:-1 tvg-chno="5" group-title="Cable - USA",ABC HD US
+#EXTINF:-1 tvg-chno="3" tvg-id="ABC East US" tvg-logo="https://motorcycle-logos.com/wp-content/uploads/2017/08/ABC-emblem.jpg" group-title="Cable - USA",ABC EAST HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58705
+#EXTINF:-1 tvg-chno="5" tvg-id="ABC HD US" tvg-logo="https://programminginsider.com/wp-content/uploads/2019/03/Abc-logo.jpg" group-title="Cable - USA",ABC HD
 http://topiptv.net:5890/aziz/1234/66597
-#EXTINF:-1 tvg-chno="6" group-title="Cable - USA",ABC NEWS HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58751
-#EXTINF:-1 tvg-chno="7" group-title="Cable - USA",ABC News HD US
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="Cable - USA",ABC News
 http://topiptv.net:5890/aziz/1234/66598
-#EXTINF:-1 tvg-chno="8" tvg-id="ABC HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable - USA",ABC NY HD
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="Cable - USA",ABC NEWS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58751
+#EXTINF:-1 tvg-chno="8" tvg-id="ABC HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable - USA",ABC NY HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58704
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable - USA",ABC WEST
+#EXTINF:-1 tvg-chno="9" tvg-id="ABC HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable - USA",ABC WEST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58703
-#EXTINF:-1 tvg-chno="10" group-title="Cable - USA",AFN Spectrum HD US
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://images.all-free-download.com/images/graphiclarge/afn_spectrum_121362.jpg" group-title="Cable - USA",AFN Spectrum HD US
 http://topiptv.net:5890/aziz/1234/66599
-#EXTINF:-1 tvg-chno="11" group-title="Cable - USA",AFN Sport 1 US
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://1.bp.blogspot.com/-EX-rMQ0XqHE/W2RHj7JuTkI/AAAAAAAAFfE/OlfdaAnpBNAdeV10F3W5U-KnbxFjfip-wCLcBGAs/s1600/AFN-SPORT.png" group-title="Cable - USA",AFN Sport 1 US
 http://topiptv.net:5890/aziz/1234/66600
-#EXTINF:-1 tvg-chno="12" group-title="Cable - USA",Amazing Discoveries HD US
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://i.ytimg.com/vi/M9JMYBsOeY4/maxresdefault.jpg" group-title="Cable - USA",Amazing Discoveries HD US
 http://topiptv.net:5890/aziz/1234/66603
-#EXTINF:-1 tvg-chno="13" tvg-id="FXX USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/amc.png" group-title="Cable - USA",AMC
+#EXTINF:-1 tvg-chno="13" tvg-id="AMC HD US" tvg-logo="https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/06/amc-logo-gold-redesign-1200x707.jpg" group-title="Cable - USA",AMC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58702
-#EXTINF:-1 tvg-chno="14" tvg-id="FXX USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/amc.png" group-title="Cable - USA",AMC HD US
+#EXTINF:-1 tvg-chno="14" tvg-id="AMC HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="Cable - USA",AMC HD US
 http://topiptv.net:5890/aziz/1234/66601
-#EXTINF:-1 tvg-chno="15" tvg-id="FXX USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/amc.png" group-title="Cable - USA",AMC US
+#EXTINF:-1 tvg-chno="15" tvg-id="AMC HD US" tvg-logo="https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/06/amc-logo-gold-redesign-1200x707.jpg" group-title="Cable - USA",AMC US
 http://topiptv.net:5890/aziz/1234/66602
-#EXTINF:-1 tvg-chno="16" tvg-id="Disney XD USA - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ahc_logo.png" group-title="Cable - USA",AMERICAN HEROES CHANNEL
+#EXTINF:-1 tvg-chno="16" tvg-id="American Heroes Channel US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ahc_logo.png" group-title="Cable - USA",AMERICAN HEROES CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58701
-#EXTINF:-1 tvg-chno="17" group-title="Cable - USA",ANIMAL PLANET
+#EXTINF:-1 tvg-chno="17" tvg-id="Animal Planet HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Cable - USA",ANIMAL PLANET
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58726
-#EXTINF:-1 tvg-chno="18" group-title="Cable - USA",Animal PlanetUS
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Cable - USA",Animal Planet HD
 http://topiptv.net:5890/aziz/1234/66604
-#EXTINF:-1 tvg-chno="19" group-title="Cable - USA",ANTENNA TV
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png" group-title="Cable - USA",ANTENNA TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58700
-#EXTINF:-1 tvg-chno="20" group-title="Cable - USA",AWE CHANNEL
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="Cable - USA",AWE CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58699
-#EXTINF:-1 tvg-chno="21" group-title="Cable - USA",AXS TV
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/AXS-LOGO.png" group-title="Cable - USA",AXS TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58698
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/babytv-22214-1.jpg" group-title="Cable - USA",BABY TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58708
-#EXTINF:-1 tvg-chno="23" tvg-id="History Channel US - Eastern Feed-US" tvg-logo="https://pbs.twimg.com/profile_images/1214207021592932353/ahUlP3hd_400x400.jpg" group-title="Cable - USA",BBC AMERICA
+#EXTINF:-1 tvg-chno="23" tvg-id="BBC America US" tvg-logo="https://pbs.twimg.com/profile_images/1214207021592932353/ahUlP3hd_400x400.jpg" group-title="Cable - USA",BBC AMERICA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58697
 #EXTINF:-1 tvg-chno="24" tvg-logo="http://elifetv.etisalat.ae:33100/EPG/jsp/images/universal/film/logo/20161231/1/100000000000001521332/100000000000001521332_6315165264_1483219842952.jpg" group-title="Cable - USA",BEIN SPORT USA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58812
-#EXTINF:-1 tvg-chno="25" group-title="Cable - USA",beINSports HD US
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://stream4television.files.wordpress.com/2014/06/4f663-bein_sports_1hd_couleur.jpg" group-title="Cable - USA",beINSports 1 HD
 http://topiptv.net:5890/aziz/1234/66605
-#EXTINF:-1 tvg-chno="26" tvg-id="El Rey Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bettv.png" group-title="Cable - USA",BET HD
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bettv.png" group-title="Cable - USA",BET HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58696
-#EXTINF:-1 tvg-chno="27" tvg-id="El Rey Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bettv.png" group-title="Cable - USA",BET HD US
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bettv.png" group-title="Cable - USA",BET HD US
 http://topiptv.net:5890/aziz/1234/66606
-#EXTINF:-1 tvg-chno="28" tvg-id="Fusion-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bet-her.png" group-title="Cable - USA",BET HER
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bet-her.png" group-title="Cable - USA",BET HER
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58695
-#EXTINF:-1 tvg-chno="29" group-title="Cable - USA",BIG TEN NETWORK
+#EXTINF:-1 tvg-chno="29" tvg-id="Big Ten Network US" tvg-logo="https://www.dailydot.com/wp-content/uploads/2018/09/big_ten_network_streaming.png" group-title="Cable - USA",BIG TEN NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58811
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://bloximages.newyork1.vip.townnews.com/insideradio.com/content/tncms/assets/v3/editorial/6/ad/6adfbcca-0eda-11e9-8306-473f9c14f05e/5c2d358926812.image.jpg" group-title="Cable - USA",BLAZE TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58694
-#EXTINF:-1 tvg-chno="31" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="Cable - USA",BLOOMBERG
+#EXTINF:-1 tvg-chno="31" tvg-id="Bloomberg TV US" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="Cable - USA",BLOOMBERG
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58742
-#EXTINF:-1 tvg-chno="32" group-title="Cable - USA",Bloomberg Europe US
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="Cable - USA",Bloomberg Europe US
 http://topiptv.net:5890/aziz/1234/66608
-#EXTINF:-1 tvg-chno="33" group-title="Cable - USA",Bloomberg TV HD US
+#EXTINF:-1 tvg-chno="33" tvg-id="Bloomberg TV US" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="Cable - USA",Bloomberg TV HD US
 http://topiptv.net:5890/aziz/1234/66609
 #EXTINF:-1 tvg-chno="34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Boomerang-cartoon-network.png" group-title="Cable - USA",BOOMERANG
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58724
-#EXTINF:-1 tvg-chno="35" group-title="Cable - USA",Boomerang US
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Boomerang-cartoon-network.png" group-title="Cable - USA",Boomerang US
 http://topiptv.net:5890/aziz/1234/66610
-#EXTINF:-1 tvg-chno="36" group-title="Cable - USA",BOUNCE TV
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2015/04/Bounce_TVOurWay_logo_general_market.png" group-title="Cable - USA",BOUNCE TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58693
-#EXTINF:-1 tvg-chno="37" tvg-id="HSN  - Home Shopping Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bravousa.png" group-title="Cable - USA",BRAVO
+#EXTINF:-1 tvg-chno="37" tvg-id="Bravo US" tvg-logo="https://i1.pngguru.com/preview/256/781/233/tv-channel-icons-pack-bravo-black-png-icon.jpg" group-title="Cable - USA",BRAVO
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58692
-#EXTINF:-1 tvg-chno="38" tvg-id="HSN  - Home Shopping Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bravousa.png" group-title="Cable - USA",Bravo HD US
+#EXTINF:-1 tvg-chno="38" tvg-id="Bravo US" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/bravo-png-4.png" group-title="Cable - USA",Bravo HD
 http://topiptv.net:5890/aziz/1234/66611
-#EXTINF:-1 tvg-chno="39" tvg-id="HSN  - Home Shopping Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bravousa.png" group-title="Cable - USA",Bravo US
+#EXTINF:-1 tvg-chno="39" tvg-id="Bravo US" tvg-logo="https://i1.pngguru.com/preview/256/781/233/tv-channel-icons-pack-bravo-black-png-icon.jpg" group-title="Cable - USA",Bravo US
 http://topiptv.net:5890/aziz/1234/66612
-#EXTINF:-1 tvg-chno="40" group-title="Cable - USA",BUZZER
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41lGS2XvG7L.png" group-title="Cable - USA",BUZZER
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58691
-#EXTINF:-1 tvg-chno="41" group-title="Cable - USA",BYU TV US
+#EXTINF:-1 tvg-chno="41" tvg-logo="https://universe.byu.edu/wp-content/uploads/2015/11/Modern-Sailor-Cougar1.jpg" group-title="Cable - USA",BYU TV US
 http://topiptv.net:5890/aziz/1234/66607
-#EXTINF:-1 tvg-chno="42" tvg-id="The Weather Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cspan.png" group-title="Cable - USA",C-Span 1 US
+#EXTINF:-1 tvg-chno="42" tvg-id="C-SPAN US" tvg-logo="https://www.logolynx.com/images/logolynx/23/23e7cc4464fdf0d862fa632ca27fbe58.jpeg" group-title="Cable - USA",C-Span 1 US
 http://topiptv.net:5890/aziz/1234/66613
-#EXTINF:-1 tvg-chno="43" tvg-id="The Weather Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cspan.png" group-title="Cable - USA",C-Span 2 US
+#EXTINF:-1 tvg-chno="43" tvg-id="C-SPAN 2 US" tvg-logo="https://www.logolynx.com/images/logolynx/7e/7e15fbc94fb64072d24aed00cead5601.jpeg" group-title="Cable - USA",C-Span 2 US
 http://topiptv.net:5890/aziz/1234/66614
-#EXTINF:-1 tvg-chno="44" tvg-id="The Weather Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cspan.png" group-title="Cable - USA",C-Span 3 US
+#EXTINF:-1 tvg-chno="44" tvg-id="C-SPAN 3 US" tvg-logo="https://www.logolynx.com/images/logolynx/20/2023fde2737cfb4ccb5cd6bad4f4805e.jpeg" group-title="Cable - USA",C-Span 3 US
 http://topiptv.net:5890/aziz/1234/66615
-#EXTINF:-1 tvg-chno="45" group-title="Cable - USA",Cable News Network HD US
+#EXTINF:-1 tvg-chno="45" tvg-id="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Cable - USA",Cable News Network HD (CNN)
 http://topiptv.net:5890/aziz/1234/66623
-#EXTINF:-1 tvg-chno="46" tvg-id="Nick Jr. - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cartoonnetwork.png" group-title="Cable - USA",CARTOON NETWORK
+#EXTINF:-1 tvg-chno="46" tvg-id="Cartoon Network US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cartoonnetwork.png" group-title="Cable - USA",CARTOON NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58723
-#EXTINF:-1 tvg-chno="47" tvg-id="Nick Jr. - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cartoonnetwork.png" group-title="Cable - USA",Cartoon Network US
+#EXTINF:-1 tvg-chno="47" tvg-id="Cartoon Network US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cartoonnetwork.png" group-title="Cable - USA",Cartoon Network US
 http://topiptv.net:5890/aziz/1234/66624
-#EXTINF:-1 tvg-chno="48" group-title="Cable - USA",CARTOONITO ES
+#EXTINF:-1 tvg-chno="48" tvg-logo="https://logosrated.net/wp-content/uploads/parser/Cartoonito-Logo-1.jpg" group-title="Cable - USA",CARTOONITO ES
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58722
-#EXTINF:-1 tvg-chno="49" group-title="Cable - USA",CBS EAST
+#EXTINF:-1 tvg-chno="49" tvg-id="CBS HD US" tvg-logo="https://www.logolynx.com/images/logolynx/s_48/48aec8976475db1221d35917345443ab.jpeg" group-title="Cable - USA",CBS EAST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58690
-#EXTINF:-1 tvg-chno="50" tvg-id="CBS HD New York-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cbs.png" group-title="Cable - USA",CBS NY HD
+#EXTINF:-1 tvg-chno="50" tvg-id="CBS HD US" tvg-logo="https://www.logolynx.com/images/logolynx/s_87/876780f28ff30907030ab6ef73facdd5.jpeg" group-title="Cable - USA",CBS NY HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58689
-#EXTINF:-1 tvg-chno="51" group-title="Cable - USA",CBS SPORTS NETWORK
+#EXTINF:-1 tvg-chno="51" tvg-id="CBS Sports Network HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBS SPORTS NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58810
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBS Sports Network
+#EXTINF:-1 tvg-chno="52" tvg-id="CBS Sports Network HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBS Sports Network
 http://topiptv.net:5890/aziz/1234/66708
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CBS_2018.png" group-title="Cable - USA",CBS US
+#EXTINF:-1 tvg-chno="53" tvg-id="CBS HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CBS_2018.png" group-title="Cable - USA",CBS US
 http://topiptv.net:5890/aziz/1234/66616
-#EXTINF:-1 tvg-chno="54" group-title="Cable - USA",CBSN HD US
+#EXTINF:-1 tvg-chno="54" tvg-id="CBSN HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBSN HD US
 http://topiptv.net:5890/aziz/1234/66617
-#EXTINF:-1 tvg-chno="55" group-title="Cable - USA",CBSN SPORTS NETWORK
+#EXTINF:-1 tvg-chno="55" tvg-id="CBSN HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBSN SPORTS NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58809
-#EXTINF:-1 tvg-chno="56" tvg-id="Starz Encore Black - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/5max.png" group-title="Cable - USA",CineMax 5 StarMax US
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="Cable - USA",CineMax 5 StarMax US
 http://topiptv.net:5890/aziz/1234/66625
-#EXTINF:-1 tvg-chno="57" group-title="Cable - USA",CineMax Action HD US
+#EXTINF:-1 tvg-chno="57" tvg-id="ActionMax FHD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CineMax Action HD US
 http://topiptv.net:5890/aziz/1234/66626
-#EXTINF:-1 tvg-chno="58" tvg-id="Starz Encore Suspense - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CINEMAX ACTION MAX EAST
+#EXTINF:-1 tvg-chno="58" tvg-id="ActionMax FHD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CINEMAX ACTION MAX EAST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58612
-#EXTINF:-1 tvg-chno="59" tvg-id="Starz Encore Suspense - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",Cinemax Action US
+#EXTINF:-1 tvg-chno="59" tvg-id="ActionMax FHD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",Cinemax Action US
 http://topiptv.net:5890/aziz/1234/66630
-#EXTINF:-1 tvg-chno="60" tvg-id="Starz Encore Suspense - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CineMax ActionMax East US
+#EXTINF:-1 tvg-chno="60" tvg-id="ActionMax FHD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CineMax ActionMax East US
 http://topiptv.net:5890/aziz/1234/66627
-#EXTINF:-1 tvg-chno="61" tvg-id="Showtime - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cinemax.png" group-title="Cable - USA",CINEMAX EAST
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cinemax.png" group-title="Cable - USA",CINEMAX EAST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58611
-#EXTINF:-1 tvg-chno="62" tvg-id="Showtime - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cinemax.png" group-title="Cable - USA",CineMax East US
+#EXTINF:-1 tvg-chno="62" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cinemax.png" group-title="Cable - USA",CineMax East US
 http://topiptv.net:5890/aziz/1234/66628
-#EXTINF:-1 tvg-chno="63" tvg-id="Starz Encore Westerns - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moremax.png" group-title="Cable - USA",Cinemax More HD US
+#EXTINF:-1 tvg-chno="63" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moremax.png" group-title="Cable - USA",Cinemax More HD US
 http://topiptv.net:5890/aziz/1234/66631
-#EXTINF:-1 tvg-chno="64" tvg-id="Starz Encore Westerns - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moremax.png" group-title="Cable - USA",CineMax MoreMax US
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moremax.png" group-title="Cable - USA",CineMax MoreMax US
 http://topiptv.net:5890/aziz/1234/66629
-#EXTINF:-1 tvg-chno="65" tvg-id="Starz Encore Action - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moviemax.png" group-title="Cable - USA",CINEMAX MOVIEMAX
+#EXTINF:-1 tvg-chno="65" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moviemax.png" group-title="Cable - USA",CINEMAX MOVIEMAX
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58610
-#EXTINF:-1 tvg-chno="66" group-title="Cable - USA",CINEMAX OUTER MAX
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/OuterMax_logo.png" group-title="Cable - USA",CINEMAX OUTER MAX
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58609
-#EXTINF:-1 tvg-chno="67" tvg-id="Starz Encore Family - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/thrillermax.png" group-title="Cable - USA",CINEMAX THRILLERMAX HD
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://engage.brctv.com/sites/default/files/channel-lineup/logos/2019-08/thrillermax_yellowonblack.jpg" group-title="Cable - USA",CINEMAX THRILLERMAX HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58608
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/moremax.png" group-title="Cable - USA",CINEMAXX MORE MAXX
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58607
-#EXTINF:-1 tvg-chno="69" tvg-id="FUSE TV - Eastern feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cmt-us.png" group-title="Cable - USA",CMT HD
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://seeklogo.com/images/C/country-music-television-cmt-logo-557B65C815-seeklogo.com.png" group-title="Cable - USA",CMT HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58688
-#EXTINF:-1 tvg-chno="70" group-title="Cable - USA",CNBC
+#EXTINF:-1 tvg-chno="70" tvg-id="CNBC US" tvg-logo="https://static-dealornodeal.cnbcfm.com/dist/46292f32ce0ae99d671144ebcea95bb0.png" group-title="Cable - USA",CNBC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58744
-#EXTINF:-1 tvg-chno="71" tvg-id="CNN-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Cable - USA",CNN
+#EXTINF:-1 tvg-chno="71" tvg-id="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Cable - USA",CNN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58743
-#EXTINF:-1 tvg-chno="72" tvg-id="CNN-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Cable - USA",CNN HD US
+#EXTINF:-1 tvg-chno="72" tvg-id="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Cable - USA",CNN HD US
 http://topiptv.net:5890/aziz/1234/66619
-#EXTINF:-1 tvg-chno="73" tvg-id="Lifetime Movies - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/comedycentral.png" group-title="Cable - USA",COMEDY CENTRAL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58687
-#EXTINF:-1 tvg-chno="74" tvg-id="Lifetime Movies - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/comedycentral.png" group-title="Cable - USA",Comedy Central FHD US
-http://topiptv.net:5890/aziz/1234/66632
-#EXTINF:-1 tvg-chno="75" tvg-id="Lifetime Movies - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/comedycentral.png" group-title="Cable - USA",Comedy Central US
+#EXTINF:-1 tvg-chno="75" tvg-id="Comedy Central US" tvg-logo="https://c7.uihere.com/files/1011/925/181/comedy-central-logo-television-viacom-media-networks-center.jpg" group-title="Cable - USA",Comedy Central
 http://topiptv.net:5890/aziz/1234/66633
-#EXTINF:-1 tvg-chno="76" group-title="Cable - USA",COMET TV
+#EXTINF:-1 tvg-chno="74" tvg-id="Comedy Central US" tvg-logo="https://i.pinimg.com/originals/8b/c5/6e/8bc56e1f117f6ab95ecdcee9beebf3bd.png" group-title="Cable - USA",Comedy Central 4K
+http://topiptv.net:5890/aziz/1234/66632
+#EXTINF:-1 tvg-chno="73" tvg-id="Comedy Central US" tvg-logo="https://i.pinimg.com/originals/8b/c5/6e/8bc56e1f117f6ab95ecdcee9beebf3bd.png" group-title="Cable - USA",COMEDY CENTRAL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58687
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://i0.wp.com/www.rokuki.com/wp-content/uploads/2017/03/comet-tv.jpg" group-title="Cable - USA",COMET TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58686
-#EXTINF:-1 tvg-chno="77" tvg-id="E! Entertainment USA - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cooking_channel.png" group-title="Cable - USA",COOKING CHANNEL HD
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cooking_channel.png" group-title="Cable - USA",COOKING CHANNEL HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58685
-#EXTINF:-1 tvg-chno="78" group-title="Cable - USA",COUNTRY NETWORK
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://privateguitar.com/wp-content/uploads/2017/11/TCN-Logo-e1509962797893.jpg" group-title="Cable - USA",COUNTRY NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58684
-#EXTINF:-1 tvg-chno="79" group-title="Cable - USA",COZI TV
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1200px-Cozi_TV_logo.svg.png" group-title="Cable - USA",COZI TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58683
-#EXTINF:-1 tvg-chno="80" group-title="Cable - USA",CRIME AND INVESTIGATION
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/CI.png" group-title="Cable - USA",CRIME AND INVESTIGATION
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58736
-#EXTINF:-1 tvg-chno="81" tvg-id="WPIX New York (SUPERSTATION)-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cw.png" group-title="Cable - USA",CW HD US
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cw.png" group-title="Cable - USA",CW HD US
 http://topiptv.net:5890/aziz/1234/66620
-#EXTINF:-1 tvg-chno="82" tvg-id="WPIX New York (SUPERSTATION)-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cw.png" group-title="Cable - USA",CW US
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cw.png" group-title="Cable - USA",CW US
 http://topiptv.net:5890/aziz/1234/66621
-#EXTINF:-1 tvg-chno="83" tvg-id="WPIX New York (SUPERSTATION)-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cw.png" group-title="Cable - USA",CW11 US
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/KSTW-TheCW11.png" group-title="Cable - USA",CW11 US
 http://topiptv.net:5890/aziz/1234/66622
-#EXTINF:-1 tvg-chno="84" tvg-id="Disney - Pacific Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/destinationamerica.png" group-title="Cable - USA",DESTINATION AMERICA
+#EXTINF:-1 tvg-chno="84" tvg-id="Destination America HD US" tvg-logo="https://pmcvariety.files.wordpress.com/2014/04/destination_america-logo.jpg" group-title="Cable - USA",DESTINATION AMERICA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58682
-#EXTINF:-1 tvg-chno="85" group-title="Cable - USA",Discovery Channel CA FHD US
-http://topiptv.net:5890/aziz/1234/66637
-#EXTINF:-1 tvg-chno="86" group-title="Cable - USA",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-chno="86" tvg-id="Discovery Channel US" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="Cable - USA",DISCOVERY CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58735
-#EXTINF:-1 tvg-chno="87" group-title="Cable - USA",Discovery Channel HD US
+#EXTINF:-1 tvg-chno="85" tvg-id="Discovery Channel US" tvg-logo="https://www.kindpng.com/picc/m/191-1914353_discovery-channel-hd-2007-discovery-channel-hd-logo.png" group-title="Cable - USA",Discovery Channel 4K
+http://topiptv.net:5890/aziz/1234/66637
+#EXTINF:-1 tvg-chno="87" tvg-id="Discovery Channel US" tvg-logo="https://www.kindpng.com/picc/m/191-1914353_discovery-channel-hd-2007-discovery-channel-hd-logo.png" group-title="Cable - USA",Discovery Channel HD
 http://topiptv.net:5890/aziz/1234/66638
-#EXTINF:-1 tvg-chno="88" group-title="Cable - USA",DISCOVERY FAMILY
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/discoveryfamilychannel.png" group-title="Cable - USA",DISCOVERY FAMILY
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58734
-#EXTINF:-1 tvg-chno="89" group-title="Cable - USA",Discovery HD Showcase US
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://img.favpng.com/5/3/16/discovery-hd-showcase-discovery-world-discovery-channel-science-png-favpng-nbSZrDtrYkEZmUZ7aarYekRL1.jpg" group-title="Cable - USA",Discovery HD Showcase US
 http://topiptv.net:5890/aziz/1234/66639
-#EXTINF:-1 tvg-chno="90" group-title="Cable - USA",Discovery HD US
+#EXTINF:-1 tvg-chno="90" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="Cable - USA",Discovery HD US
 http://topiptv.net:5890/aziz/1234/66640
-#EXTINF:-1 tvg-chno="91" group-title="Cable - USA",DISCOVERY LIFE
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="Cable - USA",DISCOVERY LIFE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58733
-#EXTINF:-1 tvg-chno="92" group-title="Cable - USA",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://img.favpng.com/2/22/25/discovery-science-television-channel-discovery-channel-logo-png-favpng-UHcM4azn0H6QRCpRUkTuhb6jk.jpg" group-title="Cable - USA",DISCOVERY SCIENCE HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58732
-#EXTINF:-1 tvg-chno="93" group-title="Cable - USA",Discovery Science HD US
+#EXTINF:-1 tvg-chno="93" tvg-logo="https://img.favpng.com/2/22/25/discovery-science-television-channel-discovery-channel-logo-png-favpng-UHcM4azn0H6QRCpRUkTuhb6jk.jpg" group-title="Cable - USA",Discovery Science HD US
 http://topiptv.net:5890/aziz/1234/66641
-#EXTINF:-1 tvg-chno="94" group-title="Cable - USA",Discovery Velocity US
+#EXTINF:-1 tvg-chno="94" tvg-logo="https://pbs.twimg.com/profile_images/908026340007391236/XfJ44ucd_400x400.jpg" group-title="Cable - USA",Discovery Velocity US
 http://topiptv.net:5890/aziz/1234/66642
-#EXTINF:-1 tvg-chno="95" tvg-id="Discovery Family Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/disney.png" group-title="Cable - USA",DISNEY CHANNEL HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58718
-#EXTINF:-1 tvg-chno="96" tvg-id="Discovery Family Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/disney.png" group-title="Cable - USA",Disney Channel HD US
+#EXTINF:-1 tvg-chno="96" tvg-logo="https://img.favpng.com/19/6/5/disney-channel-television-channel-disney-xd-the-walt-disney-company-disney-junior-png-favpng-9Lqu7NgcVLfnwLhjUcCPDb55z.jpg" group-title="Cable - USA",Disney Channel
 http://topiptv.net:5890/aziz/1234/66643
-#EXTINF:-1 tvg-chno="97" group-title="Cable - USA",DISNEY JR
+#EXTINF:-1 tvg-chno="95" tvg-logo="https://4.bp.blogspot.com/-paWC7hLMJn8/WcualqjjUuI/AAAAAAAADiw/hJIeuTW3hHo_8Ooh1Y_AWXXb9yF8wlcIQCLcBGAs/s1600/DCHD_LGO_CYAN_RGB-1024x591.png" group-title="Cable - USA",DISNEY CHANNEL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58718
+#EXTINF:-1 tvg-chno="97" tvg-id="Disney Junior US" tvg-logo="https://i.ytimg.com/vi/_8BnToQeHdM/maxresdefault.jpg" group-title="Cable - USA",DISNEY JR
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58717
-#EXTINF:-1 tvg-chno="98" group-title="Cable - USA",DISNEY XD
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/10994579/DisneyXDOnline.png" group-title="Cable - USA",DISNEY XD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58716
-#EXTINF:-1 tvg-chno="99" group-title="Cable - USA",Disney XD HD US
+#EXTINF:-1 tvg-chno="99" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e3fde515-2cc6-4b07-98ac-24bcbc3622b2/d87n9g6-bf0661ee-8892-4f80-a300-4b425db26ee5.png" group-title="Cable - USA",Disney XD HD
 http://topiptv.net:5890/aziz/1234/66644
-#EXTINF:-1 tvg-chno="100" tvg-id="Food Network USA - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/diy.png" group-title="Cable - USA",DIY NETWORK HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58681
-#EXTINF:-1 tvg-chno="101" tvg-id="Food Network USA - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/diy.png" group-title="Cable - USA",DIY Network HD US
-http://topiptv.net:5890/aziz/1234/66634
-#EXTINF:-1 tvg-chno="102" tvg-id="Food Network USA - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/diy.png" group-title="Cable - USA",DIY Network US
+#EXTINF:-1 tvg-chno="102" tvg-id="DIY Network HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/diy.png" group-title="Cable - USA",DIY Network
 http://topiptv.net:5890/aziz/1234/66635
-#EXTINF:-1 tvg-chno="103" group-title="Cable - USA",DOG TV
+#EXTINF:-1 tvg-chno="100" tvg-id="DIY Network HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/diy.png" group-title="Cable - USA",DIY NETWORK 4K
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58681
+#EXTINF:-1 tvg-chno="101" tvg-id="DIY Network HD US" tvg-logo="https://diy.sndimg.com/content/dam/images/diy/fullset/2015/4/9/0/default-no-image-returned-3.jpg.rend.hgtvcom.616.347.suffix/1428611711905.jpeg" group-title="Cable - USA",DIY Network HD
+http://topiptv.net:5890/aziz/1234/66634
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/DOGTV_Logo.png" group-title="Cable - USA",DOG TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58680
-#EXTINF:-1 tvg-chno="104" group-title="Cable - USA",DW US
+#EXTINF:-1 tvg-chno="104" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-dw.jpg" group-title="Cable - USA",DW
 http://topiptv.net:5890/aziz/1234/66636
-#EXTINF:-1 tvg-chno="105" tvg-id="ReelzChannel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/eentertain.png" group-title="Cable - USA",E!
+#EXTINF:-1 tvg-chno="105" tvg-id="E! US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/eentertain.png" group-title="Cable - USA",E!
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58679
-#EXTINF:-1 tvg-chno="106" tvg-id="ReelzChannel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/eentertain.png" group-title="Cable - USA",E! Entertainment HD US
+#EXTINF:-1 tvg-chno="106" tvg-id="E! US" tvg-logo="https://banner2.cleanpng.com/20180410/axw/kisspng-logo-television-e-entertainment-5acc6a6d0e6069.2798489415233460290589.jpg" group-title="Cable - USA",E! Entertainment HD
 http://topiptv.net:5890/aziz/1234/66645
-#EXTINF:-1 tvg-chno="107" group-title="Cable - USA",EL REY NETWORK
+#EXTINF:-1 tvg-chno="107" tvg-id="El Rey Network FHD US" tvg-logo="https://www.wrestling-news.net/wp-content/uploads/2014/08/El-Rey-Network.jpg" group-title="Cable - USA",EL REY NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58677
-#EXTINF:-1 tvg-chno="108" group-title="Cable - USA",EL REY NETWORK HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58678
-#EXTINF:-1 tvg-chno="109" group-title="Cable - USA",El Rey Network HD US
+#EXTINF:-1 tvg-chno="109" tvg-id="El Rey Network FHD US" tvg-logo="https://www.wrestling-news.net/wp-content/uploads/2014/08/El-Rey-Network.jpg" group-title="Cable - USA",El Rey Network 4K
 http://topiptv.net:5890/aziz/1234/66651
-#EXTINF:-1 tvg-chno="110" tvg-id="Fox Sports Carolinas-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/elevensports.png" group-title="Cable - USA",ELEVEN SPORTS HD
+#EXTINF:-1 tvg-chno="108" tvg-id="El Rey Network FHD US" tvg-logo="https://www.wrestling-news.net/wp-content/uploads/2014/08/El-Rey-Network.jpg" group-title="Cable - USA",EL REY NETWORK HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58678
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://img.favpng.com/14/25/7/eleven-sports-network-logo-television-channel-png-favpng-ZWqKk4rmJghdEFagPjJMqT5dW.jpg" group-title="Cable - USA",ELEVEN SPORTS HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58808
-#EXTINF:-1 tvg-chno="111" group-title="Cable - USA",EPIX 2
+#EXTINF:-1 tvg-chno="111" tvg-logo="https://images.squarespace-cdn.com/content/528c3d3de4b04fc3083091e8/1385080687841-56FXLAGH9FXCFDS8ET4H/epix+2+%280%3B00%3B13%3B29%29.jpg" group-title="Cable - USA",EPIX 2
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58606
-#EXTINF:-1 tvg-chno="112" group-title="Cable - USA",EPIX HD
+#EXTINF:-1 tvg-chno="112" tvg-logo="https://i.ytimg.com/vi/VsSQRG5lH3I/maxresdefault.jpg" group-title="Cable - USA",EPIX HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58605
-#EXTINF:-1 tvg-chno="113" group-title="Cable - USA",EPIX HITS
+#EXTINF:-1 tvg-chno="113" tvg-logo="https://content.epix.com/logos/epix-hits-logo.png" group-title="Cable - USA",EPIX HITS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58604
-#EXTINF:-1 tvg-chno="114" tvg-id="ESPN News-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espn.png" group-title="Cable - USA",ESPN
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58807
-#EXTINF:-1 tvg-chno="115" group-title="Cable - USA",ESPN 1 HD US
-http://topiptv.net:5890/aziz/1234/66646
-#EXTINF:-1 tvg-chno="116" group-title="Cable - USA",ESPN 1 US
+#EXTINF:-1 tvg-chno="116" tvg-id="ESPN HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espn.png" group-title="Cable - USA",ESPN
 http://topiptv.net:5890/aziz/1234/66647
-#EXTINF:-1 tvg-chno="117" group-title="Cable - USA",ESPN 2
+#EXTINF:-1 tvg-chno="117" tvg-id="ESPN 2 US" tvg-logo="https://archive.org/download/ESPN2/ESPN2.png" group-title="Cable - USA",ESPN 2
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58806
-#EXTINF:-1 tvg-chno="118" group-title="Cable - USA",ESPN 2 FHD US
+#EXTINF:-1 tvg-chno="118" tvg-id="ESPN 2 US" tvg-logo="https://www.logolynx.com/images/logolynx/3c/3c287305599f6b82c6313e33f2a2fe23.png" group-title="Cable - USA",ESPN 2 4K
 http://topiptv.net:5890/aziz/1234/66648
-#EXTINF:-1 tvg-chno="119" group-title="Cable - USA",ESPN 2 US
+#EXTINF:-1 tvg-chno="119" tvg-id="ESPN 2 US" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="Cable - USA",ESPN 2 HD
 http://topiptv.net:5890/aziz/1234/66649
-#EXTINF:-1 tvg-chno="120" tvg-id="ESPN News-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espn.png" group-title="Cable - USA",ESPN HD US
+#EXTINF:-1 tvg-chno="114" tvg-id="ESPN HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espn.png" group-title="Cable - USA",ESPN 4K
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58807
+#EXTINF:-1 tvg-chno="115" tvg-id="ESPN HD US" tvg-logo="https://4.bp.blogspot.com/-WaHxERxaE5E/UTECgDAhicI/AAAAAAAACIs/ctcmLvNvMv4/s1600/ESPN+HD+BY+TCF.png" group-title="Cable - USA",ESPN HD
+http://topiptv.net:5890/aziz/1234/66646
+#EXTINF:-1 tvg-chno="120" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espn.png" group-title="Cable - USA",ESPN HD US
 http://topiptv.net:5890/aziz/1234/66650
-#EXTINF:-1 tvg-chno="121" tvg-id="ESPN U-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espnews.png" group-title="Cable - USA",ESPN NEWS
+#EXTINF:-1 tvg-chno="121" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espnews.png" group-title="Cable - USA",ESPN NEWS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58750
-#EXTINF:-1 tvg-chno="122" tvg-id="ESPN2-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espnu.png" group-title="Cable - USA",ESPN U
+#EXTINF:-1 tvg-chno="122" tvg-id="ESPN U US" tvg-logo="https://banner2.cleanpng.com/20180616/gei/kisspng-espnu-television-espn-inc-espnews-espn-2-5b2509af62a397.123202481529153967404.jpg" group-title="Cable - USA",ESPN U HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58805
-#EXTINF:-1 tvg-chno="123" group-title="Cable - USA",FANTASY SPORTS NETWORK
+#EXTINF:-1 tvg-chno="123" tvg-logo="https://d207s11b4gmhbk.cloudfront.net/wp-content/uploads/2015/02/fntsy-logo-slider.png" group-title="Cable - USA",FANTASY SPORTS NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58804
-#EXTINF:-1 tvg-chno="124" group-title="Cable - USA",Fashion One HD US
+#EXTINF:-1 tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Fashiononehd_logo.png" group-title="Cable - USA",Fashion One HD US
 http://topiptv.net:5890/aziz/1234/66655
-#EXTINF:-1 tvg-chno="125" group-title="Cable - USA",Fight HD US
+#EXTINF:-1 tvg-chno="125" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/09/FIGHT-CHANNEL-WORLD-HD-logo-e1506332740512.png" group-title="Cable - USA",Fight HD US
 http://topiptv.net:5890/aziz/1234/66656
-#EXTINF:-1 tvg-chno="126" group-title="Cable - USA",Fight Sport HD US
+#EXTINF:-1 tvg-chno="126" tvg-logo="https://www.digitaltveurope.com/files/2015/07/fight-sports.jpg" group-title="Cable - USA",Fight Sport HD US
 http://topiptv.net:5890/aziz/1234/66657
-#EXTINF:-1 tvg-chno="127" group-title="Cable - USA",Fine Living US
+#EXTINF:-1 tvg-chno="127" tvg-logo="https://ww1.prweb.com/prfiles/2009/01/27/669094/FineLiving.comlogo.jpg" group-title="Cable - USA",Fine Living
 http://topiptv.net:5890/aziz/1234/66658
-#EXTINF:-1 tvg-chno="128" tvg-id="The Cooking Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foodtv.png" group-title="Cable - USA",FOOD NETWORK
+#EXTINF:-1 tvg-chno="128" tvg-id="Food Network US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foodtv.png" group-title="Cable - USA",FOOD NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58676
-#EXTINF:-1 tvg-chno="130" tvg-id="The Cooking Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foodtv.png" group-title="Cable - USA",Food Network
+#EXTINF:-1 tvg-chno="130" tvg-id="Food Network US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foodtv.png" group-title="Cable - USA",Food Network 4K
 http://topiptv.net:5890/aziz/1234/66660
-#EXTINF:-1 tvg-chno="129" tvg-id="The Cooking Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foodtv.png" group-title="Cable - USA",Food Network HD US
+#EXTINF:-1 tvg-chno="129" tvg-id="Food Network US" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/20181111/rs_1024x759-181211125229-1024-food-network-stars.jpg" group-title="Cable - USA",Food Network HD
 http://topiptv.net:5890/aziz/1234/66659
-#EXTINF:-1 tvg-chno="131" group-title="Cable - USA",FOX 43 US
+#EXTINF:-1 tvg-chno="131" tvg-id="FOX 43 HD US" tvg-logo="https://www.wavy.com/wp-content/uploads/sites/3/2019/05/fox-43-logo.png" group-title="Cable - USA",FOX 43
 http://topiptv.net:5890/aziz/1234/66652
-#EXTINF:-1 tvg-chno="132" group-title="Cable - USA",FOX 5 HD
+#EXTINF:-1 tvg-chno="132" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51aBlfURQvL.png" group-title="Cable - USA",FOX 5 HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58755
-#EXTINF:-1 tvg-chno="133" group-title="Cable - USA",FOX 50
+#EXTINF:-1 tvg-chno="133" tvg-logo="https://wwwcache.wral.com/asset/wral-tv/2017/09/13/16945679/ATT-Retrans_5_50_1920x1080-DMID1-5c3f11yn5-640x480.jpg" group-title="Cable - USA",FOX 50
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58754
-#EXTINF:-1 tvg-chno="134" tvg-id="Daystar  - Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fbn2019.png" group-title="Cable - USA",FOX BUSINESS HD
+#EXTINF:-1 tvg-chno="134" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fbn2019.png" group-title="Cable - USA",FOX BUSINESS HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58753
-#EXTINF:-1 tvg-chno="135" group-title="Cable - USA",FOX COLLEGE ATLANTIC
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-fox-college-sports-pacific-without-cable-1024x576.png" group-title="Cable - USA",FOX COLLEGE ATLANTIC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58803
-#EXTINF:-1 tvg-chno="136" group-title="Cable - USA",FOX COLLEGE CENTRAL
+#EXTINF:-1 tvg-chno="136" tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-fox-college-sports-pacific-without-cable-1024x576.png" group-title="Cable - USA",FOX COLLEGE CENTRAL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58802
-#EXTINF:-1 tvg-chno="137" group-title="Cable - USA",FOX COLLEGE PACIFIC
+#EXTINF:-1 tvg-chno="137" tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-fox-college-sports-pacific-without-cable-1024x576.png" group-title="Cable - USA",FOX COLLEGE PACIFIC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58801
-#EXTINF:-1 tvg-chno="138" group-title="Cable - USA",FOX DEPORTES
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzOTAxNjA4NDUzODgz/fox-deportes-logo-sizedjpg.jpg" group-title="Cable - USA",FOX DEPORTES
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58800
-#EXTINF:-1 tvg-chno="139" group-title="Cable - USA",Fox HD US
+#EXTINF:-1 tvg-chno="139" tvg-logo="https://www.kabelmax.net/files/logopack/Italy/fox%20hd.png" group-title="Cable - USA",Fox HD
 http://topiptv.net:5890/aziz/1234/66661
-#EXTINF:-1 tvg-chno="140" group-title="Cable - USA",FOX NEWS
+#EXTINF:-1 tvg-chno="140" tvg-id="FOX News US" tvg-logo="https://cdn.britannica.com/25/153125-050-5F58855D/logo-Fox-News-Channel.jpg" group-title="Cable - USA",FOX NEWS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58749
-#EXTINF:-1 tvg-chno="141" group-title="Cable - USA",Fox News HD US
+#EXTINF:-1 tvg-chno="141" tvg-id="FOX News US" tvg-logo="https://cdn.britannica.com/25/153125-050-5F58855D/logo-Fox-News-Channel.jpg" group-title="Cable - USA",Fox News HD
 http://topiptv.net:5890/aziz/1234/66662
-#EXTINF:-1 tvg-chno="142" group-title="Cable - USA",FOX SOCCER PLUS
+#EXTINF:-1 tvg-chno="142" tvg-id="Fox Soccer Plus HD US" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2010/01/fox-soccer-plus.jpg" group-title="Cable - USA",FOX SOCCER PLUS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58799
-#EXTINF:-1 tvg-chno="143" group-title="Cable - USA",Fox Soccer Plus HD US
-http://topiptv.net:5890/aziz/1234/66663
-#EXTINF:-1 tvg-chno="144" group-title="Cable - USA",Fox Soccer Plus US
+#EXTINF:-1 tvg-chno="144" tvg-id="Fox Soccer Plus HD US" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2010/01/fox-soccer-plus.jpg" group-title="Cable - USA",Fox Soccer Plus 4K
 http://topiptv.net:5890/aziz/1234/66664
-#EXTINF:-1 tvg-chno="145" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",FOX SPORTS 1
+#EXTINF:-1 tvg-chno="143" tvg-id="Fox Soccer Plus HD US" tvg-logo="https://www.damajority.com/wp-content/uploads/2018/11/fsp_10.jpg" group-title="Cable - USA",Fox Soccer Plus HD
+http://topiptv.net:5890/aziz/1234/66663
+#EXTINF:-1 tvg-chno="145" tvg-id="FOX Sports 1 US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",FOX SPORTS 1
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58797
-#EXTINF:-1 tvg-chno="146" tvg-id="NBC HD Chicago-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/sportsouth.png" group-title="Cable - USA",Fox Sports 1 HD US
-http://topiptv.net:5890/aziz/1234/66665
-#EXTINF:-1 tvg-chno="147" tvg-id="Fox Sports West-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox Sports 1 US
+#EXTINF:-1 tvg-chno="147" tvg-id="FOX Sports 1 US" tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="Cable - USA",Fox Sports 1 4K
 http://topiptv.net:5890/aziz/1234/66666
-#EXTINF:-1 tvg-chno="148" tvg-id="Fox Sports Wisconsin-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foxsportssun.png" group-title="Cable - USA",FOX SPORTS 2
+#EXTINF:-1 tvg-chno="146" tvg-id="FOX Sports 1 US" tvg-logo="https://www.channelguidemag.com/wp-content/uploads/2013/08/FOX-Sports-1.jpg" group-title="Cable - USA",Fox Sports 1 HD
+http://topiptv.net:5890/aziz/1234/66665
+#EXTINF:-1 tvg-chno="148" tvg-id="FOX Sports 2 HD US" tvg-logo="https://i.ya-webdesign.com/images/fox-sports-2-logo-png-3.png" group-title="Cable - USA",FOX SPORTS 2
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58798
-#EXTINF:-1 tvg-chno="149" tvg-id="Fox Sports Wisconsin-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foxsportssun.png" group-title="Cable - USA",Fox Sports 2 FHD US
+#EXTINF:-1 tvg-chno="149" tvg-id="FOX Sports 2 HD US" tvg-logo="https://cdn.imgbin.com/21/9/1/imgbin-fox-sports-networks-television-fox-sports-detroit-fox-broadcasting-company-fox-sports-indiana-nwiCqAGnq56ADA8NCTUFmEADG.jpg" group-title="Cable - USA",Fox Sports 2 4K
 http://topiptv.net:5890/aziz/1234/66667
-#EXTINF:-1 tvg-chno="150" tvg-id="Fox Sports Wisconsin-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foxsportssun.png" group-title="Cable - USA",Fox Sports 2 HD US
+#EXTINF:-1 tvg-chno="150" tvg-id="FOX Sports 2 HD US" tvg-logo="https://cdn.imgbin.com/21/9/1/imgbin-fox-sports-networks-television-fox-sports-detroit-fox-broadcasting-company-fox-sports-indiana-nwiCqAGnq56ADA8NCTUFmEADG.jpg" group-title="Cable - USA",Fox Sports 2 HD
 http://topiptv.net:5890/aziz/1234/66668
-#EXTINF:-1 tvg-chno="151" tvg-id="Fox Sports Midwest-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox Sports 506 HD US
+#EXTINF:-1 tvg-chno="151" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png" group-title="Cable - USA",Fox Sports 506 HD US
 http://topiptv.net:5890/aziz/1234/66669
-#EXTINF:-1 tvg-chno="152" tvg-id="NBC HD Boston-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fox_college_sports.png" group-title="Cable - USA",Fox Sports College Central HD US
+#EXTINF:-1 tvg-chno="152" tvg-logo="https://www.htcinc.net/wp-content/uploads/2018/04/Fox-Sports-Central.jpg" group-title="Cable - USA",Fox Sports College Central HD
 http://topiptv.net:5890/aziz/1234/66670
-#EXTINF:-1 tvg-chno="153" tvg-id="Cartoon Network USA - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox Sports HD US
+#EXTINF:-1 tvg-chno="153" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox Sports HD US
 http://topiptv.net:5890/aziz/1234/66671
-#EXTINF:-1 tvg-chno="154" tvg-id="Fox Sports San Diego-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox Sports North HD US
+#EXTINF:-1 tvg-chno="154" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png" group-title="Cable - USA",Fox Sports North HD US
 http://topiptv.net:5890/aziz/1234/66672
-#EXTINF:-1 tvg-chno="155" group-title="Cable - USA",Free Form HD US
+#EXTINF:-1 tvg-chno="155" tvg-id="FreeForm HD US" tvg-logo="https://i1.wp.com/www.overtheairdigitaltv.com/wp-content/uploads/2015/07/Freeform.jpg" group-title="Cable - USA",Free Form HD 4K
 http://topiptv.net:5890/aziz/1234/66673
-#EXTINF:-1 tvg-chno="156" group-title="Cable - USA",FREEFORM HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58675
-#EXTINF:-1 tvg-chno="157" group-title="Cable - USA",FreeForm HD US
+#EXTINF:-1 tvg-chno="157" tvg-id="FreeForm HD US" tvg-logo="https://i1.wp.com/www.overtheairdigitaltv.com/wp-content/uploads/2015/07/Freeform.jpg" group-title="Cable - USA",FreeForm
 http://topiptv.net:5890/aziz/1234/66674
-#EXTINF:-1 tvg-chno="158" group-title="Cable - USA",FUSE
+#EXTINF:-1 tvg-chno="156" tvg-id="FreeForm HD US" tvg-logo="https://cdn.abcotvs.com/dip/images/1156076_011216-wls-freeform-img.jpg" group-title="Cable - USA",FREEFORM HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58675
+#EXTINF:-1 tvg-chno="158" tvg-logo="https://1.bp.blogspot.com/_QLmlmkcmzig/TDFprphfGtI/AAAAAAAAAgo/kTxuJX272q4/s1600/fuse.png" group-title="Cable - USA",FUSE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58674
-#EXTINF:-1 tvg-chno="159" tvg-id="CNBC USA-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fusion.png" group-title="Cable - USA",FUSION
+#EXTINF:-1 tvg-chno="159" tvg-logo="https://fuusion.net/wp-content/uploads/2015/09/Untitled-100.png" group-title="Cable - USA",FUSION
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58673
-#EXTINF:-1 tvg-chno="160" group-title="Cable - USA",Fusion
+#EXTINF:-1 tvg-chno="160" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fusion.png" group-title="Cable - USA",Fusion
 http://topiptv.net:5890/aziz/1234/66618
-#EXTINF:-1 tvg-chno="161" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" group-title="Cable - USA",FX HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58672
-#EXTINF:-1 tvg-chno="162" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" group-title="Cable - USA",FX HD US
-http://topiptv.net:5890/aziz/1234/66653
-#EXTINF:-1 tvg-chno="163" tvg-id="Lifetime Network US - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" group-title="Cable - USA",FX US
+#EXTINF:-1 tvg-chno="163" tvg-id="FX HD US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" group-title="Cable - USA",FX
 http://topiptv.net:5890/aziz/1234/66654
-#EXTINF:-1 tvg-chno="164" group-title="Cable - USA",FXM
+#EXTINF:-1 tvg-chno="161" tvg-id="FX HD US" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/02/09/Untitled-2_1.jpg" group-title="Cable - USA",FX HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58672
+#EXTINF:-1 tvg-chno="162" tvg-id="FX HD US" tvg-logo="https://i.pinimg.com/originals/de/60/88/de60884d4a887e2844ea97234d9b66bb.png" group-title="Cable - USA",FX HD 4K
+http://topiptv.net:5890/aziz/1234/66653
+#EXTINF:-1 tvg-chno="164" tvg-id="FXM HD US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Fox_Moxie_Channel.png" group-title="Cable - USA",FXM
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58671
-#EXTINF:-1 tvg-chno="165" group-title="Cable - USA",FXX
+#EXTINF:-1 tvg-chno="165" tvg-id="FXX HD US" tvg-logo="https://fansided.com/files/2017/01/fxx-logo.jpg" group-title="Cable - USA",FXX
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58670
-#EXTINF:-1 tvg-chno="166" group-title="Cable - USA",FYI NETWORK
+#EXTINF:-1 tvg-chno="166" tvg-logo="https://i.pinimg.com/originals/c1/64/59/c16459dce724d17173bffc0a17c0cb61.jpg" group-title="Cable - USA",FYI NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58669
-#EXTINF:-1 tvg-chno="167" group-title="Cable - USA",GALAVISION
+#EXTINF:-1 tvg-chno="167" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="Cable - USA",GALAVISION
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58668
-#EXTINF:-1 tvg-chno="168" group-title="Cable - USA",GAME SHOW NETWORK
+#EXTINF:-1 tvg-chno="168" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2018/11/Game_Show_Network_Logo_2018_RGB_sm.png" group-title="Cable - USA",GAME SHOW NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58796
-#EXTINF:-1 tvg-chno="169" tvg-id="Fox Sports 1-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/golf.png" group-title="Cable - USA",GOLF CHANNEL
+#EXTINF:-1 tvg-chno="169" tvg-id="Golf Channel US" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title="Cable - USA",GOLF CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58795
-#EXTINF:-1 tvg-chno="170" group-title="Cable - USA",GRIT TV
+#EXTINF:-1 tvg-chno="170" tvg-logo="https://www.grittv.com/wp-content/uploads/2014/08/grit_generic_movie_poster.jpg" group-title="Cable - USA",GRIT TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58667
-#EXTINF:-1 tvg-chno="171" group-title="Cable - USA",GSN HD US
+#EXTINF:-1 tvg-chno="171" tvg-logo="https://pmcvariety.files.wordpress.com/2014/07/gsn-logo.jpg" group-title="Cable - USA",GSN HD US
 http://topiptv.net:5890/aziz/1234/66675
-#EXTINF:-1 tvg-chno="172" group-title="Cable - USA",H2 US
+#EXTINF:-1 tvg-chno="172" tvg-logo="https://c7.uihere.com/files/156/417/148/h2-a-e-networks-television-channel-logo-77-events-remember-history.jpg" group-title="Cable - USA",H2 US
 http://topiptv.net:5890/aziz/1234/66676
-#EXTINF:-1 tvg-chno="173" group-title="Cable - USA",Hallmark Channel HD US
-http://topiptv.net:5890/aziz/1234/66687
-#EXTINF:-1 tvg-chno="174" group-title="Cable - USA",HALLMARK DRAMA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58597
-#EXTINF:-1 tvg-chno="175" group-title="Cable - USA",HALLMARK HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58596
-#EXTINF:-1 tvg-chno="176" tvg-id="Sportsman Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hmm.png" group-title="Cable - USA",HALLMARK MOVIES & MYSTERIES HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58595
-#EXTINF:-1 tvg-chno="177" tvg-id="Sportsman Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hmm.png" group-title="Cable - USA",Hallmark Movies & Mysteries HD US
-http://topiptv.net:5890/aziz/1234/66689
-#EXTINF:-1 tvg-chno="178" group-title="Cable - USA",Hallmark US
+#EXTINF:-1 tvg-chno="178" tvg-id="Hallmark Channel HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Hallmark_Channel.jpg" group-title="Cable - USA",Hallmark Channel
 http://topiptv.net:5890/aziz/1234/66688
-#EXTINF:-1 tvg-chno="179" tvg-id="Starz Kids and Family - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo2.png" group-title="Cable - USA",HBO 2 HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58590
-#EXTINF:-1 tvg-chno="180" tvg-id="Starz Comedy - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-comedy.png" group-title="Cable - USA",HBO COMEDY HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58594
-#EXTINF:-1 tvg-chno="181" tvg-id="Starz Comedy - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-comedy.png" group-title="Cable - USA",HBO Comedy HD US
-http://topiptv.net:5890/aziz/1234/66677
-#EXTINF:-1 tvg-chno="182" group-title="Cable - USA",HBO East US
-http://topiptv.net:5890/aziz/1234/66678
-#EXTINF:-1 tvg-chno="183" tvg-id="Starz Edge - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-family.png" group-title="Cable - USA",HBO FAMILY HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58593
-#EXTINF:-1 tvg-chno="184" tvg-id="Starz Edge - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-family.png" group-title="Cable - USA",HBO Family HD US
-http://topiptv.net:5890/aziz/1234/66679
-#EXTINF:-1 tvg-chno="185" group-title="Cable - USA",HBO HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58589
-#EXTINF:-1 tvg-chno="186" group-title="Cable - USA",HBO HD US
-http://topiptv.net:5890/aziz/1234/66680
-#EXTINF:-1 tvg-chno="187" group-title="Cable - USA",HBO SIGNATURE
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58592
-#EXTINF:-1 tvg-chno="188" group-title="Cable - USA",HBO Signature HD US
-http://topiptv.net:5890/aziz/1234/66681
-#EXTINF:-1 tvg-chno="189" group-title="Cable - USA",HBO Signature US
-http://topiptv.net:5890/aziz/1234/66682
-#EXTINF:-1 tvg-chno="190" group-title="Cable - USA",HBO US
+#EXTINF:-1 tvg-chno="175" tvg-id="Hallmark Channel HD US" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_logotype.png" group-title="Cable - USA",Hallmark Channel HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58596
+#EXTINF:-1 tvg-chno="173" tvg-id="Hallmark Channel HD US" tvg-logo="https://notesfromrumblycottage.files.wordpress.com/2017/10/hallmark-channel-logo.jpg" group-title="Cable - USA",Hallmark Channel HD 4K
+http://topiptv.net:5890/aziz/1234/66687
+#EXTINF:-1 tvg-chno="174" tvg-logo="https://images.crownmediadev.com/cms2017/vs_16905.jpg" group-title="Cable - USA",HALLMARK DRAMA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58597
+#EXTINF:-1 tvg-chno="176" tvg-id="Hallmark Movies &amp; Mysteries HD US" tvg-logo="https://media.soapoperanetwork.com/2014/12/hallmark_moviesandmysteries_01_640x400.jpg" group-title="Cable - USA",HALLMARK MOVIES & MYSTERIES 4K
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58595
+#EXTINF:-1 tvg-chno="177" tvg-id="Hallmark Movies &amp; Mysteries HD US" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/hmm.png" group-title="Cable - USA",Hallmark Movies & Mysteries HD
+http://topiptv.net:5890/aziz/1234/66689
+#EXTINF:-1 tvg-chno="190" tvg-id="HBO HD US" tvg-logo="https://tvreleasedates.com/wp-content/uploads/2019/04/hbo_blue-logo-700x400.png" group-title="Cable - USA",HBO
 http://topiptv.net:5890/aziz/1234/66683
-#EXTINF:-1 tvg-chno="191" tvg-id="Starz Cinema - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-zone.png" group-title="Cable - USA",HBO ZONE HD
+#EXTINF:-1 tvg-chno="179" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo2.png" group-title="Cable - USA",HBO 2 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58590
+#EXTINF:-1 tvg-chno="182" tvg-id="HBO HD US" tvg-logo="https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2015/03/hbo-logo.png" group-title="Cable - USA",HBO 4K
+http://topiptv.net:5890/aziz/1234/66678
+#EXTINF:-1 tvg-chno="180" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-comedy.png" group-title="Cable - USA",HBO COMEDY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58594
+#EXTINF:-1 tvg-chno="181" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-comedy.png" group-title="Cable - USA",HBO Comedy HD US
+http://topiptv.net:5890/aziz/1234/66677
+#EXTINF:-1 tvg-chno="184" tvg-id="HBO Family FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Cable - USA",HBO Family
+http://topiptv.net:5890/aziz/1234/66679
+#EXTINF:-1 tvg-chno="183" tvg-id="HBO Family FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Cable - USA",HBO FAMILY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58593
+#EXTINF:-1 tvg-chno="186" tvg-id="HBO HD US" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Cable - USA",HBO HD
+http://topiptv.net:5890/aziz/1234/66680
+#EXTINF:-1 tvg-chno="185" tvg-id="HBO HD US" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Cable - USA",HBO HD ALT
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58589
+#EXTINF:-1 tvg-chno="187" tvg-id="HBO Signature US" tvg-logo="https://i.imgur.com/XEd15.jpg" group-title="Cable - USA",HBO SIGNATURE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58592
+#EXTINF:-1 tvg-chno="189" tvg-id="HBO Signature US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Cable - USA",HBO Signature 4K
+http://topiptv.net:5890/aziz/1234/66682
+#EXTINF:-1 tvg-chno="188" tvg-id="HBO Signature US" tvg-logo="https://www.pickcinema.com/images/tv/logos/hbosge.png" group-title="Cable - USA",HBO Signature HD
+http://topiptv.net:5890/aziz/1234/66681
+#EXTINF:-1 tvg-chno="191" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-zone.png" group-title="Cable - USA",HBO ZONE HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58591
-#EXTINF:-1 tvg-chno="192" tvg-id="Starz Cinema - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-zone.png" group-title="Cable - USA",HBO Zone US
+#EXTINF:-1 tvg-chno="192" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hbo-zone.png" group-title="Cable - USA",HBO Zone US
 http://topiptv.net:5890/aziz/1234/66684
-#EXTINF:-1 tvg-chno="193" group-title="Cable - USA",HEROS & ICONS
+#EXTINF:-1 tvg-chno="193" tvg-id="Heroes &amp; Icons US" tvg-logo="https://metv2.com/wp-content/uploads/2017/12/CALLOUTS_HNI_683x384.png" group-title="Cable - USA",HEROS & ICONS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58666
-#EXTINF:-1 tvg-chno="194" group-title="Cable - USA",HGTV HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58664
-#EXTINF:-1 tvg-chno="195" group-title="Cable - USA",HGTV HD US
+#EXTINF:-1 tvg-chno="195" tvg-id="HGTV US" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/HGTV-Home-Garden.jpg" group-title="Cable - USA",HGTV
 http://topiptv.net:5890/aziz/1234/66685
-#EXTINF:-1 tvg-chno="196" group-title="Cable - USA",HGTV UHD
+#EXTINF:-1 tvg-chno="196" tvg-id="HGTV US" tvg-logo="https://www.pngkey.com/png/full/240-2405093_basic-tv-lineup-includes-sd-feeds-of-all.png" group-title="Cable - USA",HGTV 4K
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58665
-#EXTINF:-1 tvg-chno="197" group-title="Cable - USA",HGTV US
+#EXTINF:-1 tvg-chno="197" tvg-id="HGTV US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png" group-title="Cable - USA",HGTV ALT
 http://topiptv.net:5890/aziz/1234/66686
-#EXTINF:-1 tvg-chno="198" group-title="Cable - USA",HISTORY 2
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58731
-#EXTINF:-1 tvg-chno="199" tvg-id="POP - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/history.png" group-title="Cable - USA",HISTORY CHANNEL
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58730
-#EXTINF:-1 tvg-chno="200" tvg-id="POP - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/history.png" group-title="Cable - USA",History HD US
-http://topiptv.net:5890/aziz/1234/66690
-#EXTINF:-1 tvg-chno="201" tvg-id="POP - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/history.png" group-title="Cable - USA",History US
+#EXTINF:-1 tvg-chno="194" tvg-id="HGTV US" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/07/HGTV-HD-KV-1.jpg" group-title="Cable - USA",HGTV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58664
+#EXTINF:-1 tvg-chno="201" tvg-id="History HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="Cable - USA",History
 http://topiptv.net:5890/aziz/1234/66691
-#EXTINF:-1 tvg-chno="202" tvg-id="ESPN-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hln.png" group-title="Cable - USA",HLN
+#EXTINF:-1 tvg-chno="198" tvg-logo="https://www.ilovesatellitetv.com/images/h2-logo.png" group-title="Cable - USA",HISTORY 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58731
+#EXTINF:-1 tvg-chno="199" tvg-id="History HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="Cable - USA",HISTORY CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58730
+#EXTINF:-1 tvg-chno="200" tvg-id="History HD US" tvg-logo="https://www.logolynx.com/images/logolynx/9d/9dd139fc7f5a73ae87309762b06bbedd.jpeg" group-title="Cable - USA",History HD
+http://topiptv.net:5890/aziz/1234/66690
+#EXTINF:-1 tvg-chno="202" tvg-id="HLN US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/hln.png" group-title="Cable - USA",HLN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58663
-#EXTINF:-1 tvg-chno="203" group-title="Cable - USA",HSN
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Hsn2003.jpg" group-title="Cable - USA",HSN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58662
-#EXTINF:-1 tvg-chno="204" group-title="Cable - USA",IFC
+#EXTINF:-1 tvg-chno="204" tvg-id="IFC FHD US" tvg-logo="https://banner2.cleanpng.com/20180602/vke/kisspng-ifc-center-ifc-films-television-revit-logo-5b12883ea58c45.0026394715279411826781.jpg" group-title="Cable - USA",IFC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58661
-#EXTINF:-1 tvg-chno="205" group-title="Cable - USA",IFC HD US
+#EXTINF:-1 tvg-chno="205" tvg-id="IFC FHD US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ifc.png" group-title="Cable - USA",IFC HD
 http://topiptv.net:5890/aziz/1234/66692
-#EXTINF:-1 tvg-chno="206" group-title="Cable - USA",INFOWARS
+#EXTINF:-1 tvg-chno="206" tvg-logo="https://hollywoodsubliminals.files.wordpress.com/2013/01/infowars-logo.jpg" group-title="Cable - USA",INFOWARS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58660
-#EXTINF:-1 tvg-chno="207" group-title="Cable - USA",INVESTIGATION DISCOVERY HD
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58729
-#EXTINF:-1 tvg-chno="208" group-title="Cable - USA",Investigation Discovery HD US
+#EXTINF:-1 tvg-chno="208" tvg-id="Investigation Discovery FHD US" tvg-logo="https://img.favpng.com/2/12/11/investigation-discovery-television-show-logo-television-channel-png-favpng-10MJF99P5kEgr2ReyS5qBSrNJ.jpg" group-title="Cable - USA",Investigation Discovery 4K
 http://topiptv.net:5890/aziz/1234/66693
-#EXTINF:-1 tvg-chno="209" tvg-id="Hallmark - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ion_2016.png" group-title="Cable - USA",ION TV
+#EXTINF:-1 tvg-chno="207" tvg-id="Investigation Discovery FHD US" tvg-logo="https://img.favpng.com/19/8/24/investigation-discovery-logo-television-show-television-channel-png-favpng-39yEbj6eA6RhbU7cFmttmwHnY.jpg" group-title="Cable - USA",Investigation Discovery HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58729
+#EXTINF:-1 tvg-chno="209" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ion_2016.png" group-title="Cable - USA",ION TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58659
-#EXTINF:-1 tvg-chno="210" group-title="Cable - USA",LAFF TV
+#EXTINF:-1 tvg-chno="210" tvg-logo="https://www.laff.com/wp-content/uploads/2015/04/laff-logov2.jpg" group-title="Cable - USA",LAFF TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58658
-#EXTINF:-1 tvg-chno="211" group-title="Cable - USA",LIFETIME
+#EXTINF:-1 tvg-chno="211" tvg-id="Lifetime HD US" tvg-logo="https://banner2.cleanpng.com/20180717/pc/kisspng-lifetime-logo-tv-0-television-show-lifetime-maintenance-5b4e31e1bf3224.0345821415318512337832.jpg" group-title="Cable - USA",LIFETIME
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58657
-#EXTINF:-1 tvg-chno="212" group-title="Cable - USA",Lifetime HD US
+#EXTINF:-1 tvg-chno="212" tvg-id="Lifetime HD US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/Lifetime_us_hd_2013.png" group-title="Cable - USA",Lifetime HD
 http://topiptv.net:5890/aziz/1234/66694
-#EXTINF:-1 tvg-chno="213" group-title="Cable - USA",LIFETIME MOVIES
+#EXTINF:-1 tvg-chno="213" tvg-id="Lifetime movies HD US" tvg-logo="https://i.pinimg.com/originals/b1/41/f3/b141f3ad00256469e1919279c67157ab.png" group-title="Cable - USA",LIFETIME MOVIES
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58656
-#EXTINF:-1 tvg-chno="214" tvg-id="NBC Sports California-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/longhorn.png" group-title="Cable - USA",LONGHORN NETWORK
+#EXTINF:-1 tvg-chno="214" tvg-logo="https://www.cordcutters.com/sites/cordcutters.com/files/styles/mediumplus/public/field/image/2019/08/longhorn-network-logo.jpg" group-title="Cable - USA",LONGHORN NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58794
-#EXTINF:-1 tvg-chno="215" tvg-id="NHL Network USA-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/mavtv_logo.png" group-title="Cable - USA",MAV TV
+#EXTINF:-1 tvg-chno="215" tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="Cable - USA",MAV TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58655
-#EXTINF:-1 tvg-chno="216" group-title="Cable - USA",ME TV
+#EXTINF:-1 tvg-chno="216" tvg-logo="https://i.ytimg.com/vi/RpPN8Ryk3-I/hqdefault.jpg" group-title="Cable - USA",ME TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58654
-#EXTINF:-1 tvg-chno="217" group-title="Cable - USA",MLB HD US
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://img.favpng.com/22/2/2/mlb-network-high-definition-television-television-channel-tv-listings-png-favpng-i8iCSfGKiZJEC5EpjTYmh8Jyr.jpg" group-title="Cable - USA",MLB HD US
 http://topiptv.net:5890/aziz/1234/66695
-#EXTINF:-1 tvg-chno="218" group-title="Cable - USA",MLB NETWORK
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg" group-title="Cable - USA",MLB NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58793
-#EXTINF:-1 tvg-chno="219" group-title="Cable - USA",MLB Network HD US
+#EXTINF:-1 tvg-chno="219" tvg-logo="https://img.favpng.com/22/2/2/mlb-network-high-definition-television-television-channel-tv-listings-png-favpng-i8iCSfGKiZJEC5EpjTYmh8Jyr.jpg" group-title="Cable - USA",MLB Network HD US
 http://topiptv.net:5890/aziz/1234/66696
-#EXTINF:-1 tvg-chno="220" group-title="Cable - USA",MLB Network US
+#EXTINF:-1 tvg-chno="220" tvg-logo="https://www.sportfacts.org/wp-content/uploads/2017/04/Watch-MLB-Network-Online-300x281.jpg" group-title="Cable - USA",MLB Network US
 http://topiptv.net:5890/aziz/1234/66697
-#EXTINF:-1 tvg-chno="221" tvg-id="Investigation Discovery USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/motortrend.png" group-title="Cable - USA",MOTOR TREND
+#EXTINF:-1 tvg-chno="221" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/motortrend.png" group-title="Cable - USA",MOTOR TREND
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58792
-#EXTINF:-1 tvg-chno="222" group-title="Cable - USA",MSG
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://www.msgnetworks.com/wp-content/themes/msgn/images/msgn-logo.jpg" group-title="Cable - USA",MSG
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58791
-#EXTINF:-1 tvg-chno="223" group-title="Cable - USA",MSG +
+#EXTINF:-1 tvg-chno="223" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/msgplus.png" group-title="Cable - USA",MSG +
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58790
-#EXTINF:-1 tvg-chno="224" group-title="Cable - USA",MSNBC
+#EXTINF:-1 tvg-chno="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/OldMSNBCLogo.svg/175px-OldMSNBCLogo.svg.png" group-title="Cable - USA",MSNBC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58653
-#EXTINF:-1 tvg-chno="225" group-title="Cable - USA",MSNBC HD US
+#EXTINF:-1 tvg-chno="225" tvg-logo="https://hd-report.com/wp-content/uploads/2010/02/msnbc_hd_logo-300x180.jpg" group-title="Cable - USA",MSNBC HD US
 http://topiptv.net:5890/aziz/1234/66698
-#EXTINF:-1 tvg-chno="226" group-title="Cable - USA",MTV 2
+#EXTINF:-1 tvg-chno="226" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_mtv2-1-490x490.png" group-title="Cable - USA",MTV 2
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58757
-#EXTINF:-1 tvg-chno="227" group-title="Cable - USA",MTV Base HD US
+#EXTINF:-1 tvg-chno="227" tvg-logo="https://i1.wp.com/davinciblog.tv/wp-content/uploads/2019/02/mtv-base.jpg" group-title="Cable - USA",MTV Base HD US
 http://topiptv.net:5890/aziz/1234/66699
-#EXTINF:-1 tvg-chno="228" group-title="Cable - USA",MTV HD
+#EXTINF:-1 tvg-chno="228" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2014/08/MTV-HD.jpg" group-title="Cable - USA",MTV HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58759
-#EXTINF:-1 tvg-chno="229" group-title="Cable - USA",MTV LIVE
+#EXTINF:-1 tvg-chno="229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png" group-title="Cable - USA",MTV LIVE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58758
-#EXTINF:-1 tvg-chno="230" group-title="Cable - USA",MTV Rocks US
+#EXTINF:-1 tvg-chno="230" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Qx%2BtGognL._AC_SX679_.jpg" group-title="Cable - USA",MTV Rocks US
 http://topiptv.net:5890/aziz/1234/66700
-#EXTINF:-1 tvg-chno="231" group-title="Cable - USA",MY 9
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/KCOP_2018_Logo.png/220px-KCOP_2018_Logo.png" group-title="Cable - USA",MY 9
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58652
-#EXTINF:-1 tvg-chno="232" group-title="Cable - USA",NAT GEO USA
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://seeklogo.net/wp-content/uploads/2016/05/national-geographic-channel-logo-vector-download.jpg" group-title="Cable - USA",NAT GEO USA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58728
-#EXTINF:-1 tvg-chno="233" group-title="Cable - USA",NAT GEO WILD HD US
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58727
-#EXTINF:-1 tvg-chno="234" group-title="Cable - USA",Nat Geo Wild HD US
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/nat-geo-wild-34d22bd9cfeb208abd0e802c83d08489.png" group-title="Cable - USA",Nat Geo Wild HD US
 http://topiptv.net:5890/aziz/1234/66716
-#EXTINF:-1 tvg-chno="235" tvg-id="TLC USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ngeog-copy.png" group-title="Cable - USA",Nat Geographic HD US
+#EXTINF:-1 tvg-chno="233" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/nat-geo-wild-34d22bd9cfeb208abd0e802c83d08489.png" group-title="Cable - USA",NAT GEO WILD HD US
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58727
+#EXTINF:-1 tvg-chno="235" tvg-logo="https://www.nationalgeographic.co.uk/images/logo.png" group-title="Cable - USA",Nat Geographic HD US
 http://topiptv.net:5890/aziz/1234/66717
-#EXTINF:-1 tvg-chno="236" tvg-id="TLC USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ngeog-copy.png" group-title="Cable - USA",National Geographic US
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://www.thewrap.com/wp-content/uploads/2016/01/national-geographic-channel-logo.jpg" group-title="Cable - USA",National Geographic US
 http://topiptv.net:5890/aziz/1234/66718
-#EXTINF:-1 tvg-chno="237" tvg-id="The Tennis Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nbatv.png" group-title="Cable - USA",NBA HD US
+#EXTINF:-1 tvg-chno="237" tvg-logo="https://4.bp.blogspot.com/-mgYxsu_gzH8/WLwhrKqYrXI/AAAAAAAAKrE/U80nFOV40vIU6jHCfWYXYE9_rpzE7TIUgCLcB/s1600/NBA%2BPremium%2BTV%2BPhilippines.jpg" group-title="Cable - USA",NBA HD US
 http://topiptv.net:5890/aziz/1234/66701
-#EXTINF:-1 tvg-chno="238" group-title="Cable - USA",NBA Live 1 HD US
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://philspicks.files.wordpress.com/2016/06/nba-tv-logo.jpg" group-title="Cable - USA",NBA Live 1 HD US
 http://topiptv.net:5890/aziz/1234/66760
-#EXTINF:-1 tvg-chno="239" group-title="Cable - USA",NBA Live 2 HD US [ Match Time Only ]
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://philspicks.files.wordpress.com/2016/06/nba-tv-logo.jpg" group-title="Cable - USA",NBA Live 2 HD US [ Match Time Only ]
 http://topiptv.net:5890/aziz/1234/66761
-#EXTINF:-1 tvg-chno="240" group-title="Cable - USA",NBA Live 3 HD US [ Match Time Only ]
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://philspicks.files.wordpress.com/2016/06/nba-tv-logo.jpg" group-title="Cable - USA",NBA Live 3 HD US [ Match Time Only ]
 http://topiptv.net:5890/aziz/1234/66762
-#EXTINF:-1 tvg-chno="241" group-title="Cable - USA",NBA Live 4 HD US [ Match Time Only ]
+#EXTINF:-1 tvg-chno="241" tvg-logo="https://philspicks.files.wordpress.com/2016/06/nba-tv-logo.jpg" group-title="Cable - USA",NBA Live 4 HD US [ Match Time Only ]
 http://topiptv.net:5890/aziz/1234/66763
-#EXTINF:-1 tvg-chno="242" group-title="Cable - USA",NBA Live 5 HD US [ Match Time Only ]
+#EXTINF:-1 tvg-chno="242" tvg-logo="https://philspicks.files.wordpress.com/2016/06/nba-tv-logo.jpg" group-title="Cable - USA",NBA Live 5 HD US [ Match Time Only ]
 http://topiptv.net:5890/aziz/1234/66764
-#EXTINF:-1 tvg-chno="243" group-title="Cable - USA",NBA Live 6 HD US [ Match Time Only ]
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://philspicks.files.wordpress.com/2016/06/nba-tv-logo.jpg" group-title="Cable - USA",NBA Live 6 HD US [ Match Time Only ]
 http://topiptv.net:5890/aziz/1234/66765
-#EXTINF:-1 tvg-chno="244" group-title="Cable - USA",NBA Live 7 HD US [ Match Time Only ]
+#EXTINF:-1 tvg-chno="244" tvg-logo="https://philspicks.files.wordpress.com/2016/06/nba-tv-logo.jpg" group-title="Cable - USA",NBA Live 7 HD US [ Match Time Only ]
 http://topiptv.net:5890/aziz/1234/66766
-#EXTINF:-1 tvg-chno="245" group-title="Cable - USA",NBA Live 8 HD US [ Match Time Only ]
+#EXTINF:-1 tvg-chno="245" tvg-logo="https://philspicks.files.wordpress.com/2016/06/nba-tv-logo.jpg" group-title="Cable - USA",NBA Live 8 HD US [ Match Time Only ]
 http://topiptv.net:5890/aziz/1234/66767
-#EXTINF:-1 tvg-chno="246" tvg-id="The Tennis Channel-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nbatv.png" group-title="Cable - USA",NBA TV HD
+#EXTINF:-1 tvg-chno="246" tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/03/NBA_TV_logo.png" group-title="Cable - USA",NBA TV HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58789
-#EXTINF:-1 tvg-chno="247" group-title="Cable - USA",NBC 10 EAST
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/WCAU-TV_logo_2012.png" group-title="Cable - USA",NBC 10 EAST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58788
-#EXTINF:-1 tvg-chno="248" group-title="Cable - USA",NBC 4 NY
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="Cable - USA",NBC 4 NY
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58651
-#EXTINF:-1 tvg-chno="249" group-title="Cable - USA",NBC 5
+#EXTINF:-1 tvg-chno="249" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" group-title="Cable - USA",NBC 5
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58650
-#EXTINF:-1 tvg-chno="250" group-title="Cable - USA",NBC GOLF
+#EXTINF:-1 tvg-chno="250" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2014/05/golf_render_-rgb.png" group-title="Cable - USA",NBC GOLF
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58787
-#EXTINF:-1 tvg-chno="251" group-title="Cable - USA",NBC Golf Channel FHD US
+#EXTINF:-1 tvg-chno="251" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Golf_Channel.png" group-title="Cable - USA",NBC Golf Channel 4KUS
 http://topiptv.net:5890/aziz/1234/66702
-#EXTINF:-1 tvg-chno="252" group-title="Cable - USA",NBC Golf Channel HD US
+#EXTINF:-1 tvg-chno="252" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Golf_Channel.png" group-title="Cable - USA",NBC Golf Channel HD US
 http://topiptv.net:5890/aziz/1234/66703
-#EXTINF:-1 tvg-chno="253" group-title="Cable - USA",NBC Golf HD US
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2014/05/golf_render_-rgb.png" group-title="Cable - USA",NBC Golf HD US
 http://topiptv.net:5890/aziz/1234/66704
-#EXTINF:-1 tvg-chno="254" group-title="Cable - USA",NBC News HD US
+#EXTINF:-1 tvg-chno="254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/NBC_News_2013_logo.png" group-title="Cable - USA",NBC News HD US
 http://topiptv.net:5890/aziz/1234/66705
-#EXTINF:-1 tvg-chno="255" tvg-id="CBS Sports Network USA-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nbcsports.png" group-title="Cable - USA",NBC SN HD US
+#EXTINF:-1 tvg-chno="255" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/NBC-Sports-Network.png" group-title="Cable - USA",NBC SN HD US
 http://topiptv.net:5890/aziz/1234/66706
-#EXTINF:-1 tvg-chno="256" group-title="Cable - USA",NBC SPORTS BAY AREA HD
+#EXTINF:-1 tvg-chno="256" tvg-logo="https://www.nbcsports.com/bayarea/sites/csnbayarea/files/nbc-sports-ba-logo.jpg" group-title="Cable - USA",NBC SPORTS BAY AREA HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58786
-#EXTINF:-1 tvg-chno="257" group-title="Cable - USA",NBC SPORTS BOSTON HD
+#EXTINF:-1 tvg-chno="257" tvg-logo="https://www.nbcsports.com/boston/sites/csnne/files/styles/article_hero_image/public/2019/11/27/nbc-sports-boston.png" group-title="Cable - USA",NBC SPORTS BOSTON HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58785
-#EXTINF:-1 tvg-chno="258" group-title="Cable - USA",NBC SPORTS CALIFORNIA HD
+#EXTINF:-1 tvg-chno="258" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/NBSCA-logo.png" group-title="Cable - USA",NBC SPORTS CALIFORNIA HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58784
-#EXTINF:-1 tvg-chno="259" group-title="Cable - USA",NBC SPORTS CHICAGO HD
+#EXTINF:-1 tvg-chno="259" tvg-logo="https://www.nbcsports.com/chicago/sites/csnchicago/files/styles/article_hero_image/public/2020/02/10/nbcsh_logo.png" group-title="Cable - USA",NBC SPORTS CHICAGO HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58783
-#EXTINF:-1 tvg-chno="260" group-title="Cable - USA",NBC SPORTS NETWORK
+#EXTINF:-1 tvg-chno="260" tvg-logo="https://i.pinimg.com/originals/82/f6/bc/82f6bc3c814d9e60f4844d66478bbc71.png" group-title="Cable - USA",NBC SPORTS NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58782
-#EXTINF:-1 tvg-chno="261" group-title="Cable - USA",NBC SPORTS NORTHWEST HD
+#EXTINF:-1 tvg-chno="261" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbc-sports-nw.png" group-title="Cable - USA",NBC SPORTS NORTHWEST HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58781
-#EXTINF:-1 tvg-chno="262" group-title="Cable - USA",NBC SPORTS PHILADELPHIA HD
+#EXTINF:-1 tvg-chno="262" tvg-logo="https://pbs.twimg.com/profile_images/929703795562606593/rcRs1pMs_400x400.jpg" group-title="Cable - USA",NBC SPORTS PHILADELPHIA HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58780
-#EXTINF:-1 tvg-chno="263" group-title="Cable - USA",NBC UNIVERSO
+#EXTINF:-1 tvg-chno="263" tvg-logo="https://images.latintimes.com/sites/latintimes.com/files/styles/full/public/2015/01/28/nbc-universo-logo.jpg" group-title="Cable - USA",NBC UNIVERSO
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58649
-#EXTINF:-1 tvg-chno="264" group-title="Cable - USA",NBC US
+#EXTINF:-1 tvg-chno="264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/200px-NBC_logo.svg.png" group-title="Cable - USA",NBC US
 http://topiptv.net:5890/aziz/1234/66707
-#EXTINF:-1 tvg-chno="265" tvg-id="Fox Sports Southeast-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nesn-19.png" group-title="Cable - USA",NESN
+#EXTINF:-1 tvg-chno="265" tvg-logo="https://pbs.twimg.com/media/EF965OlX0AAIlVh.png" group-title="Cable - USA",NESN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58779
-#EXTINF:-1 tvg-chno="266" group-title="Cable - USA",NEWS 12 LONG ISLAND
+#EXTINF:-1 tvg-chno="266" tvg-logo="https://pinktie.org/wp-content/uploads/2018/05/news-12-long-island.png" group-title="Cable - USA",NEWS 12 LONG ISLAND
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58748
-#EXTINF:-1 tvg-chno="267" group-title="Cable - USA",NEWS 12 NEW JERSEY
+#EXTINF:-1 tvg-chno="267" tvg-logo="https://www.moremonmouthmusings.net/wp-content/uploads/2014/07/News12.jpg" group-title="Cable - USA",NEWS 12 NEW JERSEY
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58747
-#EXTINF:-1 tvg-chno="268" tvg-id="MLB Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nfl_network.png" group-title="Cable - USA",NFL NETWORK
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://tvbtn.files.wordpress.com/2012/09/nfl-network-logo-bigger.jpg" group-title="Cable - USA",NFL NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58778
-#EXTINF:-1 tvg-chno="269" tvg-id="NBA TV USA-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nhlnetwork.png" group-title="Cable - USA",NFL Network 1 US
+#EXTINF:-1 tvg-chno="269" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/100_NFL_seasons_logo.svg/1200px-100_NFL_seasons_logo.svg.png" group-title="Cable - USA",NFL Network 1 US
 http://topiptv.net:5890/aziz/1234/66709
-#EXTINF:-1 tvg-chno="270" tvg-id="MLB Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nfl_network.png" group-title="Cable - USA",NFL Network FHD US
+#EXTINF:-1 tvg-chno="270" tvg-logo="https://tvbtn.files.wordpress.com/2012/09/nfl-network-logo-bigger.jpg" group-title="Cable - USA",NFL Network 4KUS
 http://topiptv.net:5890/aziz/1234/66710
-#EXTINF:-1 tvg-chno="271" tvg-id="MLB Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nfl_network.png" group-title="Cable - USA",NFL Network HD US
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://tvbtn.files.wordpress.com/2012/09/nfl-network-logo-bigger.jpg" group-title="Cable - USA",NFL Network HD US
 http://topiptv.net:5890/aziz/1234/66711
-#EXTINF:-1 tvg-chno="272" tvg-id="MLB Network-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nfl_network.png" group-title="Cable - USA",NFL Network US
+#EXTINF:-1 tvg-chno="272" tvg-logo="https://tvbtn.files.wordpress.com/2012/09/nfl-network-logo-bigger.jpg" group-title="Cable - USA",NFL Network US
 http://topiptv.net:5890/aziz/1234/66712
-#EXTINF:-1 tvg-chno="273" group-title="Cable - USA",NFL Now HD US
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://www.androidpolice.com/wp-content/uploads/2013/08/nexusae0_unnamed-139.png" group-title="Cable - USA",NFL Now HD US
 http://topiptv.net:5890/aziz/1234/66713
-#EXTINF:-1 tvg-chno="274" group-title="Cable - USA",NFL RED ZONE
+#EXTINF:-1 tvg-chno="274" tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/2019-07/nfl-redzone-logo-top.png" group-title="Cable - USA",NFL RED ZONE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58777
-#EXTINF:-1 tvg-chno="275" group-title="Cable - USA",NFL Redzone HD US
+#EXTINF:-1 tvg-chno="275" tvg-logo="https://www.hackmyappletv.com/wp-content/uploads/2015/11/nfl-redzone-kodi-sportsdevil-free-streaming.jpg" group-title="Cable - USA",NFL Redzone HD US
 http://topiptv.net:5890/aziz/1234/66714
-#EXTINF:-1 tvg-chno="276" group-title="Cable - USA",NHL NETWORK
+#EXTINF:-1 tvg-chno="276" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg" group-title="Cable - USA",NHL NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58776
-#EXTINF:-1 tvg-chno="277" group-title="Cable - USA",NHL Network US
+#EXTINF:-1 tvg-chno="277" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg" group-title="Cable - USA",NHL Network US
 http://topiptv.net:5890/aziz/1234/66715
-#EXTINF:-1 tvg-chno="278" tvg-id="TV Land - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/nickelodeon.png" group-title="Cable - USA",NICK HD
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Nick_hd.png" group-title="Cable - USA",NICK HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58715
-#EXTINF:-1 tvg-chno="279" group-title="Cable - USA",NICK JR
+#EXTINF:-1 tvg-chno="279" tvg-logo="https://vignette.wikia.nocookie.net/news30/images/0/03/Nick_Jr._Hugging_Logo_2002.png" group-title="Cable - USA",NICK JR
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58714
-#EXTINF:-1 tvg-chno="280" group-title="Cable - USA",NICK JR. TOO
+#EXTINF:-1 tvg-chno="280" tvg-logo="https://vignette.wikia.nocookie.net/boomerang-from-cartoon-network/images/9/9a/Flowgo_Corporation_-_Nick_Jr._2%27s_Retro_Label.png" group-title="Cable - USA",NICK JR. TOO
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58713
-#EXTINF:-1 tvg-chno="281" group-title="Cable - USA",NICKTOONS
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/9/95/NicktoonsTV.jpg" group-title="Cable - USA",NICKTOONS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58712
-#EXTINF:-1 tvg-chno="282" group-title="Cable - USA",ONE AMERICA NEWS
+#EXTINF:-1 tvg-chno="282" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51DqyTKou1L.png" group-title="Cable - USA",ONE AMERICA NEWS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58746
-#EXTINF:-1 tvg-chno="283" tvg-id="National Geographic Wild-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/own.png" group-title="Cable - USA",Oprah Winfrey Network HD US
+#EXTINF:-1 tvg-chno="283" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/05/ownnewlogo.jpg" group-title="Cable - USA",Oprah Winfrey Network HD US
 http://topiptv.net:5890/aziz/1234/66719
-#EXTINF:-1 tvg-chno="284" group-title="Cable - USA",OUTDOOR CHANNEL
+#EXTINF:-1 tvg-chno="284" tvg-logo="https://www.outdoorsg.com/wp-content/uploads/2015/08/OC_Logo-2017_Primary_REV.png" group-title="Cable - USA",OUTDOOR CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58740
-#EXTINF:-1 tvg-chno="285" group-title="Cable - USA",Outdoor Channel HD US
+#EXTINF:-1 tvg-chno="285" tvg-logo="https://www.outdoorsg.com/wp-content/uploads/2015/08/OC_Logo-2017_Primary_REV.png" group-title="Cable - USA",Outdoor Channel HD US
 http://topiptv.net:5890/aziz/1234/66720
-#EXTINF:-1 tvg-chno="286" group-title="Cable - USA",OUTSIDE TV
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://i.pinimg.com/originals/2f/b5/5a/2fb55a1d356652daa2d53fdbf708d360.png" group-title="Cable - USA",OUTSIDE TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58739
-#EXTINF:-1 tvg-chno="287" group-title="Cable - USA",OVATION
+#EXTINF:-1 tvg-chno="287" tvg-logo="https://brandonalveyreel.files.wordpress.com/2016/07/ovation-logo2.jpg" group-title="Cable - USA",OVATION
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58648
-#EXTINF:-1 tvg-chno="288" tvg-id="National Geographic Wild-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/own.png" group-title="Cable - USA",OWN NETWORK HD
+#EXTINF:-1 tvg-chno="288" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/05/ownnewlogo.jpg" group-title="Cable - USA",OWN NETWORK HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58647
-#EXTINF:-1 tvg-chno="289" group-title="Cable - USA",OXYGEN
+#EXTINF:-1 tvg-chno="289" tvg-logo="https://www.logolynx.com/images/logolynx/eb/ebf9cbbe81fa2d3436809378e3cc667c.jpeg" group-title="Cable - USA",OXYGEN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58646
-#EXTINF:-1 tvg-chno="290" group-title="Cable - USA",PAC 12 LOS ANGELES
+#EXTINF:-1 tvg-chno="290" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC 12 LOS ANGELES
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58775
-#EXTINF:-1 tvg-chno="291" group-title="Cable - USA",PAC 12 NETWORK
+#EXTINF:-1 tvg-chno="291" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC 12 NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58774
-#EXTINF:-1 tvg-chno="292" group-title="Cable - USA",PAC-12 ARIZONA
+#EXTINF:-1 tvg-chno="292" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC-12 ARIZONA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58773
-#EXTINF:-1 tvg-chno="293" group-title="Cable - USA",PAC-12 Arizona US
+#EXTINF:-1 tvg-chno="293" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC-12 Arizona US
 http://topiptv.net:5890/aziz/1234/66721
-#EXTINF:-1 tvg-chno="294" group-title="Cable - USA",PAC-12 BAY AREA
+#EXTINF:-1 tvg-chno="294" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC-12 BAY AREA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58772
-#EXTINF:-1 tvg-chno="295" group-title="Cable - USA",PAC-12 Bay Area US
+#EXTINF:-1 tvg-chno="295" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC-12 Bay Area US
 http://topiptv.net:5890/aziz/1234/66722
-#EXTINF:-1 tvg-chno="296" group-title="Cable - USA",PAC-12 Los Angeles FHD US
+#EXTINF:-1 tvg-chno="296" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC-12 Los Angeles 4KUS
 http://topiptv.net:5890/aziz/1234/66723
-#EXTINF:-1 tvg-chno="297" group-title="Cable - USA",PAC-12 MOUNTAIN
+#EXTINF:-1 tvg-chno="297" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC-12 MOUNTAIN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58771
-#EXTINF:-1 tvg-chno="298" group-title="Cable - USA",PAC-12 OREGON
+#EXTINF:-1 tvg-chno="298" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC-12 OREGON
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58770
-#EXTINF:-1 tvg-chno="299" group-title="Cable - USA",PAC-12 Oregon FHD US
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC-12 Oregon 4KUS
 http://topiptv.net:5890/aziz/1234/66724
-#EXTINF:-1 tvg-chno="300" group-title="Cable - USA",PAC-12 Washington FHD US
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="Cable - USA",PAC-12 Washington 4KUS
 http://topiptv.net:5890/aziz/1234/66725
-#EXTINF:-1 tvg-chno="301" tvg-id="TNT - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/paramount.png" group-title="Cable - USA",Paramount Network HD US
+#EXTINF:-1 tvg-chno="301" tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/09/pn-1.png" group-title="Cable - USA",Paramount Network HD US
 http://topiptv.net:5890/aziz/1234/66736
-#EXTINF:-1 tvg-chno="302" tvg-id="TNT - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/paramount.png" group-title="Cable - USA",Paramount Network US
+#EXTINF:-1 tvg-chno="302" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/05/Paramount_Channel_%282014-.n.v.%29.png" group-title="Cable - USA",Paramount Network US
 http://topiptv.net:5890/aziz/1234/66737
-#EXTINF:-1 tvg-chno="303" group-title="Cable - USA",PBS
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png" group-title="Cable - USA",PBS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58721
-#EXTINF:-1 tvg-chno="304" group-title="Cable - USA",PBS KIDS EAST
+#EXTINF:-1 tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png" group-title="Cable - USA",PBS KIDS EAST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58720
-#EXTINF:-1 tvg-chno="305" group-title="Cable - USA",PBS WLIW 21
+#EXTINF:-1 tvg-chno="305" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2013/05/pbs01.jpg" group-title="Cable - USA",PBS WLIW 21
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58719
-#EXTINF:-1 tvg-chno="306" tvg-id="Travel US - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/pop.png" group-title="Cable - USA",POP
+#EXTINF:-1 tvg-chno="306" tvg-logo="https://www.zannekrep.com/wp-content/uploads/2016/09/pop-tv-logo.png" group-title="Cable - USA",POP
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58645
-#EXTINF:-1 tvg-chno="307" tvg-id="FOX Soccer Plus-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/pursuit-channel.png" group-title="Cable - USA",PURSUIT CHANNEL
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://i.ytimg.com/vi/zoNx2iYXwLw/hqdefault.jpg" group-title="Cable - USA",PURSUIT CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58644
-#EXTINF:-1 tvg-chno="308" tvg-id="Oprah Winfrey Network USA Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/qvc.png" group-title="Cable - USA",QVC
+#EXTINF:-1 tvg-chno="308" tvg-logo="https://www.tvweek.com/wp-content/uploads/2014/09/qvc-logo.png" group-title="Cable - USA",QVC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58643
-#EXTINF:-1 tvg-chno="309" group-title="Cable - USA",RED BULL TV
+#EXTINF:-1 tvg-chno="309" tvg-logo="https://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Cable - USA",RED BULL TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58642
-#EXTINF:-1 tvg-chno="310" tvg-id="Paramount Network USA - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/reelz.png" group-title="Cable - USA",REELZ
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://s13686.pcdn.co/wp-content/uploads/2016/02/reelz-desaturated-577x600.png" group-title="Cable - USA",REELZ
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58641
-#EXTINF:-1 tvg-chno="311" group-title="Cable - USA",Reelz HD US
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/reelz.png" group-title="Cable - USA",Reelz HD US
 http://topiptv.net:5890/aziz/1234/66726
-#EXTINF:-1 tvg-chno="312" group-title="Cable - USA",REVOLT
+#EXTINF:-1 tvg-chno="312" tvg-logo="https://1.bp.blogspot.com/--uo3-QdDXmk/UO77TOOH0iI/AAAAAAAAU_8/JT_u7gcbpI4/s1600/revolt-tv-logo.png" group-title="Cable - USA",REVOLT
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58640
-#EXTINF:-1 tvg-chno="313" group-title="Cable - USA",RT NEWS
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="Cable - USA",RT NEWS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58745
-#EXTINF:-1 tvg-chno="314" tvg-id="Disney Junior USA - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/science16.png" group-title="Cable - USA",Science HD US
+#EXTINF:-1 tvg-chno="314" tvg-logo="https://i.pinimg.com/originals/73/38/0c/73380c12892e35379894c2579a40dee3.png" group-title="Cable - USA",Science HD US
 http://topiptv.net:5890/aziz/1234/66728
-#EXTINF:-1 tvg-chno="315" group-title="Cable - USA",SEC NETWORK
+#EXTINF:-1 tvg-chno="315" tvg-logo="https://espnpressroom.com/us/files/2013/05/SEC-Logo-640x405.jpg" group-title="Cable - USA",SEC NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58769
-#EXTINF:-1 tvg-chno="316" group-title="Cable - USA",SEC Network HD US
+#EXTINF:-1 tvg-chno="316" tvg-logo="https://arkansasrazorbacks.com/wp-content/uploads/2015/03/sec-930.png" group-title="Cable - USA",SEC Network HD US
 http://topiptv.net:5890/aziz/1234/66727
-#EXTINF:-1 tvg-chno="317" group-title="Cable - USA",SHOWTIME 2
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SHOTO-logo.png" group-title="Cable - USA",SHOWTIME 2
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58639
-#EXTINF:-1 tvg-chno="318" group-title="Cable - USA",Showtime 2 HD US
+#EXTINF:-1 tvg-chno="318" tvg-logo="https://4vector.com/thumb_data/afd-53265.jpg" group-title="Cable - USA",Showtime 2 HD US
 http://topiptv.net:5890/aziz/1234/66729
-#EXTINF:-1 tvg-chno="319" group-title="Cable - USA",Showtime 2 US
+#EXTINF:-1 tvg-chno="319" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SHOTO-logo.png" group-title="Cable - USA",Showtime 2 US
 http://topiptv.net:5890/aziz/1234/66730
-#EXTINF:-1 tvg-chno="320" group-title="Cable - USA",Showtime East HD US
-http://topiptv.net:5890/aziz/1234/66731
-#EXTINF:-1 tvg-chno="321" group-title="Cable - USA",SHOWTIME EXTREME
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58638
-#EXTINF:-1 tvg-chno="322" tvg-id="Crime and Investigation Network USA-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/sho.png" group-title="Cable - USA",Showtime FHD US
+#EXTINF:-1 tvg-chno="322" tvg-logo="https://30for30podcasts.com/wp-content/uploads/2019/08/ep2showtime.png" group-title="Cable - USA",Showtime 4KUS
 http://topiptv.net:5890/aziz/1234/66732
-#EXTINF:-1 tvg-chno="323" tvg-id="Crime and Investigation Network USA-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/sho.png" group-title="Cable - USA",SHOWTIME HD
+#EXTINF:-1 tvg-chno="320" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-east.jpg" group-title="Cable - USA",Showtime East HD
+http://topiptv.net:5890/aziz/1234/66731
+#EXTINF:-1 tvg-chno="321" tvg-logo="https://www.dutil.com/lib/img/tv_logos/v2/Showtime%20Extreme.jpg" group-title="Cable - USA",SHOWTIME EXTREME
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58638
+#EXTINF:-1 tvg-chno="323" tvg-logo="https://30for30podcasts.com/wp-content/uploads/2019/08/ep2showtime.png" group-title="Cable - USA",SHOWTIME HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58637
-#EXTINF:-1 tvg-chno="324" group-title="Cable - USA",SHOWTIME SHOWCASE
+#EXTINF:-1 tvg-chno="324" tvg-logo="https://vignette.wikia.nocookie.net/videogameball/images/0/0a/Showtime%27s_Showcase_logo.svg.png" group-title="Cable - USA",SHOWTIME SHOWCASE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58636
-#EXTINF:-1 tvg-chno="325" group-title="Cable - USA",Showtime Showcase HD US
+#EXTINF:-1 tvg-chno="325" tvg-logo="https://vignette.wikia.nocookie.net/videogameball/images/0/0a/Showtime%27s_Showcase_logo.svg.png" group-title="Cable - USA",Showtime Showcase HD US
 http://topiptv.net:5890/aziz/1234/66733
-#EXTINF:-1 tvg-chno="326" tvg-id="Crime and Investigation Network USA-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/sho.png" group-title="Cable - USA",Showtime West US
+#EXTINF:-1 tvg-chno="326" tvg-logo="https://30for30podcasts.com/wp-content/uploads/2019/08/ep2showtime.png" group-title="Cable - USA",Showtime West US
 http://topiptv.net:5890/aziz/1234/66734
-#EXTINF:-1 tvg-chno="327" group-title="Cable - USA",Smile Of A Child US
+#EXTINF:-1 tvg-chno="327" tvg-logo="https://www.shockya.com/news/wp-content/uploads/smile-of-a-child-logo.jpg" group-title="Cable - USA",Smile Of A Child
 http://topiptv.net:5890/aziz/1234/66735
-#EXTINF:-1 tvg-chno="328" group-title="Cable - USA",SMITHSONIAN CHANNEL
+#EXTINF:-1 tvg-chno="328" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Cable - USA",SMITHSONIAN CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58635
-#EXTINF:-1 tvg-chno="329" group-title="Cable - USA",Smithsonian Channel US
+#EXTINF:-1 tvg-chno="329" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Cable - USA",Smithsonian Channel US
 http://topiptv.net:5890/aziz/1234/66768
-#EXTINF:-1 tvg-chno="330" group-title="Cable - USA",SPIKE/PARAMOUNT
+#EXTINF:-1 tvg-chno="330" tvg-logo="https://www.cutthecord.com/wp-content/uploads/2018/01/spike-tv-is-now-the-paramount-network.jpg" group-title="Cable - USA",SPIKE/PARAMOUNT
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58634
-#EXTINF:-1 tvg-chno="331" group-title="Cable - USA",SPORTSMAN CHANNEL
+#EXTINF:-1 tvg-chno="331" tvg-logo="https://content.osgnetworks.tv/outdoorchannel/content/articles/houston-readies-sportsman-channel-outdoor-fest-L.jpg" group-title="Cable - USA",SPORTSMAN CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58768
-#EXTINF:-1 tvg-chno="332" group-title="Cable - USA",SPORTSNET LA
+#EXTINF:-1 tvg-chno="332" tvg-logo="https://rbr.com/wp-content/uploads/sporsnet-la.jpg" group-title="Cable - USA",SPORTSNET LA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58767
-#EXTINF:-1 tvg-chno="333" group-title="Cable - USA",SPORTSNET NY
+#EXTINF:-1 tvg-chno="333" tvg-logo="https://rbr.com/wp-content/uploads/sporsnet-la.jpg" group-title="Cable - USA",SPORTSNET NY
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58766
-#EXTINF:-1 tvg-chno="334" tvg-id="Showtime West-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starz.png" group-title="Cable - USA",STARZ
+#EXTINF:-1 tvg-chno="334" tvg-logo="https://www.verizon.com/content/dam/verizon/personal/learn-images/MLP/ec/starz-app/stz_2016_wh_rgb.png" group-title="Cable - USA",STARZ
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58598
-#EXTINF:-1 tvg-chno="335" group-title="Cable - USA",Starz Cinema US
+#EXTINF:-1 tvg-chno="335" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png" group-title="Cable - USA",Starz Cinema
 http://topiptv.net:5890/aziz/1234/66738
-#EXTINF:-1 tvg-chno="336" tvg-id="Showtime Extreme - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starzcomedy.png" group-title="Cable - USA",STARZ COMEDY
+#EXTINF:-1 tvg-chno="336" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png" group-title="Cable - USA",STARZ COMEDY
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58603
-#EXTINF:-1 tvg-chno="337" group-title="Cable - USA",Starz Comedy US
+#EXTINF:-1 tvg-chno="337" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png" group-title="Cable - USA",Starz Comedy Alt
 http://topiptv.net:5890/aziz/1234/66739
-#EXTINF:-1 tvg-chno="338" group-title="Cable - USA",STARZ EDGE
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzedge.png" group-title="Cable - USA",STARZ EDGE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58602
-#EXTINF:-1 tvg-chno="339" group-title="Cable - USA",Starz Edge HD US
-http://topiptv.net:5890/aziz/1234/66740
-#EXTINF:-1 tvg-chno="340" group-title="Cable - USA",Starz Edge US
+#EXTINF:-1 tvg-chno="340" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzedge.png" group-title="Cable - USA",Starz Edge Alt
 http://topiptv.net:5890/aziz/1234/66741
-#EXTINF:-1 tvg-chno="341" tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starz-encore-action.png" group-title="Cable - USA",STARZ ENCORE
+#EXTINF:-1 tvg-chno="339" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzedge.png" group-title="Cable - USA",Starz Edge HD
+http://topiptv.net:5890/aziz/1234/66740
+#EXTINF:-1 tvg-chno="341" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2015/07/starz_encore2.jpg" group-title="Cable - USA",STARZ ENCORE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58601
-#EXTINF:-1 tvg-chno="342" tvg-id="Hallmark Movies &amp; Mysteries - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starz-encore-action.png" group-title="Cable - USA",Starz Encore HD US
-http://topiptv.net:5890/aziz/1234/66742
-#EXTINF:-1 tvg-chno="343" tvg-id="SundanceTV USA - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starz-encore-suspense.png" group-title="Cable - USA",Starz Encore US
+#EXTINF:-1 tvg-chno="343" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2015/07/starz_encore2.jpg" group-title="Cable - USA",Starz Encore Alt
 http://topiptv.net:5890/aziz/1234/66743
-#EXTINF:-1 tvg-chno="344" group-title="Cable - USA",STARZ ENCORE WESTERNS
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2015/07/starz_encore2.jpg" group-title="Cable - USA",Starz Encore HD
+http://topiptv.net:5890/aziz/1234/66742
+#EXTINF:-1 tvg-chno="344" tvg-logo="https://www.ilovesatellitetv.com/images/encore-westerns.jpg" group-title="Cable - USA",STARZ ENCORE WESTERNS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58600
-#EXTINF:-1 tvg-chno="345" group-title="Cable - USA",STARZ IN BLACK
+#EXTINF:-1 tvg-chno="345" tvg-logo="https://legacy.shadowandact.com/wp-content/uploads/2016/05/starz_in_black.jpg" group-title="Cable - USA",STARZ IN BLACK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58599
-#EXTINF:-1 tvg-chno="346" tvg-id="Showtime Showcase - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/starz_family.png" group-title="Cable - USA",STARZ KIDS & FAMILY
+#EXTINF:-1 tvg-chno="346" tvg-logo="https://www.ilovesatellitetv.com/images/encore-family.jpg" group-title="Cable - USA",STARZ KIDS & FAMILY
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58711
-#EXTINF:-1 tvg-chno="347" group-title="Cable - USA",SUNDANCE
+#EXTINF:-1 tvg-chno="347" tvg-logo="https://images.amcnetworks.com/festival.sundancetv.com/wp-content/uploads/2017/12/sundance_tv_logo.png" group-title="Cable - USA",SUNDANCE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58633
-#EXTINF:-1 tvg-chno="348" tvg-id="TBS - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/syfy.png" group-title="Cable - USA",SYFY
+#EXTINF:-1 tvg-chno="348" tvg-logo="https://blog.iinet.net.au/wp-content/uploads/2014/04/Syfy_feature.jpg" group-title="Cable - USA",SYFY
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58632
-#EXTINF:-1 tvg-chno="349" tvg-id="TBS - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/syfy.png" group-title="Cable - USA",SyFy HD US
+#EXTINF:-1 tvg-chno="349" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/SciFi_Logo.svg/1280px-SciFi_Logo.svg.png" group-title="Cable - USA",SyFy HD US
 http://topiptv.net:5890/aziz/1234/66744
-#EXTINF:-1 tvg-chno="350" tvg-id="TBS - East-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/syfy.png" group-title="Cable - USA",SyFy US
+#EXTINF:-1 tvg-chno="350" tvg-logo="https://blog.iinet.net.au/wp-content/uploads/2014/04/Syfy_feature.jpg" group-title="Cable - USA",SyFy US
 http://topiptv.net:5890/aziz/1234/66745
-#EXTINF:-1 tvg-chno="351" group-title="Cable - USA",TBN TRINITY BROADCASTING NETWORK
+#EXTINF:-1 tvg-chno="351" tvg-logo="https://i.pinimg.com/originals/44/bb/1b/44bb1baace4007b06cce9df833998ff2.jpg" group-title="Cable - USA",TBN TRINITY BROADCASTING NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58631
-#EXTINF:-1 tvg-chno="352" group-title="Cable - USA",TBS
+#EXTINF:-1 tvg-chno="352" tvg-logo="https://www.logolynx.com/images/logolynx/0f/0f599cd2b8ec60f764009dfd7b103cf6.png" group-title="Cable - USA",TBS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58630
-#EXTINF:-1 tvg-chno="353" group-title="Cable - USA",TBS HD US
+#EXTINF:-1 tvg-chno="353" tvg-logo="https://kval.com/resources/media/aa2d83ee-996f-4393-95e8-c52eaca644aa-large16x9_MGN_1280x960_80331B00RJMKV.jpg" group-title="Cable - USA",TBS HD US
 http://topiptv.net:5890/aziz/1234/66746
-#EXTINF:-1 tvg-chno="354" tvg-id="WE (Womens Entertainment) - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tcm.png" group-title="Cable - USA",TCM
+#EXTINF:-1 tvg-chno="354" tvg-logo="https://i.pinimg.com/originals/b0/75/ab/b075abee37b29c3fea3cf36daba42e01.png" group-title="Cable - USA",TCM
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58629
-#EXTINF:-1 tvg-chno="355" tvg-id="WGN America - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/teennick.png" group-title="Cable - USA",TEEN NICK
+#EXTINF:-1 tvg-chno="355" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/teennick.png" group-title="Cable - USA",TEEN NICK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58710
-#EXTINF:-1 tvg-chno="356" group-title="Cable - USA",TELEMUNDO
+#EXTINF:-1 tvg-chno="356" tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="Cable - USA",TELEMUNDO
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58628
-#EXTINF:-1 tvg-chno="357" tvg-id="Golf Channel USA-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tennischannel.png" group-title="Cable - USA",TENNIS HD
+#EXTINF:-1 tvg-chno="357" tvg-logo="https://i.pinimg.com/originals/7f/e5/f4/7fe5f45cc63ae2b92d080382b5dafb55.png" group-title="Cable - USA",TENNIS HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58765
-#EXTINF:-1 tvg-chno="358" tvg-id="WPIX New York (SUPERSTATION)-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cw.png" group-title="Cable - USA",THE CW HD CHICAGO
+#EXTINF:-1 tvg-chno="358" tvg-logo="https://s3-us-west-2.amazonaws.com/test-bucket-dfn/wp-content/uploads/2019/06/05102722/cw-dare-to-defy-250x250.png" group-title="Cable - USA",THE CW CHICAGO
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58626
-#EXTINF:-1 tvg-chno="359" tvg-id="WAPA America-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cw.png" group-title="Cable - USA",THE CW PIX 11
+#EXTINF:-1 tvg-chno="359" tvg-logo="https://www.bgca.org/-/media/Images/partners/TheCW_logo_325x215.jpg" group-title="Cable - USA",THE CW PIX 11
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58627
-#EXTINF:-1 tvg-chno="360" group-title="Cable - USA",THE WEATHER CHANNEL HD
+#EXTINF:-1 tvg-chno="360" tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2015/03/twc400.jpg" group-title="Cable - USA",THE WEATHER CHANNEL HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58752
-#EXTINF:-1 tvg-chno="361" tvg-id="Science-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tlc.png" group-title="Cable - USA",TLC CHANNEL
+#EXTINF:-1 tvg-chno="361" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/TLC_HD.png" group-title="Cable - USA",TLC CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58625
-#EXTINF:-1 tvg-chno="362" tvg-id="FX Networks East Coast-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tnt.png" group-title="Cable - USA",TNT
+#EXTINF:-1 tvg-chno="362" tvg-logo="https://i.ytimg.com/vi/C5zuonkJelo/hqdefault.jpg" group-title="Cable - USA",TNT
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58624
-#EXTINF:-1 tvg-chno="363" tvg-id="FX Networks East Coast-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tnt.png" group-title="Cable - USA",TNT HD US
+#EXTINF:-1 tvg-chno="363" tvg-logo="https://i.pinimg.com/originals/16/9d/dd/169dddc3fba8a4b5eadc2b6cd7b0a38c.png" group-title="Cable - USA",TNT HD US
 http://topiptv.net:5890/aziz/1234/66747
-#EXTINF:-1 tvg-chno="364" group-title="Cable - USA",TRAVEL CHANNEL
+#EXTINF:-1 tvg-chno="364" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Cable - USA",TRAVEL CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58737
-#EXTINF:-1 tvg-chno="365" group-title="Cable - USA",Travel Channel HD US
+#EXTINF:-1 tvg-chno="365" tvg-logo="https://travel.home.sndimg.com/content/dam/images/travel/editorial/homepage/TRVL-default-image_4x3.jpg.rend.hgtvcom.616.462.suffix/1539121995359.jpeg" group-title="Cable - USA",Travel Channel HD US
 http://topiptv.net:5890/aziz/1234/66748
-#EXTINF:-1 tvg-chno="366" tvg-id="Comedy Central (US) - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/trutv.png" group-title="Cable - USA",TRU TV
+#EXTINF:-1 tvg-chno="366" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Cable - USA",TRU TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58623
-#EXTINF:-1 tvg-chno="367" tvg-id="Comedy Central (US) - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/trutv.png" group-title="Cable - USA",truTV HD US
+#EXTINF:-1 tvg-chno="367" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Cable - USA",truTV HD
 http://topiptv.net:5890/aziz/1234/66749
-#EXTINF:-1 tvg-chno="368" tvg-id="Freeform - East Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tvland2015.png" group-title="Cable - USA",TV LAND HD
+#EXTINF:-1 tvg-chno="368" tvg-logo="https://www.logolynx.com/images/logolynx/s_68/68963b708fe54cc1adbedafeee9f278e.png" group-title="Cable - USA",TV LAND HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58622
-#EXTINF:-1 tvg-chno="369" tvg-id="Fox Sports 2-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tvgnetwork.png" group-title="Cable - USA",TVG HORSE RACING
+#EXTINF:-1 tvg-chno="369" tvg-logo="https://m.media-amazon.com/images/M/MV5BODk3MjVhOGUtNmQwNC00NjMxLTkxYjUtMzQ2ZWVlODQ0NDRmXkEyXkFqcGdeQXVyNTA1MzA4Nzc@._V1_.jpg" group-title="Cable - USA",TVG HORSE RACING
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58764
-#EXTINF:-1 tvg-chno="370" group-title="Cable - USA",TVONE
+#EXTINF:-1 tvg-chno="370" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="Cable - USA",TVONE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58621
-#EXTINF:-1 tvg-chno="371" group-title="Cable - USA",UFC 24/7
+#EXTINF:-1 tvg-chno="371" tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/ufc.png" group-title="Cable - USA",UFC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58763
-#EXTINF:-1 tvg-chno="372" group-title="Cable - USA",UFC Fight Pass US
+#EXTINF:-1 tvg-chno="372" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="Cable - USA",UFC Fight Pass US
 http://topiptv.net:5890/aziz/1234/66750
-#EXTINF:-1 tvg-chno="373" group-title="Cable - USA",UNIMAS
+#EXTINF:-1 tvg-chno="373" tvg-logo="https://www.streamingobserver.com/wp-content/uploads/2017/04/UniMas_live_stream.jpg" group-title="Cable - USA",UNIMAS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58620
-#EXTINF:-1 tvg-chno="374" group-title="Cable - USA",UNIVERSAL HD
+#EXTINF:-1 tvg-chno="374" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/universal-channel-png-8.png" group-title="Cable - USA",UNIVERSAL HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58619
-#EXTINF:-1 tvg-chno="375" group-title="Cable - USA",UNIVERSAL KIDS HD
+#EXTINF:-1 tvg-chno="375" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/220px-Universal_Kids.svg.png" group-title="Cable - USA",UNIVERSAL KIDS HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58709
-#EXTINF:-1 tvg-chno="376" group-title="Cable - USA",UNIVISION
+#EXTINF:-1 tvg-chno="376" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/01/super-brand-color.png" group-title="Cable - USA",UNIVISION
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58618
-#EXTINF:-1 tvg-chno="377" group-title="Cable - USA",Univision HD US
+#EXTINF:-1 tvg-chno="377" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/01/super-brand-color.png" group-title="Cable - USA",Univision HD
 http://topiptv.net:5890/aziz/1234/66754
-#EXTINF:-1 tvg-chno="378" group-title="Cable - USA",UNIVISION TDN
+#EXTINF:-1 tvg-chno="378" tvg-logo="https://i.televisa.com/2017/04/utdn.jpg" group-title="Cable - USA",UNIVISION TDN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58617
-#EXTINF:-1 tvg-chno="379" tvg-id="truTV USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/usa.png" group-title="Cable - USA",US Network HD US
-http://topiptv.net:5890/aziz/1234/66751
-#EXTINF:-1 tvg-chno="380" tvg-id="truTV USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/usa.png" group-title="Cable - USA",USA HD US
+#EXTINF:-1 tvg-chno="380" tvg-logo="https://i.pinimg.com/474x/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f--logo-tv-usa-network.jpg" group-title="Cable - USA",USA HD US
 http://topiptv.net:5890/aziz/1234/66752
-#EXTINF:-1 tvg-chno="381" tvg-id="truTV USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/usa.png" group-title="Cable - USA",USA NETWORK
+#EXTINF:-1 tvg-chno="381" tvg-logo="https://www.usanetwork.com/sites/usanetwork/files/styles/769x434/public/2017/06/USAlogo_generic_1920x1080%5B1%5D.jpg" group-title="Cable - USA",USA NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58616
-#EXTINF:-1 tvg-chno="382" tvg-id="truTV USA - Eastern-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/usa.png" group-title="Cable - USA",USA Network HD US
+#EXTINF:-1 tvg-chno="382" tvg-logo="https://i.pinimg.com/474x/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f--logo-tv-usa-network.jpg" group-title="Cable - USA",USA Network Alt
 http://topiptv.net:5890/aziz/1234/66753
-#EXTINF:-1 tvg-chno="383" group-title="Cable - USA",VH1 Classic US
+#EXTINF:-1 tvg-chno="379" tvg-logo="https://i.pinimg.com/474x/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f--logo-tv-usa-network.jpg" group-title="Cable - USA",USA Network HD
+http://topiptv.net:5890/aziz/1234/66751
+#EXTINF:-1 tvg-chno="383" tvg-logo="https://i.pinimg.com/originals/f4/d4/dd/f4d4ddc98d4f65a62a3cdb46603c387c.png" group-title="Cable - USA",VH1 Classic
 http://topiptv.net:5890/aziz/1234/66755
-#EXTINF:-1 tvg-chno="384" group-title="Cable - USA",VH1 HD
+#EXTINF:-1 tvg-chno="384" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Video_Hits_One_HD.png" group-title="Cable - USA",VH1 HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58760
-#EXTINF:-1 tvg-chno="385" group-title="Cable - USA",VICELAND
+#EXTINF:-1 tvg-chno="385" tvg-logo="https://www.sbs.com.au/guide/sites/sbs.com.au.guide/files/styles/full/public/2470_viceland_phase01_twitter_header_dated_0.jpg" group-title="Cable - USA",VICELAND
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58615
-#EXTINF:-1 tvg-chno="386" tvg-id="A and E US - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/we_womens.png" group-title="Cable - USA",We TV
+#EXTINF:-1 tvg-chno="386" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/89/102D0E76-C504-12A8-975F87F64ADEC4D1.jpg" group-title="Cable - USA",We TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58706
-#EXTINF:-1 tvg-chno="387" tvg-id="A and E US - Eastern Feed-US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/we_womens.png" group-title="Cable - USA",WE TV
+#EXTINF:-1 tvg-chno="387" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/89/102D0E76-C504-12A8-975F87F64ADEC4D1.jpg" group-title="Cable - USA",WE TV HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58614
-#EXTINF:-1 tvg-chno="388" group-title="Cable - USA",WGN AMERICA
+#EXTINF:-1 tvg-chno="388" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0NzEyMTQ4NTM3MjU1MDU5/wgn-america-photo.png" group-title="Cable - USA",WGN AMERICA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58613
-#EXTINF:-1 tvg-chno="389" group-title="Cable - USA",WORLD FISHING NETWORK
+#EXTINF:-1 tvg-chno="389" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/otm/otm_large.png" group-title="Cable - USA",WORLD FISHING NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58738
-#EXTINF:-1 tvg-chno="390" group-title="Cable - USA",WWE
+#EXTINF:-1 tvg-chno="390" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1200px-WWE_Logo.svg.png" group-title="Cable - USA",WWE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58762
-#EXTINF:-1 tvg-chno="391" group-title="Cable - USA",WWE HD US
+#EXTINF:-1 tvg-chno="391" tvg-logo="https://www.ewrestlingnews.com/wp-content/uploads/2017/05/GoGo_Toys_2015.png" group-title="Cable - USA",WWE HD US
 http://topiptv.net:5890/aziz/1234/66756
-#EXTINF:-1 tvg-chno="392" group-title="Cable - USA",WWE Network FHD US
+#EXTINF:-1 tvg-chno="392" tvg-logo="https://www.wrestlezone.com/assets/uploads/2014/06/new-WWE-logo.png" group-title="Cable - USA",WWE Network 4KUS
 http://topiptv.net:5890/aziz/1234/66757
-#EXTINF:-1 tvg-chno="393" group-title="Cable - USA",WWE US
+#EXTINF:-1 tvg-chno="393" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1200px-WWE_Logo.svg.png" group-title="Cable - USA",WWE US
 http://topiptv.net:5890/aziz/1234/66758
-#EXTINF:-1 tvg-chno="394" group-title="Cable - USA",Zee Cinema US
+#EXTINF:-1 tvg-chno="394" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2011/01/175241field8.jpg" group-title="Cable - USA",Zee Cinema
 http://topiptv.net:5890/aziz/1234/66759
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/Fb3iZnm.png" group-title="CANADA",Assemblee Nationale du Quebec
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
@@ -5837,9 +5853,9 @@ http://192.99.17.12:6192/stream
 http://74.50.122.103:9128/;stream
 #EXTINF:-1 tvg-chno="467" tvg-name="CvsRadio1 - Reggae Jam" group-title="Radio",CvsRadio1 - Reggae Jam
 http://74.50.122.103:9128/;stream
-#EXTINF:-1 tvg-chno="468" tvg-id="SundanceTV USA - East-US" tvg-name="dance" tvg-logo="http://static.iptv-epg.com/de/DAZN.de.png" group-title="Radio",dance
+#EXTINF:-1 tvg-chno="468" tvg-id="SundanceTV USA - East" tvg-name="dance" tvg-logo="http://static.iptv-epg.com/de/DAZN.de.png" group-title="Radio",dance
 http://streaming.radionomy.com/DjZoliPartyMixRadio
-#EXTINF:-1 tvg-chno="469" tvg-id="SundanceTV USA - East-US" tvg-name="dance" tvg-logo="http://static.iptv-epg.com/de/DAZN.de.png" group-title="Radio",dance
+#EXTINF:-1 tvg-chno="469" tvg-id="SundanceTV USA - East" tvg-name="dance" tvg-logo="http://static.iptv-epg.com/de/DAZN.de.png" group-title="Radio",dance
 http://94.23.66.173:80/stream
 #EXTINF:-1 tvg-chno="470" tvg-name="Dance Wave! - Retro Hungary [Opt-1]" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",Dance Wave! - Retro Hungary [Opt-1]
 http://retro.dancewave.online/retrodance.mp3
@@ -5907,13 +5923,13 @@ https://ice55.securenetsystems.net/DASH71
 http://198.178.123.23:7368/;stream
 #EXTINF:-1 tvg-chno="502" tvg-name="Direct Life 92.1 FM" group-title="Radio",Direct Life 92.1 FM
 http://198.178.123.23:7368/;stream
-#EXTINF:-1 tvg-chno="503" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="disco" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",disco
+#EXTINF:-1 tvg-chno="503" tvg-id="Investigation Discovery USA - Eastern" tvg-name="disco" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",disco
 http://italo.live-streams.nl:80/live
-#EXTINF:-1 tvg-chno="504" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="disco" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",disco
+#EXTINF:-1 tvg-chno="504" tvg-id="Investigation Discovery USA - Eastern" tvg-name="disco" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",disco
 http://streaming.radionomy.com/danceradio1
-#EXTINF:-1 tvg-chno="505" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="disco" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",disco
+#EXTINF:-1 tvg-chno="505" tvg-id="Investigation Discovery USA - Eastern" tvg-name="disco" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",disco
 http://ice04.fluidstream.net:80/fluid0402.mp3
-#EXTINF:-1 tvg-chno="506" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="disco" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",disco
+#EXTINF:-1 tvg-chno="506" tvg-id="Investigation Discovery USA - Eastern" tvg-name="disco" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",disco
 http://streaming.radionomy.com/CoCoon-Oldies
 #EXTINF:-1 tvg-chno="507" tvg-name="Disco Fever" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",Disco Fever
 https://ice55.securenetsystems.net/DASH4
@@ -5925,13 +5941,13 @@ https://ice55.securenetsystems.net/DASH4
 https://ice55.securenetsystems.net/DASH4
 #EXTINF:-1 tvg-chno="511" tvg-name="discofox" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",discofox
 http://schlager-high.rautemusik.fm
-#EXTINF:-1 tvg-chno="512" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="Discover" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",Discover
+#EXTINF:-1 tvg-chno="512" tvg-id="Investigation Discovery USA - Eastern" tvg-name="Discover" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",Discover
 https://ice55.securenetsystems.net/DASH46
-#EXTINF:-1 tvg-chno="513" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="Discover" group-title="Radio",Discover
+#EXTINF:-1 tvg-chno="513" tvg-id="Investigation Discovery USA - Eastern" tvg-name="Discover" group-title="Radio",Discover
 https://ice55.securenetsystems.net/DASH46
-#EXTINF:-1 tvg-chno="514" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="Discover" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Discover.png" group-title="Radio",Discover
+#EXTINF:-1 tvg-chno="514" tvg-id="Investigation Discovery USA - Eastern" tvg-name="Discover" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Discover.png" group-title="Radio",Discover
 https://ice55.securenetsystems.net/DASH46
-#EXTINF:-1 tvg-chno="515" tvg-id="Investigation Discovery USA - Eastern-US" tvg-name="Discover" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",Discover
+#EXTINF:-1 tvg-chno="515" tvg-id="Investigation Discovery USA - Eastern" tvg-name="Discover" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",Discover
 https://ice55.securenetsystems.net/DASH46
 #EXTINF:-1 tvg-chno="516" tvg-name="Djam Radio" group-title="Radio",Djam Radio
 http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
@@ -6101,13 +6117,13 @@ http://icecast.omroep.nl/funx-latin-bb-mp3
 http://icecast.omroep.nl/funx-latin-sb-mp3
 #EXTINF:-1 tvg-chno="599" tvg-name="FunX Latin [Opt-2]" group-title="Radio",FunX Latin [Opt-2]
 http://icecast.omroep.nl/funx-latin-sb-mp3
-#EXTINF:-1 tvg-chno="600" tvg-id="Fusion-US" tvg-name="Fusion" group-title="Radio",Fusion
+#EXTINF:-1 tvg-chno="600" tvg-id="Fusion" tvg-name="Fusion" group-title="Radio",Fusion
 https://ice55.securenetsystems.net/DASH88
-#EXTINF:-1 tvg-chno="601" tvg-id="Fusion-US" tvg-name="Fusion" tvg-logo="http://static.iptv-epg.com/us/Fusion.us.png" group-title="Radio",Fusion
+#EXTINF:-1 tvg-chno="601" tvg-id="Fusion" tvg-name="Fusion" tvg-logo="http://static.iptv-epg.com/us/Fusion.us.png" group-title="Radio",Fusion
 https://ice55.securenetsystems.net/DASH88
-#EXTINF:-1 tvg-chno="602" tvg-id="Fusion-US" tvg-name="Fusion" tvg-logo="http://static.iptv-epg.com/us/Fusion.us.png" group-title="Radio",Fusion
+#EXTINF:-1 tvg-chno="602" tvg-id="Fusion" tvg-name="Fusion" tvg-logo="http://static.iptv-epg.com/us/Fusion.us.png" group-title="Radio",Fusion
 https://ice55.securenetsystems.net/DASH88
-#EXTINF:-1 tvg-chno="603" tvg-id="Fusion-US" tvg-name="Fusion" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/FUSION/fusion__324.png" group-title="Radio",Fusion
+#EXTINF:-1 tvg-chno="603" tvg-id="Fusion" tvg-name="Fusion" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/FUSION/fusion__324.png" group-title="Radio",Fusion
 https://ice55.securenetsystems.net/DASH88
 #EXTINF:-1 tvg-chno="604" tvg-name="Futuro FM 88.9 Santiago [AAC]" group-title="Radio",Futuro FM 88.9 Santiago [AAC]
 http://19793.live.streamtheworld.com/FUTUROAAC.aac
@@ -9323,9 +9339,9 @@ http://46.20.3.246/stream/55/
 http://46.20.3.246/stream/57/
 #EXTINF:-1 tvg-chno="2210" tvg-name="Radyoland - Rockland" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",Radyoland - Rockland
 http://46.20.3.246/stream/57/
-#EXTINF:-1 tvg-chno="2211" tvg-id="National Geographic US - Eastern-US" tvg-name="rap" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",rap
+#EXTINF:-1 tvg-chno="2211" tvg-id="National Geographic US - Eastern" tvg-name="rap" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",rap
 http://streaming.radionomy.com/City-SlyckerRadio
-#EXTINF:-1 tvg-chno="2212" tvg-id="National Geographic US - Eastern-US" tvg-name="rap" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",rap
+#EXTINF:-1 tvg-chno="2212" tvg-id="National Geographic US - Eastern" tvg-name="rap" tvg-logo="https://i1.pngguru.com/preview/776/184/884/radio-icon-telecommunications-tower-antenna-radio-broadcasting-wireless-radio-wave-icon-design-purple-png-clipart.jpg" group-title="Radio",rap
 http://streaming.radionomy.com/TKPgaming
 #EXTINF:-1 tvg-chno="2213" tvg-name="Ratpack" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="Radio",Ratpack
 https://ice55.securenetsystems.net/DASH5
