@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://bitsbb01.erd-hosting.com/WG2MP.xml.gz"
+﻿#EXTM3U x-tvg-url="http://epg.geniptv.com/epg/epg.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-id="friends247" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" group-title="24-7 Streams",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24-7 Streams",24/7 Kuroko's Basketball
@@ -1967,15 +1967,17 @@ http://topiptv.net:5890/aziz/1234/55910
 http://topiptv.net:5890/aziz/1234/55911
 #EXTINF:-1 tvg-chno="274" tvg-id="YourTV UK" tvg-name="YourTV UK" tvg-logo="http://195.154.221.171/picons/yourtvuk.png" group-title="Cable - UK",YourTV UK
 http://topiptv.net:5890/aziz/1234/55912
-#EXTINF:-1 tvg-chno="1" tvg-id="A&amp;E Network HDTV (A&amp;EHD)" tvg-logo="https://www.allamericandish.com/wp-content/uploads/2015/09/AE-logo.jpg" group-title="Cable - USA",A&E Tv
+#EXTINF:-1 tvg-chno="1" tvg-id="AandE US" tvg-logo="https://www.allamericandish.com/wp-content/uploads/2015/09/AE-logo.jpg" group-title="Cable - USA",A&E Tv
 http://topiptv.net:5890/aziz/1234/66594
-#EXTINF:-1 tvg-chno="2" tvg-id="A&amp;E Network HDTV (A&amp;EHD)" tvg-logo="https://www.allamericandish.com/wp-content/uploads/2015/09/AE-logo.jpg" group-title="Cable - USA",A&E TV HD
+#EXTINF:-1 tvg-id="cbs-kmtv-omaha-ne/1243" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/1c306ef/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F93%2F73%2Fe6d295434cdc87b8808494e765df%2Fkmtv-geographic-locator-600x200.png" group-title="Cable - USA",KMTV3 Omaha News
+https://content-ausw2.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70/e.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dvideos%26categories%3D%26refdomain%3D3newsnow.com%26iframed%3D0%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&pbs=9e34aeb53427487cad354c65786e207d
+#EXTINF:-1 tvg-chno="2" tvg-id="AandE US" tvg-logo="https://www.allamericandish.com/wp-content/uploads/2015/09/AE-logo.jpg" group-title="Cable - USA",A&E TV HD
 http://topiptv.net:5890/aziz/1234/66595
-#EXTINF:-1 tvg-chno="3" tvg-id="ABC Family Channel HDTV (East) (ABCF)" tvg-logo="https://motorcycle-logos.com/wp-content/uploads/2017/08/ABC-emblem.jpg" group-title="Cable - USA",ABC EAST HD
+#EXTINF:-1 tvg-chno="3" tvg-id="ABC Eastern US" tvg-logo="https://motorcycle-logos.com/wp-content/uploads/2017/08/ABC-emblem.jpg" group-title="Cable - USA",ABC EAST HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58705
-#EXTINF:-1 tvg-chno="4" tvg-id="ABC Family Channel HDTV (East) (ABCF)" tvg-logo="https://www.soapoperadigest.com/wp-content/uploads/files/ABC_logo_2007_0.png" group-title="Cable - USA",ABC FHD US
+#EXTINF:-1 tvg-chno="4" tvg-id="ABC Eastern US" tvg-logo="https://www.soapoperadigest.com/wp-content/uploads/files/ABC_logo_2007_0.png" group-title="Cable - USA",ABC 4K
 http://topiptv.net:5890/aziz/1234/66596
-#EXTINF:-1 tvg-chno="5" tvg-id="ABC Family Channel HDTV (East) (ABCF)" tvg-logo="https://programminginsider.com/wp-content/uploads/2019/03/Abc-logo.jpg" group-title="Cable - USA",ABC HD US
+#EXTINF:-1 tvg-chno="5" tvg-id="ABC Eastern US" tvg-logo="https://programminginsider.com/wp-content/uploads/2019/03/Abc-logo.jpg" group-title="Cable - USA",ABC HD
 http://topiptv.net:5890/aziz/1234/66597
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="Cable - USA",ABC NEWS HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58751
@@ -1991,17 +1993,17 @@ http://topiptv.net:5890/aziz/1234/66599
 http://topiptv.net:5890/aziz/1234/66600
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://i.ytimg.com/vi/M9JMYBsOeY4/maxresdefault.jpg" group-title="Cable - USA",Amazing Discoveries HD US
 http://topiptv.net:5890/aziz/1234/66603
-#EXTINF:-1 tvg-chno="13" tvg-id="AMC HDTV (East) (AMCHD)" tvg-logo="https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/06/amc-logo-gold-redesign-1200x707.jpg" group-title="Cable - USA",AMC
+#EXTINF:-1 tvg-chno="13" tvg-id="AMC US" tvg-logo="https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/06/amc-logo-gold-redesign-1200x707.jpg" group-title="Cable - USA",AMC
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58702
-#EXTINF:-1 tvg-chno="14" tvg-id="AMC HDTV (East) (AMCHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="Cable - USA",AMC 4K
+#EXTINF:-1 tvg-chno="14" tvg-id="AMC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="Cable - USA",AMC 4K
 http://topiptv.net:5890/aziz/1234/66601
-#EXTINF:-1 tvg-chno="15" tvg-id="AMC HDTV (East) (AMCHD)" tvg-logo="https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/06/amc-logo-gold-redesign-1200x707.jpg" group-title="Cable - USA",AMC HD
+#EXTINF:-1 tvg-chno="15" tvg-id="AMC US" tvg-logo="https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/06/amc-logo-gold-redesign-1200x707.jpg" group-title="Cable - USA",AMC HD
 http://topiptv.net:5890/aziz/1234/66602
 #EXTINF:-1 tvg-chno="16" tvg-id="American Heroes Channel (AHC)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/ahc_logo.png" group-title="Cable - USA",AMERICAN HEROES CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58701
-#EXTINF:-1 tvg-chno="17" tvg-id="Animal Planet HDTV (East) (APHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Cable - USA",ANIMAL PLANET
+#EXTINF:-1 tvg-chno="17" tvg-id="Animal Planet US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Cable - USA",ANIMAL PLANET
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58726
-#EXTINF:-1 tvg-chno="18" tvg-id="Animal Planet HDTV (East) (APHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Cable - USA",Animal Planet HD
+#EXTINF:-1 tvg-chno="18" tvg-id="Animal Planet US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Cable - USA",Animal Planet HD
 http://topiptv.net:5890/aziz/1234/66604
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png" group-title="Cable - USA",ANTENNA TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58700
@@ -2013,9 +2015,9 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58698
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58708
 #EXTINF:-1 tvg-chno="23" tvg-id="BBC America HDTV (East) (BBC)" tvg-logo="https://pbs.twimg.com/profile_images/1214207021592932353/ahUlP3hd_400x400.jpg" group-title="Cable - USA",BBC AMERICA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58697
-#EXTINF:-1 tvg-chno="24" tvg-id="beIN Sports HDTV (English) (BEIN)" tvg-logo="http://elifetv.etisalat.ae:33100/EPG/jsp/images/universal/film/logo/20161231/1/100000000000001521332/100000000000001521332_6315165264_1483219842952.jpg" group-title="Cable - USA",BEIN SPORT USA
+#EXTINF:-1 tvg-chno="24" tvg-id="beIN Sport HD US" tvg-logo="http://elifetv.etisalat.ae:33100/EPG/jsp/images/universal/film/logo/20161231/1/100000000000001521332/100000000000001521332_6315165264_1483219842952.jpg" group-title="Cable - USA",BEIN SPORT USA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58812
-#EXTINF:-1 tvg-chno="25" tvg-id="beIN Sports HDTV (English) (BEIN)" tvg-logo="https://stream4television.files.wordpress.com/2014/06/4f663-bein_sports_1hd_couleur.jpg" group-title="Cable - USA",beINSports 1 HD
+#EXTINF:-1 tvg-chno="25" tvg-id="beIN Sport HD US" tvg-logo="https://stream4television.files.wordpress.com/2014/06/4f663-bein_sports_1hd_couleur.jpg" group-title="Cable - USA",beINSports 1 HD
 http://topiptv.net:5890/aziz/1234/66605
 #EXTINF:-1 tvg-chno="26" tvg-id="Black Entertainment Television HDTV (East) (BET-HD)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/bettv.png" group-title="Cable - USA",BET HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58696
@@ -2039,21 +2041,21 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58724
 http://topiptv.net:5890/aziz/1234/66610
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2015/04/Bounce_TVOurWay_logo_general_market.png" group-title="Cable - USA",BOUNCE TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58693
-#EXTINF:-1 tvg-chno="37" tvg-id="Bravo HDTV (East) (BRAVOD)" tvg-logo="https://i1.pngguru.com/preview/256/781/233/tv-channel-icons-pack-bravo-black-png-icon.jpg" group-title="Cable - USA",BRAVO
+#EXTINF:-1 tvg-chno="37" tvg-id="Bravo US" tvg-logo="https://i1.pngguru.com/preview/256/781/233/tv-channel-icons-pack-bravo-black-png-icon.jpg" group-title="Cable - USA",BRAVO
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58692
-#EXTINF:-1 tvg-chno="38" tvg-id="Bravo HDTV (East) (BRAVOD)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/bravo-png-4.png" group-title="Cable - USA",Bravo HD
+#EXTINF:-1 tvg-chno="38" tvg-id="Bravo US" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/bravo-png-4.png" group-title="Cable - USA",Bravo HD
 http://topiptv.net:5890/aziz/1234/66611
-#EXTINF:-1 tvg-chno="39" tvg-id="Bravo HDTV (East) (BRAVOD)" tvg-logo="https://i1.pngguru.com/preview/256/781/233/tv-channel-icons-pack-bravo-black-png-icon.jpg" group-title="Cable - USA",Bravo US
+#EXTINF:-1 tvg-chno="39" tvg-id="Bravo US" tvg-logo="https://i1.pngguru.com/preview/256/781/233/tv-channel-icons-pack-bravo-black-png-icon.jpg" group-title="Cable - USA",Bravo 4k
 http://topiptv.net:5890/aziz/1234/66612
 #EXTINF:-1 tvg-chno="40" tvg-id="The BUZZ (BUZZ)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41lGS2XvG7L.png" group-title="Cable - USA",BUZZER
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58691
 #EXTINF:-1 tvg-chno="41" tvg-id="KBYU Brigham Young University TV (BYUTV)" tvg-logo="https://universe.byu.edu/wp-content/uploads/2015/11/Modern-Sailor-Cougar1.jpg" group-title="Cable - USA",BYU TV US
 http://topiptv.net:5890/aziz/1234/66607
-#EXTINF:-1 tvg-chno="42" tvg-id="Cable Satellite Public Affairs Network (CSPAN)" tvg-logo="https://www.logolynx.com/images/logolynx/23/23e7cc4464fdf0d862fa632ca27fbe58.jpeg" group-title="Cable - USA",C-Span 1 US
+#EXTINF:-1 tvg-chno="42" tvg-id="C-Span 1 US" tvg-logo="https://www.logolynx.com/images/logolynx/23/23e7cc4464fdf0d862fa632ca27fbe58.jpeg" group-title="Cable - USA",C-Span 1
 http://topiptv.net:5890/aziz/1234/66613
-#EXTINF:-1 tvg-chno="43" tvg-id="Cable Satellite Public Affairs Network 2 (CSPAN2)" tvg-logo="https://www.logolynx.com/images/logolynx/7e/7e15fbc94fb64072d24aed00cead5601.jpeg" group-title="Cable - USA",C-Span 2 US
+#EXTINF:-1 tvg-chno="43" tvg-id="C-Span 2 US" tvg-logo="https://www.logolynx.com/images/logolynx/7e/7e15fbc94fb64072d24aed00cead5601.jpeg" group-title="Cable - USA",C-Span 2 US
 http://topiptv.net:5890/aziz/1234/66614
-#EXTINF:-1 tvg-chno="44" tvg-id="Cable Satellite Public Affairs Network 3 (CSPAN3)" tvg-logo="https://www.logolynx.com/images/logolynx/20/2023fde2737cfb4ccb5cd6bad4f4805e.jpeg" group-title="Cable - USA",C-Span 3 US
+#EXTINF:-1 tvg-chno="44" tvg-id="C-Span 3 US" tvg-logo="https://www.logolynx.com/images/logolynx/20/2023fde2737cfb4ccb5cd6bad4f4805e.jpeg" group-title="Cable - USA",C-Span 3 US
 http://topiptv.net:5890/aziz/1234/66615
 #EXTINF:-1 tvg-chno="45" tvg-id="Cable News Network (CNN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Cable - USA",Cable News Network HD (CNN)
 http://topiptv.net:5890/aziz/1234/66623
@@ -2067,25 +2069,25 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58722
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58690
 #EXTINF:-1 tvg-chno="50" tvg-id="WCBS HDTV (CBS)" tvg-logo="https://www.logolynx.com/images/logolynx/s_87/876780f28ff30907030ab6ef73facdd5.jpeg" group-title="Cable - USA",CBS NY HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58689
-#EXTINF:-1 tvg-chno="51" tvg-id="CBS Sports Network (CBSSN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBS SPORTS NETWORK
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58810
 #EXTINF:-1 tvg-chno="52" tvg-id="CBS Sports Network (CBSSN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBS Sports Network
 http://topiptv.net:5890/aziz/1234/66708
+#EXTINF:-1 tvg-chno="51" tvg-id="CBS Sports Network (CBSSN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBS SPORTS NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58810
 #EXTINF:-1 tvg-chno="53" tvg-id="KCBS HDTV (CBS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CBS_2018.png" group-title="Cable - USA",CBS US
 http://topiptv.net:5890/aziz/1234/66616
 #EXTINF:-1 tvg-chno="54" tvg-id="KCBS HDTV (CBS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBSN HD US
 http://topiptv.net:5890/aziz/1234/66617
 #EXTINF:-1 tvg-chno="55" tvg-id="CBS Sports Network (CBSSN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Cable - USA",CBSN SPORTS NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58809
-#EXTINF:-1 tvg-chno="56" tvg-id="Five Star Max HDTV (5MXHD)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="Cable - USA",CineMax 5 StarMax US
+#EXTINF:-1 tvg-chno="56" tvg-id="5 StarMAX Eastern US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="Cable - USA",CineMax 5 StarMax US
 http://topiptv.net:5890/aziz/1234/66625
-#EXTINF:-1 tvg-chno="57" tvg-id="ActionMAX HDTV (East) (AMXHD)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CineMax Action HD US
+#EXTINF:-1 tvg-chno="57" tvg-id="ActionMAX Eastern US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CineMax Action HD US
 http://topiptv.net:5890/aziz/1234/66626
-#EXTINF:-1 tvg-chno="58" tvg-id="ActionMAX HDTV (East) (AMXHD)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CINEMAX ACTION MAX EAST
+#EXTINF:-1 tvg-chno="58" tvg-id="ActionMAX Eastern US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CINEMAX ACTION MAX EAST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58612
-#EXTINF:-1 tvg-chno="59" tvg-id="ActionMAX HDTV (East) (AMXHD)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",Cinemax Action US
+#EXTINF:-1 tvg-chno="59" tvg-id="ActionMAX Eastern US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",Cinemax Action US
 http://topiptv.net:5890/aziz/1234/66630
-#EXTINF:-1 tvg-chno="60" tvg-id="ActionMAX HDTV (East) (AMXHD)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CineMax ActionMax East US
+#EXTINF:-1 tvg-chno="60" tvg-id="ActionMAX Eastern US" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/actionmax.png" group-title="Cable - USA",CineMax ActionMax East US
 http://topiptv.net:5890/aziz/1234/66627
 #EXTINF:-1 tvg-chno="61" tvg-id="Cinemax HDTV (East) (MAXHD)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/cinemax.png" group-title="Cable - USA",CINEMAX EAST
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58611
@@ -2283,10 +2285,10 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58675
 http://topiptv.net:5890/aziz/1234/66674
 #EXTINF:-1 tvg-chno="158" tvg-id="Fuse (East) (FUSE)" tvg-logo="https://1.bp.blogspot.com/_QLmlmkcmzig/TDFprphfGtI/AAAAAAAAAgo/kTxuJX272q4/s1600/fuse.png" group-title="Cable - USA",FUSE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58674
-#EXTINF:-1 tvg-chno="159" tvg-id="Fusion HD (FUSN)" tvg-logo="https://fuusion.net/wp-content/uploads/2015/09/Untitled-100.png" group-title="Cable - USA",FUSION
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58673
 #EXTINF:-1 tvg-chno="160" tvg-id="Fusion HD (FUSN)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fusion.png" group-title="Cable - USA",Fusion
 http://topiptv.net:5890/aziz/1234/66618
+#EXTINF:-1 tvg-chno="159" tvg-id="Fusion HD (FUSN)" tvg-logo="https://fuusion.net/wp-content/uploads/2015/09/Untitled-100.png" group-title="Cable - USA",FUSION
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58673
 #EXTINF:-1 tvg-chno="161" tvg-id="FX HDTV (East) (FX HD)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fx_logo.png" group-title="Cable - USA",FX
 http://topiptv.net:5890/aziz/1234/66654
 #EXTINF:-1 tvg-chno="162" tvg-id="FX HDTV (East) (FX HD)" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/02/09/Untitled-2_1.jpg" group-title="Cable - USA",FX HD
@@ -2431,10 +2433,10 @@ http://topiptv.net:5890/aziz/1234/66700
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58652
 #EXTINF:-1 tvg-chno="232" tvg-id="National Geographic Channel HDTV (NGCHD)" tvg-logo="https://seeklogo.net/wp-content/uploads/2016/05/national-geographic-channel-logo-vector-download.jpg" group-title="Cable - USA",NAT GEO USA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58728
-#EXTINF:-1 tvg-chno="233" tvg-id="NatGeo WILD HDTV (NGWILD)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/nat-geo-wild-34d22bd9cfeb208abd0e802c83d08489.png" group-title="Cable - USA",NAT GEO WILD HD US
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58727
 #EXTINF:-1 tvg-chno="234" tvg-id="NatGeo WILD HDTV (NGWILD)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/nat-geo-wild-34d22bd9cfeb208abd0e802c83d08489.png" group-title="Cable - USA",Nat Geo Wild HD US
 http://topiptv.net:5890/aziz/1234/66716
+#EXTINF:-1 tvg-chno="233" tvg-id="NatGeo WILD HDTV (NGWILD)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/nat-geo-wild-34d22bd9cfeb208abd0e802c83d08489.png" group-title="Cable - USA",NAT GEO WILD HD US
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58727
 #EXTINF:-1 tvg-chno="235" tvg-id="National Geographic Channel HDTV (NGCHD)" tvg-logo="https://www.nationalgeographic.co.uk/images/logo.png" group-title="Cable - USA",Nat Geographic HD US
 http://topiptv.net:5890/aziz/1234/66717
 #EXTINF:-1 tvg-chno="236" tvg-id="National Geographic Channel HDTV (NGCHD)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2016/01/national-geographic-channel-logo.jpg" group-title="Cable - USA",National Geographic US
