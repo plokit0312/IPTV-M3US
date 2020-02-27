@@ -1967,7 +1967,7 @@ http://topiptv.net:5890/aziz/1234/55910
 http://topiptv.net:5890/aziz/1234/55911
 #EXTINF:-1 tvg-chno="274" tvg-id="YourTV UK" tvg-name="YourTV UK" tvg-logo="http://195.154.221.171/picons/yourtvuk.png" group-title="Cable - UK",YourTV UK
 http://topiptv.net:5890/aziz/1234/55912
-#EXTINF:-1 tvg-chno="1" tvg-id="AandE US" tvg-logo="https://www.allamericandish.com/wp-content/uploads/2015/09/AE-logo.jpg" group-title="Cable - USA",A&E Tv
+#EXTINF:-1 tvg-chno="1" tvg-id="AandE US" tvg-name="AandE US" tvg-logo="https://www.allamericandish.com/wp-content/uploads/2015/09/AE-logo.jpg" group-title="Cable - USA",A&E Tv
 http://topiptv.net:5890/aziz/1234/66594
 #EXTINF:-1 tvg-id="cbs-kmtv-omaha-ne/1243" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/1c306ef/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F93%2F73%2Fe6d295434cdc87b8808494e765df%2Fkmtv-geographic-locator-600x200.png" group-title="Cable - USA",KMTV3 Omaha News
 https://content-ausw2.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70/e.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dvideos%26categories%3D%26refdomain%3D3newsnow.com%26iframed%3D0%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&pbs=9e34aeb53427487cad354c65786e207d
