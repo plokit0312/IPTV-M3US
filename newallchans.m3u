@@ -1,29 +1,29 @@
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/guide.xml.gz"
-#EXTINF:0 tvg-chno="1" tvg-logo="http://logo.ddnb.tn/logochanel/320.png" group-title="-- Box Office --",Box Office 1
+#EXTINF:0 tvg-chno="1" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/320.png" group-title="-- Box Office --",Box Office 1
 http://nvkdn.redi-vo.com/iptv/ch320?code=138137164006399&key=11928
-#EXTINF:0 tvg-chno="2" tvg-logo="http://logo.ddnb.tn/logochanel/321.png" group-title="-- Box Office --",Box Office 2
+#EXTINF:0 tvg-chno="2" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/321.png" group-title="-- Box Office --",Box Office 2
 http://nvkdn.redi-vo.com/iptv/ch321?code=138137164006399&key=29693
-#EXTINF:0 tvg-chno="3" tvg-logo="http://logo.ddnb.tn/logochanel/322.png" group-title="-- Box Office --",Box Office 3
+#EXTINF:0 tvg-chno="3" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/322.png" group-title="-- Box Office --",Box Office 3
 http://nvkdn.redi-vo.com/iptv/ch322?code=138137164006399&key=13202
-#EXTINF:0 tvg-chno="4" tvg-logo="http://logo.ddnb.tn/logochanel/323.png" group-title="-- Box Office --",Box Office 4
+#EXTINF:0 tvg-chno="4" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/323.png" group-title="-- Box Office --",Box Office 4
 http://nvkdn.redi-vo.com/iptv/ch323?code=138137164006399&key=18444
-#EXTINF:0 tvg-chno="5" tvg-logo="http://logo.ddnb.tn/logochanel/324.png" group-title="-- Box Office --",Box Office 5
+#EXTINF:0 tvg-chno="5" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/324.png" group-title="-- Box Office --",Box Office 5
 http://nvkdn.redi-vo.com/iptv/ch324?code=138137164006399&key=26019
-#EXTINF:0 tvg-chno="6" tvg-logo="http://logo.ddnb.tn/logochanel/325.png" group-title="-- Box Office --",Box Office 6
+#EXTINF:0 tvg-chno="6" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/325.png" group-title="-- Box Office --",Box Office 6
 http://nvkdn.redi-vo.com/iptv/ch325?code=138137164006399&key=28217
-#EXTINF:0 tvg-chno="7" tvg-logo="http://logo.ddnb.tn/logochanel/326.png" group-title="-- Box Office --",Box Office 7
+#EXTINF:0 tvg-chno="7" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/326.png" group-title="-- Box Office --",Box Office 7
 http://nvkdn.redi-vo.com/iptv/ch326?code=138137164006399&key=36334
-#EXTINF:0 tvg-chno="8" tvg-logo="http://logo.ddnb.tn/logochanel/327.png" group-title="-- Box Office --",Box Office 8
+#EXTINF:0 tvg-chno="8" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/327.png" group-title="-- Box Office --",Box Office 8
 http://nvkdn.redi-vo.com/iptv/ch327?code=138137164006399&key=40590
-#EXTINF:0 tvg-chno="9" tvg-logo="http://logo.ddnb.tn/logochanel/328.png" group-title="-- Box Office --",Box Office 9
+#EXTINF:0 tvg-chno="9" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/328.png" group-title="-- Box Office --",Box Office 9
 http://nvkdn.redi-vo.com/iptv/ch328?code=138137164006399&key=64740
-#EXTINF:0 tvg-chno="10" tvg-logo="http://logo.ddnb.tn/logochanel/329.png" group-title="-- Box Office --",Box Office 10
+#EXTINF:0 tvg-chno="10" tvg-id="boxoffice1" tvg-logo="http://logo.ddnb.tn/logochanel/329.png" group-title="-- Box Office --",Box Office 10
 http://nvkdn.redi-vo.com/iptv/ch329?code=138137164006399&key=33896
 #EXTINF:-1 tvg-chno="1" tvg-id="Friends274" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" group-title="24-7 Streams",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24-7 Streams",24/7 Kuroko's Basketball
+#EXTINF:-1 tvg-chno="2" tvg-id="247KurokosBasketball" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24-7 Streams",24/7 Kuroko's Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24-7 Streams",24/7 Marvel Movies
+#EXTINF:-1 tvg-chno="3" tvg-id="247MarvelMovies" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24-7 Streams",24/7 Marvel Movies
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" group-title="24-7 Streams",24/7 Reality TV 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
