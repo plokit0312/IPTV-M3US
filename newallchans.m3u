@@ -27,7 +27,7 @@ http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" group-title="24-7 Streams",24/7 Reality TV 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24-7 Streams",24/7 Resident Evil Movies
+#EXTINF:-1 tvg-chno="5" tvg-id="247ResidentevilMovies" tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24-7 Streams",24/7 Resident Evil Movies
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="24-7 Streams",24/7 Retro TV 
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
