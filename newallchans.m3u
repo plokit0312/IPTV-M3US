@@ -3747,9 +3747,9 @@ https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="KIDS",Kartoon Fun Time (Opt-2)
 https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-name="Learn Arabic 24/7 with ArabicPod101 TV" tvg-logo="https://i.ytimg.com/vi/fNxEFO26dHo/maxresdefault.jpg" group-title="Learning Languages",Learn Arabic 24/7 with ArabicPod101 TV
+#EXTINF:-1 tvg-chno="1" tvg-id="learnarabbic" tvg-name="Learn Arabic 24/7 with ArabicPod101 TV" tvg-logo="https://i.ytimg.com/vi/fNxEFO26dHo/maxresdefault.jpg" group-title="Learning Languages",Learn Arabic 24/7 with ArabicPod101 TV
 https://apps.erdesigns.eu/youtube/fNxEFO26dHo
-#EXTINF:-1 tvg-chno="2" tvg-name="Learn Danish 24/7 with DanishClass101 TV" tvg-logo="https://i.ytimg.com/vi/ayej_UIbAoM/maxresdefault.jpg" group-title="Learning Languages",Learn Danish 24/7 with DanishClass101 TV
+#EXTINF:-1 tvg-chno="2" tvg-id="learnDanish" tvg-name="Learn Danish 24/7 with DanishClass101 TV" tvg-logo="https://i.ytimg.com/vi/ayej_UIbAoM/maxresdefault.jpg" group-title="Learning Languages",Learn Danish 24/7 with DanishClass101 TV
 https://apps.erdesigns.eu/youtube/ayej_UIbAoM
 #EXTINF:-1 tvg-chno="3" tvg-name="Learn Dutch 24/7 with DutchPod101 TV" tvg-logo="https://i.ytimg.com/vi/ijPkXz4ZfrM/maxresdefault.jpg" group-title="Learning Languages",Learn Dutch 24/7 with DutchPod101 TV
 https://apps.erdesigns.eu/youtube/ijPkXz4ZfrM
