@@ -3077,6 +3077,12 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-name="Rooster Teeth TV" tvg-logo="https://i.imgur.com/3o9cG76.png" group-title="Gaming",Rooster Teeth TV
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5812b821249444e05d09cc4c/featuredImage.jpg" group-title="Gaming",MinecrafTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5c7f3286e48904fb2586/featuredImage.jpg" group-title="Gaming",Nerdist
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://assets.roosterteeth.com/img/generic_rt_cover.jpg" group-title="Gaming",Rooster TV Beta
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/RYm3X3W.png" group-title="IRELAND",RTÉ 1
 http://185.142.29.240:9981/stream/channelid/439248771
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/RYm3X3W.png" group-title="IRELAND",RTÉ 1 (+1)
@@ -17267,80 +17273,179 @@ https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="WEATHER",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-
-
-#EXTINF:-1 group-title="Test-FilmOn",BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Snoop Dogg
-https://edge-1192-ch-gv.filmon.com/live/3470.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",FOTV - USA - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2746.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",FOTV - UK - Filmon
-https://edge-1192-ch-gv.filmon.com/live/689.high.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Test-FilmOn",FOTV - UK - Filmon
-https://edge-1192-ch-gv.filmon.com/live/689.high.stream/playlist.m3u8 
-
-#EXTINF:-1 group-title="Test-FilmOn",FilmOn Studio - Filmon
-https://edge-1192-ch-gv.filmon.com/live/1676.high.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Test-FilmOn",TV GOLD - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2894.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Drive-In TV  - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2627.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Battle Rap - Filmon
-https://edge-1192-ch-gv.filmon.com/live/3104.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Ether Weekly - Filmon
-https://edge-1192-ch-gv.filmon.com/live/3332.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Tribe TV - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2987.high.stream/playlist.m3u8 
-
-#EXTINF:-1 group-title="Test-FilmOn",FilmOn Reality - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2621.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Filmon Red Carpet - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2933.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",The Christmas Channel - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2722.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Imagination TV - Filmon
-https://edge-1192-ch-gv.filmon.com/live/3161.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Guido - Filmon
-https://edge-1192-ch-gv.filmon.com/live/1976.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Nub TV - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2885.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Live From the Center of the Universe
-https://edge-1192-ch-gv.filmon.com/live/2725.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",PPV Celebrity Fight - Filmon
-https://edge-1192-ch-gv.filmon.com/live/412.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Joe Nation - Filmon
-https://edge-1192-ch-gv.filmon.com/live/3184.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",OC Real Estate TV - Filmon
-https://edge-1192-ch-gv.filmon.com/live/3319.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",VertroTV - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2873.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",MHL TV - Filmon
-https://edge-1192-ch-gv.filmon.com/live/1973.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Test-FilmOn",Jennifer Stano - Filmon
-https://edge-1192-ch-gv.filmon.com/live/2044.high.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="testing",Action Movies
+https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IbCZ8BrdrOY/maxresdefault.jpg" group-title="testing",Adult Swim Off The Air
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2014/07/25/asLogo_tn_1.jpg" group-title="testing",Adult Swim Stream
+https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/amazonlive-media-prod/broadcast/a/a4006cb3-8f2a-48a7-a6cf-e4ea275c17f7/image/slate.jpg" group-title="testing",Amazon Today's Deals Live
+https://usher.ttvnw.net/api/lvs/hls/lvs.AmazonLiveTools-prod.958d17b0-5e50-4d81-a444-1d99885e851a.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/250px-AFHV_new_logo_%28main%29.png" group-title="testing",America's Funniest Home Videos
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxafhv/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_americanClassics.png" group-title="testing",American Classics
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/793150060917907456/jpJURr5n_400x400.jpg" group-title="testing",Battery Pop
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6Bk0JhfXTVs/maxresdefault.jpg" group-title="testing",Black Jesus 24/7
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/featuredImage.jpg" group-title="testing",BUZZR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://www.byutv.org/content/png-logos/byutv/app/square/1280x720.png" group-title="testing",BYUTV
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
+#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="testing",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-logo="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/11/CC_Refresh__Logo_WordMark-890-2018.png" group-title="testing",Comedy Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F54817135%2F279208278849%2F1%2Foriginal.20190108-203552?h=230&w=460&auto=compress&rect=0%2C75%2C2400%2C1200&s=a89b0031835b02fe2238c1c0d5980982" group-title="testing",Comedy Central Stand-Up
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://shorefire.com/images/uploads/client/CDlogo.jpg" group-title="testing",Comedy Dynamics
+https://comedydynamicsclean-redbox-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-comedydynamicscleanredbox/CDN/1920x1080_4870800/index.m3u8
+#EXTINF:-1 tvg-logo="https://shorefire.com/images/uploads/client/CDlogo.jpg" group-title="testing",Comedy Dynamics 2
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1044272252072521728/IWUQk2nK_400x400.jpg" group-title="testing",CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t1.0-9/18556122_333090183772760_6877334484797890099_n.png?_nc_cat=105&_nc_ohc=NZFatDrSqU0AX8LtVKw&_nc_ht=scontent.fosu1-1.fna&oh=a9710e5d735021669683e2386ccf37f7&oe=5EEEDFEA" group-title="testing",Demand Africa
+https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/master.m3u8
+#EXTINF:-1 group-title="testing",Desvox
+http://spacecowboy.cc/live/desvox.m3u8
+#EXTINF:-1 group-title="testing",Dielan
+http://spacecowboy.cc/live/dielan.m3u8
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="testing",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" group-title="testing",Dove Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t1.0-9/49342330_820886054909505_4383462502973833216_n.png?_nc_cat=110&_nc_ohc=IcHBajrpdVgAX_wbW6A&_nc_ht=scontent.fosu1-1.fna&oh=aec08fb9f1f38e4dfb78f0825b18f627&oe=5EFC2A7E" group-title="testing",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 group-title="testing",Druid
+http://spacecowboy.cc/live/druid.m3u8
+#EXTINF:-1 tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="testing",ElectricNOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2016/08/the-eric-andre-show.jpg?w=640" group-title="testing",Eric Andre Show 24/7
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/01/03214531-586b-4683-813e-a3252999e063/thumbnail/1280x720/e359894b45362a16a256ad90e5a1aec2/et-live-logo-1920x1080.jpg" group-title="testing",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l791V4Or1LtC6kk0VX2DEKtJaex4IBs9XFgMAg=s900-c-k-c0xffffffff-no-rj-mo" group-title="testing",FailArmy
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_Family_Feud.png" group-title="testing",Family Feud
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_filmHub-copy.png" group-title="testing",FilmHub
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78Hdk9rq6wjchysWzLLxFQKClhBfyHghiKRCw=s900-c-k-c0xffffffff-no-rj-mo" group-title="testing",Filmrise
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/629190/food52_small.jpg" group-title="testing",Food52
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Forensic_Files_Titlecard_Seasons_1-6.png/220px-Forensic_Files_Titlecard_Seasons_1-6.png" group-title="testing",Forensic Files
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxforensicfiles/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="testing",Freon
+http://spacecowboy.cc/live/freon.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999224/300x300.png?type=smartCast_channelTile" group-title="testing",Global Got Talent
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" group-title="testing",Gravitas Movies
+https://dai.google.com/linear/hls/pa/event/EpqgwRlpQKq73ySVSohJWA/stream/f3b56329-3ec7-4684-948c-4194ef970a86:CBF2/master.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t31.0-8/p960x960/14940215_683032278531461_8289967831208298707_o.jpg?_nc_cat=105&_nc_ohc=e2k6r305u3cAX8ldMvQ&_nc_ht=scontent.fosu1-1.fna&_nc_tp=6&oh=a638e9e83a1c348e075a90287eae3233&oe=5EB59C19" group-title="testing",Hi-Yah!
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="testing",IGN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1093651342051074048/qBCrwQ4i_400x400.jpg" group-title="testing",Journy
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7149ZiRIyzL._SY355_.png" group-title="testing",Kabillion
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="testing",Knotteye
+http://spacecowboy.cc/live/knotteye.m3u8
+#EXTINF:-1 tvg-logo="http://turfclub.net/wp-content/uploads/2017/01/lastpodcastontheleftlogo-web.jpg" group-title="testing",Last Stream on the Left
+https://adultswimhls-i.akamaihd.net/hls/live/249294/adultswim_5/main/1/stream.m3u8?hdnts=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="testing",Law & Crime
+https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="testing",Law & Crime 2
+https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="testing",Law & Crime 3
+https://live-lawandcrime.simplestreamcdn.com/landc_d3/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="testing",Law & Crime 4
+https://live-lawandcrime.simplestreamcdn.com/landc_d4/live.m3u8
+#EXTINF:-1 tvg-logo="https://da4pli3l5vc0d.cloudfront.net/a2/8a/a28a297425f0afd0a07f3d8c67c8261f75624b00" group-title="testing",LLC
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
+#EXTINF:-1 tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_Maverick.png" group-title="testing",Maverick Black Cinema
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cSJsoHA8xdg/hqdefault.jpg" group-title="testing",MovieMix
+https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/a468bdd3-a0e5-4a4b-bae7-3e784ee5f4e4:CBF2/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.next-episode.net/tv-shows-images/huge/mr.-pickles.jpg" group-title="testing",Mr. Pickles 24/7
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" group-title="testing",MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/colorful-mtv-logo-white-png-20.png" group-title="testing",MTV Dating
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/MTV2_Guy_Code.jpg" group-title="testing",MTV Guy Code
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://north.viacom.com/wp-content/uploads/2016/11/Teen-Mom-Uk_1920x1080-1024x576.jpg" group-title="testing",MTV Teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/180820194833-the-hills-large-169.jpg" group-title="testing",MTV The Hills
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="testing",Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="testing",Nick Jr.
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Now_This_Logo_White.svg/1200px-Now_This_Logo_White.svg.png" group-title="testing",NowThis
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/paramount-channel-png-7.png" group-title="testing",Paramount Movie Channel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/krwg/files/styles/x_large/public/201703/kids_0.jpg" group-title="testing",PBS Kids Channel
+https://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:-1 tvg-logo="https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8" group-title="testing",People Are Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2017/05/pluto-tv.jpg?w=1000&h=563&crop=1" group-title="testing",Pluto Movies
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59976841a09fd13c9b590ce8/featuredImage.jpg" group-title="testing",Pluto Movies 2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5887ba337b8e94223eb121bd/featuredImage.jpg" group-title="testing",Pluto TV Her
+https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_pocketWatch.png" group-title="testing",pocket.watch
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-pocket-watch/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image8920332510.jpg" group-title="testing",POPSTAR!
+https://vcnpopstar.teleosmedia.com/stream/popstar/livefeed/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/comedy_300x300.png" group-title="testing",Redbox Comedy
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/1920x1080_4870800/index.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/rush_300x300.png" group-title="testing",Redbox Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/1920x1080_4870800/index.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/spotlight_300x300.png" group-title="testing",Redbox Spotlight
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/1920x1080_4870800/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1020450526742233089/XaX7h5fe_400x400.jpg" group-title="testing",Revry
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="testing",Rick and Morty 24/7
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1177731151936417797/SZmTKsTH_400x400.png" group-title="testing",Shout! Factory
+https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/od5JJuj7xZ0/maxresdefault.jpg" group-title="testing",Squidbillies 24/7
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:-1 group-title="testing",Ste1lar
+http://spacecowboy.cc/live/ste1lar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QAjjSZS.jpg" group-title="testing",SupTV
+http://91.134.238.137/live/goat/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Rq-7s5SC6ew/hqdefault_live.jpg" group-title="testing",TACH
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_22F-M_tngmSnGnrSLjGR3-NZJ3DS4HHee8Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="testing",Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemadexumo/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="http://tbd.com/social-graph-image.png" group-title="testing",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png" group-title="testing",The Pet Collective
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="http://shopboxingday.ca/wp-content/uploads/2012/12/the-shopping-channel-boxing-day.png" group-title="testing",The Shopping Channel Canada
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mkkK3EQ4fek/maxresdefault.jpg" group-title="testing",Tim and Eric 24/7
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAnx-w2g-kAvZKsEeJNf1R1lqXIUlxz-ChJV-y6eJL00PpY1_" group-title="testing",TUFF TV
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-604/mp4:Tufftv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2u-REuYyJGfioNMEdcSnCED6KqZlcDR0hccDiOZByDoozHRVD" group-title="testing",Unsolved Mysteries with Robert Stack
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78hWI-o5t36hbnpDkWlGDH0SSizkf9YAiC8DA=s900-c-k-c0xffffffff-no-rj-mo" group-title="testing",USA Today
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxusatoday/CDN/960x540_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://scdn.nflximg.net/images/5409/3955409.jpg" group-title="testing",Venture Bros. 24/7
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8?hdnts=
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e2cd77a84e99942f414e68/featuredImage.jpg" group-title="testing",What's On Pluto
+https://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2017/08/29/WS_thumbs.jpg" group-title="testing",Williams Stream 24/7
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1 tvg-logo="https://format-com-cld-res.cloudinary.com/image/private/s--DxRqfBZa--/c_limit,g_center,h_65535,w_960/a_auto,fl_keep_iptc.progressive,q_95/v1/11ad99b9236bdedd92b2b2180fc5517d/YES-TV-CLICK-CLICK-sample.gif" group-title="testing",Yes TV
+http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Your_Pretty_Face_is_Going_to_Hell.png" group-title="testing",Your Pretty Face Is Going To Hell
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
