@@ -47,11 +47,11 @@ http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="247ResidentevilMovies" tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24-7 Streams",24/7 Resident Evil Movies
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="24-7 Streams",24/7 Retro TV 
+#EXTINF:-1 tvg-chno="6" tvg-id="247RetroTV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="24-7 Streams",24/7 Retro TV 
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/FIO7zhZ.png" group-title="24-7 Streams",24/7 Sci-Fi Movies
+#EXTINF:-1 tvg-chno="7" tvg-id="247SciFiMovies" tvg-logo="https://i.imgur.com/FIO7zhZ.png" group-title="24-7 Streams",24/7 Sci-Fi Movies
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://i.imgur.com/t0zs0ST.png" group-title="24-7 Streams",24/7 The Big Bang Theory
+#EXTINF:-1 tvg-chno="8" tvg-id="247TheBigBangTheory" tvg-logo="https://i.imgur.com/t0zs0ST.png" group-title="24-7 Streams",24/7 The Big Bang Theory
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="24-7 Streams",After School Cartoons
 http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
@@ -1923,9 +1923,9 @@ http://topiptv.net:5890/aziz/1234/66596
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58705
 #EXTINF:-1 tvg-chno="6" tvg-id="ABC (KETV)" tvg-logo="https://programminginsider.com/wp-content/uploads/2019/03/Abc-logo.jpg" group-title="Cable - USA",ABC HD
 http://topiptv.net:5890/aziz/1234/66597
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="Cable - USA",ABC NEWS HD
+#EXTINF:-1 tvg-chno="7" tvg-id="ABC (KETV)" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="Cable - USA",ABC NEWS HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58751
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="Cable - USA",ABC News HD US
+#EXTINF:-1 tvg-chno="8" tvg-id="ABC (KETV)" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="Cable - USA",ABC News HD US
 http://topiptv.net:5890/aziz/1234/66598
 #EXTINF:-1 tvg-chno="9" tvg-id="WABC HDTV (ABC)" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/abc.png" group-title="Cable - USA",ABC NY HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58704
@@ -2077,7 +2077,7 @@ http://topiptv.net:5890/aziz/1234/66638
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58734
 #EXTINF:-1 tvg-chno="83" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="Cable - USA",Discovery HD
 http://topiptv.net:5890/aziz/1234/66640
-#EXTINF:-1 tvg-chno="84" tvg-logo="https://img.favpng.com/5/3/16/discovery-hd-showcase-discovery-world-discovery-channel-science-png-favpng-nbSZrDtrYkEZmUZ7aarYekRL1.jpg" group-title="Cable - USA",Discovery HD Showcase US
+#EXTINF:-1 tvg-chno="84" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-logo="https://img.favpng.com/5/3/16/discovery-hd-showcase-discovery-world-discovery-channel-science-png-favpng-nbSZrDtrYkEZmUZ7aarYekRL1.jpg" group-title="Cable - USA",Discovery HD Showcase US
 http://topiptv.net:5890/aziz/1234/66639
 #EXTINF:-1 tvg-chno="85" tvg-id="Discovery Life Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="Cable - USA",Discovery Life Channel
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58733
