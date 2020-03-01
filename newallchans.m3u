@@ -141,6 +141,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-chno="52" tvg-name="Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation" tvg-logo="https://i.ytimg.com/vi/yxIZbzf-D9s/maxresdefault.jpg" group-title="24-7 Streams",Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation
 https://apps.erdesigns.eu/youtube/yxIZbzf-D9s
+#EXTINF:-1 tvg-name="ð´ LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="24-7 Streams",ð´ LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
+https://apps.erdesigns.eu/youtube/933-mhry0Bc
 #EXTINF:-1 tvg-chno="1" tvg-id="Friends274" tvg-logo="https://i.imgur.com/ggjJiDw.png" group-title="24-7 Streams 2",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="247KurokosBasketball" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24-7 Streams 2",24/7 Kuroko's Basketball
@@ -1921,106 +1923,58 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58738
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58613
 #EXTINF:-1 tvg-chno="221" tvg-id="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1200px-WWE_Logo.svg.png" group-title="Cable - USA",WWE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58762
-#EXTINF:-1 tvg-chno="1" group-title="Cartoons",A Bird In A Guilty Cage
-http://archive.org/download/VintageCartoonsSet2MP4/083052ABirdInAGuiltyCageLtBr_1.mp4
-#EXTINF:-1 tvg-chno="2" group-title="Cartoons",Aint She Tweet
-http://archive.org/download/VintageCartoonsSet2MP4/062152AintSheTweetLtBr_1.mp4
-#EXTINF:-1 tvg-chno="3" group-title="Cartoons",All A Bir-r-r-d
-http://archive.org/download/VintageCartoonsSet2MP4/062450AllABir-r-r-dLtBr.mp4
-#EXTINF:-1 tvg-chno="4" group-title="Cartoons",An Egg Scramble
-http://archive.org/download/VintageCartoonsSet2MP4/052750AnEggScrambleMmBr.mp4
-#EXTINF:-1 tvg-chno="5" group-title="Cartoons",Bad Ol Putty Tat
-http://archive.org/download/VintageCartoonsSet2MP4/072349BadOlPuttyTatMmBr.mp4
-#EXTINF:-1 tvg-chno="6" group-title="Cartoons",Ball Bunny
-http://archive.org/download/VintageCartoonsSet2MP4/0708508BallBunnyLtBr.mp4
-#EXTINF:-1 tvg-chno="7" group-title="Cartoons",Beep Beep
-http://archive.org/download/VintageCartoonsSet2MP4/052452BeepBeepMmBr_1.mp4
-#EXTINF:-1 tvg-chno="8" group-title="Cartoons",Birds Anonymous
-http://archive.org/download/VintageCartoonsSet2MP4/081057BirdsAnonymousMmBr_1.mp4
-#EXTINF:-1 tvg-chno="9" group-title="Cartoons",Bowery Bugs
-http://archive.org/download/VintageCartoonsSet2MP4/060449BoweryBugsMmBr.mp4
-#EXTINF:-1 tvg-chno="10" group-title="Cartoons",Cat-tails For Two
-http://archive.org/download/VintageCartoonsSet2MP4/082953Cat-tailsForTwoMmBr_1.mp4
-#EXTINF:-1 tvg-chno="11" group-title="Cartoons",Cheese Chasers
-http://archive.org/download/VintageCartoonsSet2MP4/082551CheeseChasersMmBr.mp4
-#EXTINF:-1 tvg-chno="12" group-title="Cartoons",Chili Weather
-http://archive.org/download/VintageCartoonsSet2MP4/081763ChiliWeatherMm_1.mp4
-#EXTINF:-1 tvg-chno="13" group-title="Cartoons",Corn On The Cop
-http://archive.org/download/VintageCartoonsSet2MP4/072465CornOnTheCopMm_1.mp4
-#EXTINF:-1 tvg-chno="14" group-title="Cartoons",Cracked Quack
-http://archive.org/download/VintageCartoonsSet2MP4/070552CrackedQuackMmBr_1.mp4
-#EXTINF:-1 tvg-chno="15" group-title="Cartoons",Dog Gone South
-http://archive.org/download/VintageCartoonsSet2MP4/082650DogGoneSouthMmBr.mp4
-#EXTINF:-1 tvg-chno="16" group-title="Cartoons",Dough For The Do-do
-http://archive.org/download/VintageCartoonsSet2MP4/090249dvdDoughForTheDo-doMm.mp4
-#EXTINF:-1 tvg-chno="17" group-title="Cartoons",Duck Dodgers In The 24th Century
-http://archive.org/download/VintageCartoonsSet2MP4/072553dvdDuckDodgersInThe24thCenturyMm_1.mp4
-#EXTINF:-1 tvg-chno="18" group-title="Cartoons",French Rarebit
-http://archive.org/download/VintageCartoonsSet2MP4/063051FrenchRarebitMmBr.mp4
-#EXTINF:-1 tvg-chno="19" group-title="Cartoons",Going Going Gosh
-http://archive.org/download/VintageCartoonsSet2MP4/082352GoingGoingGoshMm_1.mp4
-#EXTINF:-1 tvg-chno="20" group-title="Cartoons",Golden Yeggs
-http://archive.org/download/VintageCartoonsSet2MP4/080550dvdGoldenYeggsMmBr.mp4
-#EXTINF:-1 tvg-chno="21" group-title="Cartoons",Gone Batty
-http://archive.org/download/VintageCartoonsSet2MP4/090454GoneBattyLtBr_1.mp4
-#EXTINF:-1 tvg-chno="22" group-title="Cartoons",Hare Trimmed
-http://archive.org/download/VintageCartoonsSet2MP4/062053HareTrimmedMm_1.mp4
-#EXTINF:-1 tvg-chno="23" group-title="Cartoons",Hawaiian Aye Aye
-http://archive.org/download/VintageCartoonsSet2MP4/062764HawaiianAyeAyeMm_1.mp4
-#EXTINF:-1 tvg-chno="24" group-title="Cartoons",Hillbilly Hare
-http://archive.org/download/VintageCartoonsSet2MP4/081250HillbillyHareMm.mp4
-#EXTINF:-1 tvg-chno="25" group-title="Cartoons",Honeys Money
-http://archive.org/download/VintageCartoonsSet2MP4/090162HoneysMoneyMm_1.mp4
-#EXTINF:-1 tvg-chno="26" group-title="Cartoons",Its Hummer Time
-http://archive.org/download/VintageCartoonsSet2MP4/072250ItsHummerTimeLtBr.mp4
-#EXTINF:-1 tvg-chno="27" group-title="Cartoons",Leghorn Swoggled
-http://archive.org/download/VintageCartoonsSet2MP4/072851LeghornSwoggledMmBr.mp4
-#EXTINF:-1 tvg-chno="28" group-title="Cartoons",Much Ado About Nutting
-http://archive.org/download/VintageCartoonsSet2MP4/052353MuchAdoAboutNuttingMm_1.mp4
-#EXTINF:-1 tvg-chno="29" group-title="Cartoons",Muzzle Tough
-http://archive.org/download/VintageCartoonsSet2MP4/062654MuzzleToughMm_1.mp4
-#EXTINF:-1 tvg-chno="30" group-title="Cartoons",Often An Orphan
-http://archive.org/download/VintageCartoonsSet2MP4/081349OftenAnOrphanLtBr.mp4
-#EXTINF:-1 tvg-chno="31" group-title="Cartoons",Rabbit Fire
-http://archive.org/download/VintageCartoonsSet2MP4/051951dvdRabbitFireLtBr.mp4
-#EXTINF:-1 tvg-chno="32" group-title="Cartoons",Ready Woolen And Able
-http://archive.org/download/VintageCartoonsSet2MP4/073060ReadyWoolenAndAbleMm_1.mp4
-#EXTINF:-1 tvg-chno="33" group-title="Cartoons",Rocket-bye Baby
-http://archive.org/download/VintageCartoonsSet2MP4/080456Rocket-byeBabyMm_1.mp4
-#EXTINF:-1 tvg-chno="34" group-title="Cartoons",Room And Bird
-http://archive.org/download/VintageCartoonsSet2MP4/060251RoomAndBirdMmBr.mp4
-#EXTINF:-1 tvg-chno="35" group-title="Cartoons",Satans Waitin
-http://archive.org/download/VintageCartoonsSet2MP4/080754SatansWaitinLtBr_1.mp4
-#EXTINF:-1 tvg-chno="36" group-title="Cartoons",Speedy Gonzales
-http://archive.org/download/VintageCartoonsSet2MP4/090755dvdSpeedyGonzalesMm_1.mp4
-#EXTINF:-1 tvg-chno="37" group-title="Cartoons",Stop Look And Hasten
-http://archive.org/download/VintageCartoonsSet2MP4/081454StopLookAndHastenMm_1.mp4
-#EXTINF:-1 tvg-chno="38" group-title="Cartoons",The Ducksters
-http://archive.org/download/VintageCartoonsSet2MP4/090250TheDuckstersLtBr.mp4
-#EXTINF:-1 tvg-chno="39" group-title="Cartoons",The Grey Hounded Hare
-http://archive.org/download/VintageCartoonsSet2MP4/080649TheGreyHoundedHareLtBr.mp4
-#EXTINF:-1 tvg-chno="40" group-title="Cartoons",The Music Mice-tro
-http://archive.org/download/VintageCartoonsSet2MP4/052767TheMusicMice-troMmCnOpening_1.mp4
-#EXTINF:-1 tvg-chno="41" group-title="Cartoons",The Slap-hoppy Mouse
-http://archive.org/download/VintageCartoonsSet2MP4/090156TheSlap-hoppyMouseMm_1.mp4
-#EXTINF:-1 tvg-chno="42" group-title="Cartoons",The Unmentionables
-http://archive.org/download/VintageCartoonsSet2MP4/090763TheUnmentionablesMm_1.mp4
-#EXTINF:-1 tvg-chno="43" group-title="Cartoons",This Is A Life
-http://archive.org/download/VintageCartoonsSet2MP4/070955ThisIsALifeMm_1.mp4
-#EXTINF:-1 tvg-chno="44" group-title="Cartoons",Tree Cornered Tweety
-http://archive.org/download/VintageCartoonsSet2MP4/051956TreeCorneredTweetyMmOpening_1.mp4
-#EXTINF:-1 tvg-chno="45" group-title="Cartoons",Tweet And Lovely
-http://archive.org/download/VintageCartoonsSet2MP4/071859TweetAndLovelyMm_1.mp4
-#EXTINF:-1 tvg-chno="46" group-title="Cartoons",Tweetys Circus
-http://archive.org/download/VintageCartoonsSet2MP4/060455TweetysCircusMm_1.mp4
-#EXTINF:-1 tvg-chno="47" group-title="Cartoons",Wearing Of The Grin
-http://archive.org/download/VintageCartoonsSet2MP4/070451dvdWearingOfTheGrinLtBr.mp4
-#EXTINF:-1 tvg-chno="48" group-title="Cartoons",Whats Opera Doc
-http://archive.org/download/VintageCartoonsSet2MP4/070657WhatsOperaDocMm_1.mp4
-#EXTINF:-1 tvg-chno="49" group-title="Cartoons",Zoom And Bored
-http://archive.org/download/VintageCartoonsSet2MP4/090457ZoomAndBoredMm_1.mp4
-#EXTINF:-1 tvg-chno="50" group-title="Cartoons",Zoom At The Top
-http://archive.org/download/VintageCartoonsSet2MP4/063062ZoomAtTheTopMm_1.mp4
+#EXTINF:-1 tvg-chno="9" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="Cartoons",After School Cartoons
+http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-chno="10" tvg-name="American Dad Full Episodes 24/7 - American Dad Live Stream HD #201" tvg-logo="https://i.ytimg.com/vi/5t71YUiSIfU/maxresdefault.jpg" group-title="Cartoons",American Dad Full Episodes 24/7 - American Dad Live Stream HD #201
+https://apps.erdesigns.eu/youtube/5t71YUiSIfU
+#EXTINF:-1 tvg-chno="15" tvg-name="Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7" tvg-logo="https://i.ytimg.com/vi/Jobv7js-DTw/maxresdefault.jpg" group-title="Cartoons",Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7
+https://apps.erdesigns.eu/youtube/Jobv7js-DTw
+#EXTINF:-1 tvg-chno="16" tvg-name="Booba - All episodes - Funny cartoons for kids - Booba ToonsTV" tvg-logo="https://i.ytimg.com/vi/uNAuMO54yvY/maxresdefault.jpg" group-title="Cartoons",Booba - All episodes - Funny cartoons for kids - Booba ToonsTV
+https://apps.erdesigns.eu/youtube/uNAuMO54yvY
+#EXTINF:-1 tvg-chno="17" tvg-name="Cartoon Marathon | Bananas in Pyjamas Official" tvg-logo="https://i.ytimg.com/vi/OBfKgENfF1w/maxresdefault.jpg" group-title="Cartoons",Cartoon Marathon | Bananas in Pyjamas Official
+https://apps.erdesigns.eu/youtube/OBfKgENfF1w
+#EXTINF:-1 tvg-chno="19" tvg-name="Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou" tvg-logo="https://i.ytimg.com/vi/4bvh4npvgyA/maxresdefault.jpg" group-title="Cartoons",Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou
+https://apps.erdesigns.eu/youtube/4bvh4npvgyA
+#EXTINF:-1 tvg-name="ð´Live! Teen Titans Go! | Love Is In The Air | DC Kids" tvg-logo="https://i.ytimg.com/vi/wUhVM98efxA/maxresdefault.jpg" group-title="Cartoons",ð´Live! Teen Titans Go! | Love Is In The Air | DC Kids
+https://apps.erdesigns.eu/youtube/wUhVM98efxA
+#EXTINF:-1 tvg-chno="21" tvg-name="LIVE LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL" tvg-logo="https://i.ytimg.com/vi/ZY5oov1_jbo/maxresdefault.jpg" group-title="Cartoons",LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL
+https://apps.erdesigns.eu/youtube/ZY5oov1_jbo
+#EXTINF:-1 tvg-chno="26" tvg-name="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="Cartoons",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
+https://apps.erdesigns.eu/youtube/933-mhry0Bc
+#EXTINF:-1 tvg-chno="29" tvg-name="Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!" tvg-logo="https://i.ytimg.com/vi/L1aUhHjflk0/maxresdefault.jpg" group-title="Cartoons",Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!
+https://apps.erdesigns.eu/youtube/L1aUhHjflk0
+#EXTINF:-1 tvg-chno="30" tvg-name="Full Cartoon Episodes Live | Mr Bean Cartoon World" tvg-logo="https://i.ytimg.com/vi/gXARGZF1Wp4/maxresdefault.jpg" group-title="Cartoons",Mr Bean Cartoon World
+https://apps.erdesigns.eu/youtube/gXARGZF1Wp4
+#EXTINF:-1 tvg-chno="34" tvg-name="PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!" tvg-logo="https://i.ytimg.com/vi/AeO6VZ5SLss/maxresdefault.jpg" group-title="Cartoons",PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!
+https://apps.erdesigns.eu/youtube/AeO6VZ5SLss
+#EXTINF:-1 tvg-chno="35" tvg-name="PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes" tvg-logo="https://i.ytimg.com/vi/HOOqENZeUEI/maxresdefault.jpg" group-title="Cartoons",PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes
+https://apps.erdesigns.eu/youtube/HOOqENZeUEI
+#EXTINF:-1 tvg-chno="36" tvg-name="PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon" tvg-logo="https://i.ytimg.com/vi/XWMwQkiRrGI/maxresdefault.jpg" group-title="Cartoons",PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon
+https://apps.erdesigns.eu/youtube/XWMwQkiRrGI
+#EXTINF:-1 tvg-chno="37" tvg-name="Peppa Pig English Episodes LIVE NOW | Peppa Pig Official" tvg-logo="https://i.ytimg.com/vi/ZKCnjxti3mw/maxresdefault.jpg" group-title="Cartoons",Peppa Pig English Episodes LIVE NOW | Peppa Pig Official
+https://apps.erdesigns.eu/youtube/ZKCnjxti3mw
+#EXTINF:-1 tvg-chno="38" tvg-name="POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS" tvg-logo="https://i.ytimg.com/vi/4dblIyFKtP0/maxresdefault.jpg" group-title="Cartoons",POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS
+https://apps.erdesigns.eu/youtube/4dblIyFKtP0
+#EXTINF:-1 tvg-chno="40" tvg-name="Talking Tom and Friends FULL EPISODES!" tvg-logo="https://i.ytimg.com/vi/PbP0_yYXcHU/maxresdefault.jpg" group-title="Cartoons",Talking Tom and Friends FULL EPISODES!
+https://apps.erdesigns.eu/youtube/PbP0_yYXcHU
+#EXTINF:-1 tvg-chno="41" tvg-name="The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7" tvg-logo="https://i.ytimg.com/vi/MDfNSxkCceI/maxresdefault.jpg" group-title="Cartoons",The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7
+https://apps.erdesigns.eu/youtube/MDfNSxkCceI
+#EXTINF:-1 tvg-chno="42" tvg-name="The Fairly OddParents | Full Episodes | OFFICIAL Live Stream" tvg-logo="https://i.ytimg.com/vi/SYKNqX_pzR4/maxresdefault.jpg" group-title="Cartoons",The Fairly OddParents | Full Episodes | OFFICIAL Live Stream
+https://apps.erdesigns.eu/youtube/SYKNqX_pzR4
+#EXTINF:-1 tvg-chno="43" tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="Cartoons",Tom & Jerry (Opt-1)
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="Cartoons",Tom & Jerry (Opt-2)
+https://ws.hls.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-name="Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation" tvg-logo="https://i.ytimg.com/vi/yxIZbzf-D9s/maxresdefault.jpg" group-title="Cartoons",Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation
+https://apps.erdesigns.eu/youtube/yxIZbzf-D9s
+#EXTINF:-1 tvg-name="ð´ LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="Cartoons",ð´ LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
+https://apps.erdesigns.eu/youtube/933-mhry0Bc
+#EXTINF:-1 tvg-name="A Night to Remember | Polly Pocket ð´ LIVE | Full Episodes" tvg-logo="https://i.ytimg.com/vi/KastzVMJg4w/maxresdefault.jpg" group-title="Cartoons",A Night to Remember | Polly Pocket ð´ LIVE | Full Episodes
+https://apps.erdesigns.eu/youtube/KastzVMJg4w
+#EXTINF:-1 tvg-name="Max Brushes Teeth for Wild Lion - LIVE Pencilmate Cartoons" tvg-logo="https://i.ytimg.com/vi/Rvo89LDdeSI/maxresdefault.jpg" group-title="Cartoons",Max Brushes Teeth for Wild Lion - LIVE Pencilmate Cartoons
+https://apps.erdesigns.eu/youtube/Rvo89LDdeSI
+#EXTINF:-1 tvg-name="Oddbods ð´  Munch and Crunch â¤ï¸ Funny Cartoons For Kids" tvg-logo="https://i.ytimg.com/vi/Notp3jNZzF0/maxresdefault.jpg" group-title="Cartoons",Oddbods ð´  Munch and Crunch â¤ï¸ Funny Cartoons For Kids
+https://apps.erdesigns.eu/youtube/Notp3jNZzF0
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="Documentary",CGTN Documentary (Opt-1)
 http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="Documentary",CGTN Documentary (Opt-2)
@@ -2551,6 +2505,12 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://i.imgur.com/vMMR55y.png" group-title="Lifestyle",DABL
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
+#EXTINF:-1 tvg-name="Africam Tembe Elephant Park powered by EXPLORE.org" tvg-logo="https://i.ytimg.com/vi/z5F1a7_dsrs/maxresdefault.jpg" group-title="Live Cams",Africam Tembe Elephant Park powered by EXPLORE.org
+https://apps.erdesigns.eu/youtube/z5F1a7_dsrs
+#EXTINF:-1 tvg-name="LIVE Bird Feeder Cam in Ohio [20+ species observed!]" tvg-logo="https://i.ytimg.com/vi/iNYDhlAYmgg/maxresdefault.jpg" group-title="Live Cams",LIVE Bird Feeder Cam in Ohio [20+ species observed!]
+https://apps.erdesigns.eu/youtube/iNYDhlAYmgg
+#EXTINF:-1 tvg-name="Live Birds In 4K! Cornell Lab FeederWatch Cam at Sapsucker Woods" tvg-logo="https://i.ytimg.com/vi/N609loYkFJo/maxresdefault.jpg" group-title="Live Cams",Live Birds In 4K! Cornell Lab FeederWatch Cam at Sapsucker Woods
+https://apps.erdesigns.eu/youtube/N609loYkFJo
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="Local",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="Local",7News Boston (WHDH)
