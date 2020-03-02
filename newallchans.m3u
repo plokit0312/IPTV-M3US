@@ -1109,59 +1109,59 @@ http://topiptv.net:5890/aziz/1234/55742
 http://topiptv.net:5890/aziz/1234/55743
 #EXTINF:-1 tvg-chno="101" tvg-id="UK - E4 HD" tvg-name="E4 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/E4.png" group-title="Cable - UK",E4 UK
 http://topiptv.net:5890/aziz/1234/55744
-#EXTINF:-1 tvg-chno="102" tvg-name="Eden +1 UK" tvg-logo="edenuk.png" group-title="Cable - UK",Eden +1 UK
+#EXTINF:-1 tvg-chno="102" tvg-id="UK - Eden +1" tvg-name="Eden +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/Eden_%2B1.png" group-title="Cable - UK",Eden +1 UK
 http://topiptv.net:5890/aziz/1234/55745
-#EXTINF:-1 tvg-chno="103" tvg-name="Eden UK" tvg-logo="edenuk.png" group-title="Cable - UK",Eden UK
+#EXTINF:-1 tvg-chno="103" tvg-id="UK - Eden HD" tvg-name="Eden UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/Eden.png" group-title="Cable - UK",Eden UK
 http://topiptv.net:5890/aziz/1234/55746
-#EXTINF:-1 tvg-chno="104" tvg-name="eir Sport 1 UK" tvg-logo="eirsport1uk.png" group-title="Cable - UK",eir Sport 1 UK
+#EXTINF:-1 tvg-chno="104" tvg-name="eir Sport 1 UK" tvg-logo="https://www.techcentral.ie/wp-content/uploads/2016/01/eir_logo_2015_web.jpg" group-title="Cable - UK",eir Sport 1 UK
 http://topiptv.net:5890/aziz/1234/55913
-#EXTINF:-1 tvg-chno="105" tvg-name="eir Sport 2 HD UK" tvg-logo="eirsport2hduk.png" group-title="Cable - UK",eir Sport 2 HD UK
+#EXTINF:-1 tvg-chno="105" tvg-name="eir Sport 2 HD UK" tvg-logo="https://www.techcentral.ie/wp-content/uploads/2016/01/eir_logo_2015_web.jpg" group-title="Cable - UK",eir Sport 2 HD UK
 http://topiptv.net:5890/aziz/1234/55914
-#EXTINF:-1 tvg-chno="106" tvg-name="eir Sport 2 UK" tvg-logo="eirsport2uk.png" group-title="Cable - UK",eir Sport 2 UK
+#EXTINF:-1 tvg-chno="106" tvg-name="eir Sport 2 UK" tvg-logo="https://www.techcentral.ie/wp-content/uploads/2016/01/eir_logo_2015_web.jpg" group-title="Cable - UK",eir Sport 2 UK
 http://topiptv.net:5890/aziz/1234/55915
-#EXTINF:-1 tvg-chno="107" tvg-name="Eurosport 1 HD UK" tvg-logo="eurosport1hduk.png" group-title="Cable - UK",Eurosport 1 HD UK
+#EXTINF:-1 tvg-chno="107" tvg-id="UK - Eurosport 1 HD" tvg-name="Eurosport 1 HD UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/Euro_Sport_HD.png" group-title="Cable - UK",Eurosport 1 HD UK
 http://topiptv.net:5890/aziz/1234/55747
-#EXTINF:-1 tvg-chno="108" tvg-name="Eurosport 2 HD UK" tvg-logo="eurosport2hduk.png" group-title="Cable - UK",Eurosport 2 HD UK
+#EXTINF:-1 tvg-chno="108" tvg-id="UK - Eurosport 2 HD" tvg-name="Eurosport 2 HD UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/Euro_Sport_2_HD.png" group-title="Cable - UK",Eurosport 2 HD UK
 http://topiptv.net:5890/aziz/1234/55748
-#EXTINF:-1 tvg-chno="109" tvg-name="Film4 UK" tvg-logo="film4uk.png" group-title="Cable - UK",Film4 UK
+#EXTINF:-1 tvg-chno="109" tvg-id="UK - Film4" tvg-name="Film4 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/F/Film4.png" group-title="Cable - UK",Film4 UK
 http://topiptv.net:5890/aziz/1234/55752
-#EXTINF:-1 tvg-chno="110" tvg-name="Food Network +1 UK" tvg-logo="foodnetworkuk.png" group-title="Cable - UK",Food Network +1 UK
+#EXTINF:-1 tvg-chno="110" tvg-id="UK - Food Network +1" tvg-name="Food Network +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/F/FoodNetwork%201.png" group-title="Cable - UK",Food Network +1 UK
 http://topiptv.net:5890/aziz/1234/55753
-#EXTINF:-1 tvg-chno="111" tvg-name="Food Network UK" tvg-logo="foodnetworkuk.png" group-title="Cable - UK",Food Network UK
+#EXTINF:-1 tvg-chno="111" tvg-id="UK - Food Network" tvg-name="Food Network UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/F/FoodNetwork.png" group-title="Cable - UK",Food Network UK
 http://topiptv.net:5890/aziz/1234/55754
-#EXTINF:-1 tvg-chno="112" tvg-name="FOX News UK" tvg-logo="foxnewsuk.png" group-title="Cable - UK",FOX News UK
+#EXTINF:-1 tvg-chno="112" tvg-name="FOX News UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/F/FoxNewsHD.png" group-title="Cable - UK",FOX News UK
 http://topiptv.net:5890/aziz/1234/55749
-#EXTINF:-1 tvg-chno="113" tvg-name="FOX UK" tvg-logo="foxuk.png" group-title="Cable - UK",FOX UK
+#EXTINF:-1 tvg-chno="113" tvg-id="UK - FOX" tvg-name="FOX UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/F/Fox_UK.png" group-title="Cable - UK",FOX UK
 http://topiptv.net:5890/aziz/1234/55750
-#EXTINF:-1 tvg-chno="114" tvg-name="FOX+ UK" tvg-logo="foxuk.png" group-title="Cable - UK",FOX+ UK
+#EXTINF:-1 tvg-chno="114" tvg-id="UK - FOX+1" tvg-name="FOX+ UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/F/Fox_UK_%2B1.png" group-title="Cable - UK",FOX+ UK
 http://topiptv.net:5890/aziz/1234/55751
-#EXTINF:-1 tvg-chno="115" tvg-name="Free Sports HD UK" group-title="Cable - UK",Free Sports HD UK
+#EXTINF:-1 tvg-chno="115" tvg-name="Free Sports HD UK" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo-light.png" group-title="Cable - UK",Free Sports HD UK
 http://topiptv.net:5890/aziz/1234/55755
-#EXTINF:-1 tvg-chno="116" tvg-name="GINX eSports TV UK" tvg-logo="ginxesportstvuk.png" group-title="Cable - UK",GINX eSports TV UK
+#EXTINF:-1 tvg-chno="116" tvg-name="GINX eSports TV UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/G/Ginx.png" group-title="Cable - UK",GINX eSports TV UK
 http://topiptv.net:5890/aziz/1234/55756
-#EXTINF:-1 tvg-chno="117" tvg-name="GOLD +1 UK" tvg-logo="golduk.png" group-title="Cable - UK",GOLD +1 UK
+#EXTINF:-1 tvg-chno="117" tvg-id="UK - GOLD +1" tvg-name="GOLD +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/G/Gold_%2B1.png" group-title="Cable - UK",GOLD +1 UK
 http://topiptv.net:5890/aziz/1234/55757
-#EXTINF:-1 tvg-chno="118" tvg-name="GOLD UK" tvg-logo="golduk.png" group-title="Cable - UK",GOLD UK
+#EXTINF:-1 tvg-chno="118" tvg-id="UK - GOLD" tvg-name="GOLD UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/G/Gold.png" group-title="Cable - UK",GOLD UK
 http://topiptv.net:5890/aziz/1234/55758
-#EXTINF:-1 tvg-chno="119" tvg-name="Good Food UK" tvg-logo="goodfooduk.png" group-title="Cable - UK",Good Food UK
+#EXTINF:-1 tvg-chno="119" tvg-id="UK - Good Food" tvg-name="Good Food UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/G/GoodFood.png" group-title="Cable - UK",Good Food UK
 http://topiptv.net:5890/aziz/1234/55759
-#EXTINF:-1 tvg-chno="120" tvg-name="H2 UK" tvg-logo="h2uk.png" group-title="Cable - UK",H2 UK
+#EXTINF:-1 tvg-chno="120" tvg-id="UK - H2" tvg-name="H2 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/H2.png" group-title="Cable - UK",H2 UK
 http://topiptv.net:5890/aziz/1234/55760
-#EXTINF:-1 tvg-chno="121" tvg-name="Hillsong Channel UK" tvg-logo="hillsongchanneluk.png" group-title="Cable - UK",Hillsong Channel UK
+#EXTINF:-1 tvg-chno="121" tvg-name="Hillsong Channel UK" tvg-logo="https://i2.wp.com/selahafrik.com/wp-content/uploads/2016/06/the-hillsong-channel.jpg" group-title="Cable - UK",Hillsong Channel UK
 http://topiptv.net:5890/aziz/1234/55761
-#EXTINF:-1 tvg-chno="122" tvg-name="Hip Hop & R & B Music TV UK" tvg-logo="boxupfrontuk.png" group-title="Cable - UK",Hip Hop & R & B Music TV UK
+#EXTINF:-1 tvg-chno="122" tvg-name="Hip Hop & R & B Music TV UK" tvg-logo="https://cdn-profiles.tunein.com/s240643/images/bannerx.jpg" group-title="Cable - UK",Hip Hop & R & B Music TV UK
 http://topiptv.net:5890/aziz/1234/55691
-#EXTINF:-1 tvg-chno="123" tvg-name="History +1 UK" tvg-logo="historyuk.png" group-title="Cable - UK",History +1 UK
+#EXTINF:-1 tvg-chno="123" tvg-id="UK - HISTORY +1" tvg-name="History +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/History_%2B1.png" group-title="Cable - UK",History +1 UK
 http://topiptv.net:5890/aziz/1234/55762
-#EXTINF:-1 tvg-chno="124" tvg-name="History UK" tvg-logo="historyuk.png" group-title="Cable - UK",History UK
+#EXTINF:-1 tvg-chno="124" tvg-id="UK - HISTORY HD" tvg-name="History UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/HistoryUK.png" group-title="Cable - UK",History UK
 http://topiptv.net:5890/aziz/1234/55763
-#EXTINF:-1 tvg-chno="125" tvg-name="Home +1 UK" tvg-logo="homeuk.png" group-title="Cable - UK",Home +1 UK
+#EXTINF:-1 tvg-chno="125" tvg-id="UK - Home +1" tvg-name="Home +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Home_%2B1.png" group-title="Cable - UK",Home +1 UK
 http://topiptv.net:5890/aziz/1234/55764
-#EXTINF:-1 tvg-chno="126" tvg-name="Home UK" tvg-logo="homeuk.png" group-title="Cable - UK",Home UK
+#EXTINF:-1 tvg-chno="126" tvg-id="UK - Home" tvg-name="Home UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Home.png" group-title="Cable - UK",Home UK
 http://topiptv.net:5890/aziz/1234/55765
-#EXTINF:-1 tvg-chno="127" tvg-name="Horror Channel +1 UK" tvg-logo="horrorchanneluk.png" group-title="Cable - UK",Horror Channel +1 UK
+#EXTINF:-1 tvg-chno="127" tvg-id="UK - Horror Channel +1" tvg-name="Horror Channel +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Horror_Channel_%2B1.png" group-title="Cable - UK",Horror Channel +1 UK
 http://topiptv.net:5890/aziz/1234/55766
-#EXTINF:-1 tvg-chno="128" tvg-name="Horror Channel UK" tvg-logo="horrorchanneluk.png" group-title="Cable - UK",Horror Channel UK
+#EXTINF:-1 tvg-chno="128" tvg-id="UK - Horror Channel" tvg-name="Horror Channel UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/HorrorChannel.png" group-title="Cable - UK",Horror Channel UK
 http://topiptv.net:5890/aziz/1234/55767
 #EXTINF:-1 tvg-chno="129" tvg-name="Investigation Discovery +1 UK" tvg-logo="investigationdiscoveryuk.png" group-title="Cable - UK",Investigation Discovery +1 UK
 http://topiptv.net:5890/aziz/1234/55780
