@@ -687,195 +687,195 @@ http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-chno="143" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7 PLUTO TV",Yu-Gi-Oh! 5D’s
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&emb
-#EXTINF:-1 tvg-chno="1" tvg-id="bein.net - amc" tvg-logo="http://bit.ly/2KGDw6I" group-title="beIN Movies",beIN: AMC
+#EXTINF:-1 tvg-chno="1" tvg-id="bein.net - amc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="beIN Movies",beIN: AMC
 http://dragon2020.com:8080/samara1/samara1/64368
-#EXTINF:-1 tvg-chno="2" tvg-id="bein.net - Baby_TV" group-title="beIN Movies",beIN: Baby
+#EXTINF:-1 tvg-chno="2" tvg-id="bein.net - Baby_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="beIN Movies",beIN: Baby
 http://dragon2020.com:8080/samara1/samara1/64367
-#EXTINF:-1 tvg-chno="3" tvg-name="beIN: Baraeem" tvg-logo="http://bit.ly/2NuCklc" group-title="beIN Movies",beIN: Baraeem
+#EXTINF:-1 tvg-chno="3" tvg-id="bein.net - Baraem" tvg-name="beIN: Baraeem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="beIN Movies",beIN: Baraeem
 http://dragon2020.com:8080/samara1/samara1/64366
-#EXTINF:-1 tvg-chno="4" tvg-id="bein.net - beJUNIOR" tvg-name="beIN: Be Junior" group-title="beIN Movies",beIN: Be Junior
+#EXTINF:-1 tvg-chno="4" tvg-id="bein.net - beJUNIOR" tvg-name="beIN: Be Junior" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2016/04/beJunior-beIN-Logo2.jpg" group-title="beIN Movies",beIN: Be Junior
 http://dragon2020.com:8080/samara1/samara1/64365
-#EXTINF:-1 tvg-chno="5" tvg-id="UK - DMAX" tvg-name="beIN: Dmax" group-title="beIN Movies",beIN: Dmax
+#EXTINF:-1 tvg-chno="5" tvg-id="bein.net - DMAX" tvg-name="beIN: Dmax" tvg-logo="https://media.glassdoor.com/sqll/291772/dmax-squarelogo-1500361212570.png" group-title="beIN Movies",beIN: Dmax
 http://dragon2020.com:8080/samara1/samara1/64364
-#EXTINF:-1 tvg-chno="6" tvg-id="bein.net - DramaHD1" tvg-name="beIN: Drama 1" tvg-logo="http://bit.ly/2KU1Sdd" group-title="beIN Movies",beIN: Drama 1
+#EXTINF:-1 tvg-chno="6" tvg-id="bein.net - DramaHD1" tvg-name="beIN: Drama 1" tvg-logo="https://d3glnpca077ypm.cloudfront.net/images/logo-footer.png" group-title="beIN Movies",beIN: Drama 1
 http://dragon2020.com:8080/samara1/samara1/64363
-#EXTINF:-1 tvg-chno="7" tvg-id="bein.net - DreamWorks" tvg-name="bein.net - DreamWorks" group-title="beIN Movies",beIN: Dreamworks
+#EXTINF:-1 tvg-chno="7" tvg-id="bein.net - DreamWorks" tvg-name="bein.net - DreamWorks" tvg-logo="https://toyworldmag.co.uk/wp-content/uploads/2019/12/Dreamworks-480-8.png" group-title="beIN Movies",beIN: Dreamworks
 http://dragon2020.com:8080/samara1/samara1/64362
-#EXTINF:-1 tvg-chno="8" tvg-name="beIN: Dtx" group-title="beIN Movies",beIN: Dtx
+#EXTINF:-1 tvg-chno="8" tvg-id="bein.net - DLife" tvg-name="beIN: Dtx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/440px-DTX_Logo.png" group-title="beIN Movies",beIN: Dtx
 http://dragon2020.com:8080/samara1/samara1/64361
-#EXTINF:-1 tvg-chno="9" tvg-id="bein.net - fatafeat" tvg-name="beIN: Fatafeat" group-title="beIN Movies",beIN: Fatafeat
+#EXTINF:-1 tvg-chno="9" tvg-id="bein.net - fatafeat" tvg-name="beIN: Fatafeat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fatafeat_Logo_Final.jpg" group-title="beIN Movies",beIN: Fatafeat
 http://dragon2020.com:8080/samara1/samara1/64360
-#EXTINF:-1 tvg-chno="10" tvg-id="bein.net - FOXHD" group-title="beIN Movies",beIN: Fox
+#EXTINF:-1 tvg-chno="10" tvg-id="bein.net - FOXHD" tvg-logo="https://www.logolynx.com/images/logolynx/9d/9d73d2ba76ee2a6e5a9bde604e1ed8d1.jpeg" group-title="beIN Movies",beIN: Fox
 http://dragon2020.com:8080/samara1/samara1/64359
-#EXTINF:-1 tvg-chno="11" tvg-id="bein.net - FOXMovies" tvg-name="FOXMovies - Bein.net" group-title="beIN Movies",beIN: Fox Movies
+#EXTINF:-1 tvg-chno="11" tvg-id="bein.net - FOXMovies" tvg-name="FOXMovies - Bein.net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="beIN Movies",beIN: Fox Movies
 http://dragon2020.com:8080/samara1/samara1/64358
-#EXTINF:-1 tvg-chno="12" tvg-id="bein.net - FOXActionMovies" tvg-name="bein.net - FOXActionMovies" group-title="beIN Movies",beIN: Fox Movies Action
+#EXTINF:-1 tvg-chno="12" tvg-id="bein.net - FOXActionMovies" tvg-name="bein.net - FOXActionMovies" tvg-logo="https://www.pikpng.com/pngl/m/48-485532_this-is-hor-help-logo-bein-fox-movies.png" group-title="beIN Movies",beIN: Fox Movies Action
 http://dragon2020.com:8080/samara1/samara1/64357
-#EXTINF:-1 tvg-chno="13" tvg-id="bein.net - FOXFamilyMovies" tvg-name="beIN: Fox Movies Family" group-title="beIN Movies",beIN: Fox Movies Family
+#EXTINF:-1 tvg-chno="13" tvg-id="bein.net - FOXFamilyMovies" tvg-name="beIN: Fox Movies Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png" group-title="beIN Movies",beIN: Fox Movies Family
 http://dragon2020.com:8080/samara1/samara1/64356
-#EXTINF:-1 tvg-chno="14" tvg-id="UK - Gems TV" tvg-name="beIN: Gem" group-title="beIN Movies",beIN: Gem
+#EXTINF:-1 tvg-chno="14" tvg-id="UK - Gems TV" tvg-name="beIN: Gem" tvg-logo="https://1.bp.blogspot.com/-z3uC4Tnpd3o/XZ9IjSLYPhI/AAAAAAAAgQU/9HAovP3HX6w4xiO0bmHTWwrc1dOQb5_yACLcBGAsYHQ/s1600/Gem%2BUsa.png" group-title="beIN Movies",beIN: Gem
 http://dragon2020.com:8080/samara1/samara1/64355
-#EXTINF:-1 tvg-chno="15" tvg-id="bein.net - gourmet" tvg-name="beIN: Gourmet" group-title="beIN Movies",beIN: Gourmet
+#EXTINF:-1 tvg-chno="15" tvg-id="bein.net - gourmet" tvg-name="beIN: Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Gourmet.png" group-title="beIN Movies",beIN: Gourmet
 http://dragon2020.com:8080/samara1/samara1/64354
-#EXTINF:-1 tvg-chno="16" tvg-name="beIN: Hg tv" group-title="beIN Movies",beIN: Hg tv
+#EXTINF:-1 tvg-chno="16" tvg-id="bein.net - HGTV" tvg-name="beIN: Hg tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png" group-title="beIN Movies",beIN: Hg tv
 http://dragon2020.com:8080/samara1/samara1/64353
-#EXTINF:-1 tvg-chno="17" tvg-id="bein.net - MoviesHD1" tvg-name="beIN: Movies 1 HD" tvg-logo="http://bit.ly/2J6qPNK" group-title="beIN Movies",beIN: Movies 1 HD
+#EXTINF:-1 tvg-chno="17" tvg-id="bein.net - MoviesHD1" tvg-name="beIN: Movies 1 HD" tvg-logo="https://www.bein.net/ar/wp-content/uploads/sites/4/2015/10/MoviesHD1@2x.png" group-title="beIN Movies",beIN: Movies 1 HD
 http://dragon2020.com:8080/samara1/samara1/64373
-#EXTINF:-1 tvg-chno="18" tvg-id="bein.net - MoviesHD2" tvg-logo="http://bit.ly/2u9gATe" group-title="beIN Movies",beIN: Movies 2 HD
+#EXTINF:-1 tvg-chno="18" tvg-id="bein.net - MoviesHD2" tvg-logo="https://1.bp.blogspot.com/-6D-hLkjuXHs/W0yk_PWpoYI/AAAAAAAAAMo/L-rPuLyC0g8MqhwMsom-Kp_BkfyHXT7xACLcBGAs/s300/MoviesHD2.png" group-title="beIN Movies",beIN: Movies 2 HD
 http://dragon2020.com:8080/samara1/samara1/64372
-#EXTINF:-1 tvg-chno="19" tvg-id="bein.net - MoviesHD3" tvg-name="bein.net - MoviesHD3" tvg-logo="http://bit.ly/2J2k1Aw" group-title="beIN Movies",beIN: Movies 3 HD
+#EXTINF:-1 tvg-chno="19" tvg-id="bein.net - MoviesHD3" tvg-name="bein.net - MoviesHD3" tvg-logo="https://3.bp.blogspot.com/-Qq7g6j_stWg/W0yhykOM4bI/AAAAAAAAAMc/cd6iCxXjSmUzWJ4U9ziqzNQj-G-rZH14wCLcBGAs/s1600/MoviesHD3.png" group-title="beIN Movies",beIN: Movies 3 HD
 http://dragon2020.com:8080/samara1/samara1/64371
-#EXTINF:-1 tvg-chno="20" tvg-id="bein.net - MoviesHD4" tvg-logo="http://bit.ly/2J2jYF3" group-title="beIN Movies",beIN: Movies 4 HD
+#EXTINF:-1 tvg-chno="20" tvg-id="bein.net - MoviesHD4" tvg-logo="https://1.bp.blogspot.com/-uj2t4UH-Anc/W0ygk9d_AkI/AAAAAAAAAMQ/l7Jmp2HLUKgn86YnyUi-79bo11-nAo1EACLcBGAs/s1600/MoviesHD4.png" group-title="beIN Movies",beIN: Movies 4 HD
 http://dragon2020.com:8080/samara1/samara1/64370
-#EXTINF:-1 tvg-chno="21" tvg-id="bein.net - SeriesHD1" tvg-name="beIN: Series 1" group-title="beIN Movies",beIN: Series 1
+#EXTINF:-1 tvg-chno="21" tvg-id="bein.net - SeriesHD1" tvg-name="beIN: Series 1" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1327_1.png" group-title="beIN Movies",beIN: Series 1
 http://dragon2020.com:8080/samara1/samara1/64369
-#EXTINF:-1 tvg-chno="1" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://epg.beinsports.com/us_sports/Global.svg" group-title="beIN Sports",SP3: beIN Sport 01 360p
+#EXTINF:-1 tvg-chno="1" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",SP3: beIN Sport 01 360p
 http://dragon2020.com:8080/samara1/samara1/58868
-#EXTINF:-1 tvg-chno="2" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" group-title="beIN Sports",SP3: beIN Sport 01 Low 512
+#EXTINF:-1 tvg-chno="2" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",SP3: beIN Sport 01 Low 512
 http://dragon2020.com:8080/samara1/samara1/51836
-#EXTINF:-1 tvg-chno="3" tvg-id="bein.net - HD1" tvg-name="SP2: beIN Sport 01 [SD]" tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="beIN Sports",SP2: beIN Sport 01 [SD]
+#EXTINF:-1 tvg-chno="3" tvg-id="bein.net - HD1" tvg-name="SP2: beIN Sport 01 [SD]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",SP2: beIN Sport 01 [SD]
 http://dragon2020.com:8080/samara1/samara1/51791
-#EXTINF:-1 tvg-chno="4" tvg-id="bein.net - HD1" tvg-name="SP3: beIN Sport1 720p" tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="beIN Sports",SP3: beIN Sport1 720p
+#EXTINF:-1 tvg-chno="4" tvg-id="bein.net - HD1" tvg-name="SP3: beIN Sport1 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",SP3: beIN Sport1 720p
 http://dragon2020.com:8080/samara1/samara1/51803
-#EXTINF:-1 tvg-chno="5" tvg-id="bein.net - HD1" tvg-name="SP2: beIN Sport 01 1080P" tvg-logo="https://bemagisterial.com/images/bein-sports-footer-logo.png" group-title="beIN Sports",SP2: beIN Sport 01 1080P
+#EXTINF:-1 tvg-chno="5" tvg-id="bein.net - HD1" tvg-name="SP2: beIN Sport 01 1080P" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",SP2: beIN Sport 01 1080P
 http://dragon2020.com:8080/samara1/samara1/61064
-#EXTINF:-1 tvg-chno="6" tvg-id="bein.net - HD1" tvg-name="SP2: beIN Sport 01 [4k]" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc7.uihere.com%2Ffiles%2F348%2F877%2F119%2Fbein-sports-television-lisieux-streaming-media-others-thumb.jpg&imgrefurl=https%3A%2F%2Fwww.uihere.com%2Ffree-cliparts%2Fsearch%3Fq%3Dbein%2BSport&docid=MoAw_ATyLaQqKM&tbnid=7hKbzTJc3z6ZvM%3A&vet=1&w=310&h=181&bih=937&biw=2049&ved=2ahUKEwi2lpPMqfnmAhVI3aQKHRmCAsgQxiAoAHoECAEQFw&iact=c&ictx=1" group-title="beIN Sports",SP2: beIN Sport 01 [4k]
+#EXTINF:-1 tvg-chno="6" tvg-id="bein.net - HD1" tvg-name="SP2: beIN Sport 01 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",SP2: beIN Sport 01 [4k]
 http://dragon2020.com:8080/samara1/samara1/51826
-#EXTINF:-1 tvg-chno="7" tvg-name="SP3: beIN Sport 02 360p" tvg-logo="dragon2020.com/streamicons/576/2-576.png" group-title="beIN Sports",SP3: beIN Sport 02 360p
+#EXTINF:-1 tvg-chno="7" tvg-id="bein.net - HD2" tvg-name="SP3: beIN Sport 02 360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",SP3: beIN Sport 02 360p
 http://dragon2020.com:8080/samara1/samara1/58867
-#EXTINF:-1 tvg-chno="8" tvg-name="SP3: beIN Sport 02 Low 512" tvg-logo="http://bit.ly/2KuG4oi" group-title="beIN Sports",SP3: beIN Sport 02 Low 512
+#EXTINF:-1 tvg-chno="8" tvg-id="bein.net - HD2" tvg-name="HD2 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",SP3: beIN Sport 02 Low 512
 http://dragon2020.com:8080/samara1/samara1/51835
-#EXTINF:-1 tvg-chno="9" tvg-name="SP2: beIN Sport 02 [SD]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 02 [SD]
+#EXTINF:-1 tvg-chno="9" tvg-id="bein.net - HD2" tvg-name="HD2 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",SP2: beIN Sport 02 [SD]
 http://dragon2020.com:8080/samara1/samara1/51790
-#EXTINF:-1 tvg-chno="10" tvg-name="SP3: beIN Sport 02 720p" tvg-logo="[" group-title="beIN Sports",SP3: beIN Sport 02 720p
+#EXTINF:-1 tvg-chno="10" tvg-id="bein.net - HD2" tvg-name="SP3: beIN Sport 02 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",SP3: beIN Sport 02 720p
 http://dragon2020.com:8080/samara1/samara1/51802
-#EXTINF:-1 tvg-chno="11" tvg-name="SP2: beIN Sport 02 1080P" tvg-logo="dragon2020.com/streamicons/720/2-720.png" group-title="beIN Sports",SP2: beIN Sport 02 1080P
+#EXTINF:-1 tvg-chno="11" tvg-id="bein.net - HD2" tvg-name="SP2: beIN Sport 02 1080P" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",SP2: beIN Sport 02 1080P
 http://dragon2020.com:8080/samara1/samara1/61063
-#EXTINF:-1 tvg-chno="12" tvg-name="SP2: beIN Sport 02 [4k]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 02 [4k]
+#EXTINF:-1 tvg-chno="12" tvg-id="bein.net - HD2" tvg-name="SP2: beIN Sport 02 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",SP2: beIN Sport 02 [4k]
 http://dragon2020.com:8080/samara1/samara1/51825
-#EXTINF:-1 tvg-chno="13" tvg-name="SP3: beIN Sport 03 360p" tvg-logo="dragon2020.com/streamicons/576/3-576.png" group-title="beIN Sports",SP3: beIN Sport 03 360p
+#EXTINF:-1 tvg-chno="13" tvg-id="bein.net - HD3" tvg-name="SP3: beIN Sport 03 360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",SP3: beIN Sport 03 360p
 http://dragon2020.com:8080/samara1/samara1/58866
-#EXTINF:-1 tvg-chno="14" tvg-name="SP3: beIN Sport 03 Low 512" tvg-logo="http://bit.ly/2IBCxj4" group-title="beIN Sports",SP3: beIN Sport 03 Low 512
+#EXTINF:-1 tvg-chno="14" tvg-id="bein.net - HD3" tvg-name="SP3: beIN Sport 03 Low 512" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",SP3: beIN Sport 03 Low 512
 http://dragon2020.com:8080/samara1/samara1/51834
-#EXTINF:-1 tvg-chno="15" tvg-name="SP2: beIN Sport 03 [SD]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 03 [SD]
+#EXTINF:-1 tvg-chno="15" tvg-id="bein.net - HD3" tvg-name="SP2: beIN Sport 03 [SD]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",SP2: beIN Sport 03 [SD]
 http://dragon2020.com:8080/samara1/samara1/51789
-#EXTINF:-1 tvg-chno="16" tvg-name="SP3: beIN Sport 03 720p" tvg-logo="[" group-title="beIN Sports",SP3: beIN Sport 03 720p
+#EXTINF:-1 tvg-chno="16" tvg-id="bein.net - HD3" tvg-name="SP3: beIN Sport 03 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",SP3: beIN Sport 03 720p
 http://dragon2020.com:8080/samara1/samara1/51801
-#EXTINF:-1 tvg-chno="17" tvg-name="SP2: beIN Sport 03 1080p" tvg-logo="dragon2020.com/streamicons/720/3-720.png" group-title="beIN Sports",SP2: beIN Sport 03 1080p
+#EXTINF:-1 tvg-chno="17" tvg-id="bein.net - HD3" tvg-name="SP2: beIN Sport 03 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",SP2: beIN Sport 03 1080p
 http://dragon2020.com:8080/samara1/samara1/61062
-#EXTINF:-1 tvg-chno="18" tvg-name="SP2: beIN Sport 03 [4k]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 03 [4k]
+#EXTINF:-1 tvg-chno="18" tvg-id="bein.net - HD3" tvg-name="SP2: beIN Sport 03 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",SP2: beIN Sport 03 [4k]
 http://dragon2020.com:8080/samara1/samara1/51824
-#EXTINF:-1 tvg-chno="19" tvg-name="SP3: beIN Sport 04 360p" tvg-logo="dragon2020.com/streamicons/576/4-576.png" group-title="beIN Sports",SP3: beIN Sport 04 360p
+#EXTINF:-1 tvg-chno="19" tvg-id="bein.net - HD4" tvg-name="SP3: beIN Sport 04 360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",SP3: beIN Sport 04 360p
 http://dragon2020.com:8080/samara1/samara1/58865
-#EXTINF:-1 tvg-chno="20" tvg-name="SP3: beIN Sport 04 Low 512" tvg-logo="http://bit.ly/2N9SzEj" group-title="beIN Sports",SP3: beIN Sport 04 Low 512
+#EXTINF:-1 tvg-chno="20" tvg-id="bein.net - HD4" tvg-name="SP3: beIN Sport 04 Low 512" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",SP3: beIN Sport 04 Low 512
 http://dragon2020.com:8080/samara1/samara1/51833
-#EXTINF:-1 tvg-chno="21" tvg-name="SP2: beIN Sport 04 [SD]" group-title="beIN Sports",SP2: beIN Sport 04 [SD]
+#EXTINF:-1 tvg-chno="21" tvg-id="bein.net - HD4" tvg-name="SP2: beIN Sport 04 [SD]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",SP2: beIN Sport 04 [SD]
 http://dragon2020.com:8080/samara1/samara1/51788
-#EXTINF:-1 tvg-chno="22" tvg-name="SP3: beIN Sport 04 720p" tvg-logo="[" group-title="beIN Sports",SP3: beIN Sport 04 720p
+#EXTINF:-1 tvg-chno="22" tvg-id="bein.net - HD4" tvg-name="SP3: beIN Sport 04 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",SP3: beIN Sport 04 720p
 http://dragon2020.com:8080/samara1/samara1/51800
-#EXTINF:-1 tvg-chno="23" tvg-name="SP2: beIN Sport 04 1080p" tvg-logo="dragon2020.com/streamicons/720/4-720.png" group-title="beIN Sports",SP2: beIN Sport 04 1080p
+#EXTINF:-1 tvg-chno="23" tvg-id="bein.net - HD4" tvg-name="SP2: beIN Sport 04 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",SP2: beIN Sport 04 1080p
 http://dragon2020.com:8080/samara1/samara1/61061
-#EXTINF:-1 tvg-chno="24" tvg-name="SP2: beIN Sport 04 [4k]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 04 [4k]
+#EXTINF:-1 tvg-chno="24" tvg-id="bein.net - HD4" tvg-name="SP2: beIN Sport 04 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",SP2: beIN Sport 04 [4k]
 http://dragon2020.com:8080/samara1/samara1/51823
-#EXTINF:-1 tvg-chno="25" tvg-name="SP3: beIN Sport 05 360p" tvg-logo="dragon2020.com/streamicons/576/5-576.png" group-title="beIN Sports",SP3: beIN Sport 05 360p
+#EXTINF:-1 tvg-chno="25" tvg-id="bein.net - HD5" tvg-name="SP3: beIN Sport 05 360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",SP3: beIN Sport 05 360p
 http://dragon2020.com:8080/samara1/samara1/58864
-#EXTINF:-1 tvg-chno="26" tvg-name="SP3: beIN Sport 05 Low 512" tvg-logo="http://bit.ly/2MATAE3" group-title="beIN Sports",SP3: beIN Sport 05 Low 512
+#EXTINF:-1 tvg-chno="26" tvg-id="bein.net - HD5" tvg-name="SP3: beIN Sport 05 Low 512" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",SP3: beIN Sport 05 Low 512
 http://dragon2020.com:8080/samara1/samara1/51832
-#EXTINF:-1 tvg-chno="27" tvg-name="SP2: beIN Sport 05 [SD]" group-title="beIN Sports",SP2: beIN Sport 05 [SD]
+#EXTINF:-1 tvg-chno="27" tvg-id="bein.net - HD5" tvg-name="SP2: beIN Sport 05 [SD]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",SP2: beIN Sport 05 [SD]
 http://dragon2020.com:8080/samara1/samara1/51787
-#EXTINF:-1 tvg-chno="28" tvg-name="SP3: beIN Sport 05 720p" tvg-logo="http://bit.ly/2MATAE3" group-title="beIN Sports",SP3: beIN Sport 05 720p
+#EXTINF:-1 tvg-chno="28" tvg-id="bein.net - HD5" tvg-name="SP3: beIN Sport 05 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",SP3: beIN Sport 05 720p
 http://dragon2020.com:8080/samara1/samara1/51799
-#EXTINF:-1 tvg-chno="29" tvg-name="SP2: beIN Sport 05 1080p" group-title="beIN Sports",SP2: beIN Sport 05 1080p
+#EXTINF:-1 tvg-chno="29" tvg-id="bein.net - HD5" tvg-name="SP2: beIN Sport 05 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",SP2: beIN Sport 05 1080p
 http://dragon2020.com:8080/samara1/samara1/61060
-#EXTINF:-1 tvg-chno="30" tvg-name="SP2: beIN Sport 05 [4k]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 05 [4k]
+#EXTINF:-1 tvg-chno="30" tvg-id="bein.net - HD5" tvg-name="SP2: beIN Sport 05 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",SP2: beIN Sport 05 [4k]
 http://dragon2020.com:8080/samara1/samara1/51822
-#EXTINF:-1 tvg-chno="31" tvg-name="SP3: beIN Sport 06 360p" tvg-logo="dragon2020.com/streamicons/576/6-576.png" group-title="beIN Sports",SP3: beIN Sport 06 360p
+#EXTINF:-1 tvg-chno="31" tvg-id="bein.net - HD6" tvg-name="SP3: beIN Sport 06 360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports6HD.png" group-title="beIN Sports",SP3: beIN Sport 06 360p
 http://dragon2020.com:8080/samara1/samara1/58863
-#EXTINF:-1 tvg-chno="32" tvg-name="SP3: beIN Sport 06 Low 512" tvg-logo="dragon2020.com/streamicons/576/6-576.png" group-title="beIN Sports",SP3: beIN Sport 06 Low 512
+#EXTINF:-1 tvg-chno="32" tvg-id="bein.net - HD6" tvg-name="SP3: beIN Sport 06 Low 512" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports6HD.png" group-title="beIN Sports",SP3: beIN Sport 06 Low 512
 http://dragon2020.com:8080/samara1/samara1/51831
-#EXTINF:-1 tvg-chno="33" tvg-name="SP2: beIN Sport 06 [SD]" group-title="beIN Sports",SP2: beIN Sport 06 [SD]
+#EXTINF:-1 tvg-chno="33" tvg-id="bein.net - HD6" tvg-name="SP2: beIN Sport 06 [SD]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports6HD.png" group-title="beIN Sports",SP2: beIN Sport 06 [SD]
 http://dragon2020.com:8080/samara1/samara1/51786
-#EXTINF:-1 tvg-chno="34" tvg-name="SP3: beIN Sport 06 720p" tvg-logo="http://bit.ly/2tFzim1" group-title="beIN Sports",SP3: beIN Sport 06 720p
+#EXTINF:-1 tvg-chno="34" tvg-id="bein.net - HD6" tvg-name="SP3: beIN Sport 06 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports6HD.png" group-title="beIN Sports",SP3: beIN Sport 06 720p
 http://dragon2020.com:8080/samara1/samara1/51798
-#EXTINF:-1 tvg-chno="35" tvg-name="SP2: beIN Sport 06 1080p" tvg-logo="dragon2020.com/streamicons/720/6-720.png" group-title="beIN Sports",SP2: beIN Sport 06 1080p
+#EXTINF:-1 tvg-chno="35" tvg-id="bein.net - HD6" tvg-name="SP2: beIN Sport 06 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports6HD.png" group-title="beIN Sports",SP2: beIN Sport 06 1080p
 http://dragon2020.com:8080/samara1/samara1/61059
-#EXTINF:-1 tvg-chno="36" tvg-name="SP2: beIN Sport 06 [4k]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 06 [4k]
+#EXTINF:-1 tvg-chno="36" tvg-id="bein.net - HD6" tvg-name="SP2: beIN Sport 06 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports6HD.png" group-title="beIN Sports",SP2: beIN Sport 06 [4k]
 http://dragon2020.com:8080/samara1/samara1/51821
-#EXTINF:-1 tvg-chno="37" tvg-name="SP3: beIN Sport 07 360p" tvg-logo="dragon2020.com/streamicons/576/7-576.png" group-title="beIN Sports",SP3: beIN Sport 07 360p
+#EXTINF:-1 tvg-chno="37" tvg-id="bein.net - HD7" tvg-name="SP3: beIN Sport 07 360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports7HD.png" group-title="beIN Sports",SP3: beIN Sport 07 360p
 http://dragon2020.com:8080/samara1/samara1/58862
-#EXTINF:-1 tvg-chno="38" tvg-name="SP3: beIN Sport 07 Low 512" tvg-logo="http://bit.ly/2KwLFqU" group-title="beIN Sports",SP3: beIN Sport 07 Low 512
+#EXTINF:-1 tvg-chno="38" tvg-id="bein.net - HD7" tvg-name="SP3: beIN Sport 07 Low 512" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports7HD.png" group-title="beIN Sports",SP3: beIN Sport 07 Low 512
 http://dragon2020.com:8080/samara1/samara1/51830
-#EXTINF:-1 tvg-chno="39" tvg-name="SP2: beIN Sport 07 [SD]" group-title="beIN Sports",SP2: beIN Sport 07 [SD]
+#EXTINF:-1 tvg-chno="39" tvg-id="bein.net - HD7" tvg-name="SP2: beIN Sport 07 [SD]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports7HD.png" group-title="beIN Sports",SP2: beIN Sport 07 [SD]
 http://dragon2020.com:8080/samara1/samara1/51785
-#EXTINF:-1 tvg-chno="40" tvg-name="SP3: beIN Sport 07 720p" tvg-logo="http://bit.ly/2KwLFqU" group-title="beIN Sports",SP3: beIN Sport 07 720p
+#EXTINF:-1 tvg-chno="40" tvg-id="bein.net - HD7" tvg-name="SP3: beIN Sport 07 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports7HD.png" group-title="beIN Sports",SP3: beIN Sport 07 720p
 http://dragon2020.com:8080/samara1/samara1/51797
-#EXTINF:-1 tvg-chno="41" tvg-name="SP2: beIN Sport 07 1080p" group-title="beIN Sports",SP2: beIN Sport 07 1080p
+#EXTINF:-1 tvg-chno="41" tvg-id="bein.net - HD7" tvg-name="SP2: beIN Sport 07 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports7HD.png" group-title="beIN Sports",SP2: beIN Sport 07 1080p
 http://dragon2020.com:8080/samara1/samara1/61058
-#EXTINF:-1 tvg-chno="42" tvg-name="SP2: beIN Sport 07 [4k]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 07 [4k]
+#EXTINF:-1 tvg-chno="42" tvg-id="bein.net - HD7" tvg-name="SP2: beIN Sport 07 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports7HD.png" group-title="beIN Sports",SP2: beIN Sport 07 [4k]
 http://dragon2020.com:8080/samara1/samara1/51820
-#EXTINF:-1 tvg-chno="43" tvg-name="SP3: beIN Sport 08 360p" tvg-logo="dragon2020.com/streamicons/576/8-576.png" group-title="beIN Sports",SP3: beIN Sport 08 360p
+#EXTINF:-1 tvg-chno="43" tvg-id="bein.net - HD8" tvg-name="SP3: beIN Sport 08 360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports8HD.png" group-title="beIN Sports",SP3: beIN Sport 08 360p
 http://dragon2020.com:8080/samara1/samara1/58861
-#EXTINF:-1 tvg-chno="44" tvg-name="SP3: beIN Sport 08 Low 512" tvg-logo="http://bit.ly/2N9SHDN" group-title="beIN Sports",SP3: beIN Sport 08 Low 512
+#EXTINF:-1 tvg-chno="44" tvg-id="bein.net - HD8" tvg-name="SP3: beIN Sport 08 Low 512" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports8HD.png" group-title="beIN Sports",SP3: beIN Sport 08 Low 512
 http://dragon2020.com:8080/samara1/samara1/51829
-#EXTINF:-1 tvg-chno="45" tvg-name="SP2: beIN Sport 08 [SD]" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sport 08 [SD]
+#EXTINF:-1 tvg-chno="45" tvg-id="bein.net - HD8" tvg-name="SP2: beIN Sport 08 [SD]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports8HD.png" group-title="beIN Sports",SP2: beIN Sport 08 [SD]
 http://dragon2020.com:8080/samara1/samara1/51784
-#EXTINF:-1 tvg-chno="46" tvg-name="SP3: beIN Sport 08 720p" tvg-logo="http://bit.ly/2N9SHDN" group-title="beIN Sports",SP3: beIN Sport 08 720p
+#EXTINF:-1 tvg-chno="46" tvg-id="bein.net - HD8" tvg-name="SP3: beIN Sport 08 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports8HD.png" group-title="beIN Sports",SP3: beIN Sport 08 720p
 http://dragon2020.com:8080/samara1/samara1/51796
-#EXTINF:-1 tvg-chno="47" tvg-name="SP2: beIN Sport 08 1080p" group-title="beIN Sports",SP2: beIN Sport 08 1080p
+#EXTINF:-1 tvg-chno="47" tvg-id="bein.net - HD8" tvg-name="SP2: beIN Sport 08 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports8HD.png" group-title="beIN Sports",SP2: beIN Sport 08 1080p
 http://dragon2020.com:8080/samara1/samara1/61057
-#EXTINF:-1 tvg-chno="48" tvg-name="SP2: beIN Sport 08 [4k]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 08 [4k]
+#EXTINF:-1 tvg-chno="48" tvg-id="bein.net - HD8" tvg-name="SP2: beIN Sport 08 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports8HD.png" group-title="beIN Sports",SP2: beIN Sport 08 [4k]
 http://dragon2020.com:8080/samara1/samara1/51819
-#EXTINF:-1 tvg-chno="49" tvg-name="SP3: beIN Sport 09 360p" tvg-logo="dragon2020.com/streamicons/576/9-576.png" group-title="beIN Sports",SP3: beIN Sport 09 360p
+#EXTINF:-1 tvg-chno="49" tvg-id="bein.net - HD9" tvg-name="SP3: beIN Sport 09 360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports9HD.png" group-title="beIN Sports",SP3: beIN Sport 09 360p
 http://dragon2020.com:8080/samara1/samara1/58860
-#EXTINF:-1 tvg-chno="50" tvg-name="SP3: beIN Sport 09 Low 512" tvg-logo="dragon2020.com/streamicons/576/9-576.png" group-title="beIN Sports",SP3: beIN Sport 09 Low 512
+#EXTINF:-1 tvg-chno="50" tvg-id="bein.net - HD9" tvg-name="SP3: beIN Sport 09 Low 512" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports9HD.png" group-title="beIN Sports",SP3: beIN Sport 09 Low 512
 http://dragon2020.com:8080/samara1/samara1/51828
-#EXTINF:-1 tvg-chno="51" tvg-name="SP2: beIN Sport 09 [SD]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 09 [SD]
+#EXTINF:-1 tvg-chno="51" tvg-id="bein.net - HD9" tvg-name="SP2: beIN Sport 09 [SD]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports9HD.png" group-title="beIN Sports",SP2: beIN Sport 09 [SD]
 http://dragon2020.com:8080/samara1/samara1/92762
-#EXTINF:-1 tvg-chno="52" tvg-name="SP3: beIN Sport 09 720p" tvg-logo="http://bit.ly/2Kl1VPN" group-title="beIN Sports",SP3: beIN Sport 09 720p
+#EXTINF:-1 tvg-chno="52" tvg-id="bein.net - HD9" tvg-name="SP3: beIN Sport 09 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports9HD.png" group-title="beIN Sports",SP3: beIN Sport 09 720p
 http://dragon2020.com:8080/samara1/samara1/51795
-#EXTINF:-1 tvg-chno="53" tvg-name="SP2: beIN Sport 09 1080p" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sport 09 1080p
+#EXTINF:-1 tvg-chno="53" tvg-id="bein.net - HD9" tvg-name="SP2: beIN Sport 09 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports9HD.png" group-title="beIN Sports",SP2: beIN Sport 09 1080p
 http://dragon2020.com:8080/samara1/samara1/93673
-#EXTINF:-1 tvg-chno="54" tvg-name="SP2: beIN Sport 09 [4k]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 09 [4k]
+#EXTINF:-1 tvg-chno="54" tvg-id="bein.net - HD9" tvg-name="SP2: beIN Sport 09 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports9HD.png" group-title="beIN Sports",SP2: beIN Sport 09 [4k]
 http://dragon2020.com:8080/samara1/samara1/51818
-#EXTINF:-1 tvg-chno="55" tvg-name="SP3: beIN Sport 10 360p" tvg-logo="dragon2020.com/streamicons/576/10-576.png" group-title="beIN Sports",SP3: beIN Sport 10 360p
+#EXTINF:-1 tvg-chno="55" tvg-id="bein.net - HD10" tvg-name="SP3: beIN Sport 10 360p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports10HD.png" group-title="beIN Sports",SP3: beIN Sport 10 360p
 http://dragon2020.com:8080/samara1/samara1/58859
-#EXTINF:-1 tvg-chno="56" tvg-name="SP3: beIN Sport 10 Low 512" tvg-logo="dragon2020.com/streamicons/576/10-576.png" group-title="beIN Sports",SP3: beIN Sport 10 Low 512
+#EXTINF:-1 tvg-chno="56" tvg-id="bein.net - HD10" tvg-name="SP3: beIN Sport 10 Low 512" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports10HD.png" group-title="beIN Sports",SP3: beIN Sport 10 Low 512
 http://dragon2020.com:8080/samara1/samara1/51827
-#EXTINF:-1 tvg-chno="57" tvg-name="SP2: beIN Sport 10 [SD]" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sport 10 [SD]
+#EXTINF:-1 tvg-chno="57" tvg-id="bein.net - HD10" tvg-name="SP2: beIN Sport 10 [SD]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports10HD.png" group-title="beIN Sports",SP2: beIN Sport 10 [SD]
 http://dragon2020.com:8080/samara1/samara1/92763
-#EXTINF:-1 tvg-chno="58" tvg-name="SP3: beIN Sport 10 720p" tvg-logo="http://bit.ly/2lJEzEQ" group-title="beIN Sports",SP3: beIN Sport 10 720p
+#EXTINF:-1 tvg-chno="58" tvg-id="bein.net - HD10" tvg-name="SP3: beIN Sport 10 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports10HD.png" group-title="beIN Sports",SP3: beIN Sport 10 720p
 http://dragon2020.com:8080/samara1/samara1/51794
-#EXTINF:-1 tvg-chno="59" tvg-name="SP2: beIN Sport 10 1080p" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sport 10 1080p
+#EXTINF:-1 tvg-chno="59" tvg-id="bein.net - HD10" tvg-name="SP2: beIN Sport 10 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports10HD.png" group-title="beIN Sports",SP2: beIN Sport 10 1080p
 http://dragon2020.com:8080/samara1/samara1/93674
-#EXTINF:-1 tvg-chno="60" tvg-name="SP2: beIN Sport 10 [4k]" tvg-logo="[" group-title="beIN Sports",SP2: beIN Sport 10 [4k]
+#EXTINF:-1 tvg-chno="60" tvg-id="bein.net - HD10" tvg-name="SP2: beIN Sport 10 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports10HD.png" group-title="beIN Sports",SP2: beIN Sport 10 [4k]
 http://dragon2020.com:8080/samara1/samara1/51817
-#EXTINF:-1 tvg-chno="61" tvg-name="SP3: beIN Sport 11 720p" tvg-logo="http://bit.ly/2tFxARG" group-title="beIN Sports",SP3: beIN Sport 11 720p
+#EXTINF:-1 tvg-chno="61" tvg-id="bein.net - SportsHD11" tvg-name="SP3: beIN Sport 11 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports11HD.png" group-title="beIN Sports",SP3: beIN Sport 11 720p
 http://dragon2020.com:8080/samara1/samara1/51793
-#EXTINF:-1 tvg-chno="62" tvg-name="SP2: beIN Sport 11 1080p" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sport 11 1080p
+#EXTINF:-1 tvg-chno="62" tvg-id="bein.net - SportsHD11" tvg-name="SP2: beIN Sport 11 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports11HD.png" group-title="beIN Sports",SP2: beIN Sport 11 1080p
 http://dragon2020.com:8080/samara1/samara1/93675
-#EXTINF:-1 tvg-chno="63" tvg-name="SP2: beIN Sport 11 [4k]" group-title="beIN Sports",SP2: beIN Sport 11 [4k]
+#EXTINF:-1 tvg-chno="63" tvg-id="bein.net - SportsHD11" tvg-name="SP2: beIN Sport 11 [4k]" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports11HD.png" group-title="beIN Sports",SP2: beIN Sport 11 [4k]
 http://dragon2020.com:8080/samara1/samara1/51816
-#EXTINF:-1 tvg-chno="64" tvg-name="SP3: beIN Sport 12 720p" tvg-logo="http://bit.ly/2tAV3n1" group-title="beIN Sports",SP3: beIN Sport 12 720p
+#EXTINF:-1 tvg-chno="64" tvg-id="bein.net - SportsHD12" tvg-name="SP3: beIN Sport 12 720p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports12HD.png" group-title="beIN Sports",SP3: beIN Sport 12 720p
 http://dragon2020.com:8080/samara1/samara1/51792
-#EXTINF:-1 tvg-chno="65" tvg-name="SP2: beIN Sport 12 1080p" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sport 12 1080p
+#EXTINF:-1 tvg-chno="65" tvg-id="bein.net - SportsHD12" tvg-name="SP2: beIN Sport 12 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports12HD.png" group-title="beIN Sports",SP2: beIN Sport 12 1080p
 http://dragon2020.com:8080/samara1/samara1/93676
-#EXTINF:-1 tvg-chno="66" tvg-name="SP2: beIN Sport 13 1080p" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sport 13 1080p
+#EXTINF:-1 tvg-chno="66" tvg-id="bein.net - SportsHD13" tvg-name="SP2: beIN Sport 13 1080p" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports13HD.png" group-title="beIN Sports",SP2: beIN Sport 13 1080p
 http://dragon2020.com:8080/samara1/samara1/93677
-#EXTINF:-1 tvg-chno="67" tvg-name="SP2: beIN Sport NBA HD" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sport NBA HD
+#EXTINF:-1 tvg-chno="67" tvg-id="bein.net - BS NBA" tvg-name="SP2: beIN Sport NBA HD" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/nba-bein-sport-bat-canal-et-ma-chaine-sport-286690.jpg" group-title="beIN Sports",SP2: beIN Sport NBA HD
 http://dragon2020.com:8080/samara1/samara1/93678
-#EXTINF:-1 tvg-chno="68" tvg-name="SP2: beIN Sport News" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sport News
+#EXTINF:-1 tvg-chno="68" tvg-id="bein.net - SportsGlobalHD" tvg-name="SP2: beIN Sport News" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/46b98fe4e00c5e8128a460b5_rw_1200.png" group-title="beIN Sports",SP2: beIN Sport News
 http://dragon2020.com:8080/samara1/samara1/93679
-#EXTINF:-1 tvg-chno="69" tvg-name="SP2: beIN Sports HD" tvg-logo="[]" group-title="beIN Sports",SP2: beIN Sports HD
+#EXTINF:-1 tvg-chno="69" tvg-id="bein.net - 4K" tvg-name="SP2: beIN Sports HD" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/4k.png" group-title="beIN Sports",SP2: beIN Sports HD
 http://dragon2020.com:8080/samara1/samara1/93680
-#EXTINF:-1 tvg-chno="1" tvg-name="BEOUT Q Action" tvg-logo="[" group-title="BEOUT Q MOVIES",BEOUT Q Action
+#EXTINF:-1 tvg-chno="1" tvg-id="bein.net - MoviesHD1" tvg-name="BEOUT Q Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/BeOutQ_logo.jpg/220px-BeOutQ_logo.jpg" group-title="BEOUT Q MOVIES",BEOUT Q Action
 http://dragon2020.com:8080/samara1/samara1/80884
-#EXTINF:-1 tvg-chno="2" tvg-name="BEOUT Q Action  2" tvg-logo="[" group-title="BEOUT Q MOVIES",BEOUT Q Action  2
+#EXTINF:-1 tvg-chno="2" tvg-id="bein.net - MoviesHD2" tvg-name="BEOUT Q Action  2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/BeOutQ_logo.jpg/220px-BeOutQ_logo.jpg" group-title="BEOUT Q MOVIES",BEOUT Q Action  2
 http://dragon2020.com:8080/samara1/samara1/80883
-#EXTINF:-1 tvg-chno="3" tvg-name="BEOUT Q Kids" tvg-logo="[" group-title="BEOUT Q MOVIES",BEOUT Q Kids
+#EXTINF:-1 tvg-chno="3" tvg-id="bein.net - MoviesHD3" tvg-name="BEOUT Q Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/BeOutQ_logo.jpg/220px-BeOutQ_logo.jpg" group-title="BEOUT Q MOVIES",BEOUT Q Kids
 http://dragon2020.com:8080/samara1/samara1/80882
-#EXTINF:-1 tvg-chno="4" tvg-name="BEOUT Q Movies" tvg-logo="[" group-title="BEOUT Q MOVIES",BEOUT Q Movies
+#EXTINF:-1 tvg-chno="4" tvg-name="BEOUT Q Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/BeOutQ_logo.jpg/220px-BeOutQ_logo.jpg" group-title="BEOUT Q MOVIES",BEOUT Q Movies
 http://dragon2020.com:8080/samara1/samara1/80881
-#EXTINF:-1 tvg-chno="5" tvg-name="BEOUT Q Movies  2" tvg-logo="[" group-title="BEOUT Q MOVIES",BEOUT Q Movies  2
+#EXTINF:-1 tvg-chno="5" tvg-name="BEOUT Q Movies  2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/BeOutQ_logo.jpg/220px-BeOutQ_logo.jpg" group-title="BEOUT Q MOVIES",BEOUT Q Movies  2
 http://dragon2020.com:8080/samara1/samara1/80880
 #EXTINF:-1 tvg-chno="1" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="Business",Bloomberg TV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
@@ -907,553 +907,553 @@ http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://195.154.221.171/picons/3euk.png" group-title="Cable - UK",3e
+#EXTINF:-1 tvg-chno="1" tvg-id="UK - 3e" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/%23/3e.png" group-title="Cable - UK",3e
 http://topiptv.net:5890/aziz/1234/55643
-#EXTINF:-1 tvg-chno="2" tvg-name="4seven-UK" tvg-logo="http://195.154.221.171/picons/4sevenuk.png" group-title="Cable - UK",4 Seven HD
+#EXTINF:-1 tvg-chno="2" tvg-id="UK - 4seven" tvg-name="4seven-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/%23/4Seven.png" group-title="Cable - UK",4 Seven HD
 http://topiptv.net:5890/aziz/1234/55645
-#EXTINF:-1 tvg-chno="3" tvg-name="4Music-UK" tvg-logo="http://195.154.221.171/picons/4musicuk.png" group-title="Cable - UK",4Music
+#EXTINF:-1 tvg-chno="3" tvg-id="UK - 4Music" tvg-name="4Music-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/%23/4Music.png" group-title="Cable - UK",4Music
 http://topiptv.net:5890/aziz/1234/55644
-#EXTINF:-1 tvg-chno="4" tvg-name="5STAR-UK" tvg-logo="http://195.154.221.171/picons/5staruk.png" group-title="Cable - UK",5Star
+#EXTINF:-1 tvg-chno="4" tvg-id="UK - 5STAR" tvg-name="5STAR-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/%23/5Star.png" group-title="Cable - UK",5Star
 http://topiptv.net:5890/aziz/1234/55646
-#EXTINF:-1 tvg-chno="5" tvg-name="5STAR-UK" tvg-logo="http://195.154.221.171/picons/5usauk.png" group-title="Cable - UK",5USA
+#EXTINF:-1 tvg-chno="5" tvg-id="UK - 5USA" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/%23/5USA.png" group-title="Cable - UK",5USA
 http://topiptv.net:5890/aziz/1234/55647
-#EXTINF:-1 tvg-chno="6" tvg-name="alibi-UK" tvg-logo="http://195.154.221.171/picons/alibiuk.png" group-title="Cable - UK",Alibi
+#EXTINF:-1 tvg-chno="6" tvg-id="UK - Alibi" tvg-name="alibi-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/alibi.png" group-title="Cable - UK",Alibi
 http://topiptv.net:5890/aziz/1234/55650
-#EXTINF:-1 tvg-chno="7" tvg-name="AMC From BT UK" tvg-logo="http://195.154.221.171/picons/amcfrombtuk.png" group-title="Cable - UK",AMC From BT
+#EXTINF:-1 tvg-chno="7" tvg-id="UK - AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/AMCHD.png" group-title="Cable - UK",AMC From BT
 http://topiptv.net:5890/aziz/1234/55648
-#EXTINF:-1 tvg-chno="8" tvg-name="Animal Planet-UK" tvg-logo="http://195.154.221.171/picons/animalplanetuk.png" group-title="Cable - UK",Animal Planet
+#EXTINF:-1 tvg-chno="8" tvg-id="UK - Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/AnimalPlanet.png" group-title="Cable - UK",Animal Planet
 http://topiptv.net:5890/aziz/1234/55652
-#EXTINF:-1 tvg-chno="9" tvg-name="Animal Planet-UK" tvg-logo="http://195.154.221.171/picons/animalplanetuk.png" group-title="Cable - UK",Animal Planet +1
+#EXTINF:-1 tvg-chno="9" tvg-id="UK - Animal Planet +1" tvg-name="Animal Planet-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/Animal_Planet_%2B1.png" group-title="Cable - UK",Animal Planet +1
 http://topiptv.net:5890/aziz/1234/55651
-#EXTINF:-1 tvg-chno="10" tvg-name="AT THE RACES UK" tvg-logo="http://195.154.221.171/picons/attheracesuk.png" group-title="Cable - UK",AT THE RACES
+#EXTINF:-1 tvg-chno="10" tvg-id="UK - at the races" tvg-name="AT THE RACES UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/A/At_The_Races.png" group-title="Cable - UK",AT THE RACES
 http://topiptv.net:5890/aziz/1234/55649
-#EXTINF:-1 tvg-chno="11" tvg-name="Baby TV UK" tvg-logo="http://195.154.221.171/picons/babytvuk.png" group-title="Cable - UK",Baby TV
+#EXTINF:-1 tvg-chno="11" tvg-id="UK - Baby TV" tvg-name="Baby TV UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BabyTV.png" group-title="Cable - UK",Baby TV
 http://topiptv.net:5890/aziz/1234/55684
-#EXTINF:-1 tvg-chno="12" tvg-name="BBC Four-UK" tvg-logo="http://195.154.221.171/picons/bbcfouruk.png" group-title="Cable - UK",BBC Four
+#EXTINF:-1 tvg-chno="12" tvg-id="UK - BBC4" tvg-name="BBC Four-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_Four.png" group-title="Cable - UK",BBC Four
 http://topiptv.net:5890/aziz/1234/55654
-#EXTINF:-1 tvg-chno="13" tvg-name="BBC Four-UK" tvg-logo="http://195.154.221.171/picons/bbcfourhduk.png" group-title="Cable - UK",BBC Four HD
+#EXTINF:-1 tvg-chno="13" tvg-id="UK - BBC4 HD" tvg-name="BBC Four-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_Four_HD.png" group-title="Cable - UK",BBC Four HD
 http://topiptv.net:5890/aziz/1234/55653
-#EXTINF:-1 tvg-chno="14" tvg-name="BBC News HD UK" tvg-logo="http://195.154.221.171/picons/bbcnewshduk.png" group-title="Cable - UK",BBC News HD UK
+#EXTINF:-1 tvg-chno="14" tvg-id="UK - BBC News HD" tvg-name="BBC News HD UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_News_HD.png" group-title="Cable - UK",BBC News HD UK
 http://topiptv.net:5890/aziz/1234/55655
-#EXTINF:-1 tvg-chno="15" tvg-name="BBC One-UK" tvg-logo="http://195.154.221.171/picons/bbconechannelislandsuk.png" group-title="Cable - UK",BBC One Channel Islands UK
+#EXTINF:-1 tvg-chno="15" tvg-id="UK - BBC1 Channel Islands" tvg-name="BBC One-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_One_HD.png" group-title="Cable - UK",BBC One Channel Islands UK
 http://topiptv.net:5890/aziz/1234/55656
-#EXTINF:-1 tvg-chno="16" tvg-name="BBC One-UK" tvg-logo="http://195.154.221.171/picons/bbconehduk.png" group-title="Cable - UK",BBC One HD UK
+#EXTINF:-1 tvg-chno="16" tvg-id="UK - BBC1 London" tvg-name="BBC One-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_One_HD.png" group-title="Cable - UK",BBC One HD UK
 http://topiptv.net:5890/aziz/1234/55657
-#EXTINF:-1 tvg-chno="17" tvg-name="BBC One-UK" tvg-logo="http://195.154.221.171/picons/bbconenorthernirelanduk.png" group-title="Cable - UK",BBC One Northern Ireland UK
+#EXTINF:-1 tvg-chno="17" tvg-id="UK - BBC1 HD N Ireland" tvg-name="BBC One-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_One_HD.png" group-title="Cable - UK",BBC One Northern Ireland UK
 http://topiptv.net:5890/aziz/1234/55658
-#EXTINF:-1 tvg-chno="18" tvg-name="BBC One-UK" tvg-logo="http://195.154.221.171/picons/bbconeoxforduk.png" group-title="Cable - UK",BBC One Oxford UK
+#EXTINF:-1 tvg-chno="18" tvg-id="UK - BBC1 Oxfordshire" tvg-name="BBC One-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_One_HD.png" group-title="Cable - UK",BBC One Oxford UK
 http://topiptv.net:5890/aziz/1234/55659
-#EXTINF:-1 tvg-chno="19" tvg-name="BBC 1 Scotland-UK" tvg-logo="http://195.154.221.171/picons/bbconescotlanduk.png" group-title="Cable - UK",BBC One Scotland UK
+#EXTINF:-1 tvg-chno="19" tvg-id="UK - BBC1 HD Scotland" tvg-name="BBC 1 Scotland-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_One_HD.png" group-title="Cable - UK",BBC One Scotland UK
 http://topiptv.net:5890/aziz/1234/55660
-#EXTINF:-1 tvg-chno="20" tvg-name="BBC One-UK" tvg-logo="http://195.154.221.171/picons/bbconeuk.png" group-title="Cable - UK",BBC One UK
+#EXTINF:-1 tvg-chno="20" tvg-id="UK - BBC1 HD" tvg-name="BBC One-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_One_HD.png" group-title="Cable - UK",BBC One UK
 http://topiptv.net:5890/aziz/1234/55661
-#EXTINF:-1 tvg-chno="21" tvg-name="BBC One Wales UK" tvg-logo="http://195.154.221.171/picons/bbconewalesuk.png" group-title="Cable - UK",BBC One Wales UK
+#EXTINF:-1 tvg-chno="21" tvg-id="UK - BBC1 Wales" tvg-name="BBC One Wales UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_One_HD.png" group-title="Cable - UK",BBC One Wales UK
 http://topiptv.net:5890/aziz/1234/55662
-#EXTINF:-1 tvg-chno="22" tvg-name="BBC One Yorks UK" tvg-logo="http://195.154.221.171/picons/bbconeyorksuk.png" group-title="Cable - UK",BBC One Yorks UK
+#EXTINF:-1 tvg-chno="22" tvg-id="UK - BBC1 Yorkshire and Lincolnshire" tvg-name="BBC One Yorks UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_One_HD.png" group-title="Cable - UK",BBC One Yorks UK
 http://topiptv.net:5890/aziz/1234/55663
-#EXTINF:-1 tvg-chno="23" tvg-name="BBC Parliament UK" tvg-logo="http://195.154.221.171/picons/bbcparliamentuk.png" group-title="Cable - UK",BBC Parliament UK
+#EXTINF:-1 tvg-chno="23" tvg-id="UK - BBC Parliament" tvg-name="BBC Parliament UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_Parliament.png" group-title="Cable - UK",BBC Parliament UK
 http://topiptv.net:5890/aziz/1234/55664
-#EXTINF:-1 tvg-chno="24" tvg-name="BBC Two-UK" tvg-logo="http://195.154.221.171/picons/bbctwouk.png" group-title="Cable - UK",BBC Two
+#EXTINF:-1 tvg-chno="24" tvg-id="UK - BBC2" tvg-name="BBC Two-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_2.png" group-title="Cable - UK",BBC Two
 http://topiptv.net:5890/aziz/1234/55667
-#EXTINF:-1 tvg-chno="25" tvg-name="BBC Two-UK" tvg-logo="http://195.154.221.171/picons/bbctwohduk.png" group-title="Cable - UK",BBC Two HD UK
+#EXTINF:-1 tvg-chno="25" tvg-id="UK - BBC2 HD" tvg-name="BBC Two-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_Two_HD.png" group-title="Cable - UK",BBC Two HD UK
 http://topiptv.net:5890/aziz/1234/55665
-#EXTINF:-1 tvg-chno="26" tvg-name="BBC Two-UK" tvg-logo="http://195.154.221.171/picons/bbctwoscotlanduk.png" group-title="Cable - UK",BBC Two Scotland UK
+#EXTINF:-1 tvg-chno="26" tvg-id="UK - BBC2 Scotland" tvg-name="BBC Two-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_Two_HD.png" group-title="Cable - UK",BBC Two Scotland
 http://topiptv.net:5890/aziz/1234/55666
-#EXTINF:-1 tvg-chno="27" tvg-logo="http://195.154.221.171/picons/bbcworldnewsuk.png" group-title="Cable - UK",BBC World News
+#EXTINF:-1 tvg-chno="27" tvg-id="UK - BBC World News" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BBC_World_News.png" group-title="Cable - UK",BBC World News
 http://topiptv.net:5890/aziz/1234/55668
-#EXTINF:-1 tvg-chno="28" tvg-name="BET UK" tvg-logo="http://195.154.221.171/picons/betuk.png" group-title="Cable - UK",BET
+#EXTINF:-1 tvg-chno="28" tvg-id="UK - BET" tvg-name="BET UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BET_International.png" group-title="Cable - UK",BET
 http://topiptv.net:5890/aziz/1234/55669
-#EXTINF:-1 tvg-chno="29" tvg-name="Bike Channel UK" tvg-logo="http://195.154.221.171/picons/bikechanneluk.png" group-title="Cable - UK",Bike Channel UK
+#EXTINF:-1 tvg-chno="29" tvg-name="Bike Channel UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/Bike_Channel.png" group-title="Cable - UK",Bike Channel UK
 http://topiptv.net:5890/aziz/1234/55685
-#EXTINF:-1 tvg-chno="30" tvg-name="BLAZE-UK" tvg-logo="http://195.154.221.171/picons/blazeuk.png" group-title="Cable - UK",Blaze
+#EXTINF:-1 tvg-chno="30" tvg-name="BLAZE-UK" tvg-logo="https://bloximages.newyork1.vip.townnews.com/insideradio.com/content/tncms/assets/v3/editorial/2/ab/2ab85270-0186-11ea-8476-bbfa2d63d04d/5dc457edf07c1.image.jpg" group-title="Cable - UK",Blaze
 http://topiptv.net:5890/aziz/1234/55686
-#EXTINF:-1 tvg-chno="31" tvg-name="Bloomberg-UK" tvg-logo="http://195.154.221.171/picons/bloombergtvuk.png" group-title="Cable - UK",Bloomberg UK
+#EXTINF:-1 tvg-chno="31" tvg-id="UK - Bloomberg TV" tvg-name="Bloomberg-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/Bloomberg.png" group-title="Cable - UK",Bloomberg UK
 http://topiptv.net:5890/aziz/1234/55687
-#EXTINF:-1 tvg-chno="32" tvg-name="Boomerang-UK" tvg-logo="http://195.154.221.171/picons/boomerangplus1uk.png" group-title="Cable - UK",Boomerang +1 UK
+#EXTINF:-1 tvg-chno="32" tvg-shift="+1" tvg-id="UK - Boomerang +1" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/Boomerang_%2B1.png" group-title="Cable - UK",Boomerang +1 UK
 http://topiptv.net:5890/aziz/1234/55688
-#EXTINF:-1 tvg-chno="33" tvg-name="Boomerang-UK" tvg-logo="http://195.154.221.171/picons/boomeranguk.png" group-title="Cable - UK",Boomerang UK
+#EXTINF:-1 tvg-chno="33" tvg-id="UK - Boomerang HD" tvg-name="Boomerang-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/Boomerang.png" group-title="Cable - UK",Boomerang UK
 http://topiptv.net:5890/aziz/1234/55689
-#EXTINF:-1 tvg-chno="34" tvg-name="Box Hits-UK" tvg-logo="http://195.154.221.171/picons/boxhitsuk.png" group-title="Cable - UK",Box Hits UK
+#EXTINF:-1 tvg-chno="34" tvg-name="Box Hits-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/Box_TV.png" group-title="Cable - UK",Box Hits UK
 http://topiptv.net:5890/aziz/1234/55690
-#EXTINF:-1 tvg-chno="35" tvg-name="BoxNation UK" tvg-logo="http://195.154.221.171/picons/boxnationuk.png" group-title="Cable - UK",BoxNation
+#EXTINF:-1 tvg-chno="35" tvg-name="BoxNation UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BoxNation.png" group-title="Cable - UK",BoxNation
 http://topiptv.net:5890/aziz/1234/55693
-#EXTINF:-1 tvg-chno="36" tvg-name="BoxNation HD UK" tvg-logo="http://195.154.221.171/picons/boxnationhduk.png" group-title="Cable - UK",BoxNation HD
+#EXTINF:-1 tvg-chno="36" tvg-name="BoxNation HD UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BoxNation.png" group-title="Cable - UK",BoxNation HD
 http://topiptv.net:5890/aziz/1234/55692
-#EXTINF:-1 tvg-chno="37" tvg-name="BTSports1 HD-UK" tvg-logo="http://195.154.221.171/picons/btsport1uk.png" group-title="Cable - UK",BT Sport 1
+#EXTINF:-1 tvg-chno="37" tvg-id="UK - BT Sport 1" tvg-name="BTSports1 HD-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_1.png" group-title="Cable - UK",BT Sport 1
 http://topiptv.net:5890/aziz/1234/55671
-#EXTINF:-1 tvg-chno="38" tvg-name="BTSports1 HD-UK" tvg-logo="http://195.154.221.171/picons/btsport1hduk.png" group-title="Cable - UK",BT Sport 1 HD
+#EXTINF:-1 tvg-chno="38" tvg-id="UK - BT Sport 1 HD" tvg-name="BTSports1 HD-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_1_HD.png" group-title="Cable - UK",BT Sport 1 HD
 http://topiptv.net:5890/aziz/1234/55670
-#EXTINF:-1 tvg-chno="39" tvg-name="BTSports2 HD-UK" tvg-logo="http://195.154.221.171/picons/btsport2hduk.png" group-title="Cable - UK",BT Sport 2 HD UK
+#EXTINF:-1 tvg-chno="39" tvg-id="UK - BT Sport 2" tvg-name="BTSports2 HD-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BTSport2.png" group-title="Cable - UK",BT Sport 2 HD UK
 http://topiptv.net:5890/aziz/1234/55672
-#EXTINF:-1 tvg-chno="40" tvg-name="BTSports2 HD-UK" tvg-logo="http://195.154.221.171/picons/btsport2uk.png" group-title="Cable - UK",BT Sport 2 UK
+#EXTINF:-1 tvg-chno="40" tvg-id="UK - BT Sport 2 HD" tvg-name="BTSports2 HD-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_2_HD.png" group-title="Cable - UK",BT Sport 2 UK
 http://topiptv.net:5890/aziz/1234/55673
-#EXTINF:-1 tvg-chno="41" tvg-name="BTSports3 HD-UK" tvg-logo="http://195.154.221.171/picons/btsport3hduk.png" group-title="Cable - UK",BT Sport 3 HD UK
+#EXTINF:-1 tvg-chno="41" tvg-id="UK - BT Sport Extra 3" tvg-name="BTSports3 HD-UK" tvg-logo="https://3.bp.blogspot.com/-7arl-HGiGeE/Ww__Oo_fvLI/AAAAAAAAGAk/44n5OBLFupYaGopEqwgHB2GK3Ly0Hr53gCLcBGAs/s1600/download%2B%25284%2529.png" group-title="Cable - UK",BT Sport 3 HD UK
 http://topiptv.net:5890/aziz/1234/55674
-#EXTINF:-1 tvg-chno="42" tvg-name="BTSports3 HD-UK" tvg-logo="http://195.154.221.171/picons/btsport3uk.png" group-title="Cable - UK",BT Sport 3 UK
+#EXTINF:-1 tvg-chno="42" tvg-id="UK - BT Sport Extra 3" tvg-name="BTSports3 HD-UK" tvg-logo="https://www.tellysport.co.uk/assets/uploads/tv/ed58c-btsport_3hd.png" group-title="Cable - UK",BT Sport 3 UK
 http://topiptv.net:5890/aziz/1234/55675
-#EXTINF:-1 tvg-chno="43" tvg-name="BT Sport ESPN HD UK" tvg-logo="http://195.154.221.171/picons/btsportespnhduk.png" group-title="Cable - UK",BT Sport ESPN HD UK
+#EXTINF:-1 tvg-chno="43" tvg-id="UK - BT Sport//ESPN" tvg-name="BT Sport ESPN HD UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_ESPN.png" group-title="Cable - UK",BT Sport ESPN HD UK
 http://topiptv.net:5890/aziz/1234/55676
-#EXTINF:-1 tvg-chno="44" tvg-name="BT Sport ESPN UK" tvg-logo="http://195.154.221.171/picons/btsportespnuk.png" group-title="Cable - UK",BT Sport ESPN UK
+#EXTINF:-1 tvg-chno="44" tvg-id="UK - BT Sport//ESPN HD" tvg-name="BT Sport ESPN UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_ESPN_HD.png" group-title="Cable - UK",BT Sport ESPN UK
 http://topiptv.net:5890/aziz/1234/55677
-#EXTINF:-1 tvg-chno="45" tvg-name="BT Sport Extra 1 UK" tvg-logo="http://195.154.221.171/picons/btsportextra1uk.png" group-title="Cable - UK",BT Sport Extra 1 UK
+#EXTINF:-1 tvg-chno="45" tvg-id="UK - BT Sport Extra 1" tvg-name="BT Sport Extra 1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_Extra.png" group-title="Cable - UK",BT Sport Extra 1 UK
 http://topiptv.net:5890/aziz/1234/55678
-#EXTINF:-1 tvg-chno="46" tvg-name="BT Sport Extra 2 UK" tvg-logo="http://195.154.221.171/picons/btsportextra2uk.png" group-title="Cable - UK",BT Sport Extra 2 UK
+#EXTINF:-1 tvg-chno="46" tvg-id="UK - BT Sport Extra 2" tvg-name="BT Sport Extra 2 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_Extra.png" group-title="Cable - UK",BT Sport Extra 2 UK
 http://topiptv.net:5890/aziz/1234/55679
-#EXTINF:-1 tvg-chno="47" tvg-name="BT Sport Extra 3 UK" tvg-logo="http://195.154.221.171/picons/btsportextra3uk.png" group-title="Cable - UK",BT Sport Extra 3 UK
+#EXTINF:-1 tvg-chno="47" tvg-id="UK - BT Sport Extra 3" tvg-name="BT Sport Extra 3 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_Extra.png" group-title="Cable - UK",BT Sport Extra 3 UK
 http://topiptv.net:5890/aziz/1234/55680
-#EXTINF:-1 tvg-chno="48" tvg-name="BT Sport Extra 4 UK" tvg-logo="http://195.154.221.171/picons/btsportextra4uk.png" group-title="Cable - UK",BT Sport Extra 4 UK
+#EXTINF:-1 tvg-chno="48" tvg-id="UK - BT Sport Extra 4" tvg-name="BT Sport Extra 4 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_Extra.png" group-title="Cable - UK",BT Sport Extra 4 UK
 http://topiptv.net:5890/aziz/1234/55681
-#EXTINF:-1 tvg-chno="49" tvg-name="BT Sport Extra 5 UK" tvg-logo="http://195.154.221.171/picons/btsportextra5uk.png" group-title="Cable - UK",BT Sport Extra 5 UK
+#EXTINF:-1 tvg-chno="49" tvg-id="UK - BT Sport Extra 5" tvg-name="BT Sport Extra 5 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_Extra.png" group-title="Cable - UK",BT Sport Extra 5 UK
 http://topiptv.net:5890/aziz/1234/55682
-#EXTINF:-1 tvg-chno="50" tvg-name="BT Sport Mosaic 2 UK" tvg-logo="http://195.154.221.171/picons/btsportuk.png" group-title="Cable - UK",BT Sport Mosaic 2 UK
+#EXTINF:-1 tvg-chno="50" tvg-name="BT Sport Mosaic 2" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BT_Sport_mosaic.png" group-title="Cable - UK",BT Sport Mosaic 2 UK
 http://topiptv.net:5890/aziz/1234/55683
-#EXTINF:-1 tvg-chno="51" tvg-name="CAPITAL TV UK" tvg-logo="http://195.154.221.171/picons/capitaltvuk.png" group-title="Cable - UK",CAPITAL TV UK
+#EXTINF:-1 tvg-chno="51" tvg-id="UK - Capital TV" tvg-name="CAPITAL TV UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/CapitalTV.png" group-title="Cable - UK",CAPITAL TV UK
 http://topiptv.net:5890/aziz/1234/55694
-#EXTINF:-1 tvg-chno="52" tvg-name="Cartoon Network UK" tvg-logo="http://195.154.221.171/picons/cartoonnetworkuk.png" group-title="Cable - UK",Cartoon Network UK
+#EXTINF:-1 tvg-chno="52" tvg-id="UK - Cartoon Network" tvg-name="Cartoon Network UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Cartoon%20Network.png" group-title="Cable - UK",Cartoon Network UK
 http://topiptv.net:5890/aziz/1234/55703
-#EXTINF:-1 tvg-chno="53" tvg-name="Cartoonito UK" tvg-logo="http://195.154.221.171/picons/cartoonitouk.png" group-title="Cable - UK",Cartoonito UK
+#EXTINF:-1 tvg-chno="53" tvg-id="UK - Cartoonito" tvg-name="Cartoonito UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Cartoonito.png" group-title="Cable - UK",Cartoonito UK
 http://topiptv.net:5890/aziz/1234/55704
-#EXTINF:-1 tvg-chno="54" tvg-name="CBBC HD UK" tvg-logo="http://195.154.221.171/picons/cbbchduk.png" group-title="Cable - UK",CBBC HD UK
+#EXTINF:-1 tvg-chno="54" tvg-id="UK - CBBC HD" tvg-name="CBBC HD UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/CBBC_HD.png" group-title="Cable - UK",CBBC HD UK
 http://topiptv.net:5890/aziz/1234/55695
-#EXTINF:-1 tvg-chno="55" tvg-name="CBBC UK" tvg-logo="http://195.154.221.171/picons/cbbcuk.png" group-title="Cable - UK",CBBC UK
+#EXTINF:-1 tvg-chno="55" tvg-id="UK - CBBC" tvg-name="CBBC UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/CBBC.png" group-title="Cable - UK",CBBC UK
 http://topiptv.net:5890/aziz/1234/55696
-#EXTINF:-1 tvg-chno="56" tvg-name="CBeebies HD UK" tvg-logo="http://195.154.221.171/picons/cbeebieshduk.png" group-title="Cable - UK",CBeebies HD UK
+#EXTINF:-1 tvg-chno="56" tvg-id="UK - CBeebies HD" tvg-name="CBeebies HD UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Cbeebies.png" group-title="Cable - UK",CBeebies HD UK
 http://topiptv.net:5890/aziz/1234/55700
-#EXTINF:-1 tvg-chno="57" tvg-name="CBS Action UK" tvg-logo="http://195.154.221.171/picons/cbsactionuk.png" group-title="Cable - UK",CBS Action UK
+#EXTINF:-1 tvg-chno="57" tvg-id="UK - CBS Action" tvg-name="CBS Action" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/CBS_Action.png" group-title="Cable - UK",CBS Action UK
 http://topiptv.net:5890/aziz/1234/55697
-#EXTINF:-1 tvg-chno="58" tvg-name="CBS Drama UK" tvg-logo="http://195.154.221.171/picons/cbsdramauk.png" group-title="Cable - UK",CBS Drama UK
+#EXTINF:-1 tvg-chno="58" tvg-id="UK - CBS Drama" tvg-name="CBS Drama UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/CBSDrama.png" group-title="Cable - UK",CBS Drama UK
 http://topiptv.net:5890/aziz/1234/55698
-#EXTINF:-1 tvg-chno="59" tvg-name="CBS Reality UK" tvg-logo="http://195.154.221.171/picons/cbsrealityuk.png" group-title="Cable - UK",CBS Reality UK
+#EXTINF:-1 tvg-chno="59" tvg-id="UK - CBS Reality" tvg-name="CBS Reality UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/CBSReality.png" group-title="Cable - UK",CBS Reality UK
 http://topiptv.net:5890/aziz/1234/55699
-#EXTINF:-1 tvg-chno="60" tvg-name="Celtic TV (Live Matches Only) UK" group-title="Cable - UK",Celtic TV (Live Matches Only) UK
+#EXTINF:-1 tvg-chno="60" tvg-name="Celtic TV (Live Matches Only) UK" tvg-logo="https://i.pinimg.com/originals/08/4f/d4/084fd4a1825c5e19040f0d33d225c9f3.jpg" group-title="Cable - UK",Celtic TV (Live Matches Only) UK
 http://topiptv.net:5890/aziz/1234/55706
-#EXTINF:-1 tvg-chno="61" tvg-name="Challenge +1 UK" tvg-logo="http://195.154.221.171/picons/challengeuk.png" group-title="Cable - UK",Challenge +1 UK
+#EXTINF:-1 tvg-chno="61" tvg-id="UK - Challenge +1" tvg-name="Challenge +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Challenge_%2B1.png" group-title="Cable - UK",Challenge +1 UK
 http://topiptv.net:5890/aziz/1234/55705
-#EXTINF:-1 tvg-chno="62" tvg-name="Challenge UK" tvg-logo="http://195.154.221.171/picons/challengeuk.png" group-title="Cable - UK",Challenge UK
+#EXTINF:-1 tvg-chno="62" tvg-id="UK - Challenge" tvg-name="Challenge UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Challenge.png" group-title="Cable - UK",Challenge UK
 http://topiptv.net:5890/aziz/1234/55707
-#EXTINF:-1 tvg-chno="63" tvg-name="Channel 4-UK" tvg-logo="http://195.154.221.171/picons/channel4hduk.png" group-title="Cable - UK",Channel 4 HD UK
+#EXTINF:-1 tvg-chno="63" tvg-id="UK - Channel 4 HD" tvg-name="Channel 4-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Channel_4_HD.png" group-title="Cable - UK",Channel 4 HD UK
 http://topiptv.net:5890/aziz/1234/55708
-#EXTINF:-1 tvg-chno="64" tvg-name="Channel 4-UK" tvg-logo="http://195.154.221.171/picons/channel4uk.png" group-title="Cable - UK",Channel 4 UK
+#EXTINF:-1 tvg-chno="64" tvg-id="UK - Channel 4" tvg-name="Channel 4-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Channel4.png" group-title="Cable - UK",Channel 4 UK
 http://topiptv.net:5890/aziz/1234/55709
-#EXTINF:-1 tvg-chno="65" tvg-name="Channel 5-UK" tvg-logo="http://195.154.221.171/picons/channel5hduk.png" group-title="Cable - UK",Channel 5 HD UK
+#EXTINF:-1 tvg-chno="65" tvg-id="UK - Channel 5 HD" tvg-name="Channel 5-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Channel_5_HD.png" group-title="Cable - UK",Channel 5 HD UK
 http://topiptv.net:5890/aziz/1234/55710
-#EXTINF:-1 tvg-chno="66" tvg-name="Channel 5-UK" tvg-logo="http://195.154.221.171/picons/channel5uk.png" group-title="Cable - UK",Channel 5 UK
+#EXTINF:-1 tvg-chno="66" tvg-id="UK - Channel 5" tvg-name="Channel 5-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Channel5.png" group-title="Cable - UK",Channel 5 UK
 http://topiptv.net:5890/aziz/1234/55711
-#EXTINF:-1 tvg-chno="67" tvg-name="Channel AKA UK" tvg-logo="http://195.154.221.171/picons/channelakauk.png" group-title="Cable - UK",Channel AKA UK
+#EXTINF:-1 tvg-chno="67" tvg-id="UK - Channel AKA" tvg-name="Channel AKA UK" tvg-logo="https://pbs.twimg.com/profile_images/570583259268935680/HLC45Kid.jpeg" group-title="Cable - UK",Channel AKA UK
 http://topiptv.net:5890/aziz/1234/55712
-#EXTINF:-1 tvg-chno="68" tvg-name="Chart Show TV-UK" tvg-logo="http://195.154.221.171/picons/chartshowhitsuk.png" group-title="Cable - UK",Chart Show Hits UK
+#EXTINF:-1 tvg-chno="68" tvg-id="UK - Chart Show Dance" tvg-name="Chart Show TV-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Chart_Show_TV.png" group-title="Cable - UK",Chart Show Hits UK
 http://topiptv.net:5890/aziz/1234/55713
-#EXTINF:-1 tvg-chno="69" tvg-name="Chart Show TV-UK" tvg-logo="http://195.154.221.171/picons/chartshowtvuk.png" group-title="Cable - UK",Chart Show TV UK
+#EXTINF:-1 tvg-chno="69" tvg-id="UK - Chart Show TV" tvg-name="Chart Show TV-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Chart_Show_TV.png" group-title="Cable - UK",Chart Show TV UK
 http://topiptv.net:5890/aziz/1234/55714
-#EXTINF:-1 tvg-chno="70" tvg-name="Chelsea TV UK" tvg-logo="http://195.154.221.171/picons/chelseatvuk.png" group-title="Cable - UK",Chelsea TV UK
+#EXTINF:-1 tvg-chno="70" tvg-id="UK - Chelsea TV" tvg-name="Chelsea TV UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/ChelseaTV.png" group-title="Cable - UK",Chelsea TV UK
 http://topiptv.net:5890/aziz/1234/55715
-#EXTINF:-1 tvg-chno="71" tvg-name="CITV-UK" tvg-logo="http://195.154.221.171/picons/citvuk.png" group-title="Cable - UK",CITV UK
+#EXTINF:-1 tvg-chno="71" tvg-id="UK - CITV" tvg-name="CITV-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/CITV.png" group-title="Cable - UK",CITV UK
 http://topiptv.net:5890/aziz/1234/55701
-#EXTINF:-1 tvg-chno="72" tvg-name="CNN UK" tvg-logo="http://195.154.221.171/picons/cnnuk.png" group-title="Cable - UK",CNN UK
+#EXTINF:-1 tvg-chno="72" tvg-id="UK - CNN" tvg-name="CNN UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/CNN.png" group-title="Cable - UK",CNN UK
 http://topiptv.net:5890/aziz/1234/55702
-#EXTINF:-1 tvg-chno="73" tvg-name="Comedy Central-UK" tvg-logo="http://195.154.221.171/picons/comedycentralextrauk.png" group-title="Cable - UK",Comedy Central Extra +1 UK
+#EXTINF:-1 tvg-chno="73" tvg-id="UK - Comedy Central Extra +1" tvg-name="Comedy Central-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Comedy_Central_Extra_UK_%2B1.png" group-title="Cable - UK",Comedy Central Extra +1 UK
 http://topiptv.net:5890/aziz/1234/55716
-#EXTINF:-1 tvg-chno="74" tvg-name="Comedy Central Extra-UK" tvg-logo="http://195.154.221.171/picons/comedycentralextrauk.png" group-title="Cable - UK",Comedy Central Extra UK
+#EXTINF:-1 tvg-chno="74" tvg-id="UK - Comedy Central Extra" tvg-name="Comedy Central Extra-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Comedy_Central_Extra.png" group-title="Cable - UK",Comedy Central Extra UK
 http://topiptv.net:5890/aziz/1234/55717
-#EXTINF:-1 tvg-chno="75" tvg-name="Comedy Central-UK" tvg-logo="http://195.154.221.171/picons/comedycentraluk.png" group-title="Cable - UK",Comedy Central UK
+#EXTINF:-1 tvg-chno="75" tvg-id="UK - Comedy Central HD" tvg-name="Comedy Central-UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/ComedyCentralHD.png" group-title="Cable - UK",Comedy Central UK
 http://topiptv.net:5890/aziz/1234/55718
-#EXTINF:-1 tvg-chno="76" tvg-name="Crime+Investigation +1 UK" tvg-logo="http://195.154.221.171/picons/crimeplusinvestigationuk.png" group-title="Cable - UK",Crime+Investigation +1 UK
+#EXTINF:-1 tvg-chno="76" tvg-id="UK - CI" tvg-name="Crime+Investigation +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/C/Crime_%26_Investigation_Network.png" group-title="Cable - UK",Crime+Investigation +1 UK
 http://topiptv.net:5890/aziz/1234/55719
-#EXTINF:-1 tvg-chno="77" tvg-name="Dave ja vu UK" tvg-logo="http://195.154.221.171/picons/davejavuuk.png" group-title="Cable - UK",Dave ja vu UK
+#EXTINF:-1 tvg-chno="77" tvg-id="UK - Dave ja vu" tvg-name="Dave ja vu UK" tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xDAVEJAVU.png" group-title="Cable - UK",Dave ja vu UK
 http://topiptv.net:5890/aziz/1234/55723
-#EXTINF:-1 tvg-chno="78" tvg-name="Dave UK" tvg-logo="http://195.154.221.171/picons/daveuk.png" group-title="Cable - UK",Dave UK
+#EXTINF:-1 tvg-chno="78" tvg-id="UK - Dave HD" tvg-name="Dave HD - UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Dave.png" group-title="Cable - UK",Dave UK
 http://topiptv.net:5890/aziz/1234/55722
-#EXTINF:-1 tvg-chno="79" tvg-name="Discovery Channel +1 UK" tvg-logo="http://195.154.221.171/picons/discoverychanneluk.png" group-title="Cable - UK",Discovery Channel +1 UK
+#EXTINF:-1 tvg-chno="79" tvg-id="UK - Discovery +1" tvg-name="Discovery Channel +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Discovery_Channel_%2B1.png" group-title="Cable - UK",Discovery Channel +1 UK
 http://topiptv.net:5890/aziz/1234/55724
-#EXTINF:-1 tvg-chno="80" tvg-name="Discovery Channel UK" tvg-logo="http://195.154.221.171/picons/discoverychanneluk.png" group-title="Cable - UK",Discovery Channel UK
+#EXTINF:-1 tvg-chno="80" tvg-id="UK - Discovery HD" tvg-name="Discovery Channel UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/DiscoveryChannel.png" group-title="Cable - UK",Discovery Channel UK
 http://topiptv.net:5890/aziz/1234/55725
-#EXTINF:-1 tvg-chno="81" tvg-name="Discovery History +1 UK" tvg-logo="http://195.154.221.171/picons/discoveryhistoryuk.png" group-title="Cable - UK",Discovery History +1 UK
+#EXTINF:-1 tvg-chno="81" tvg-id="UK - Discovery History +1" tvg-name="Discovery History +1 - UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Discovery_History.png" group-title="Cable - UK",Discovery History +1 UK
 http://topiptv.net:5890/aziz/1234/55726
-#EXTINF:-1 tvg-chno="82" tvg-name="Discovery History UK" tvg-logo="http://195.154.221.171/picons/discoveryhistoryuk.png" group-title="Cable - UK",Discovery History UK
+#EXTINF:-1 tvg-chno="82" tvg-id="UK - Discovery History" tvg-name="Discovery History UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Discovery_History.png" group-title="Cable - UK",Discovery History UK
 http://topiptv.net:5890/aziz/1234/55727
-#EXTINF:-1 tvg-chno="83" tvg-name="Discovery Home & Health +1 UK" tvg-logo="http://195.154.221.171/picons/discoveryhomeandhealthuk.png" group-title="Cable - UK",Discovery Home & Health +1 UK
+#EXTINF:-1 tvg-chno="83" tvg-id="UK - Discovery Home & Health +1" tvg-name="Discovery Home & Health +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Discovery_Home_%26_Health_%2B1.png" group-title="Cable - UK",Discovery Home & Health +1 UK
 http://topiptv.net:5890/aziz/1234/55728
-#EXTINF:-1 tvg-chno="84" tvg-name="Discovery Home & Health UK" tvg-logo="http://195.154.221.171/picons/discoveryhomeandhealthuk.png" group-title="Cable - UK",Discovery Home & Health UK
+#EXTINF:-1 tvg-chno="84" tvg-id="UK - Discovery Home & Health" tvg-name="Discovery Home & Health UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Discovery_Home_%26_Health_UK.png" group-title="Cable - UK",Discovery Home & Health UK
 http://topiptv.net:5890/aziz/1234/55729
-#EXTINF:-1 tvg-chno="85" tvg-name="Discovery Science +1 UK" tvg-logo="http://195.154.221.171/picons/discoveryscienceuk.png" group-title="Cable - UK",Discovery Science +1 UK
+#EXTINF:-1 tvg-chno="85" tvg-id="UK - Discovery Science +1" tvg-name="Discovery Science +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Discovery_Science_Channel_UK_%2B1.png" group-title="Cable - UK",Discovery Science +1 UK
 http://topiptv.net:5890/aziz/1234/55730
-#EXTINF:-1 tvg-chno="86" tvg-name="Discovery Science UK" tvg-logo="http://195.154.221.171/picons/discoveryscienceuk.png" group-title="Cable - UK",Discovery Science UK
+#EXTINF:-1 tvg-chno="86" tvg-id="UK - Discovery Science" tvg-name="Discovery Science UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Discovery_Science_Channel.png" group-title="Cable - UK",Discovery Science UK
 http://topiptv.net:5890/aziz/1234/55731
-#EXTINF:-1 tvg-chno="87" tvg-name="Discovery Shed UK" tvg-logo="http://195.154.221.171/picons/discoverysheduk.png" group-title="Cable - UK",Discovery Shed UK
+#EXTINF:-1 tvg-chno="87" tvg-id="UK - Discovery Shed" tvg-name="Discovery Shed UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Discovery_Shed.png" group-title="Cable - UK",Discovery Shed UK
 http://topiptv.net:5890/aziz/1234/55732
-#EXTINF:-1 tvg-chno="88" tvg-name="Discovery Turbo UK" tvg-logo="http://195.154.221.171/picons/discoveryturbouk.png" group-title="Cable - UK",Discovery Turbo UK
+#EXTINF:-1 tvg-chno="88" tvg-id="UK - Discovery Turbo" tvg-name="Discovery Turbo UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Discovery_Turbo_UK.png" group-title="Cable - UK",Discovery Turbo UK
 http://topiptv.net:5890/aziz/1234/55733
-#EXTINF:-1 tvg-chno="89" tvg-name="Disney Channel +1 UK" tvg-logo="http://195.154.221.171/picons/disneychanneluk.png" group-title="Cable - UK",Disney Channel +1 UK
+#EXTINF:-1 tvg-chno="89" tvg-id="UK - Disney Channel +1" tvg-name="Disney Channel +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Disney_Channel_%2B1.png" group-title="Cable - UK",Disney Channel +1 UK
 http://topiptv.net:5890/aziz/1234/55734
-#EXTINF:-1 tvg-chno="90" tvg-name="Disney Channel UK" tvg-logo="http://195.154.221.171/picons/disneychanneluk.png" group-title="Cable - UK",Disney Channel UK
+#EXTINF:-1 tvg-chno="90" tvg-id="UK - Disney Channel HD" tvg-name="Disney Channel UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Disney_Channel.png" group-title="Cable - UK",Disney Channel UK
 http://topiptv.net:5890/aziz/1234/55735
-#EXTINF:-1 tvg-chno="91" tvg-name="Disney Junior +1 UK" tvg-logo="http://195.154.221.171/picons/disneyjunioruk.png" group-title="Cable - UK",Disney Junior +1 UK
+#EXTINF:-1 tvg-chno="91" tvg-id="UK - Disney Junior +1" tvg-name="Disney Junior +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Disney_Junior_UK_%2B1.png" group-title="Cable - UK",Disney Junior +1 UK
 http://topiptv.net:5890/aziz/1234/55736
-#EXTINF:-1 tvg-chno="92" tvg-name="Disney Junior UK" tvg-logo="http://195.154.221.171/picons/disneyjunioruk.png" group-title="Cable - UK",Disney Junior UK
+#EXTINF:-1 tvg-chno="92" tvg-id="UK - Disney Junior HD" tvg-name="Disney Junior UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Disney_Junior_UK.png" group-title="Cable - UK",Disney Junior UK
 http://topiptv.net:5890/aziz/1234/55737
-#EXTINF:-1 tvg-chno="93" tvg-name="Disney XD +1 UK" tvg-logo="http://195.154.221.171/picons/disneyxduk.png" group-title="Cable - UK",Disney XD +1 UK
+#EXTINF:-1 tvg-chno="93" tvg-id="UK - Disney XD +1" tvg-name="Disney XD +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Disney_XD_%2B1.png" group-title="Cable - UK",Disney XD +1 UK
 http://topiptv.net:5890/aziz/1234/55738
-#EXTINF:-1 tvg-chno="94" tvg-name="Disney XD UK" tvg-logo="http://195.154.221.171/picons/disneyxduk.png" group-title="Cable - UK",Disney XD UK
+#EXTINF:-1 tvg-chno="94" tvg-id="UK - Disney XD HD" tvg-name="Disney XD UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Disney_XD.png" group-title="Cable - UK",Disney XD UK
 http://topiptv.net:5890/aziz/1234/55739
-#EXTINF:-1 tvg-chno="95" tvg-name="DMAX +1 UK" tvg-logo="http://195.154.221.171/picons/dmaxuk.png" group-title="Cable - UK",DMAX +1 UK
+#EXTINF:-1 tvg-chno="95" tvg-id="UK - DMAX+1" tvg-name="DMAX +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/DMAX_%2B1.png" group-title="Cable - UK",DMAX +1 UK
 http://topiptv.net:5890/aziz/1234/55720
-#EXTINF:-1 tvg-chno="96" tvg-name="DMAX UK" tvg-logo="http://195.154.221.171/picons/dmaxuk.png" group-title="Cable - UK",DMAX UK
+#EXTINF:-1 tvg-chno="96" tvg-id="UK - DMAX" tvg-name="DMAX UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/DMAX.png" group-title="Cable - UK",DMAX UK
 http://topiptv.net:5890/aziz/1234/55721
-#EXTINF:-1 tvg-chno="97" tvg-name="Drama UK" tvg-logo="http://195.154.221.171/picons/dramauk.png" group-title="Cable - UK",Drama UK
+#EXTINF:-1 tvg-chno="97" tvg-id="UK - Drama" tvg-name="Drama UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/D/Drama.png" group-title="Cable - UK",Drama UK
 http://topiptv.net:5890/aziz/1234/55740
-#EXTINF:-1 tvg-chno="98" tvg-name="E! +1 UK" tvg-logo="http://195.154.221.171/picons/euk.png" group-title="Cable - UK",E! +1 UK
+#EXTINF:-1 tvg-chno="98" tvg-id="UK - E! +1" tvg-name="E! +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/E!_UK.png" group-title="Cable - UK",E! +1 UK
 http://topiptv.net:5890/aziz/1234/55741
-#EXTINF:-1 tvg-chno="99" tvg-name="E! UK" tvg-logo="http://195.154.221.171/picons/euk.png" group-title="Cable - UK",E! UK
+#EXTINF:-1 tvg-chno="99" tvg-id="UK - E!" tvg-name="E! UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/E!.png" group-title="Cable - UK",E! UK
 http://topiptv.net:5890/aziz/1234/55742
-#EXTINF:-1 tvg-chno="100" tvg-name="E4 +1 UK" tvg-logo="http://195.154.221.171/picons/e4uk.png" group-title="Cable - UK",E4 +1 UK
+#EXTINF:-1 tvg-chno="100" tvg-id="UK - E4 +1" tvg-name="E4 +1 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/E4%201.png" group-title="Cable - UK",E4 +1 UK
 http://topiptv.net:5890/aziz/1234/55743
-#EXTINF:-1 tvg-chno="101" tvg-name="E4 UK" tvg-logo="http://195.154.221.171/picons/e4uk.png" group-title="Cable - UK",E4 UK
+#EXTINF:-1 tvg-chno="101" tvg-id="UK - E4 HD" tvg-name="E4 UK" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/E/E4.png" group-title="Cable - UK",E4 UK
 http://topiptv.net:5890/aziz/1234/55744
-#EXTINF:-1 tvg-chno="102" tvg-name="Eden +1 UK" tvg-logo="http://195.154.221.171/picons/edenuk.png" group-title="Cable - UK",Eden +1 UK
+#EXTINF:-1 tvg-chno="102" tvg-name="Eden +1 UK" tvg-logo="edenuk.png" group-title="Cable - UK",Eden +1 UK
 http://topiptv.net:5890/aziz/1234/55745
-#EXTINF:-1 tvg-chno="103" tvg-name="Eden UK" tvg-logo="http://195.154.221.171/picons/edenuk.png" group-title="Cable - UK",Eden UK
+#EXTINF:-1 tvg-chno="103" tvg-name="Eden UK" tvg-logo="edenuk.png" group-title="Cable - UK",Eden UK
 http://topiptv.net:5890/aziz/1234/55746
-#EXTINF:-1 tvg-chno="104" tvg-name="eir Sport 1 UK" tvg-logo="http://195.154.221.171/picons/eirsport1uk.png" group-title="Cable - UK",eir Sport 1 UK
+#EXTINF:-1 tvg-chno="104" tvg-name="eir Sport 1 UK" tvg-logo="eirsport1uk.png" group-title="Cable - UK",eir Sport 1 UK
 http://topiptv.net:5890/aziz/1234/55913
-#EXTINF:-1 tvg-chno="105" tvg-name="eir Sport 2 HD UK" tvg-logo="http://195.154.221.171/picons/eirsport2hduk.png" group-title="Cable - UK",eir Sport 2 HD UK
+#EXTINF:-1 tvg-chno="105" tvg-name="eir Sport 2 HD UK" tvg-logo="eirsport2hduk.png" group-title="Cable - UK",eir Sport 2 HD UK
 http://topiptv.net:5890/aziz/1234/55914
-#EXTINF:-1 tvg-chno="106" tvg-name="eir Sport 2 UK" tvg-logo="http://195.154.221.171/picons/eirsport2uk.png" group-title="Cable - UK",eir Sport 2 UK
+#EXTINF:-1 tvg-chno="106" tvg-name="eir Sport 2 UK" tvg-logo="eirsport2uk.png" group-title="Cable - UK",eir Sport 2 UK
 http://topiptv.net:5890/aziz/1234/55915
-#EXTINF:-1 tvg-chno="107" tvg-name="Eurosport 1 HD UK" tvg-logo="http://195.154.221.171/picons/eurosport1hduk.png" group-title="Cable - UK",Eurosport 1 HD UK
+#EXTINF:-1 tvg-chno="107" tvg-name="Eurosport 1 HD UK" tvg-logo="eurosport1hduk.png" group-title="Cable - UK",Eurosport 1 HD UK
 http://topiptv.net:5890/aziz/1234/55747
-#EXTINF:-1 tvg-chno="108" tvg-name="Eurosport 2 HD UK" tvg-logo="http://195.154.221.171/picons/eurosport2hduk.png" group-title="Cable - UK",Eurosport 2 HD UK
+#EXTINF:-1 tvg-chno="108" tvg-name="Eurosport 2 HD UK" tvg-logo="eurosport2hduk.png" group-title="Cable - UK",Eurosport 2 HD UK
 http://topiptv.net:5890/aziz/1234/55748
-#EXTINF:-1 tvg-chno="109" tvg-name="Film4 UK" tvg-logo="http://195.154.221.171/picons/film4uk.png" group-title="Cable - UK",Film4 UK
+#EXTINF:-1 tvg-chno="109" tvg-name="Film4 UK" tvg-logo="film4uk.png" group-title="Cable - UK",Film4 UK
 http://topiptv.net:5890/aziz/1234/55752
-#EXTINF:-1 tvg-chno="110" tvg-name="Food Network +1 UK" tvg-logo="http://195.154.221.171/picons/foodnetworkuk.png" group-title="Cable - UK",Food Network +1 UK
+#EXTINF:-1 tvg-chno="110" tvg-name="Food Network +1 UK" tvg-logo="foodnetworkuk.png" group-title="Cable - UK",Food Network +1 UK
 http://topiptv.net:5890/aziz/1234/55753
-#EXTINF:-1 tvg-chno="111" tvg-name="Food Network UK" tvg-logo="http://195.154.221.171/picons/foodnetworkuk.png" group-title="Cable - UK",Food Network UK
+#EXTINF:-1 tvg-chno="111" tvg-name="Food Network UK" tvg-logo="foodnetworkuk.png" group-title="Cable - UK",Food Network UK
 http://topiptv.net:5890/aziz/1234/55754
-#EXTINF:-1 tvg-chno="112" tvg-name="FOX News UK" tvg-logo="http://195.154.221.171/picons/foxnewsuk.png" group-title="Cable - UK",FOX News UK
+#EXTINF:-1 tvg-chno="112" tvg-name="FOX News UK" tvg-logo="foxnewsuk.png" group-title="Cable - UK",FOX News UK
 http://topiptv.net:5890/aziz/1234/55749
-#EXTINF:-1 tvg-chno="113" tvg-name="FOX UK" tvg-logo="http://195.154.221.171/picons/foxuk.png" group-title="Cable - UK",FOX UK
+#EXTINF:-1 tvg-chno="113" tvg-name="FOX UK" tvg-logo="foxuk.png" group-title="Cable - UK",FOX UK
 http://topiptv.net:5890/aziz/1234/55750
-#EXTINF:-1 tvg-chno="114" tvg-name="FOX+ UK" tvg-logo="http://195.154.221.171/picons/foxuk.png" group-title="Cable - UK",FOX+ UK
+#EXTINF:-1 tvg-chno="114" tvg-name="FOX+ UK" tvg-logo="foxuk.png" group-title="Cable - UK",FOX+ UK
 http://topiptv.net:5890/aziz/1234/55751
 #EXTINF:-1 tvg-chno="115" tvg-name="Free Sports HD UK" group-title="Cable - UK",Free Sports HD UK
 http://topiptv.net:5890/aziz/1234/55755
-#EXTINF:-1 tvg-chno="116" tvg-name="GINX eSports TV UK" tvg-logo="http://195.154.221.171/picons/ginxesportstvuk.png" group-title="Cable - UK",GINX eSports TV UK
+#EXTINF:-1 tvg-chno="116" tvg-name="GINX eSports TV UK" tvg-logo="ginxesportstvuk.png" group-title="Cable - UK",GINX eSports TV UK
 http://topiptv.net:5890/aziz/1234/55756
-#EXTINF:-1 tvg-chno="117" tvg-name="GOLD +1 UK" tvg-logo="http://195.154.221.171/picons/golduk.png" group-title="Cable - UK",GOLD +1 UK
+#EXTINF:-1 tvg-chno="117" tvg-name="GOLD +1 UK" tvg-logo="golduk.png" group-title="Cable - UK",GOLD +1 UK
 http://topiptv.net:5890/aziz/1234/55757
-#EXTINF:-1 tvg-chno="118" tvg-name="GOLD UK" tvg-logo="http://195.154.221.171/picons/golduk.png" group-title="Cable - UK",GOLD UK
+#EXTINF:-1 tvg-chno="118" tvg-name="GOLD UK" tvg-logo="golduk.png" group-title="Cable - UK",GOLD UK
 http://topiptv.net:5890/aziz/1234/55758
-#EXTINF:-1 tvg-chno="119" tvg-name="Good Food UK" tvg-logo="http://195.154.221.171/picons/goodfooduk.png" group-title="Cable - UK",Good Food UK
+#EXTINF:-1 tvg-chno="119" tvg-name="Good Food UK" tvg-logo="goodfooduk.png" group-title="Cable - UK",Good Food UK
 http://topiptv.net:5890/aziz/1234/55759
-#EXTINF:-1 tvg-chno="120" tvg-name="H2 UK" tvg-logo="http://195.154.221.171/picons/h2uk.png" group-title="Cable - UK",H2 UK
+#EXTINF:-1 tvg-chno="120" tvg-name="H2 UK" tvg-logo="h2uk.png" group-title="Cable - UK",H2 UK
 http://topiptv.net:5890/aziz/1234/55760
-#EXTINF:-1 tvg-chno="121" tvg-name="Hillsong Channel UK" tvg-logo="http://195.154.221.171/picons/hillsongchanneluk.png" group-title="Cable - UK",Hillsong Channel UK
+#EXTINF:-1 tvg-chno="121" tvg-name="Hillsong Channel UK" tvg-logo="hillsongchanneluk.png" group-title="Cable - UK",Hillsong Channel UK
 http://topiptv.net:5890/aziz/1234/55761
-#EXTINF:-1 tvg-chno="122" tvg-name="Hip Hop & R & B Music TV UK" tvg-logo="http://195.154.221.171/picons/boxupfrontuk.png" group-title="Cable - UK",Hip Hop & R & B Music TV UK
+#EXTINF:-1 tvg-chno="122" tvg-name="Hip Hop & R & B Music TV UK" tvg-logo="boxupfrontuk.png" group-title="Cable - UK",Hip Hop & R & B Music TV UK
 http://topiptv.net:5890/aziz/1234/55691
-#EXTINF:-1 tvg-chno="123" tvg-name="History +1 UK" tvg-logo="http://195.154.221.171/picons/historyuk.png" group-title="Cable - UK",History +1 UK
+#EXTINF:-1 tvg-chno="123" tvg-name="History +1 UK" tvg-logo="historyuk.png" group-title="Cable - UK",History +1 UK
 http://topiptv.net:5890/aziz/1234/55762
-#EXTINF:-1 tvg-chno="124" tvg-name="History UK" tvg-logo="http://195.154.221.171/picons/historyuk.png" group-title="Cable - UK",History UK
+#EXTINF:-1 tvg-chno="124" tvg-name="History UK" tvg-logo="historyuk.png" group-title="Cable - UK",History UK
 http://topiptv.net:5890/aziz/1234/55763
-#EXTINF:-1 tvg-chno="125" tvg-name="Home +1 UK" tvg-logo="http://195.154.221.171/picons/homeuk.png" group-title="Cable - UK",Home +1 UK
+#EXTINF:-1 tvg-chno="125" tvg-name="Home +1 UK" tvg-logo="homeuk.png" group-title="Cable - UK",Home +1 UK
 http://topiptv.net:5890/aziz/1234/55764
-#EXTINF:-1 tvg-chno="126" tvg-name="Home UK" tvg-logo="http://195.154.221.171/picons/homeuk.png" group-title="Cable - UK",Home UK
+#EXTINF:-1 tvg-chno="126" tvg-name="Home UK" tvg-logo="homeuk.png" group-title="Cable - UK",Home UK
 http://topiptv.net:5890/aziz/1234/55765
-#EXTINF:-1 tvg-chno="127" tvg-name="Horror Channel +1 UK" tvg-logo="http://195.154.221.171/picons/horrorchanneluk.png" group-title="Cable - UK",Horror Channel +1 UK
+#EXTINF:-1 tvg-chno="127" tvg-name="Horror Channel +1 UK" tvg-logo="horrorchanneluk.png" group-title="Cable - UK",Horror Channel +1 UK
 http://topiptv.net:5890/aziz/1234/55766
-#EXTINF:-1 tvg-chno="128" tvg-name="Horror Channel UK" tvg-logo="http://195.154.221.171/picons/horrorchanneluk.png" group-title="Cable - UK",Horror Channel UK
+#EXTINF:-1 tvg-chno="128" tvg-name="Horror Channel UK" tvg-logo="horrorchanneluk.png" group-title="Cable - UK",Horror Channel UK
 http://topiptv.net:5890/aziz/1234/55767
-#EXTINF:-1 tvg-chno="129" tvg-name="Investigation Discovery +1 UK" tvg-logo="http://195.154.221.171/picons/investigationdiscoveryuk.png" group-title="Cable - UK",Investigation Discovery +1 UK
+#EXTINF:-1 tvg-chno="129" tvg-name="Investigation Discovery +1 UK" tvg-logo="investigationdiscoveryuk.png" group-title="Cable - UK",Investigation Discovery +1 UK
 http://topiptv.net:5890/aziz/1234/55780
-#EXTINF:-1 tvg-chno="130" tvg-name="Investigation Discovery UK" tvg-logo="http://195.154.221.171/picons/investigationdiscoveryuk.png" group-title="Cable - UK",Investigation Discovery UK
+#EXTINF:-1 tvg-chno="130" tvg-name="Investigation Discovery UK" tvg-logo="investigationdiscoveryuk.png" group-title="Cable - UK",Investigation Discovery UK
 http://topiptv.net:5890/aziz/1234/55781
-#EXTINF:-1 tvg-chno="131" tvg-name="ITV +1 UK" tvg-logo="http://195.154.221.171/picons/itvplus1uk.png" group-title="Cable - UK",ITV +1 UK
+#EXTINF:-1 tvg-chno="131" tvg-name="ITV +1 UK" tvg-logo="itvplus1uk.png" group-title="Cable - UK",ITV +1 UK
 http://topiptv.net:5890/aziz/1234/55768
-#EXTINF:-1 tvg-chno="132" tvg-name="ITV 1 UK" tvg-logo="http://195.154.221.171/picons/itvuk.png" group-title="Cable - UK",ITV 1 UK
+#EXTINF:-1 tvg-chno="132" tvg-name="ITV 1 UK" tvg-logo="itvuk.png" group-title="Cable - UK",ITV 1 UK
 http://topiptv.net:5890/aziz/1234/55771
-#EXTINF:-1 tvg-chno="133" tvg-name="ITV Encore +1 UK" tvg-logo="http://195.154.221.171/picons/itvencoreplus1uk.png" group-title="Cable - UK",ITV Encore +1 UK
+#EXTINF:-1 tvg-chno="133" tvg-name="ITV Encore +1 UK" tvg-logo="itvencoreplus1uk.png" group-title="Cable - UK",ITV Encore +1 UK
 http://topiptv.net:5890/aziz/1234/55769
-#EXTINF:-1 tvg-chno="134" tvg-name="ITV Encore UK" tvg-logo="http://195.154.221.171/picons/itvencoreuk.png" group-title="Cable - UK",ITV Encore UK
+#EXTINF:-1 tvg-chno="134" tvg-name="ITV Encore UK" tvg-logo="itvencoreuk.png" group-title="Cable - UK",ITV Encore UK
 http://topiptv.net:5890/aziz/1234/55770
-#EXTINF:-1 tvg-chno="135" tvg-name="ITV2 +1 UK" tvg-logo="http://195.154.221.171/picons/itv2plus1uk.png" group-title="Cable - UK",ITV2 +1 UK
+#EXTINF:-1 tvg-chno="135" tvg-name="ITV2 +1 UK" tvg-logo="itv2plus1uk.png" group-title="Cable - UK",ITV2 +1 UK
 http://topiptv.net:5890/aziz/1234/55772
-#EXTINF:-1 tvg-chno="136" tvg-name="ITV2 HD UK" tvg-logo="http://195.154.221.171/picons/itv2hduk.png" group-title="Cable - UK",ITV2 HD UK
+#EXTINF:-1 tvg-chno="136" tvg-name="ITV2 HD UK" tvg-logo="itv2hduk.png" group-title="Cable - UK",ITV2 HD UK
 http://topiptv.net:5890/aziz/1234/55773
-#EXTINF:-1 tvg-chno="137" tvg-name="ITV2 UK" tvg-logo="http://195.154.221.171/picons/itv2uk.png" group-title="Cable - UK",ITV2 UK
+#EXTINF:-1 tvg-chno="137" tvg-name="ITV2 UK" tvg-logo="itv2uk.png" group-title="Cable - UK",ITV2 UK
 http://topiptv.net:5890/aziz/1234/55774
-#EXTINF:-1 tvg-chno="138" tvg-name="ITV3 +1 UK" tvg-logo="http://195.154.221.171/picons/itv3plus1uk.png" group-title="Cable - UK",ITV3 +1 UK
+#EXTINF:-1 tvg-chno="138" tvg-name="ITV3 +1 UK" tvg-logo="itv3plus1uk.png" group-title="Cable - UK",ITV3 +1 UK
 http://topiptv.net:5890/aziz/1234/55775
-#EXTINF:-1 tvg-chno="139" tvg-name="ITV3 UK" tvg-logo="http://195.154.221.171/picons/itv3uk.png" group-title="Cable - UK",ITV3 UK
+#EXTINF:-1 tvg-chno="139" tvg-name="ITV3 UK" tvg-logo="itv3uk.png" group-title="Cable - UK",ITV3 UK
 http://topiptv.net:5890/aziz/1234/55776
-#EXTINF:-1 tvg-chno="140" tvg-name="ITV4 +1 UK" tvg-logo="http://195.154.221.171/picons/itv4plus1uk.png" group-title="Cable - UK",ITV4 +1 UK
+#EXTINF:-1 tvg-chno="140" tvg-name="ITV4 +1 UK" tvg-logo="itv4plus1uk.png" group-title="Cable - UK",ITV4 +1 UK
 http://topiptv.net:5890/aziz/1234/55777
-#EXTINF:-1 tvg-chno="141" tvg-name="ITV4 UK" tvg-logo="http://195.154.221.171/picons/itv4uk.png" group-title="Cable - UK",ITV4 UK
+#EXTINF:-1 tvg-chno="141" tvg-name="ITV4 UK" tvg-logo="itv4uk.png" group-title="Cable - UK",ITV4 UK
 http://topiptv.net:5890/aziz/1234/55778
-#EXTINF:-1 tvg-chno="142" tvg-name="ITVBe +1 UK" tvg-logo="http://195.154.221.171/picons/itvbeplus1uk.png" group-title="Cable - UK",ITVBe +1 UK
+#EXTINF:-1 tvg-chno="142" tvg-name="ITVBe +1 UK" tvg-logo="itvbeplus1uk.png" group-title="Cable - UK",ITVBe +1 UK
 http://topiptv.net:5890/aziz/1234/55779
-#EXTINF:-1 tvg-chno="143" tvg-name="Kerrang! TV UK" tvg-logo="http://195.154.221.171/picons/kerrangtvuk.png" group-title="Cable - UK",Kerrang! TV UK
+#EXTINF:-1 tvg-chno="143" tvg-name="Kerrang! TV UK" tvg-logo="kerrangtvuk.png" group-title="Cable - UK",Kerrang! TV UK
 http://topiptv.net:5890/aziz/1234/55785
-#EXTINF:-1 tvg-chno="144" tvg-name="KISS UK" tvg-logo="http://195.154.221.171/picons/kissuk.png" group-title="Cable - UK",KISS UK
+#EXTINF:-1 tvg-chno="144" tvg-name="KISS UK" tvg-logo="kissuk.png" group-title="Cable - UK",KISS UK
 http://topiptv.net:5890/aziz/1234/55782
-#EXTINF:-1 tvg-chno="145" tvg-name="KIX +1 UK" tvg-logo="http://195.154.221.171/picons/kixuk.png" group-title="Cable - UK",KIX +1 UK
+#EXTINF:-1 tvg-chno="145" tvg-name="KIX +1 UK" tvg-logo="kixuk.png" group-title="Cable - UK",KIX +1 UK
 http://topiptv.net:5890/aziz/1234/55783
-#EXTINF:-1 tvg-chno="146" tvg-name="KIX UK" tvg-logo="http://195.154.221.171/picons/kixuk.png" group-title="Cable - UK",KIX UK
+#EXTINF:-1 tvg-chno="146" tvg-name="KIX UK" tvg-logo="kixuk.png" group-title="Cable - UK",KIX UK
 http://topiptv.net:5890/aziz/1234/55784
-#EXTINF:-1 tvg-chno="147" tvg-name="Latino Pop Music TV UK" tvg-logo="http://195.154.221.171/picons/redbulltvuk.png" group-title="Cable - UK",Latino Pop Music TV UK
+#EXTINF:-1 tvg-chno="147" tvg-name="Latino Pop Music TV UK" tvg-logo="redbulltvuk.png" group-title="Cable - UK",Latino Pop Music TV UK
 http://topiptv.net:5890/aziz/1234/55833
-#EXTINF:-1 tvg-chno="148" tvg-name="LFC TV UK" tvg-logo="http://195.154.221.171/picons/lfctvuk.png" group-title="Cable - UK",LFC TV UK
+#EXTINF:-1 tvg-chno="148" tvg-name="LFC TV UK" tvg-logo="lfctvuk.png" group-title="Cable - UK",LFC TV UK
 http://topiptv.net:5890/aziz/1234/55786
-#EXTINF:-1 tvg-chno="149" tvg-name="Made In Bristol UK" tvg-logo="http://195.154.221.171/picons/madeinbristoluk.png" group-title="Cable - UK",Made In Bristol UK
+#EXTINF:-1 tvg-chno="149" tvg-name="Made In Bristol UK" tvg-logo="madeinbristoluk.png" group-title="Cable - UK",Made In Bristol UK
 http://topiptv.net:5890/aziz/1234/55798
-#EXTINF:-1 tvg-chno="150" tvg-name="More4 UK" tvg-logo="http://195.154.221.171/picons/more4uk.png" group-title="Cable - UK",More4 UK
+#EXTINF:-1 tvg-chno="150" tvg-name="More4 UK" tvg-logo="more4uk.png" group-title="Cable - UK",More4 UK
 http://topiptv.net:5890/aziz/1234/55799
-#EXTINF:-1 tvg-chno="151" tvg-name="Motors TV HD UK" tvg-logo="http://195.154.221.171/picons/motorstvuk.png" group-title="Cable - UK",Motors TV HD UK
+#EXTINF:-1 tvg-chno="151" tvg-name="Motors TV HD UK" tvg-logo="motorstvuk.png" group-title="Cable - UK",Motors TV HD UK
 http://topiptv.net:5890/aziz/1234/55800
-#EXTINF:-1 tvg-chno="152" tvg-name="Movies 24 UK" tvg-logo="http://195.154.221.171/picons/movies24uk.png" group-title="Cable - UK",Movies 24 UK
+#EXTINF:-1 tvg-chno="152" tvg-name="Movies 24 UK" tvg-logo="movies24uk.png" group-title="Cable - UK",Movies 24 UK
 http://topiptv.net:5890/aziz/1234/55801
-#EXTINF:-1 tvg-chno="153" tvg-name="Movies4Men +1 UK" tvg-logo="http://195.154.221.171/picons/movies4menuk.png" group-title="Cable - UK",Movies4Men +1 UK
+#EXTINF:-1 tvg-chno="153" tvg-name="Movies4Men +1 UK" tvg-logo="movies4menuk.png" group-title="Cable - UK",Movies4Men +1 UK
 http://topiptv.net:5890/aziz/1234/55802
-#EXTINF:-1 tvg-chno="154" tvg-name="Movies4Men UK" tvg-logo="http://195.154.221.171/picons/movies4menuk.png" group-title="Cable - UK",Movies4Men UK
+#EXTINF:-1 tvg-chno="154" tvg-name="Movies4Men UK" tvg-logo="movies4menuk.png" group-title="Cable - UK",Movies4Men UK
 http://topiptv.net:5890/aziz/1234/55803
-#EXTINF:-1 tvg-chno="155" tvg-name="MTV +1 UK" tvg-logo="http://195.154.221.171/picons/mtvuk.png" group-title="Cable - UK",MTV +1 UK
+#EXTINF:-1 tvg-chno="155" tvg-name="MTV +1 UK" tvg-logo="mtvuk.png" group-title="Cable - UK",MTV +1 UK
 http://topiptv.net:5890/aziz/1234/55787
-#EXTINF:-1 tvg-chno="156" tvg-name="MTV Base UK" tvg-logo="http://195.154.221.171/picons/mtvbaseuk.png" group-title="Cable - UK",MTV Base UK
+#EXTINF:-1 tvg-chno="156" tvg-name="MTV Base UK" tvg-logo="mtvbaseuk.png" group-title="Cable - UK",MTV Base UK
 http://topiptv.net:5890/aziz/1234/55789
-#EXTINF:-1 tvg-chno="157" tvg-name="MTV Classic UK" tvg-logo="http://195.154.221.171/picons/mtvclassicuk.png" group-title="Cable - UK",MTV Classic UK
+#EXTINF:-1 tvg-chno="157" tvg-name="MTV Classic UK" tvg-logo="mtvclassicuk.png" group-title="Cable - UK",MTV Classic UK
 http://topiptv.net:5890/aziz/1234/55790
-#EXTINF:-1 tvg-chno="158" tvg-name="MTV Dance UK" tvg-logo="http://195.154.221.171/picons/mtvdanceuk.png" group-title="Cable - UK",MTV Dance UK
+#EXTINF:-1 tvg-chno="158" tvg-name="MTV Dance UK" tvg-logo="mtvdanceuk.png" group-title="Cable - UK",MTV Dance UK
 http://topiptv.net:5890/aziz/1234/55791
-#EXTINF:-1 tvg-chno="159" tvg-name="MTV Hits UK" tvg-logo="http://195.154.221.171/picons/mtvhitsuk.png" group-title="Cable - UK",MTV Hits UK
+#EXTINF:-1 tvg-chno="159" tvg-name="MTV Hits UK" tvg-logo="mtvhitsuk.png" group-title="Cable - UK",MTV Hits UK
 http://topiptv.net:5890/aziz/1234/55792
-#EXTINF:-1 tvg-chno="160" tvg-name="MTV Music UK" tvg-logo="http://195.154.221.171/picons/mtvmusicuk.png" group-title="Cable - UK",MTV Music UK
+#EXTINF:-1 tvg-chno="160" tvg-name="MTV Music UK" tvg-logo="mtvmusicuk.png" group-title="Cable - UK",MTV Music UK
 http://topiptv.net:5890/aziz/1234/55793
-#EXTINF:-1 tvg-chno="161" tvg-name="MTV UK" tvg-logo="http://195.154.221.171/picons/mtvuk.png" group-title="Cable - UK",MTV UK
+#EXTINF:-1 tvg-chno="161" tvg-name="MTV UK" tvg-logo="mtvuk.png" group-title="Cable - UK",MTV UK
 http://topiptv.net:5890/aziz/1234/55794
-#EXTINF:-1 tvg-chno="162" tvg-name="MU TV HD UK" tvg-logo="http://195.154.221.171/picons/mutvhduk.png" group-title="Cable - UK",MU TV HD UK
+#EXTINF:-1 tvg-chno="162" tvg-name="MU TV HD UK" tvg-logo="mutvhduk.png" group-title="Cable - UK",MU TV HD UK
 http://topiptv.net:5890/aziz/1234/55795
-#EXTINF:-1 tvg-chno="163" tvg-name="MUTV HD UK" tvg-logo="http://195.154.221.171/picons/mutvhduk.png" group-title="Cable - UK",MUTV HD UK
+#EXTINF:-1 tvg-chno="163" tvg-name="MUTV HD UK" tvg-logo="mutvhduk.png" group-title="Cable - UK",MUTV HD UK
 http://topiptv.net:5890/aziz/1234/55796
-#EXTINF:-1 tvg-chno="164" tvg-name="MUTV UK" tvg-logo="http://195.154.221.171/picons/mutvuk.png" group-title="Cable - UK",MUTV UK
+#EXTINF:-1 tvg-chno="164" tvg-name="MUTV UK" tvg-logo="mutvuk.png" group-title="Cable - UK",MUTV UK
 http://topiptv.net:5890/aziz/1234/55797
-#EXTINF:-1 tvg-chno="165" tvg-name="My5 UK" tvg-logo="http://195.154.221.171/picons/my5uk.png" group-title="Cable - UK",My5 UK
+#EXTINF:-1 tvg-chno="165" tvg-name="My5 UK" tvg-logo="my5uk.png" group-title="Cable - UK",My5 UK
 http://topiptv.net:5890/aziz/1234/55804
-#EXTINF:-1 tvg-chno="166" tvg-name="Nat Geo Wild UK" tvg-logo="http://195.154.221.171/picons/natgeowilduk.png" group-title="Cable - UK",Nat Geo Wild UK
+#EXTINF:-1 tvg-chno="166" tvg-name="Nat Geo Wild UK" tvg-logo="natgeowilduk.png" group-title="Cable - UK",Nat Geo Wild UK
 http://topiptv.net:5890/aziz/1234/55805
-#EXTINF:-1 tvg-chno="167" tvg-name="Nick Jr. +1 UK" tvg-logo="http://195.154.221.171/picons/nickjruk.png" group-title="Cable - UK",Nick Jr. +1 UK
+#EXTINF:-1 tvg-chno="167" tvg-name="Nick Jr. +1 UK" tvg-logo="nickjruk.png" group-title="Cable - UK",Nick Jr. +1 UK
 http://topiptv.net:5890/aziz/1234/55806
-#EXTINF:-1 tvg-chno="168" tvg-name="Nick Jr. Peppa UK" tvg-logo="http://195.154.221.171/picons/nickjrpeppauk.png" group-title="Cable - UK",Nick Jr. Peppa UK
+#EXTINF:-1 tvg-chno="168" tvg-name="Nick Jr. Peppa UK" tvg-logo="nickjrpeppauk.png" group-title="Cable - UK",Nick Jr. Peppa UK
 http://topiptv.net:5890/aziz/1234/55807
-#EXTINF:-1 tvg-chno="169" tvg-name="Nick Jr. Too UK" tvg-logo="http://195.154.221.171/picons/nickjrtoouk.png" group-title="Cable - UK",Nick Jr. Too UK
+#EXTINF:-1 tvg-chno="169" tvg-name="Nick Jr. Too UK" tvg-logo="nickjrtoouk.png" group-title="Cable - UK",Nick Jr. Too UK
 http://topiptv.net:5890/aziz/1234/55808
-#EXTINF:-1 tvg-chno="170" tvg-name="Nick Jr. UK" tvg-logo="http://195.154.221.171/picons/nickjruk.png" group-title="Cable - UK",Nick Jr. UK
+#EXTINF:-1 tvg-chno="170" tvg-name="Nick Jr. UK" tvg-logo="nickjruk.png" group-title="Cable - UK",Nick Jr. UK
 http://topiptv.net:5890/aziz/1234/55809
-#EXTINF:-1 tvg-chno="171" tvg-name="Nickelodeon +1 UK" tvg-logo="http://195.154.221.171/picons/nickelodeonuk.png" group-title="Cable - UK",Nickelodeon +1 UK
+#EXTINF:-1 tvg-chno="171" tvg-name="Nickelodeon +1 UK" tvg-logo="nickelodeonuk.png" group-title="Cable - UK",Nickelodeon +1 UK
 http://topiptv.net:5890/aziz/1234/55811
-#EXTINF:-1 tvg-chno="172" tvg-name="Nickelodeon UK" tvg-logo="http://195.154.221.171/picons/nickelodeonuk.png" group-title="Cable - UK",Nickelodeon UK
+#EXTINF:-1 tvg-chno="172" tvg-name="Nickelodeon UK" tvg-logo="nickelodeonuk.png" group-title="Cable - UK",Nickelodeon UK
 http://topiptv.net:5890/aziz/1234/55812
-#EXTINF:-1 tvg-chno="173" tvg-name="NickToons UK" tvg-logo="http://195.154.221.171/picons/nicktoonsuk.png" group-title="Cable - UK",NickToons UK
+#EXTINF:-1 tvg-chno="173" tvg-name="NickToons UK" tvg-logo="nicktoonsuk.png" group-title="Cable - UK",NickToons UK
 http://topiptv.net:5890/aziz/1234/55810
-#EXTINF:-1 tvg-chno="174" tvg-name="PBS America UK" tvg-logo="http://195.154.221.171/picons/pbsamericauk.png" group-title="Cable - UK",PBS America UK
+#EXTINF:-1 tvg-chno="174" tvg-name="PBS America UK" tvg-logo="pbsamericauk.png" group-title="Cable - UK",PBS America UK
 http://topiptv.net:5890/aziz/1234/55813
-#EXTINF:-1 tvg-chno="175" tvg-name="Pick +1 UK" tvg-logo="http://195.154.221.171/picons/pickuk.png" group-title="Cable - UK",Pick +1 UK
+#EXTINF:-1 tvg-chno="175" tvg-name="Pick +1 UK" tvg-logo="pickuk.png" group-title="Cable - UK",Pick +1 UK
 http://topiptv.net:5890/aziz/1234/55816
-#EXTINF:-1 tvg-chno="176" tvg-name="Pick UK" tvg-logo="http://195.154.221.171/picons/pickuk.png" group-title="Cable - UK",Pick UK
+#EXTINF:-1 tvg-chno="176" tvg-name="Pick UK" tvg-logo="pickuk.png" group-title="Cable - UK",Pick UK
 http://topiptv.net:5890/aziz/1234/55817
-#EXTINF:-1 tvg-chno="177" tvg-name="POP +1 UK" tvg-logo="http://195.154.221.171/picons/popuk.png" group-title="Cable - UK",POP +1 UK
+#EXTINF:-1 tvg-chno="177" tvg-name="POP +1 UK" tvg-logo="popuk.png" group-title="Cable - UK",POP +1 UK
 http://topiptv.net:5890/aziz/1234/55814
-#EXTINF:-1 tvg-chno="178" tvg-name="POP UK" tvg-logo="http://195.154.221.171/picons/popuk.png" group-title="Cable - UK",POP UK
+#EXTINF:-1 tvg-chno="178" tvg-name="POP UK" tvg-logo="popuk.png" group-title="Cable - UK",POP UK
 http://topiptv.net:5890/aziz/1234/55815
-#EXTINF:-1 tvg-chno="179" tvg-name="Premier Sports HD UK" tvg-logo="http://195.154.221.171/picons/premiersportshduk.png" group-title="Cable - UK",Premier Sports HD UK
+#EXTINF:-1 tvg-chno="179" tvg-name="Premier Sports HD UK" tvg-logo="premiersportshduk.png" group-title="Cable - UK",Premier Sports HD UK
 http://topiptv.net:5890/aziz/1234/55818
-#EXTINF:-1 tvg-chno="180" tvg-name="Premier Sports UK" tvg-logo="http://195.154.221.171/picons/premiersportsuk.png" group-title="Cable - UK",Premier Sports UK
+#EXTINF:-1 tvg-chno="180" tvg-name="Premier Sports UK" tvg-logo="premiersportsuk.png" group-title="Cable - UK",Premier Sports UK
 http://topiptv.net:5890/aziz/1234/55819
-#EXTINF:-1 tvg-chno="181" tvg-name="QUEST RED +1 UK" tvg-logo="http://195.154.221.171/picons/questreduk.png" group-title="Cable - UK",QUEST RED +1 UK
+#EXTINF:-1 tvg-chno="181" tvg-name="QUEST RED +1 UK" tvg-logo="questreduk.png" group-title="Cable - UK",QUEST RED +1 UK
 http://topiptv.net:5890/aziz/1234/55820
-#EXTINF:-1 tvg-chno="182" tvg-name="QUEST RED UK" tvg-logo="http://195.154.221.171/picons/questreduk.png" group-title="Cable - UK",QUEST RED UK
+#EXTINF:-1 tvg-chno="182" tvg-name="QUEST RED UK" tvg-logo="questreduk.png" group-title="Cable - UK",QUEST RED UK
 http://topiptv.net:5890/aziz/1234/55821
-#EXTINF:-1 tvg-chno="183" tvg-name="QUEST UK" tvg-logo="http://195.154.221.171/picons/questuk.png" group-title="Cable - UK",QUEST UK
+#EXTINF:-1 tvg-chno="183" tvg-name="QUEST UK" tvg-logo="questuk.png" group-title="Cable - UK",QUEST UK
 http://topiptv.net:5890/aziz/1234/55822
-#EXTINF:-1 tvg-chno="184" tvg-id="UK - Racing UK" tvg-name="Racing UK" tvg-logo="http://195.154.221.171/picons/racinguk.png" group-title="Cable - UK",Racing UK
+#EXTINF:-1 tvg-chno="184" tvg-id="UK - Racing UK" tvg-name="Racing UK" tvg-logo="racinguk.png" group-title="Cable - UK",Racing UK
 http://topiptv.net:5890/aziz/1234/55829
-#EXTINF:-1 tvg-chno="185" tvg-name="Rap 2K Music TV UK" tvg-logo="http://195.154.221.171/picons/mtv90suk.png" group-title="Cable - UK",Rap 2K Music TV UK
+#EXTINF:-1 tvg-chno="185" tvg-name="Rap 2K Music TV UK" tvg-logo="mtv90suk.png" group-title="Cable - UK",Rap 2K Music TV UK
 http://topiptv.net:5890/aziz/1234/55788
-#EXTINF:-1 tvg-chno="186" tvg-name="Real Lives +1 UK" tvg-logo="http://195.154.221.171/picons/reallivesuk.png" group-title="Cable - UK",Real Lives +1 UK
+#EXTINF:-1 tvg-chno="186" tvg-name="Real Lives +1 UK" tvg-logo="reallivesuk.png" group-title="Cable - UK",Real Lives +1 UK
 http://topiptv.net:5890/aziz/1234/55830
-#EXTINF:-1 tvg-chno="187" tvg-name="Real Lives UK" tvg-logo="http://195.154.221.171/picons/reallivesuk.png" group-title="Cable - UK",Real Lives UK
+#EXTINF:-1 tvg-chno="187" tvg-name="Real Lives UK" tvg-logo="reallivesuk.png" group-title="Cable - UK",Real Lives UK
 http://topiptv.net:5890/aziz/1234/55831
-#EXTINF:-1 tvg-chno="188" tvg-name="Really UK" tvg-logo="http://195.154.221.171/picons/reallyuk.png" group-title="Cable - UK",Really UK
+#EXTINF:-1 tvg-chno="188" tvg-name="Really UK" tvg-logo="reallyuk.png" group-title="Cable - UK",Really UK
 http://topiptv.net:5890/aziz/1234/55832
-#EXTINF:-1 tvg-chno="189" tvg-name="RTÉ Jr UK" tvg-logo="http://195.154.221.171/picons/rtejruk.png" group-title="Cable - UK",RTÉ Jr UK
+#EXTINF:-1 tvg-chno="189" tvg-name="RTÉ Jr UK" tvg-logo="rtejruk.png" group-title="Cable - UK",RTÉ Jr UK
 http://topiptv.net:5890/aziz/1234/55823
-#EXTINF:-1 tvg-chno="190" tvg-name="RTÉ News Now UK" tvg-logo="http://195.154.221.171/picons/rtenewsnowuk.png" group-title="Cable - UK",RTÉ News Now UK
+#EXTINF:-1 tvg-chno="190" tvg-name="RTÉ News Now UK" tvg-logo="rtenewsnowuk.png" group-title="Cable - UK",RTÉ News Now UK
 http://topiptv.net:5890/aziz/1234/55824
-#EXTINF:-1 tvg-chno="191" tvg-name="RTÉ One HD UK" tvg-logo="http://195.154.221.171/picons/rteonehduk.png" group-title="Cable - UK",RTÉ One HD UK
+#EXTINF:-1 tvg-chno="191" tvg-name="RTÉ One HD UK" tvg-logo="rteonehduk.png" group-title="Cable - UK",RTÉ One HD UK
 http://topiptv.net:5890/aziz/1234/55825
-#EXTINF:-1 tvg-chno="192" tvg-name="RTÉ One UK" tvg-logo="http://195.154.221.171/picons/rteoneuk.png" group-title="Cable - UK",RTÉ One UK
+#EXTINF:-1 tvg-chno="192" tvg-name="RTÉ One UK" tvg-logo="rteoneuk.png" group-title="Cable - UK",RTÉ One UK
 http://topiptv.net:5890/aziz/1234/55826
-#EXTINF:-1 tvg-chno="193" tvg-name="RTÉ Two HD UK" tvg-logo="http://195.154.221.171/picons/rtetwohduk.png" group-title="Cable - UK",RTÉ Two HD UK
+#EXTINF:-1 tvg-chno="193" tvg-name="RTÉ Two HD UK" tvg-logo="rtetwohduk.png" group-title="Cable - UK",RTÉ Two HD UK
 http://topiptv.net:5890/aziz/1234/55827
-#EXTINF:-1 tvg-chno="194" tvg-name="RTÉ Two UK" tvg-logo="http://195.154.221.171/picons/rtetwouk.png" group-title="Cable - UK",RTÉ Two UK
+#EXTINF:-1 tvg-chno="194" tvg-name="RTÉ Two UK" tvg-logo="rtetwouk.png" group-title="Cable - UK",RTÉ Two UK
 http://topiptv.net:5890/aziz/1234/55828
-#EXTINF:-1 tvg-chno="195" tvg-name="S4C UK" tvg-logo="http://195.154.221.171/picons/s4cuk.png" group-title="Cable - UK",S4C UK
+#EXTINF:-1 tvg-chno="195" tvg-name="S4C UK" tvg-logo="s4cuk.png" group-title="Cable - UK",S4C UK
 http://topiptv.net:5890/aziz/1234/55834
-#EXTINF:-1 tvg-chno="196" tvg-name="Sky 1 HD UK" tvg-logo="http://195.154.221.171/picons/sky1hduk.png" group-title="Cable - UK",Sky 1 HD UK
+#EXTINF:-1 tvg-chno="196" tvg-name="Sky 1 HD UK" tvg-logo="sky1hduk.png" group-title="Cable - UK",Sky 1 HD UK
 http://topiptv.net:5890/aziz/1234/55835
-#EXTINF:-1 tvg-chno="197" tvg-name="Sky 1 UK" tvg-logo="http://195.154.221.171/picons/sky1uk.png" group-title="Cable - UK",Sky 1 UK
+#EXTINF:-1 tvg-chno="197" tvg-name="Sky 1 UK" tvg-logo="sky1uk.png" group-title="Cable - UK",Sky 1 UK
 http://topiptv.net:5890/aziz/1234/55836
-#EXTINF:-1 tvg-chno="198" tvg-name="Sky 2 UK" tvg-logo="http://195.154.221.171/picons/sky2uk.png" group-title="Cable - UK",Sky 2 UK
+#EXTINF:-1 tvg-chno="198" tvg-name="Sky 2 UK" tvg-logo="sky2uk.png" group-title="Cable - UK",Sky 2 UK
 http://topiptv.net:5890/aziz/1234/55837
-#EXTINF:-1 tvg-chno="199" tvg-name="Sky Arts UK" tvg-logo="http://195.154.221.171/picons/skyartsuk.png" group-title="Cable - UK",Sky Arts UK
+#EXTINF:-1 tvg-chno="199" tvg-name="Sky Arts UK" tvg-logo="skyartsuk.png" group-title="Cable - UK",Sky Arts UK
 http://topiptv.net:5890/aziz/1234/55838
-#EXTINF:-1 tvg-chno="200" tvg-name="Sky Atlantic +1 UK" tvg-logo="http://195.154.221.171/picons/skyatlanticplus1uk.png" group-title="Cable - UK",Sky Atlantic +1 UK
+#EXTINF:-1 tvg-chno="200" tvg-name="Sky Atlantic +1 UK" tvg-logo="skyatlanticplus1uk.png" group-title="Cable - UK",Sky Atlantic +1 UK
 http://topiptv.net:5890/aziz/1234/55839
-#EXTINF:-1 tvg-chno="201" tvg-name="Sky Atlantic UK" tvg-logo="http://195.154.221.171/picons/skyatlanticuk.png" group-title="Cable - UK",Sky Atlantic UK
+#EXTINF:-1 tvg-chno="201" tvg-name="Sky Atlantic UK" tvg-logo="skyatlanticuk.png" group-title="Cable - UK",Sky Atlantic UK
 http://topiptv.net:5890/aziz/1234/55840
-#EXTINF:-1 tvg-chno="202" tvg-name="Sky Cinema Action & Adventure HD UK" tvg-logo="http://195.154.221.171/picons/skycinemaactionandadventurehduk.png" group-title="Cable - UK",Sky Cinema Action & Adventure HD UK
+#EXTINF:-1 tvg-chno="202" tvg-name="Sky Cinema Action & Adventure HD UK" tvg-logo="skycinemaactionandadventurehduk.png" group-title="Cable - UK",Sky Cinema Action & Adventure HD UK
 http://topiptv.net:5890/aziz/1234/55841
-#EXTINF:-1 tvg-chno="203" tvg-name="Sky Cinema Action & Adventure UK" tvg-logo="http://195.154.221.171/picons/skycinemaactionandadventureuk.png" group-title="Cable - UK",Sky Cinema Action & Adventure UK
+#EXTINF:-1 tvg-chno="203" tvg-name="Sky Cinema Action & Adventure UK" tvg-logo="skycinemaactionandadventureuk.png" group-title="Cable - UK",Sky Cinema Action & Adventure UK
 http://topiptv.net:5890/aziz/1234/55842
-#EXTINF:-1 tvg-chno="204" tvg-name="Sky Cinema Comedy HD UK" tvg-logo="http://195.154.221.171/picons/skycinemacomedyhduk.png" group-title="Cable - UK",Sky Cinema Comedy HD UK
+#EXTINF:-1 tvg-chno="204" tvg-name="Sky Cinema Comedy HD UK" tvg-logo="skycinemacomedyhduk.png" group-title="Cable - UK",Sky Cinema Comedy HD UK
 http://topiptv.net:5890/aziz/1234/55843
-#EXTINF:-1 tvg-chno="205" tvg-name="Sky Cinema Comedy UK" tvg-logo="http://195.154.221.171/picons/skycinemacomedyuk.png" group-title="Cable - UK",Sky Cinema Comedy UK
+#EXTINF:-1 tvg-chno="205" tvg-name="Sky Cinema Comedy UK" tvg-logo="skycinemacomedyuk.png" group-title="Cable - UK",Sky Cinema Comedy UK
 http://topiptv.net:5890/aziz/1234/55844
-#EXTINF:-1 tvg-chno="206" tvg-name="Sky Cinema Crime & Thriller UK" tvg-logo="http://195.154.221.171/picons/skycinemacrimeandthrilleruk.png" group-title="Cable - UK",Sky Cinema Crime & Thriller UK
+#EXTINF:-1 tvg-chno="206" tvg-name="Sky Cinema Crime & Thriller UK" tvg-logo="skycinemacrimeandthrilleruk.png" group-title="Cable - UK",Sky Cinema Crime & Thriller UK
 http://topiptv.net:5890/aziz/1234/55845
-#EXTINF:-1 tvg-chno="207" tvg-name="Sky Cinema Disney HD UK" tvg-logo="http://195.154.221.171/picons/skycinemadisneyhduk.png" group-title="Cable - UK",Sky Cinema Disney HD UK
+#EXTINF:-1 tvg-chno="207" tvg-name="Sky Cinema Disney HD UK" tvg-logo="skycinemadisneyhduk.png" group-title="Cable - UK",Sky Cinema Disney HD UK
 http://topiptv.net:5890/aziz/1234/55846
-#EXTINF:-1 tvg-chno="208" tvg-name="Sky Cinema Disney UK" tvg-logo="http://195.154.221.171/picons/skycinemadisneyuk.png" group-title="Cable - UK",Sky Cinema Disney UK
+#EXTINF:-1 tvg-chno="208" tvg-name="Sky Cinema Disney UK" tvg-logo="skycinemadisneyuk.png" group-title="Cable - UK",Sky Cinema Disney UK
 http://topiptv.net:5890/aziz/1234/55847
-#EXTINF:-1 tvg-chno="209" tvg-name="Sky Cinema Drama & Romance UK" tvg-logo="http://195.154.221.171/picons/skycinemadramaandromanceuk.png" group-title="Cable - UK",Sky Cinema Drama & Romance UK
+#EXTINF:-1 tvg-chno="209" tvg-name="Sky Cinema Drama & Romance UK" tvg-logo="skycinemadramaandromanceuk.png" group-title="Cable - UK",Sky Cinema Drama & Romance UK
 http://topiptv.net:5890/aziz/1234/55848
-#EXTINF:-1 tvg-chno="210" tvg-name="Sky Cinema Family HD UK" tvg-logo="http://195.154.221.171/picons/skycinemafamilyhduk.png" group-title="Cable - UK",Sky Cinema Family HD UK
+#EXTINF:-1 tvg-chno="210" tvg-name="Sky Cinema Family HD UK" tvg-logo="skycinemafamilyhduk.png" group-title="Cable - UK",Sky Cinema Family HD UK
 http://topiptv.net:5890/aziz/1234/55849
-#EXTINF:-1 tvg-chno="211" tvg-name="Sky Cinema Family UK" tvg-logo="http://195.154.221.171/picons/skycinemafamilyuk.png" group-title="Cable - UK",Sky Cinema Family UK
+#EXTINF:-1 tvg-chno="211" tvg-name="Sky Cinema Family UK" tvg-logo="skycinemafamilyuk.png" group-title="Cable - UK",Sky Cinema Family UK
 http://topiptv.net:5890/aziz/1234/55850
-#EXTINF:-1 tvg-chno="212" tvg-name="Sky Cinema Greats UK" tvg-logo="http://195.154.221.171/picons/skycinemagreatsuk.png" group-title="Cable - UK",Sky Cinema Greats UK
+#EXTINF:-1 tvg-chno="212" tvg-name="Sky Cinema Greats UK" tvg-logo="skycinemagreatsuk.png" group-title="Cable - UK",Sky Cinema Greats UK
 http://topiptv.net:5890/aziz/1234/55851
-#EXTINF:-1 tvg-chno="213" tvg-name="Sky Cinema Oscars UK" tvg-logo="http://195.154.221.171/picons/skycinemaoscarsuk.png" group-title="Cable - UK",Sky Cinema Oscars UK
+#EXTINF:-1 tvg-chno="213" tvg-name="Sky Cinema Oscars UK" tvg-logo="skycinemaoscarsuk.png" group-title="Cable - UK",Sky Cinema Oscars UK
 http://topiptv.net:5890/aziz/1234/55852
-#EXTINF:-1 tvg-chno="214" tvg-name="Sky Cinema Premiere +1 UK" tvg-logo="http://195.154.221.171/picons/skycinemapremiereplus1uk.png" group-title="Cable - UK",Sky Cinema Premiere +1 UK
+#EXTINF:-1 tvg-chno="214" tvg-name="Sky Cinema Premiere +1 UK" tvg-logo="skycinemapremiereplus1uk.png" group-title="Cable - UK",Sky Cinema Premiere +1 UK
 http://topiptv.net:5890/aziz/1234/55853
-#EXTINF:-1 tvg-chno="215" tvg-name="Sky Cinema Premiere UK" tvg-logo="http://195.154.221.171/picons/skycinemapremiereuk.png" group-title="Cable - UK",Sky Cinema Premiere UK
+#EXTINF:-1 tvg-chno="215" tvg-name="Sky Cinema Premiere UK" tvg-logo="skycinemapremiereuk.png" group-title="Cable - UK",Sky Cinema Premiere UK
 http://topiptv.net:5890/aziz/1234/55854
-#EXTINF:-1 tvg-chno="216" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="http://195.154.221.171/picons/skycinemascifiandhorroruk.png" group-title="Cable - UK",Sky Cinema Sci-Fi & Horror UK
+#EXTINF:-1 tvg-chno="216" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="skycinemascifiandhorroruk.png" group-title="Cable - UK",Sky Cinema Sci-Fi & Horror UK
 http://topiptv.net:5890/aziz/1234/55855
-#EXTINF:-1 tvg-chno="217" tvg-name="Sky Cinema Select UK" tvg-logo="http://195.154.221.171/picons/skycinemaselectuk.png" group-title="Cable - UK",Sky Cinema Select UK
+#EXTINF:-1 tvg-chno="217" tvg-name="Sky Cinema Select UK" tvg-logo="skycinemaselectuk.png" group-title="Cable - UK",Sky Cinema Select UK
 http://topiptv.net:5890/aziz/1234/55856
-#EXTINF:-1 tvg-chno="218" tvg-name="Sky Hits UK" tvg-logo="http://195.154.221.171/picons/skycinemahitsuk.png" group-title="Cable - UK",Sky Hits UK
+#EXTINF:-1 tvg-chno="218" tvg-name="Sky Hits UK" tvg-logo="skycinemahitsuk.png" group-title="Cable - UK",Sky Hits UK
 http://topiptv.net:5890/aziz/1234/55857
-#EXTINF:-1 tvg-chno="219" tvg-name="Sky Living +1 UK" tvg-logo="http://195.154.221.171/picons/skylivingplus1uk.png" group-title="Cable - UK",Sky Living +1 UK
+#EXTINF:-1 tvg-chno="219" tvg-name="Sky Living +1 UK" tvg-logo="skylivingplus1uk.png" group-title="Cable - UK",Sky Living +1 UK
 http://topiptv.net:5890/aziz/1234/55858
-#EXTINF:-1 tvg-chno="220" tvg-name="Sky Living UK" tvg-logo="http://195.154.221.171/picons/skylivinguk.png" group-title="Cable - UK",Sky Living UK
+#EXTINF:-1 tvg-chno="220" tvg-name="Sky Living UK" tvg-logo="skylivinguk.png" group-title="Cable - UK",Sky Living UK
 http://topiptv.net:5890/aziz/1234/55859
-#EXTINF:-1 tvg-chno="221" tvg-name="Sky News UK" tvg-logo="http://195.154.221.171/picons/skynewsuk.png" group-title="Cable - UK",Sky News UK
+#EXTINF:-1 tvg-chno="221" tvg-name="Sky News UK" tvg-logo="skynewsuk.png" group-title="Cable - UK",Sky News UK
 http://topiptv.net:5890/aziz/1234/55860
-#EXTINF:-1 tvg-chno="222" tvg-name="Sky Sports Action HD UK" tvg-logo="http://195.154.221.171/picons/skysports3hduk.png" group-title="Cable - UK",Sky Sports Action HD UK
+#EXTINF:-1 tvg-chno="222" tvg-name="Sky Sports Action HD UK" tvg-logo="skysports3hduk.png" group-title="Cable - UK",Sky Sports Action HD UK
 http://topiptv.net:5890/aziz/1234/55861
-#EXTINF:-1 tvg-chno="223" tvg-name="Sky Sports Action UK" tvg-logo="http://195.154.221.171/picons/skysports3uk.png" group-title="Cable - UK",Sky Sports Action UK
+#EXTINF:-1 tvg-chno="223" tvg-name="Sky Sports Action UK" tvg-logo="skysports3uk.png" group-title="Cable - UK",Sky Sports Action UK
 http://topiptv.net:5890/aziz/1234/55862
-#EXTINF:-1 tvg-chno="224" tvg-name="Sky Sports Arena HD UK" tvg-logo="http://195.154.221.171/picons/skysportsarenahduk.png" group-title="Cable - UK",Sky Sports Arena HD UK
+#EXTINF:-1 tvg-chno="224" tvg-name="Sky Sports Arena HD UK" tvg-logo="skysportsarenahduk.png" group-title="Cable - UK",Sky Sports Arena HD UK
 http://topiptv.net:5890/aziz/1234/55863
-#EXTINF:-1 tvg-chno="225" tvg-name="Sky Sports Arena UK" tvg-logo="http://195.154.221.171/picons/skysportsarenauk.png" group-title="Cable - UK",Sky Sports Arena UK
+#EXTINF:-1 tvg-chno="225" tvg-name="Sky Sports Arena UK" tvg-logo="skysportsarenauk.png" group-title="Cable - UK",Sky Sports Arena UK
 http://topiptv.net:5890/aziz/1234/55864
-#EXTINF:-1 tvg-chno="226" tvg-name="Sky Sports Cricket HD UK" tvg-logo="http://195.154.221.171/picons/skysports2hduk.png" group-title="Cable - UK",Sky Sports Cricket HD UK
+#EXTINF:-1 tvg-chno="226" tvg-name="Sky Sports Cricket HD UK" tvg-logo="skysports2hduk.png" group-title="Cable - UK",Sky Sports Cricket HD UK
 http://topiptv.net:5890/aziz/1234/55865
-#EXTINF:-1 tvg-chno="227" tvg-name="Sky Sports Cricket UK" tvg-logo="http://195.154.221.171/picons/skysports2uk.png" group-title="Cable - UK",Sky Sports Cricket UK
+#EXTINF:-1 tvg-chno="227" tvg-name="Sky Sports Cricket UK" tvg-logo="skysports2uk.png" group-title="Cable - UK",Sky Sports Cricket UK
 http://topiptv.net:5890/aziz/1234/55866
-#EXTINF:-1 tvg-chno="228" tvg-name="Sky Sports F1 HD UK" tvg-logo="http://195.154.221.171/picons/skysportsf1hduk.png" group-title="Cable - UK",Sky Sports F1 HD UK
+#EXTINF:-1 tvg-chno="228" tvg-name="Sky Sports F1 HD UK" tvg-logo="skysportsf1hduk.png" group-title="Cable - UK",Sky Sports F1 HD UK
 http://topiptv.net:5890/aziz/1234/55867
-#EXTINF:-1 tvg-chno="229" tvg-name="Sky Sports F1 UK" tvg-logo="http://195.154.221.171/picons/skysportsf1uk.png" group-title="Cable - UK",Sky Sports F1 UK
+#EXTINF:-1 tvg-chno="229" tvg-name="Sky Sports F1 UK" tvg-logo="skysportsf1uk.png" group-title="Cable - UK",Sky Sports F1 UK
 http://topiptv.net:5890/aziz/1234/55868
-#EXTINF:-1 tvg-chno="230" tvg-name="Sky Sports Football HD UK" tvg-logo="http://195.154.221.171/picons/skysportsfootballhduk.png" group-title="Cable - UK",Sky Sports Football HD UK
+#EXTINF:-1 tvg-chno="230" tvg-name="Sky Sports Football HD UK" tvg-logo="skysportsfootballhduk.png" group-title="Cable - UK",Sky Sports Football HD UK
 http://topiptv.net:5890/aziz/1234/55869
-#EXTINF:-1 tvg-chno="231" tvg-name="Sky Sports Football UK" tvg-logo="http://195.154.221.171/picons/skysportsfootballuk.png" group-title="Cable - UK",Sky Sports Football UK
+#EXTINF:-1 tvg-chno="231" tvg-name="Sky Sports Football UK" tvg-logo="skysportsfootballuk.png" group-title="Cable - UK",Sky Sports Football UK
 http://topiptv.net:5890/aziz/1234/55870
-#EXTINF:-1 tvg-chno="232" tvg-name="Sky Sports Golf HD UK" tvg-logo="http://195.154.221.171/picons/skysports4hduk.png" group-title="Cable - UK",Sky Sports Golf HD UK
+#EXTINF:-1 tvg-chno="232" tvg-name="Sky Sports Golf HD UK" tvg-logo="skysports4hduk.png" group-title="Cable - UK",Sky Sports Golf HD UK
 http://topiptv.net:5890/aziz/1234/55871
-#EXTINF:-1 tvg-chno="233" tvg-name="Sky Sports Golf UK" tvg-logo="http://195.154.221.171/picons/skysports4uk.png" group-title="Cable - UK",Sky Sports Golf UK
+#EXTINF:-1 tvg-chno="233" tvg-name="Sky Sports Golf UK" tvg-logo="skysports4uk.png" group-title="Cable - UK",Sky Sports Golf UK
 http://topiptv.net:5890/aziz/1234/55872
-#EXTINF:-1 tvg-chno="234" tvg-name="Sky Sports Main Event HD UK" tvg-logo="http://195.154.221.171/picons/skysports1hduk.png" group-title="Cable - UK",Sky Sports Main Event HD UK
+#EXTINF:-1 tvg-chno="234" tvg-name="Sky Sports Main Event HD UK" tvg-logo="skysports1hduk.png" group-title="Cable - UK",Sky Sports Main Event HD UK
 http://topiptv.net:5890/aziz/1234/55873
-#EXTINF:-1 tvg-chno="235" tvg-name="Sky Sports Main Event UK" tvg-logo="http://195.154.221.171/picons/skysports1uk.png" group-title="Cable - UK",Sky Sports Main Event UK
+#EXTINF:-1 tvg-chno="235" tvg-name="Sky Sports Main Event UK" tvg-logo="skysports1uk.png" group-title="Cable - UK",Sky Sports Main Event UK
 http://topiptv.net:5890/aziz/1234/55874
-#EXTINF:-1 tvg-chno="236" tvg-name="Sky Sports Mix HD UK" tvg-logo="http://195.154.221.171/picons/skysportsmixhduk.png" group-title="Cable - UK",Sky Sports Mix HD UK
+#EXTINF:-1 tvg-chno="236" tvg-name="Sky Sports Mix HD UK" tvg-logo="skysportsmixhduk.png" group-title="Cable - UK",Sky Sports Mix HD UK
 http://topiptv.net:5890/aziz/1234/55875
-#EXTINF:-1 tvg-chno="237" tvg-name="Sky Sports News HD UK" tvg-logo="http://195.154.221.171/picons/skysportsnewshquk.png" group-title="Cable - UK",Sky Sports News HD UK
+#EXTINF:-1 tvg-chno="237" tvg-name="Sky Sports News HD UK" tvg-logo="skysportsnewshquk.png" group-title="Cable - UK",Sky Sports News HD UK
 http://topiptv.net:5890/aziz/1234/55876
-#EXTINF:-1 tvg-chno="238" tvg-name="Sky Sports Premier League HD UK" tvg-logo="http://195.154.221.171/picons/skysports5hduk.png" group-title="Cable - UK",Sky Sports Premier League HD UK
+#EXTINF:-1 tvg-chno="238" tvg-name="Sky Sports Premier League HD UK" tvg-logo="skysports5hduk.png" group-title="Cable - UK",Sky Sports Premier League HD UK
 http://topiptv.net:5890/aziz/1234/55877
-#EXTINF:-1 tvg-chno="239" tvg-name="Sky Sports Premier League UK" tvg-logo="http://195.154.221.171/picons/skysports5uk.png" group-title="Cable - UK",Sky Sports Premier League UK
+#EXTINF:-1 tvg-chno="239" tvg-name="Sky Sports Premier League UK" tvg-logo="skysports5uk.png" group-title="Cable - UK",Sky Sports Premier League UK
 http://topiptv.net:5890/aziz/1234/55878
-#EXTINF:-1 tvg-chno="240" tvg-name="Sony Channel +1 UK" tvg-logo="http://195.154.221.171/picons/sonyuk.png" group-title="Cable - UK",Sony Channel +1 UK
+#EXTINF:-1 tvg-chno="240" tvg-name="Sony Channel +1 UK" tvg-logo="sonyuk.png" group-title="Cable - UK",Sony Channel +1 UK
 http://topiptv.net:5890/aziz/1234/55879
-#EXTINF:-1 tvg-chno="241" tvg-name="Starz TV UK" tvg-logo="http://195.154.221.171/picons/starztvuk.png" group-title="Cable - UK",Starz TV UK
+#EXTINF:-1 tvg-chno="241" tvg-name="Starz TV UK" tvg-logo="starztvuk.png" group-title="Cable - UK",Starz TV UK
 http://topiptv.net:5890/aziz/1234/55880
-#EXTINF:-1 tvg-chno="242" tvg-name="Syfy +1 UK" tvg-logo="http://195.154.221.171/picons/syfyuk.png" group-title="Cable - UK",Syfy +1 UK
+#EXTINF:-1 tvg-chno="242" tvg-name="Syfy +1 UK" tvg-logo="syfyuk.png" group-title="Cable - UK",Syfy +1 UK
 http://topiptv.net:5890/aziz/1234/55881
-#EXTINF:-1 tvg-chno="243" tvg-name="Syfy UK" tvg-logo="http://195.154.221.171/picons/syfyuk.png" group-title="Cable - UK",Syfy UK
+#EXTINF:-1 tvg-chno="243" tvg-name="Syfy UK" tvg-logo="syfyuk.png" group-title="Cable - UK",Syfy UK
 http://topiptv.net:5890/aziz/1234/55882
-#EXTINF:-1 tvg-chno="244" tvg-name="TCM +1 UK" tvg-logo="http://195.154.221.171/picons/tcmuk.png" group-title="Cable - UK",TCM +1 UK
+#EXTINF:-1 tvg-chno="244" tvg-name="TCM +1 UK" tvg-logo="tcmuk.png" group-title="Cable - UK",TCM +1 UK
 http://topiptv.net:5890/aziz/1234/55883
-#EXTINF:-1 tvg-chno="245" tvg-name="TCM UK" tvg-logo="http://195.154.221.171/picons/tcmuk.png" group-title="Cable - UK",TCM UK
+#EXTINF:-1 tvg-chno="245" tvg-name="TCM UK" tvg-logo="tcmuk.png" group-title="Cable - UK",TCM UK
 http://topiptv.net:5890/aziz/1234/55884
-#EXTINF:-1 tvg-chno="246" tvg-name="TG4 UK" tvg-logo="http://195.154.221.171/picons/tg4uk.png" group-title="Cable - UK",TG4 UK
+#EXTINF:-1 tvg-chno="246" tvg-name="TG4 UK" tvg-logo="tg4uk.png" group-title="Cable - UK",TG4 UK
 http://topiptv.net:5890/aziz/1234/55885
-#EXTINF:-1 tvg-chno="247" tvg-name="The Box UK" tvg-logo="http://195.154.221.171/picons/theboxuk.png" group-title="Cable - UK",The Box UK
+#EXTINF:-1 tvg-chno="247" tvg-name="The Box UK" tvg-logo="theboxuk.png" group-title="Cable - UK",The Box UK
 http://topiptv.net:5890/aziz/1234/55892
-#EXTINF:-1 tvg-chno="248" tvg-name="The Vault UK" tvg-logo="http://195.154.221.171/picons/thevaultuk.png" group-title="Cable - UK",The Vault UK
+#EXTINF:-1 tvg-chno="248" tvg-name="The Vault UK" tvg-logo="thevaultuk.png" group-title="Cable - UK",The Vault UK
 http://topiptv.net:5890/aziz/1234/55893
-#EXTINF:-1 tvg-chno="249" tvg-name="Tiny Pop +1 UK" tvg-logo="http://195.154.221.171/picons/tinypopuk.png" group-title="Cable - UK",Tiny Pop +1 UK
+#EXTINF:-1 tvg-chno="249" tvg-name="Tiny Pop +1 UK" tvg-logo="tinypopuk.png" group-title="Cable - UK",Tiny Pop +1 UK
 http://topiptv.net:5890/aziz/1234/55894
-#EXTINF:-1 tvg-chno="250" tvg-name="Tiny Pop UK" tvg-logo="http://195.154.221.171/picons/tinypopuk.png" group-title="Cable - UK",Tiny Pop UK
+#EXTINF:-1 tvg-chno="250" tvg-name="Tiny Pop UK" tvg-logo="tinypopuk.png" group-title="Cable - UK",Tiny Pop UK
 http://topiptv.net:5890/aziz/1234/55895
-#EXTINF:-1 tvg-chno="251" tvg-name="TLC +1 UK" tvg-logo="http://195.154.221.171/picons/tlcuk.png" group-title="Cable - UK",TLC +1 UK
+#EXTINF:-1 tvg-chno="251" tvg-name="TLC +1 UK" tvg-logo="tlcuk.png" group-title="Cable - UK",TLC +1 UK
 http://topiptv.net:5890/aziz/1234/55886
-#EXTINF:-1 tvg-chno="252" tvg-name="TLC +2 UK" tvg-logo="http://195.154.221.171/picons/tlcuk.png" group-title="Cable - UK",TLC +2 UK
+#EXTINF:-1 tvg-chno="252" tvg-name="TLC +2 UK" tvg-logo="tlcuk.png" group-title="Cable - UK",TLC +2 UK
 http://topiptv.net:5890/aziz/1234/55887
-#EXTINF:-1 tvg-chno="253" tvg-name="TLC UK" tvg-logo="http://195.154.221.171/picons/tlcuk.png" group-title="Cable - UK",TLC UK
+#EXTINF:-1 tvg-chno="253" tvg-name="TLC UK" tvg-logo="tlcuk.png" group-title="Cable - UK",TLC UK
 http://topiptv.net:5890/aziz/1234/55888
 #EXTINF:-1 tvg-chno="254" tvg-name="Tom And Jerry HD UK" group-title="Cable - UK",Tom And Jerry HD UK
 http://topiptv.net:5890/aziz/1234/55889
-#EXTINF:-1 tvg-chno="255" tvg-name="Travel Channel UK" tvg-logo="http://195.154.221.171/picons/travelchanneluk.png" group-title="Cable - UK",Travel Channel UK
+#EXTINF:-1 tvg-chno="255" tvg-name="Travel Channel UK" tvg-logo="travelchanneluk.png" group-title="Cable - UK",Travel Channel UK
 http://topiptv.net:5890/aziz/1234/55896
-#EXTINF:-1 tvg-chno="256" tvg-name="tru TV UK" tvg-logo="http://195.154.221.171/picons/trutvuk.png" group-title="Cable - UK",tru TV UK
+#EXTINF:-1 tvg-chno="256" tvg-name="tru TV UK" tvg-logo="trutvuk.png" group-title="Cable - UK",tru TV UK
 http://topiptv.net:5890/aziz/1234/55916
-#EXTINF:-1 tvg-chno="257" tvg-name="True Crime +1 UK" tvg-logo="http://195.154.221.171/picons/truecrimeuk.png" group-title="Cable - UK",True Crime +1 UK
+#EXTINF:-1 tvg-chno="257" tvg-name="True Crime +1 UK" tvg-logo="truecrimeuk.png" group-title="Cable - UK",True Crime +1 UK
 http://topiptv.net:5890/aziz/1234/55897
-#EXTINF:-1 tvg-chno="258" tvg-name="True Crime UK" tvg-logo="http://195.154.221.171/picons/truecrimeuk.png" group-title="Cable - UK",True Crime UK
+#EXTINF:-1 tvg-chno="258" tvg-name="True Crime UK" tvg-logo="truecrimeuk.png" group-title="Cable - UK",True Crime UK
 http://topiptv.net:5890/aziz/1234/55898
-#EXTINF:-1 tvg-chno="259" tvg-name="True Entertainment UK" tvg-logo="http://195.154.221.171/picons/trueentertainmentuk.png" group-title="Cable - UK",True Entertainment UK
+#EXTINF:-1 tvg-chno="259" tvg-name="True Entertainment UK" tvg-logo="trueentertainmentuk.png" group-title="Cable - UK",True Entertainment UK
 http://topiptv.net:5890/aziz/1234/55899
-#EXTINF:-1 tvg-chno="260" tvg-name="True Movies +1 UK" tvg-logo="http://195.154.221.171/picons/truemovies2uk.png" group-title="Cable - UK",True Movies +1 UK
+#EXTINF:-1 tvg-chno="260" tvg-name="True Movies +1 UK" tvg-logo="truemovies2uk.png" group-title="Cable - UK",True Movies +1 UK
 http://topiptv.net:5890/aziz/1234/55900
-#EXTINF:-1 tvg-chno="261" tvg-name="TV3 +1 UK" tvg-logo="http://195.154.221.171/picons/tv3plus1uk.png" group-title="Cable - UK",TV3 +1 UK
+#EXTINF:-1 tvg-chno="261" tvg-name="TV3 +1 UK" tvg-logo="tv3plus1uk.png" group-title="Cable - UK",TV3 +1 UK
 http://topiptv.net:5890/aziz/1234/55890
-#EXTINF:-1 tvg-chno="262" tvg-name="TV3 UK" tvg-logo="http://195.154.221.171/picons/tv3uk.png" group-title="Cable - UK",TV3 UK
+#EXTINF:-1 tvg-chno="262" tvg-name="TV3 UK" tvg-logo="tv3uk.png" group-title="Cable - UK",TV3 UK
 http://topiptv.net:5890/aziz/1234/55891
-#EXTINF:-1 tvg-chno="263" tvg-name="Universal Channel +1 UK" tvg-logo="http://195.154.221.171/picons/universalchanneluk.png" group-title="Cable - UK",Universal Channel +1 UK
+#EXTINF:-1 tvg-chno="263" tvg-name="Universal Channel +1 UK" tvg-logo="universalchanneluk.png" group-title="Cable - UK",Universal Channel +1 UK
 http://topiptv.net:5890/aziz/1234/55902
-#EXTINF:-1 tvg-chno="264" tvg-name="Universal Channel UK" tvg-logo="http://195.154.221.171/picons/universalchanneluk.png" group-title="Cable - UK",Universal Channel UK
+#EXTINF:-1 tvg-chno="264" tvg-name="Universal Channel UK" tvg-logo="universalchanneluk.png" group-title="Cable - UK",Universal Channel UK
 http://topiptv.net:5890/aziz/1234/55903
-#EXTINF:-1 tvg-chno="265" tvg-name="UTV HD UK" tvg-logo="http://195.154.221.171/picons/utvuk.png" group-title="Cable - UK",UTV HD UK
+#EXTINF:-1 tvg-chno="265" tvg-name="UTV HD UK" tvg-logo="utvuk.png" group-title="Cable - UK",UTV HD UK
 http://topiptv.net:5890/aziz/1234/55901
-#EXTINF:-1 tvg-chno="266" tvg-name="VH1 UK" tvg-logo="http://195.154.221.171/picons/vh1uk.png" group-title="Cable - UK",VH1 UK
+#EXTINF:-1 tvg-chno="266" tvg-name="VH1 UK" tvg-logo="vh1uk.png" group-title="Cable - UK",VH1 UK
 http://topiptv.net:5890/aziz/1234/55904
-#EXTINF:-1 tvg-chno="267" tvg-name="Viceland UK" tvg-logo="http://195.154.221.171/picons/vicelanduk.png" group-title="Cable - UK",Viceland UK
+#EXTINF:-1 tvg-chno="267" tvg-name="Viceland UK" tvg-logo="vicelanduk.png" group-title="Cable - UK",Viceland UK
 http://topiptv.net:5890/aziz/1234/55906
-#EXTINF:-1 tvg-chno="268" tvg-name="Vintage TV UK" tvg-logo="http://195.154.221.171/picons/vintagetvuk.png" group-title="Cable - UK",Vintage TV UK
+#EXTINF:-1 tvg-chno="268" tvg-name="Vintage TV UK" tvg-logo="vintagetvuk.png" group-title="Cable - UK",Vintage TV UK
 http://topiptv.net:5890/aziz/1234/55907
-#EXTINF:-1 tvg-chno="269" tvg-name="VIVA UK" tvg-logo="http://195.154.221.171/picons/vivauk.png" group-title="Cable - UK",VIVA UK
+#EXTINF:-1 tvg-chno="269" tvg-name="VIVA UK" tvg-logo="vivauk.png" group-title="Cable - UK",VIVA UK
 http://topiptv.net:5890/aziz/1234/55905
-#EXTINF:-1 tvg-chno="270" tvg-name="W +1 UK" tvg-logo="http://195.154.221.171/picons/wuk.png" group-title="Cable - UK",W +1 UK
+#EXTINF:-1 tvg-chno="270" tvg-name="W +1 UK" tvg-logo="wuk.png" group-title="Cable - UK",W +1 UK
 http://topiptv.net:5890/aziz/1234/55908
-#EXTINF:-1 tvg-chno="271" tvg-name="W UK" tvg-logo="http://195.154.221.171/picons/wuk.png" group-title="Cable - UK",W UK
+#EXTINF:-1 tvg-chno="271" tvg-name="W UK" tvg-logo="wuk.png" group-title="Cable - UK",W UK
 http://topiptv.net:5890/aziz/1234/55909
-#EXTINF:-1 tvg-chno="272" tvg-name="World Fight Channel UK" tvg-logo="http://195.154.221.171/picons/be3uk.png" group-title="Cable - UK",World Fight Channel UK
+#EXTINF:-1 tvg-chno="272" tvg-name="World Fight Channel UK" tvg-logo="be3uk.png" group-title="Cable - UK",World Fight Channel UK
 http://topiptv.net:5890/aziz/1234/55910
-#EXTINF:-1 tvg-chno="273" tvg-name="YESTERDAY UK" tvg-logo="http://195.154.221.171/picons/yesterdayuk.png" group-title="Cable - UK",YESTERDAY UK
+#EXTINF:-1 tvg-chno="273" tvg-name="YESTERDAY UK" tvg-logo="yesterdayuk.png" group-title="Cable - UK",YESTERDAY UK
 http://topiptv.net:5890/aziz/1234/55911
-#EXTINF:-1 tvg-chno="274" tvg-name="YourTV UK" tvg-logo="http://195.154.221.171/picons/yourtvuk.png" group-title="Cable - UK",YourTV UK
+#EXTINF:-1 tvg-chno="274" tvg-name="YourTV UK" tvg-logo="yourtvuk.png" group-title="Cable - UK",YourTV UK
 http://topiptv.net:5890/aziz/1234/55912
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://motorcycle-logos.com/wp-content/uploads/2017/08/ABC-emblem.jpg" group-title="Cable - USA",ABC EAST HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58705
@@ -2441,9 +2441,9 @@ https://apps.erdesigns.eu/youtube/1phWWCgzXgM
 https://apps.erdesigns.eu/youtube/5ka3YhVZgME
 #EXTINF:-1 tvg-chno="5" tvg-name="Cayman Reef Cam powered by EXPLORE.org" tvg-logo="https://i.ytimg.com/vi/7HEJDoQv7cQ/maxresdefault.jpg" group-title="Live Cams",Cayman Reef Cam powered by EXPLORE.org
 https://apps.erdesigns.eu/youtube/7HEJDoQv7cQ
-#EXTINF:-1 tvg-chno="6" tvg-name="Crystal Bay Yacht Club Live Stream From Lamai, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam" tvg-logo="https://i.ytimg.com/vi/1FvwPEKgcsA/maxresdefault.jpg" group-title="Live Cams",Crystal Bay Yacht Club Live Stream From Lamai, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam
+#EXTINF:-1 tvg-chno="6" tvg-name="Crystal Bay Yacht Club Live Stream From Lamai, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam" tvg-logo="https://i.ytimg.com/vi/1FvwPEKgcsA/maxresdefault.jpg" group-title="Live Cams", Thailand | Live HD Webcam | SamuiWebcam
 https://apps.erdesigns.eu/youtube/1FvwPEKgcsA
-#EXTINF:-1 tvg-chno="7" tvg-name="Crystal Bay Yacht Club Live Stream From Lamai, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam" tvg-logo="https://i.ytimg.com/vi/1FvwPEKgcsA/maxresdefault.jpg" group-title="Live Cams",Crystal Bay Yacht Club Live Stream From Lamai, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam
+#EXTINF:-1 tvg-chno="7" tvg-name="Crystal Bay Yacht Club Live Stream From Lamai, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam" tvg-logo="https://i.ytimg.com/vi/1FvwPEKgcsA/maxresdefault.jpg" group-title="Live Cams", Thailand | Live HD Webcam | SamuiWebcam
 https://apps.erdesigns.eu/youtube/1FvwPEKgcsA
 #EXTINF:-1 tvg-chno="8" tvg-name="Earth Views: Earth From Space Seen From The ISS" tvg-logo="https://i.ytimg.com/vi/XBPjVzSoepo/maxresdefault.jpg" group-title="Live Cams",Earth Views: Earth From Space Seen From The ISS
 https://apps.erdesigns.eu/youtube/XBPjVzSoepo
@@ -2459,7 +2459,7 @@ https://apps.erdesigns.eu/youtube/1EiC9bvVGnk
 https://apps.erdesigns.eu/youtube/1EiC9bvVGnk
 #EXTINF:-1 tvg-chno="14" tvg-name="Live 24/7 Downtown Bangor - Horizon Broadband" tvg-logo="https://i.ytimg.com/vi/peC1JD9gEKc/maxresdefault.jpg" group-title="Live Cams",Live 24/7 Downtown Bangor - Horizon Broadband
 https://apps.erdesigns.eu/youtube/peC1JD9gEKc
-#EXTINF:-1 tvg-chno="15" tvg-name="LIVE Animal Cam - Bear - Deer - Boar - Fox - Wolf - Birds - Wildlife - Transylvania, Romania, Europe" tvg-logo="https://i.ytimg.com/vi/2BDnAMR3GLg/maxresdefault.jpg" group-title="Live Cams",LIVE Animal Cam - Bear - Deer - Boar - Fox - Wolf - Birds - Wildlife - Transylvania, Romania, Europe
+#EXTINF:-1 tvg-chno="15" tvg-name="LIVE Animal Cam - Bear - Deer - Boar - Fox - Wolf - Birds - Wildlife - Transylvania, Romania, Europe" tvg-logo="https://i.ytimg.com/vi/2BDnAMR3GLg/maxresdefault.jpg" group-title="Live Cams", Europe
 https://apps.erdesigns.eu/youtube/2BDnAMR3GLg
 #EXTINF:-1 tvg-chno="16" tvg-name="LIVE Bird Feeder Cam in Ohio [20+ species observed!]" tvg-logo="https://i.ytimg.com/vi/iNYDhlAYmgg/maxresdefault.jpg" group-title="Live Cams",LIVE Bird Feeder Cam in Ohio [20+ species observed!]
 https://apps.erdesigns.eu/youtube/iNYDhlAYmgg
@@ -2473,7 +2473,7 @@ https://apps.erdesigns.eu/youtube/KGuCGd726RA
 https://apps.erdesigns.eu/youtube/38ozvar-PNw
 #EXTINF:-1 tvg-chno="21" tvg-name="LIVE Port of Miami Government Cut" tvg-logo="https://i.ytimg.com/vi/j5BpWrNj2UI/maxresdefault.jpg" group-title="Live Cams",LIVE Port of Miami Government Cut
 https://apps.erdesigns.eu/youtube/j5BpWrNj2UI
-#EXTINF:-1 tvg-chno="22" tvg-name="Live Seismic Volcano | PopocatÃ©petl,Etna,Fuego,Sakurajima | Multiview" tvg-logo="https://i.ytimg.com/vi/g-xWJ8SEmGI/maxresdefault.jpg" group-title="Live Cams",Live Seismic Volcano | PopocatÃ©petl,Etna,Fuego,Sakurajima | Multiview
+#EXTINF:-1 tvg-chno="22" tvg-name="Live Seismic Volcano | PopocatÃ©petl,Etna,Fuego,Sakurajima | Multiview" tvg-logo="https://i.ytimg.com/vi/g-xWJ8SEmGI/maxresdefault.jpg" group-title="Live Cams",Sakurajima | Multiview
 https://apps.erdesigns.eu/youtube/g-xWJ8SEmGI
 #EXTINF:-1 tvg-chno="23" tvg-name="Live Streaming Chicken ð Coop Cam - Where YOU Can Feed Us Online! - Wildlife Nature Camera" tvg-logo="https://i.ytimg.com/vi/n0E_aZ5C0x8/maxresdefault.jpg" group-title="Live Cams",Live Streaming Chicken ð Coop Cam - Where YOU Can Feed Us Online! - Wildlife Nature Camera
 https://apps.erdesigns.eu/youtube/n0E_aZ5C0x8
@@ -2493,23 +2493,23 @@ https://apps.erdesigns.eu/youtube/Yv0acABELOA
 https://apps.erdesigns.eu/youtube/ph1vpnYIxJk
 #EXTINF:-1 tvg-chno="31" tvg-name="Santa Monica Beach Cam powered by EXPLORE.org" tvg-logo="https://i.ytimg.com/vi/OWbI6WtlI-k/maxresdefault.jpg" group-title="Live Cams",Santa Monica Beach Cam powered by EXPLORE.org
 https://apps.erdesigns.eu/youtube/OWbI6WtlI-k
-#EXTINF:-1 tvg-chno="32" tvg-name="Soggy Dollar Bar Live Webcam - Jost Van Dyke, British Virgin Islands" tvg-logo="https://i.ytimg.com/vi/LXWVYoBluT4/maxresdefault.jpg" group-title="Live Cams",Soggy Dollar Bar Live Webcam - Jost Van Dyke, British Virgin Islands
+#EXTINF:-1 tvg-chno="32" tvg-name="Soggy Dollar Bar Live Webcam - Jost Van Dyke, British Virgin Islands" tvg-logo="https://i.ytimg.com/vi/LXWVYoBluT4/maxresdefault.jpg" group-title="Live Cams", British Virgin Islands
 https://apps.erdesigns.eu/youtube/LXWVYoBluT4
-#EXTINF:-1 tvg-chno="33" tvg-name="Sweet Soul Cafe Cam 1, Soi Green Mango, Chaweng, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam" tvg-logo="https://i.ytimg.com/vi/B_2He_msuWU/maxresdefault.jpg" group-title="Live Cams",Sweet Soul Cafe Cam 1, Soi Green Mango, Chaweng, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam
+#EXTINF:-1 tvg-chno="33" tvg-name="Sweet Soul Cafe Cam 1, Soi Green Mango, Chaweng, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam" tvg-logo="https://i.ytimg.com/vi/B_2He_msuWU/maxresdefault.jpg" group-title="Live Cams", Thailand | Live HD Webcam | SamuiWebcam
 https://apps.erdesigns.eu/youtube/B_2He_msuWU
 #EXTINF:-1 tvg-chno="34" tvg-name="Todi Live Stream" tvg-logo="https://i.ytimg.com/vi/hiWqxsusnMw/maxresdefault.jpg" group-title="Live Cams",Todi Live Stream
 https://apps.erdesigns.eu/youtube/hiWqxsusnMw
-#EXTINF:-1 tvg-chno="35" tvg-name="TRAIN DRIVER'S VIEW: Live chat and Stream from the Bergen Line, Norway" tvg-logo="https://i.ytimg.com/vi/5cZyLuRDK0g/maxresdefault.jpg" group-title="Live Cams",TRAIN DRIVER'S VIEW: Live chat and Stream from the Bergen Line, Norway
+#EXTINF:-1 tvg-chno="35" tvg-name="TRAIN DRIVER'S VIEW: Live chat and Stream from the Bergen Line, Norway" tvg-logo="https://i.ytimg.com/vi/5cZyLuRDK0g/maxresdefault.jpg" group-title="Live Cams", Norway
 https://apps.erdesigns.eu/youtube/5cZyLuRDK0g
 #EXTINF:-1 tvg-chno="36" tvg-name="Trio Eagle Cam Stewards of the Upper Mississippi River Refuge Live Stream" tvg-logo="https://i.ytimg.com/vi/SJa5Z86zzdI/maxresdefault.jpg" group-title="Live Cams",Trio Eagle Cam Stewards of the Upper Mississippi River Refuge Live Stream
 https://apps.erdesigns.eu/youtube/SJa5Z86zzdI
-#EXTINF:-1 tvg-chno="37" tvg-name="Tropical Murphys Live Stream From Chaweng, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam" tvg-logo="https://i.ytimg.com/vi/sbZNL98Z0GE/maxresdefault.jpg" group-title="Live Cams",Tropical Murphys Live Stream From Chaweng, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam
+#EXTINF:-1 tvg-chno="37" tvg-name="Tropical Murphys Live Stream From Chaweng, Koh Samui, Thailand | Live HD Webcam | SamuiWebcam" tvg-logo="https://i.ytimg.com/vi/sbZNL98Z0GE/maxresdefault.jpg" group-title="Live Cams", Thailand | Live HD Webcam | SamuiWebcam
 https://apps.erdesigns.eu/youtube/sbZNL98Z0GE
 #EXTINF:-1 tvg-chno="38" tvg-name="Video Replay: The Moon - Incredible Lunar Views From The Japanese SELENE Orbiter - Earthrise" tvg-logo="https://i.ytimg.com/vi/nX0sg1Gp-1w/maxresdefault.jpg" group-title="Live Cams",Video Replay: The Moon - Incredible Lunar Views From The Japanese SELENE Orbiter - Earthrise
 https://apps.erdesigns.eu/youtube/nX0sg1Gp-1w
 #EXTINF:-1 tvg-chno="39" tvg-name="Whistler Live Webcam | Sundial Boutique Hotel - Live Stream" tvg-logo="https://i.ytimg.com/vi/UoIXPM7XDl8/maxresdefault.jpg" group-title="Live Cams",Whistler Live Webcam | Sundial Boutique Hotel - Live Stream
 https://apps.erdesigns.eu/youtube/UoIXPM7XDl8
-#EXTINF:-1 tvg-chno="40" tvg-name="[LIVE] Coronavirus: Real Time Counter, World Map, News" tvg-logo="https://i.ytimg.com/vi/qgylp3Td1Bw/maxresdefault.jpg" group-title="Live Cams",[LIVE] Coronavirus: Real Time Counter, World Map, News
+#EXTINF:-1 tvg-chno="40" tvg-name="[LIVE] Coronavirus: Real Time Counter, World Map, News" tvg-logo="https://i.ytimg.com/vi/qgylp3Td1Bw/maxresdefault.jpg" group-title="Live Cams", News
 https://apps.erdesigns.eu/youtube/qgylp3Td1Bw
 #EXTINF:-1 tvg-chno="41" tvg-name="ð´ Al Jazeera English | Live" tvg-logo="https://i.ytimg.com/vi/WisZM9CMlTo/maxresdefault.jpg" group-title="Live Cams",ð´ Al Jazeera English | Live
 https://apps.erdesigns.eu/youtube/WisZM9CMlTo
