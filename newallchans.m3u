@@ -569,136 +569,128 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42345
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42346
 #EXTINF:-1 tvg-chno="9" tvg-id="bein.net - HD9" tvg-name="HD9 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports9HD.png" group-title="beIN Sports", BEIN SPORTS MAX 9
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42347
-#EXTINF:-1 tvg-chno="10" tvg-id="beIN Sport USA" tvg-name="beIN Sport USA" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/46b98fe4e00c5e8128a460b5_rw_1200.png" group-title="beIN Sports",BEIN SPORT USA
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58812
-#EXTINF:-1 tvg-chno="11" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 1 FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9681
-#EXTINF:-1 tvg-chno="12" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 2 FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9680
-#EXTINF:-1 tvg-chno="13" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 3 FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9679
-#EXTINF:-1 tvg-chno="14" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 4 FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9678
-#EXTINF:-1 tvg-chno="15" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 5 FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9677
-#EXTINF:-1 tvg-chno="16" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 6 FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9676
-#EXTINF:-1 tvg-chno="17" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 7 FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9675
-#EXTINF:-1 tvg-chno="18" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 8 FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9674
-#EXTINF:-1 tvg-chno="19" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 9 FHD.
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9673
-#EXTINF:-1 tvg-chno="20" group-title="beIN Sports",----------- BEINSPORT H265 FHD -----------
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6822
-#EXTINF:-1 tvg-chno="21" group-title="beIN Sports",|AR.BEIN| beIN SPORTS 1 HEVC
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8567
-#EXTINF:-1 tvg-chno="22" group-title="beIN Sports",|AR.BEIN| beIN SPORTS 2 HEVC
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8566
-#EXTINF:-1 tvg-chno="23" group-title="beIN Sports",|AR.BEIN| beIN SPORTS 3 HEVC
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8565
-#EXTINF:-1 tvg-chno="24" group-title="beIN Sports",|AR.BEIN| beIN SPORTS 4 HEVC
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8564
-#EXTINF:-1 tvg-chno="25" group-title="beIN Sports",|AR.BEIN| beIN SPORTS 5 HEVC
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8563
-#EXTINF:-1 tvg-chno="26" group-title="beIN Sports",|AR.BEIN| beIN SPORTS 6 HEVC
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8562
-#EXTINF:-1 tvg-chno="27" group-title="beIN Sports",|AR.BEIN| beIN SPORTS 7 HEVC
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8561
-#EXTINF:-1 tvg-chno="28" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 1 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6814
-#EXTINF:-1 tvg-chno="29" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 2 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6813
-#EXTINF:-1 tvg-chno="30" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 3 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6812
-#EXTINF:-1 tvg-chno="31" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 4 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6815
-#EXTINF:-1 tvg-chno="32" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 5 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6816
-#EXTINF:-1 tvg-chno="33" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 6 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6817
-#EXTINF:-1 tvg-chno="34" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 7 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6818
-#EXTINF:-1 tvg-chno="35" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 8 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6819
-#EXTINF:-1 tvg-chno="36" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 9 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6820
-#EXTINF:-1 tvg-chno="37" group-title="beIN Sports",AR.BEIN| BEIN SPORTS 10 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6821
-#EXTINF:-1 tvg-chno="38" group-title="beIN Sports",----------- BEIN  FULLHD -----------
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3577
-#EXTINF:-1 tvg-chno="39" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 1 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3356
-#EXTINF:-1 tvg-chno="40" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 2 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3357
-#EXTINF:-1 tvg-chno="41" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 3 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3358
-#EXTINF:-1 tvg-chno="42" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 4 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3572
-#EXTINF:-1 tvg-chno="43" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 5 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3573
-#EXTINF:-1 tvg-chno="44" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 6 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3574
-#EXTINF:-1 tvg-chno="45" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 7 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3575
-#EXTINF:-1 tvg-chno="46" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 8 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3576
-#EXTINF:-1 tvg-chno="47" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 9 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3607
-#EXTINF:-1 tvg-chno="48" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 10 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3608
-#EXTINF:-1 tvg-chno="49" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 11 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3609
-#EXTINF:-1 tvg-chno="50" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 12 FHD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3610
-#EXTINF:-1 tvg-chno="51" group-title="beIN Sports",----------- BEIN HD -----------
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3578
-#EXTINF:-1 tvg-chno="52" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 1
+#EXTINF:-1 tvg-chno="10" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",BEIN SPORT HD 1
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/892
-#EXTINF:-1 tvg-chno="53" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 2
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/890
-#EXTINF:-1 tvg-chno="54" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 3
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/889
-#EXTINF:-1 tvg-chno="55" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 4
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/888
-#EXTINF:-1 tvg-chno="56" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 5
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/887
-#EXTINF:-1 tvg-chno="57" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 6
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/886
-#EXTINF:-1 tvg-chno="58" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 7
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/885
-#EXTINF:-1 tvg-chno="59" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 8
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/884
-#EXTINF:-1 tvg-chno="60" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 9
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8105
-#EXTINF:-1 tvg-chno="61" group-title="beIN Sports",|AR.BEIN|  BEIN SPORT HD 10
+#EXTINF:-1 tvg-chno="11" tvg-id="bein.net - HD10" tvg-name="HD10 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports10HD.png" group-title="beIN Sports",BEIN SPORT HD 10
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/891
-#EXTINF:-1 tvg-chno="62" group-title="beIN Sports",----------- BEIN HD ----------
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8104
-#EXTINF:-1 tvg-chno="63" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-chno="12" tvg-id="bein.net - HD2" tvg-name="HD2 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",BEIN SPORT HD 2
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/890
+#EXTINF:-1 tvg-chno="13" tvg-id="bein.net - HD3" tvg-name="HD3 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",BEIN SPORT HD 3
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/889
+#EXTINF:-1 tvg-chno="14" tvg-id="bein.net - HD4" tvg-name="HD4 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",BEIN SPORT HD 4
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/888
+#EXTINF:-1 tvg-chno="15" tvg-id="bein.net - HD5" tvg-name="HD5 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",BEIN SPORT HD 5
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/887
+#EXTINF:-1 tvg-chno="16" tvg-id="bein.net - HD6" tvg-name="HD6 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports6HD.png" group-title="beIN Sports",BEIN SPORT HD 6
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/886
+#EXTINF:-1 tvg-chno="17" tvg-id="bein.net - HD7" tvg-name="HD7 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports7HD.png" group-title="beIN Sports",BEIN SPORT HD 7
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/885
+#EXTINF:-1 tvg-chno="18" tvg-id="bein.net - HD8" tvg-name="HD8 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports8HD.png" group-title="beIN Sports",BEIN SPORT HD 8
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/884
+#EXTINF:-1 tvg-chno="19" tvg-id="bein.net - HD9" tvg-name="HD9 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports9HD.png" group-title="beIN Sports",BEIN SPORT HD 9
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8105
+#EXTINF:-1 tvg-chno="20" tvg-id="beIN Sport USA" tvg-name="beIN Sport USA" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/46b98fe4e00c5e8128a460b5_rw_1200.png" group-title="beIN Sports",BEIN SPORT USA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/58812
+#EXTINF:-1 tvg-chno="21" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",BEIN SPORTS 1 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6814
+#EXTINF:-1 tvg-chno="22" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",BEIN SPORTS 1 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3356
+#EXTINF:-1 tvg-chno="23" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",BEIN SPORTS 1 FHD.
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9681
+#EXTINF:-1 tvg-chno="24" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",BEIN SPORTS 1 HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/281
-#EXTINF:-1 tvg-chno="64" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 2 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/282
-#EXTINF:-1 tvg-chno="65" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 3 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/283
-#EXTINF:-1 tvg-chno="66" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 4 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/284
-#EXTINF:-1 tvg-chno="67" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 5 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/351
-#EXTINF:-1 tvg-chno="68" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 6 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/353
-#EXTINF:-1 tvg-chno="69" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 7 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/354
-#EXTINF:-1 tvg-chno="70" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 8 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/355
-#EXTINF:-1 tvg-chno="71" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 9 HD
-http://localhd.tv:8081/abo2209/fGUnk6Xt8w/356
-#EXTINF:-1 tvg-chno="72" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 10 HD
+#EXTINF:-1 tvg-chno="25" tvg-id="bein.net - HD1" tvg-name="HD1 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports1HD.png" group-title="beIN Sports",BEIN SPORTS 1 HEVC
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8567
+#EXTINF:-1 tvg-chno="26" tvg-id="bein.net - HD10" tvg-name="HD10 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports10HD.png" group-title="beIN Sports",BEIN SPORTS 10 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3608
+#EXTINF:-1 tvg-chno="27" tvg-id="bein.net - HD10" tvg-name="HD10 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports10HD.png" group-title="beIN Sports",BEIN SPORTS 10 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6821
+#EXTINF:-1 tvg-chno="28" tvg-id="bein.net - HD10" tvg-name="HD10 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports10HD.png" group-title="beIN Sports",BEIN SPORTS 10 HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/352
-#EXTINF:-1 tvg-chno="73" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 11 HD
+#EXTINF:-1 tvg-chno="29" tvg-id="bein.net - SportsHD11" tvg-name="SportsHD11 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports11HD.png" group-title="beIN Sports",BEIN SPORTS 11 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3609
+#EXTINF:-1 tvg-chno="30" tvg-id="bein.net - SportsHD11" tvg-name="SportsHD11 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports11HD.png" group-title="beIN Sports",BEIN SPORTS 11 HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1492
-#EXTINF:-1 tvg-chno="74" group-title="beIN Sports",|AR.BEIN| BEIN SPORTS 12 HD
+#EXTINF:-1 tvg-chno="31" tvg-id="bein.net - SportsHD12" tvg-name="SportsHD12 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports12HD.png" group-title="beIN Sports",BEIN SPORTS 12 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3610
+#EXTINF:-1 tvg-chno="32" tvg-id="bein.net - SportsHD12" tvg-name="SportsHD12 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports12HD.png" group-title="beIN Sports",BEIN SPORTS 12 HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2937
+#EXTINF:-1 tvg-chno="33" tvg-id="bein.net - HD2" tvg-name="HD2 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",BEIN SPORTS 2 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3357
+#EXTINF:-1 tvg-chno="34" tvg-id="bein.net - HD2" tvg-name="HD2 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",BEIN SPORTS 2 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6813
+#EXTINF:-1 tvg-chno="35" tvg-id="bein.net - HD2" tvg-name="HD2 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",BEIN SPORTS 2 FHD.
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9680
+#EXTINF:-1 tvg-chno="36" tvg-id="bein.net - HD2" tvg-name="HD2 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",BEIN SPORTS 2 HD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/282
+#EXTINF:-1 tvg-chno="37" tvg-id="bein.net - HD2" tvg-name="HD2 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports2HD.png" group-title="beIN Sports",BEIN SPORTS 2 HEVC
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8566
+#EXTINF:-1 tvg-chno="38" tvg-id="bein.net - HD3" tvg-name="HD3 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",BEIN SPORTS 3 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6812
+#EXTINF:-1 tvg-chno="39" tvg-id="bein.net - HD3" tvg-name="HD3 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",BEIN SPORTS 3 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3358
+#EXTINF:-1 tvg-chno="40" tvg-id="bein.net - HD3" tvg-name="HD3 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",BEIN SPORTS 3 FHD.
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9679
+#EXTINF:-1 tvg-chno="41" tvg-id="bein.net - HD3" tvg-name="HD3 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",BEIN SPORTS 3 HD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/283
+#EXTINF:-1 tvg-chno="42" tvg-id="bein.net - HD3" tvg-name="HD3 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports3HD.png" group-title="beIN Sports",BEIN SPORTS 3 HEVC
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8565
+#EXTINF:-1 tvg-chno="43" tvg-id="bein.net - HD4" tvg-name="HD4 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",BEIN SPORTS 4 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6815
+#EXTINF:-1 tvg-chno="44" tvg-id="bein.net - HD4" tvg-name="HD4 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",BEIN SPORTS 4 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3572
+#EXTINF:-1 tvg-chno="45" tvg-id="bein.net - HD4" tvg-name="HD4 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",BEIN SPORTS 4 FHD.
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9678
+#EXTINF:-1 tvg-chno="46" tvg-id="bein.net - HD4" tvg-name="HD4 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",BEIN SPORTS 4 HD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/284
+#EXTINF:-1 tvg-chno="47" tvg-id="bein.net - HD4" tvg-name="HD4 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports4HD.png" group-title="beIN Sports",BEIN SPORTS 4 HEVC
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8564
+#EXTINF:-1 tvg-chno="48" tvg-id="bein.net - HD5" tvg-name="HD5 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",BEIN SPORTS 5 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6816
+#EXTINF:-1 tvg-chno="49" tvg-id="bein.net - HD5" tvg-name="HD5 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",BEIN SPORTS 5 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3573
+#EXTINF:-1 tvg-chno="50" tvg-id="bein.net - HD5" tvg-name="HD5 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",BEIN SPORTS 5 FHD.
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9677
+#EXTINF:-1 tvg-chno="51" tvg-id="bein.net - HD5" tvg-name="HD5 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",BEIN SPORTS 5 HD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/351
+#EXTINF:-1 tvg-chno="52" tvg-id="bein.net - HD5" tvg-name="HD5 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSportsicons/BeINSports5HD.png" group-title="beIN Sports",BEIN SPORTS 5 HEVC
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8563
+#EXTINF:-1 tvg-chno="53" tvg-id="bein.net - HD6" tvg-name="HD6 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports6HD.png" group-title="beIN Sports",BEIN SPORTS 6 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6817
+#EXTINF:-1 tvg-chno="54" tvg-id="bein.net - HD6" tvg-name="HD6 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports6HD.png" group-title="beIN Sports",BEIN SPORTS 6 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3574
+#EXTINF:-1 tvg-chno="55" tvg-id="bein.net - HD6" tvg-name="HD6 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports6HD.png" group-title="beIN Sports",BEIN SPORTS 6 FHD.
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9676
+#EXTINF:-1 tvg-chno="56" tvg-id="bein.net - HD6" tvg-name="HD6 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports6HD.png" group-title="beIN Sports",BEIN SPORTS 6 HD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/353
+#EXTINF:-1 tvg-chno="57" tvg-id="bein.net - HD6" tvg-name="HD6 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports6HD.png" group-title="beIN Sports",BEIN SPORTS 6 HEVC
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8562
+#EXTINF:-1 tvg-chno="58" tvg-id="bein.net - HD7" tvg-name="HD7 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports7HD.png" group-title="beIN Sports",BEIN SPORTS 7 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3575
+#EXTINF:-1 tvg-chno="59" tvg-id="bein.net - HD7" tvg-name="HD7 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports7HD.png" group-title="beIN Sports",BEIN SPORTS 7 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6818
+#EXTINF:-1 tvg-chno="60" tvg-id="bein.net - HD7" tvg-name="HD7 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports7HD.png" group-title="beIN Sports",BEIN SPORTS 7 FHD.
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9675
+#EXTINF:-1 tvg-chno="61" tvg-id="bein.net - HD7" tvg-name="HD7 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports7HD.png" group-title="beIN Sports",BEIN SPORTS 7 HD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/354
+#EXTINF:-1 tvg-chno="62" tvg-id="bein.net - HD7" tvg-name="HD7 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports7HD.png" group-title="beIN Sports",BEIN SPORTS 7 HEVC
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8561
+#EXTINF:-1 tvg-chno="63" tvg-id="bein.net - HD8" tvg-name="HD8 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports8HD.png" group-title="beIN Sports",BEIN SPORTS 8 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3576
+#EXTINF:-1 tvg-chno="64" tvg-id="bein.net - HD8" tvg-name="HD8 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports8HD.png" group-title="beIN Sports",BEIN SPORTS 8 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6819
+#EXTINF:-1 tvg-chno="65" tvg-id="bein.net - HD8" tvg-name="HD8 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports8HD.png" group-title="beIN Sports",BEIN SPORTS 8 FHD.
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9674
+#EXTINF:-1 tvg-chno="66" tvg-id="bein.net - HD8" tvg-name="HD8 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports8HD.png" group-title="beIN Sports",BEIN SPORTS 8 HD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/355
+#EXTINF:-1 tvg-chno="67" tvg-id="bein.net - HD9" tvg-name="HD9 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports9HD.png" group-title="beIN Sports",BEIN SPORTS 9 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/3607
+#EXTINF:-1 tvg-chno="68" tvg-id="bein.net - HD9" tvg-name="HD9 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports9HD.png" group-title="beIN Sports",BEIN SPORTS 9 FHD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/6820
+#EXTINF:-1 tvg-chno="69" tvg-id="bein.net - HD9" tvg-name="HD9 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports9HD.png" group-title="beIN Sports",BEIN SPORTS 9 FHD.
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/9673
+#EXTINF:-1 tvg-chno="70" tvg-id="bein.net - HD9" tvg-name="HD9 - Bein.net" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/B/BeINSports9HD.png" group-title="beIN Sports",BEIN SPORTS 9 HD
+http://localhd.tv:8081/abo2209/fGUnk6Xt8w/356
 #EXTINF:-1 tvg-chno="1" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="Business",Bloomberg TV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" group-title="Business",Bloomberg TV Asia
@@ -6749,141 +6741,141 @@ http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8
 https://apps.erdesigns.eu/youtube/5t71YUiSIfU
 #EXTINF:-1 tvg-chno="5" group-title="Kids",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-chno="59" group-title="Kids",BABY TV
+#EXTINF:-1 tvg-chno="6" group-title="Kids",BABY TV
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11054
-#EXTINF:-1 tvg-chno="6" tvg-name="Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7" tvg-logo="https://i.ytimg.com/vi/Jobv7js-DTw/maxresdefault.jpg" group-title="Kids",Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7
+#EXTINF:-1 tvg-chno="7" tvg-name="Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7" tvg-logo="https://i.ytimg.com/vi/Jobv7js-DTw/maxresdefault.jpg" group-title="Kids",Bob's Burgers Live Stream HD  Bob's Burgers Full Episodes 24/7
 https://apps.erdesigns.eu/youtube/Jobv7js-DTw
-#EXTINF:-1 tvg-chno="7" tvg-name="Booba - All episodes - Funny cartoons for kids - Booba ToonsTV" tvg-logo="https://i.ytimg.com/vi/uNAuMO54yvY/maxresdefault.jpg" group-title="Kids",Booba - All episodes - Funny cartoons for kids - Booba ToonsTV
+#EXTINF:-1 tvg-chno="8" tvg-name="Booba - All episodes - Funny cartoons for kids - Booba ToonsTV" tvg-logo="https://i.ytimg.com/vi/uNAuMO54yvY/maxresdefault.jpg" group-title="Kids",Booba - All episodes - Funny cartoons for kids - Booba ToonsTV
 https://apps.erdesigns.eu/youtube/uNAuMO54yvY
-#EXTINF:-1 tvg-chno="8" tvg-name="Booba - Compilation of All episodes LIVE - Cartoon for kids" tvg-logo="https://i.ytimg.com/vi/QougB4t6TWU/maxresdefault.jpg" group-title="Kids",Booba - Compilation of All episodes LIVE - Cartoon for kids
+#EXTINF:-1 tvg-chno="9" tvg-name="Booba - Compilation of All episodes LIVE - Cartoon for kids" tvg-logo="https://i.ytimg.com/vi/QougB4t6TWU/maxresdefault.jpg" group-title="Kids",Booba - Compilation of All episodes LIVE - Cartoon for kids
 https://apps.erdesigns.eu/youtube/QougB4t6TWU
-#EXTINF:-1 tvg-chno="60" group-title="Kids",BOOMERANG
+#EXTINF:-1 tvg-chno="10" group-title="Kids",BOOMERANG
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11063
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-name="Cartoon Marathon | Bananas in Pyjamas Official" tvg-logo="https://i.ytimg.com/vi/OBfKgENfF1w/maxresdefault.jpg" group-title="Kids",Cartoon Marathon | Bananas in Pyjamas Official
+#EXTINF:-1 tvg-chno="12" tvg-name="Cartoon Marathon | Bananas in Pyjamas Official" tvg-logo="https://i.ytimg.com/vi/OBfKgENfF1w/maxresdefault.jpg" group-title="Kids",Cartoon Marathon | Bananas in Pyjamas Official
 https://apps.erdesigns.eu/youtube/OBfKgENfF1w
-#EXTINF:-1 tvg-chno="61" group-title="Kids",CARTOON NETWORK
+#EXTINF:-1 tvg-chno="13" group-title="Kids",CARTOON NETWORK
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11057
-#EXTINF:-1 tvg-chno="62" group-title="Kids",CARTOONITO
+#EXTINF:-1 tvg-chno="14" group-title="Kids",CARTOONITO
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11012
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="Kids",Cartoons 4U
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="Kids",Cartoons 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="12" group-title="Kids",CBeebies
+#EXTINF:-1 tvg-chno="16" group-title="Kids",CBeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-name="Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou" tvg-logo="https://i.ytimg.com/vi/4bvh4npvgyA/maxresdefault.jpg" group-title="Kids",Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou
+#EXTINF:-1 tvg-chno="17" tvg-name="Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou" tvg-logo="https://i.ytimg.com/vi/4bvh4npvgyA/maxresdefault.jpg" group-title="Kids",Chef Caillou Funny Animated Caillou | Cartoons for kids | Caillou
 https://apps.erdesigns.eu/youtube/4bvh4npvgyA
-#EXTINF:-1 tvg-chno="63" group-title="Kids",CITV
+#EXTINF:-1 tvg-chno="18" group-title="Kids",CITV
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11050
-#EXTINF:-1 tvg-chno="64" group-title="Kids",DISNEY CHANNEL
+#EXTINF:-1 tvg-chno="19" group-title="Kids",DISNEY CHANNEL
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11056
-#EXTINF:-1 tvg-chno="14" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-chno="20" group-title="Kids",Disney Channel
 http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1 tvg-chno="15" group-title="Kids",Disney Channel Norge
+#EXTINF:-1 tvg-chno="21" group-title="Kids",Disney Channel Norge
 http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-chno="65" group-title="Kids",DISNEY JUNIOR
+#EXTINF:-1 tvg-chno="22" group-title="Kids",DISNEY JUNIOR
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11058
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="Kids",Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-#EXTINF:-1 tvg-chno="17" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-chno="24" group-title="Kids",Disney Junior
 http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-chno="16" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-chno="25" group-title="Kids",Disney Junior
 http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1 tvg-chno="66" group-title="Kids",DISNEY XD
+#EXTINF:-1 tvg-chno="26" group-title="Kids",DISNEY XD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11055
-#EXTINF:-1 tvg-chno="19" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-chno="27" group-title="Kids",Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="Kids",Duck TV
+#EXTINF:-1 tvg-chno="28" tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="Kids",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="Kids",Kartoon Fun Time (Opt-1)
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="Kids",Kartoon Fun Time (Opt-1)
 https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="Kids",Kids TV
+#EXTINF:-1 tvg-chno="30" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="Kids",Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-chno="23" tvg-name="Knowledge Kids-CA" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
+#EXTINF:-1 tvg-chno="31" tvg-name="Knowledge Kids-CA" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-name="LIVE LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL" tvg-logo="https://i.ytimg.com/vi/ZY5oov1_jbo/maxresdefault.jpg" group-title="Kids",LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL
+#EXTINF:-1 tvg-chno="32" tvg-name="LIVE LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL" tvg-logo="https://i.ytimg.com/vi/ZY5oov1_jbo/maxresdefault.jpg" group-title="Kids",LARVA | GRUDGE MATCH - THE FACE OFF | LARVA OFFICIAL
 https://apps.erdesigns.eu/youtube/ZY5oov1_jbo
-#EXTINF:-1 tvg-chno="26" tvg-name="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="Kids",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
+#EXTINF:-1 tvg-chno="33" tvg-name="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="Kids",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
 https://apps.erdesigns.eu/youtube/933-mhry0Bc
-#EXTINF:-1 tvg-chno="25" tvg-name="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="Kids",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
+#EXTINF:-1 tvg-chno="34" tvg-name="LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS" tvg-logo="https://i.ytimg.com/vi/933-mhry0Bc/maxresdefault.jpg" group-title="Kids",LIVE! BEST CLASSIC TOM & JERRY MOMENTS | WB KIDS
 https://apps.erdesigns.eu/youtube/933-mhry0Bc
-#EXTINF:-1 tvg-chno="27" tvg-name="Live! Teen Titans Go! | Love Is In The Air | DC Kids" tvg-logo="https://i.ytimg.com/vi/wUhVM98efxA/maxresdefault.jpg" group-title="Kids",Live! Teen Titans Go! | Love Is In The Air | DC Kids
+#EXTINF:-1 tvg-chno="35" tvg-name="Live! Teen Titans Go! | Love Is In The Air | DC Kids" tvg-logo="https://i.ytimg.com/vi/wUhVM98efxA/maxresdefault.jpg" group-title="Kids",Live! Teen Titans Go! | Love Is In The Air | DC Kids
 https://apps.erdesigns.eu/youtube/wUhVM98efxA
-#EXTINF:-1 tvg-chno="28" tvg-name="Max Brushes Teeth for Wild Lion - LIVE Pencilmate Cartoons" tvg-logo="https://i.ytimg.com/vi/Rvo89LDdeSI/maxresdefault.jpg" group-title="Kids",Max Brushes Teeth for Wild Lion - LIVE Pencilmate Cartoons
+#EXTINF:-1 tvg-chno="36" tvg-name="Max Brushes Teeth for Wild Lion - LIVE Pencilmate Cartoons" tvg-logo="https://i.ytimg.com/vi/Rvo89LDdeSI/maxresdefault.jpg" group-title="Kids",Max Brushes Teeth for Wild Lion - LIVE Pencilmate Cartoons
 https://apps.erdesigns.eu/youtube/Rvo89LDdeSI
-#EXTINF:-1 tvg-chno="29" tvg-name="Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!" tvg-logo="https://i.ytimg.com/vi/L1aUhHjflk0/maxresdefault.jpg" group-title="Kids",Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!
+#EXTINF:-1 tvg-chno="37" tvg-name="Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!" tvg-logo="https://i.ytimg.com/vi/L1aUhHjflk0/maxresdefault.jpg" group-title="Kids",Monster Trucks Cartoons For Children Trucks & Cars videos for kids ! Monster Town Car City LIVE!
 https://apps.erdesigns.eu/youtube/L1aUhHjflk0
-#EXTINF:-1 tvg-chno="30" tvg-name="Full Cartoon Episodes Live | Mr Bean Cartoon World" tvg-logo="https://i.ytimg.com/vi/gXARGZF1Wp4/maxresdefault.jpg" group-title="Kids",Mr Bean Cartoon World
+#EXTINF:-1 tvg-chno="38" tvg-name="Full Cartoon Episodes Live | Mr Bean Cartoon World" tvg-logo="https://i.ytimg.com/vi/gXARGZF1Wp4/maxresdefault.jpg" group-title="Kids",Mr Bean Cartoon World
 https://apps.erdesigns.eu/youtube/gXARGZF1Wp4
-#EXTINF:-1 tvg-chno="32" group-title="Kids",Nick JR
+#EXTINF:-1 tvg-chno="39" group-title="Kids",Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-chno="31" group-title="Kids",Nick JR
+#EXTINF:-1 tvg-chno="40" group-title="Kids",Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1 tvg-chno="67" group-title="Kids",NICK JR TOO
+#EXTINF:-1 tvg-chno="41" group-title="Kids",NICK JR TOO
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11059
-#EXTINF:-1 tvg-chno="68" group-title="Kids",NICK JUNIOR
+#EXTINF:-1 tvg-chno="42" group-title="Kids",NICK JUNIOR
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11060
-#EXTINF:-1 tvg-chno="69" group-title="Kids",NICK TOONS
+#EXTINF:-1 tvg-chno="43" group-title="Kids",NICK TOONS
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11062
-#EXTINF:-1 tvg-chno="33" tvg-logo="https://i.imgur.com/QqLoAs7.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://i.imgur.com/QqLoAs7.png" group-title="Kids",Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
-#EXTINF:-1 tvg-chno="34" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-chno="45" group-title="Kids",Nickelodeon
 http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1 tvg-chno="35" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-chno="46" group-title="Kids",Nickelodeon
 http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-chno="70" group-title="Kids",NICKELODEON
+#EXTINF:-1 tvg-chno="47" group-title="Kids",NICKELODEON
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11061
-#EXTINF:-1 tvg-chno="36" group-title="Kids",Nicktoons
+#EXTINF:-1 tvg-chno="48" group-title="Kids",Nicktoons
 http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-#EXTINF:-1 tvg-chno="37" group-title="Kids",Nicktoons
+#EXTINF:-1 tvg-chno="49" group-title="Kids",Nicktoons
 http://185.176.117.243/live/eds/Nicktoons/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-name="Numberblocks 1 - 10 NEW NumberBlocks Full Episodes | Numberblocks Hide And Seek" tvg-logo="https://i.ytimg.com/vi/JRbt8sEiMdI/maxresdefault.jpg" group-title="Kids",Numberblocks 1 - 10 NEW NumberBlocks Full Episodes | Numberblocks Hide And Seek
+#EXTINF:-1 tvg-chno="50" tvg-name="Numberblocks 1 - 10 NEW NumberBlocks Full Episodes | Numberblocks Hide And Seek" tvg-logo="https://i.ytimg.com/vi/JRbt8sEiMdI/maxresdefault.jpg" group-title="Kids",Numberblocks 1 - 10 NEW NumberBlocks Full Episodes | Numberblocks Hide And Seek
 https://apps.erdesigns.eu/youtube/JRbt8sEiMdI
-#EXTINF:-1 tvg-chno="39" tvg-name="Oddbods Munch and Crunch Funny Cartoons For Kids" tvg-logo="https://i.ytimg.com/vi/Notp3jNZzF0/maxresdefault.jpg" group-title="Kids",Oddbods Munch and Crunch Funny Cartoons For Kids
+#EXTINF:-1 tvg-chno="51" tvg-name="Oddbods Munch and Crunch Funny Cartoons For Kids" tvg-logo="https://i.ytimg.com/vi/Notp3jNZzF0/maxresdefault.jpg" group-title="Kids",Oddbods Munch and Crunch Funny Cartoons For Kids
 https://apps.erdesigns.eu/youtube/Notp3jNZzF0
-#EXTINF:-1 tvg-chno="41" tvg-name="PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!" tvg-logo="https://i.ytimg.com/vi/AeO6VZ5SLss/maxresdefault.jpg" group-title="Kids",PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!
+#EXTINF:-1 tvg-chno="52" tvg-name="PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!" tvg-logo="https://i.ytimg.com/vi/AeO6VZ5SLss/maxresdefault.jpg" group-title="Kids",PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!
 https://apps.erdesigns.eu/youtube/AeO6VZ5SLss
-#EXTINF:-1 tvg-chno="40" tvg-name="PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!" tvg-logo="https://i.ytimg.com/vi/AeO6VZ5SLss/maxresdefault.jpg" group-title="Kids",PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!
+#EXTINF:-1 tvg-chno="53" tvg-name="PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!" tvg-logo="https://i.ytimg.com/vi/AeO6VZ5SLss/maxresdefault.jpg" group-title="Kids",PAW Patrol 24/7!  ULTIMATE RESCUE Episodes - Kids Cartoons!
 https://apps.erdesigns.eu/youtube/AeO6VZ5SLss
-#EXTINF:-1 tvg-chno="42" tvg-name="PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes" tvg-logo="https://i.ytimg.com/vi/HOOqENZeUEI/maxresdefault.jpg" group-title="Kids",PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes
+#EXTINF:-1 tvg-chno="54" tvg-name="PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes" tvg-logo="https://i.ytimg.com/vi/HOOqENZeUEI/maxresdefault.jpg" group-title="Kids",PAW Patrol MIGHTY PUPS MARATHON! Cartoons for Kids 24/7 Pup Tales Rescue Episodes
 https://apps.erdesigns.eu/youtube/HOOqENZeUEI
-#EXTINF:-1 tvg-chno="43" tvg-name="PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon" tvg-logo="https://i.ytimg.com/vi/XWMwQkiRrGI/maxresdefault.jpg" group-title="Kids",PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon
+#EXTINF:-1 tvg-chno="55" tvg-name="PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon" tvg-logo="https://i.ytimg.com/vi/XWMwQkiRrGI/maxresdefault.jpg" group-title="Kids",PAW Patrol Non Stop Kids Cartoons Rescue Episode 24/7! Marathon
 https://apps.erdesigns.eu/youtube/XWMwQkiRrGI
-#EXTINF:-1 tvg-chno="44" tvg-name="Peppa Pig English Episodes LIVE NOW | Peppa Pig Official" tvg-logo="https://i.ytimg.com/vi/ZKCnjxti3mw/maxresdefault.jpg" group-title="Kids",Peppa Pig English Episodes LIVE NOW | Peppa Pig Official
+#EXTINF:-1 tvg-chno="56" tvg-name="Peppa Pig English Episodes LIVE NOW | Peppa Pig Official" tvg-logo="https://i.ytimg.com/vi/ZKCnjxti3mw/maxresdefault.jpg" group-title="Kids",Peppa Pig English Episodes LIVE NOW | Peppa Pig Official
 https://apps.erdesigns.eu/youtube/ZKCnjxti3mw
-#EXTINF:-1 tvg-chno="45" tvg-name="POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS" tvg-logo="https://i.ytimg.com/vi/4dblIyFKtP0/maxresdefault.jpg" group-title="Kids",POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS
+#EXTINF:-1 tvg-chno="57" tvg-name="POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS" tvg-logo="https://i.ytimg.com/vi/4dblIyFKtP0/maxresdefault.jpg" group-title="Kids",POCOYO in ENGLISH - Special New shoes | Full Episodes | VIDEOS and CARTOON for KIDS
 https://apps.erdesigns.eu/youtube/4dblIyFKtP0
-#EXTINF:-1 tvg-chno="46" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Kids",Pop
+#EXTINF:-1 tvg-chno="58" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Kids",Pop
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="71" group-title="Kids",POP HD
+#EXTINF:-1 tvg-chno="59" group-title="Kids",POP HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11052
-#EXTINF:-1 tvg-chno="47" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Kids",POP Kids
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Kids",POP Kids
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="72" group-title="Kids",RTE JUNIOR
+#EXTINF:-1 tvg-chno="61" group-title="Kids",RTE JUNIOR
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11053
-#EXTINF:-1 tvg-chno="48" tvg-logo="https://i.imgur.com/CafPtAF.png" group-title="Kids",Super Geek Heroes
+#EXTINF:-1 tvg-chno="62" tvg-logo="https://i.imgur.com/CafPtAF.png" group-title="Kids",Super Geek Heroes
 https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-name="Talking Tom and Friends FULL EPISODES!" tvg-logo="https://i.ytimg.com/vi/PbP0_yYXcHU/maxresdefault.jpg" group-title="Kids",Talking Tom and Friends FULL EPISODES!
+#EXTINF:-1 tvg-chno="63" tvg-name="Talking Tom and Friends FULL EPISODES!" tvg-logo="https://i.ytimg.com/vi/PbP0_yYXcHU/maxresdefault.jpg" group-title="Kids",Talking Tom and Friends FULL EPISODES!
 https://apps.erdesigns.eu/youtube/PbP0_yYXcHU
-#EXTINF:-1 tvg-chno="50" group-title="Kids",TCT Kids
+#EXTINF:-1 tvg-chno="64" group-title="Kids",TCT Kids
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-name="The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7" tvg-logo="https://i.ytimg.com/vi/MDfNSxkCceI/maxresdefault.jpg" group-title="Kids",The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7
+#EXTINF:-1 tvg-chno="65" tvg-name="The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7" tvg-logo="https://i.ytimg.com/vi/MDfNSxkCceI/maxresdefault.jpg" group-title="Kids",The Fairly OddParents New Episodes #TheFairlyOddparents Live Stream 24/7
 https://apps.erdesigns.eu/youtube/MDfNSxkCceI
-#EXTINF:-1 tvg-chno="52" tvg-name="The Fairly OddParents | Full Episodes | OFFICIAL Live Stream" tvg-logo="https://i.ytimg.com/vi/SYKNqX_pzR4/maxresdefault.jpg" group-title="Kids",The Fairly OddParents | Full Episodes | OFFICIAL Live Stream
+#EXTINF:-1 tvg-chno="66" tvg-name="The Fairly OddParents | Full Episodes | OFFICIAL Live Stream" tvg-logo="https://i.ytimg.com/vi/SYKNqX_pzR4/maxresdefault.jpg" group-title="Kids",The Fairly OddParents | Full Episodes | OFFICIAL Live Stream
 https://apps.erdesigns.eu/youtube/SYKNqX_pzR4
-#EXTINF:-1 tvg-chno="73" group-title="Kids",TINY POP
+#EXTINF:-1 tvg-chno="67" group-title="Kids",TINY POP
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11051
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="Kids",Tom & Jerry (Opt-1)
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="Kids",Tom & Jerry (Opt-1)
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-#EXTINF:-1 tvg-chno="54" tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="Kids",Tom & Jerry (Opt-2)
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="Kids",Tom & Jerry (Opt-2)
 https://ws.hls.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-name="Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation" tvg-logo="https://i.ytimg.com/vi/yxIZbzf-D9s/maxresdefault.jpg" group-title="Kids",Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation
+#EXTINF:-1 tvg-chno="70" tvg-name="Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation" tvg-logo="https://i.ytimg.com/vi/yxIZbzf-D9s/maxresdefault.jpg" group-title="Kids",Where is Chicky? - Funny Chicky Cartoon Compilation For Kids 2020 - BH Animation
 https://apps.erdesigns.eu/youtube/yxIZbzf-D9s
-#EXTINF:-1 tvg-chno="56" group-title="Kids",|AR.BEIN| BEIN BOOMRANG
+#EXTINF:-1 tvg-chno="71" group-title="Kids",|BEIN BOOMRANG
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8462
-#EXTINF:-1 tvg-chno="57" group-title="Kids",|AR.BEIN| BEIN JUNIOR
+#EXTINF:-1 tvg-chno="72" group-title="Kids",|BEIN JUNIOR
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8467
-#EXTINF:-1 tvg-chno="58" group-title="Kids",|AR.BEIN| DREAM WORKS
+#EXTINF:-1 tvg-chno="73" group-title="Kids",|DREAM WORKS
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8463
 #EXTINF:-1 tvg-chno="1" tvg-name="Learn Arabic 24/7 with ArabicPod101 TV" tvg-logo="https://i.ytimg.com/vi/fNxEFO26dHo/maxresdefault.jpg" group-title="Learning Languages",Learn Arabic 24/7 with ArabicPod101 TV
 https://apps.erdesigns.eu/youtube/fNxEFO26dHo
@@ -7493,187 +7485,187 @@ https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-
 http://aldirect.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="247RetroTV " tvg-name="247RetroTV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Movie Channels",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 tvg-chno="86" group-title="Movie Channels",AMC HD
+#EXTINF:-1 tvg-chno="22" group-title="Movie Channels",AMC HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11247
-#EXTINF:-1 tvg-chno="22" tvg-name="American Horrors" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="Movie Channels",American Horrors
+#EXTINF:-1 tvg-chno="23" tvg-name="American Horrors" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="Movie Channels",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-name="Andy Lau Movies" tvg-logo="https://img.jakpost.net/c/2017/01/13/2017_01_13_19434_1484287863._large.jpg" group-title="Movie Channels",Andy Lau Movies
+#EXTINF:-1 tvg-chno="24" tvg-name="Andy Lau Movies" tvg-logo="https://img.jakpost.net/c/2017/01/13/2017_01_13_19434_1484287863._large.jpg" group-title="Movie Channels",Andy Lau Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-name="B4U Movies-IN" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" group-title="Movie Channels",B4U Movies
+#EXTINF:-1 tvg-chno="25" tvg-name="B4U Movies-IN" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" group-title="Movie Channels",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-name="BestTV UHD" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="Movie Channels",BestTV UHD
+#EXTINF:-1 tvg-chno="26" tvg-name="BestTV UHD" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="Movie Channels",BestTV UHD
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-name="BesTV 4K" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="Movie Channels",BesTV 4K
+#EXTINF:-1 tvg-chno="27" tvg-name="BesTV 4K" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="Movie Channels",BesTV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-name="Black Cinema" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" group-title="Movie Channels",Black Cinema
+#EXTINF:-1 tvg-chno="28" tvg-name="Black Cinema" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" group-title="Movie Channels",Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&d
-#EXTINF:-1 tvg-chno="87" group-title="Movie Channels",CBS ACTION
+#EXTINF:-1 tvg-chno="29" group-title="Movie Channels",CBS ACTION
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11253
-#EXTINF:-1 tvg-chno="88" group-title="Movie Channels",CBS DRAMA
+#EXTINF:-1 tvg-chno="30" group-title="Movie Channels",CBS DRAMA
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11252
-#EXTINF:-1 tvg-chno="28" tvg-name="Celestial Movies" tvg-logo="http://static.iptv-epg.com/id/CelestialMovies.id.png" group-title="Movie Channels",Celestial Movies
+#EXTINF:-1 tvg-chno="31" tvg-name="Celestial Movies" tvg-logo="http://static.iptv-epg.com/id/CelestialMovies.id.png" group-title="Movie Channels",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-chno="89" group-title="Movie Channels",CHANNEL HORROR
+#EXTINF:-1 tvg-chno="32" group-title="Movie Channels",CHANNEL HORROR
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11255
-#EXTINF:-1 tvg-chno="29" tvg-name="Charge! (Geo)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" group-title="Movie Channels",Charge! (Geo)
+#EXTINF:-1 tvg-chno="33" tvg-name="Charge! (Geo)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" group-title="Movie Channels",Charge! (Geo)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-chno="90" group-title="Movie Channels",CINEMA HITS HD
+#EXTINF:-1 tvg-chno="34" group-title="Movie Channels",CINEMA HITS HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11259
-#EXTINF:-1 tvg-chno="30" tvg-name="CinemaWorld SG" tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="Movie Channels",CinemaWorld SG
+#EXTINF:-1 tvg-chno="35" tvg-name="CinemaWorld SG" tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="Movie Channels",CinemaWorld SG
 http://45.126.83.51:443/uq2663/h/h04/01.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-name="Comet TV (Geo)" tvg-logo="https://i.imgur.com/ZIZZG8v.png" group-title="Movie Channels",Comet TV (Geo)
+#EXTINF:-1 tvg-chno="36" tvg-name="Comet TV (Geo)" tvg-logo="https://i.imgur.com/ZIZZG8v.png" group-title="Movie Channels",Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb47715
-#EXTINF:-1 tvg-chno="91" group-title="Movie Channels",DRAMA CHANNEL
+#EXTINF:-1 tvg-chno="37" group-title="Movie Channels",DRAMA CHANNEL
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11250
-#EXTINF:-1 tvg-chno="92" group-title="Movie Channels",FILM 4 HD
+#EXTINF:-1 tvg-chno="38" group-title="Movie Channels",FILM 4 HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11248
-#EXTINF:-1 tvg-chno="32" tvg-name="Filmrise Classics" tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie Channels",Filmrise Classics
+#EXTINF:-1 tvg-chno="39" tvg-name="Filmrise Classics" tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie Channels",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-name="Filmrise Crime" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="Movie Channels",Filmrise Crime
+#EXTINF:-1 tvg-chno="40" tvg-name="Filmrise Crime" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="Movie Channels",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-name="Filmrise Family" tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="Movie Channels",Filmrise Family
+#EXTINF:-1 tvg-chno="41" tvg-name="Filmrise Family" tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="Movie Channels",Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-name="Filmrise Movies" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Movie Channels",Filmrise Movies
+#EXTINF:-1 tvg-chno="42" tvg-name="Filmrise Movies" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Movie Channels",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-#EXTINF:-1 tvg-chno="93" group-title="Movie Channels",FOX MOVIES ACTION HD NAKESSSS
+#EXTINF:-1 tvg-chno="43" group-title="Movie Channels",FOX MOVIES ACTION HD NAKESSSS
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11032
-#EXTINF:-1 tvg-chno="94" group-title="Movie Channels",FOX MOVIES HD
+#EXTINF:-1 tvg-chno="44" group-title="Movie Channels",FOX MOVIES HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11031
-#EXTINF:-1 tvg-chno="36" tvg-id="Hallmark Movies Mysteries" tvg-name="Hallmark Movies Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Movie Channels",Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-chno="45" tvg-id="Hallmark Movies Mysteries" tvg-name="Hallmark Movies Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Movie Channels",Hallmark Movies & Mysteries
 https://peer3.ustv.to/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA1OjU1IEFNJmhhc2hfdmFsdWU9UUpHbFFPNHMwRElka0h5OFFxZFdlQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-chno="37" tvg-id="Hallmark Movies Mysteries" tvg-name="Hallmark Movies Mysteries" tvg-logo="https://i.imgur.com/dfaJpw4.png" group-title="Movie Channels",Hallmark Movies & Mysteries (Geo)
+#EXTINF:-1 tvg-chno="46" tvg-id="Hallmark Movies Mysteries" tvg-name="Hallmark Movies Mysteries" tvg-logo="https://i.imgur.com/dfaJpw4.png" group-title="Movie Channels",Hallmark Movies & Mysteries (Geo)
 http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
-#EXTINF:-1 tvg-chno="38" tvg-name="HBO 2 - Eastern Feed-US" tvg-logo="http://2.bp.blogspot.com/-1L5Qo-Hs6Qc/TXxCPre9m_I/AAAAAAAACG4/k6UmYBngn9g/s1600/Picture%2B20.png" group-title="Movie Channels",HBO 2 (Movie Channels) (US) (English)
+#EXTINF:-1 tvg-chno="47" tvg-name="HBO 2 - Eastern Feed-US" tvg-logo="http://2.bp.blogspot.com/-1L5Qo-Hs6Qc/TXxCPre9m_I/AAAAAAAACG4/k6UmYBngn9g/s1600/Picture%2B20.png" group-title="Movie Channels",HBO 2 (Movie Channels) (US) (English)
 http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="HBO Zone - East" tvg-name="HBO Zone" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" group-title="Movie Channels",HBO Zone
+#EXTINF:-1 tvg-chno="48" tvg-id="HBO Zone - East" tvg-name="HBO Zone" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" group-title="Movie Channels",HBO Zone
 http://185.246.209.109:8080/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-name="HBO2" group-title="Movie Channels",HBO2
+#EXTINF:-1 tvg-chno="49" tvg-name="HBO2" group-title="Movie Channels",HBO2
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-name="Hong Kong Film Channel" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movie Channels",Hong Kong Film Channel
+#EXTINF:-1 tvg-chno="50" tvg-name="Hong Kong Film Channel" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="Movie Channels",Hong Kong Film Channel
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movie Channels",iFILM English
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movie Channels",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-name="iFILM English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movie Channels",iFILM English
+#EXTINF:-1 tvg-chno="52" tvg-name="iFILM English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movie Channels",iFILM English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movie Channels",iFILM English
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movie Channels",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-name="Iron Man Movies" tvg-logo="https://i.ytimg.com/vi/w0Ou3YLeNaE/maxresdefault.jpg" group-title="Movie Channels",Iron Man Movies
+#EXTINF:-1 tvg-chno="54" tvg-name="Iron Man Movies" tvg-logo="https://i.ytimg.com/vi/w0Ou3YLeNaE/maxresdefault.jpg" group-title="Movie Channels",Iron Man Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-name="It's At The Movies" tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="Movie Channels",It's At The Movies
+#EXTINF:-1 tvg-chno="55" tvg-name="It's At The Movies" tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="Movie Channels",It's At The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-name="Jackie Chan Movies" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" group-title="Movie Channels",Jackie Chan Movies
+#EXTINF:-1 tvg-chno="56" tvg-name="Jackie Chan Movies" tvg-logo="https://i.ytimg.com/vi/pSrgzcVL8wM/maxresdefault.jpg" group-title="Movie Channels",Jackie Chan Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-name="Kids Click (Geo)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="Movie Channels",Kids Click (Geo)
+#EXTINF:-1 tvg-chno="57" tvg-name="Kids Click (Geo)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="Movie Channels",Kids Click (Geo)
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
-#EXTINF:-1 tvg-chno="49" tvg-name="KTV HD-IN" tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="Movie Channels",KTV
+#EXTINF:-1 tvg-chno="58" tvg-name="KTV HD-IN" tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="Movie Channels",KTV
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Movie Channels",Lifetime Movie Network
+#EXTINF:-1 tvg-chno="59" tvg-name="Lifetime Movies - East-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lifetime_Movies.svg/1200px-Lifetime_Movies.svg.png" group-title="Movie Channels",Lifetime Movie Network
 https://peer1.ustv.to/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDEyOjA3OjE5IEFNJmhhc2hfdmFsdWU9Tk1ybWtKMkQ3cVZ5VTU4bXpQRjNZQT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-#EXTINF:-1 tvg-chno="51" tvg-name="Movee 4U" tvg-logo="https://i.imgur.com/S6Hcqoy.png" group-title="Movie Channels",Movee 4U
+#EXTINF:-1 tvg-chno="60" tvg-name="Movee 4U" tvg-logo="https://i.imgur.com/S6Hcqoy.png" group-title="Movie Channels",Movee 4U
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-name="Movie Kingdom" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movie Channels",Movie Kingdom
+#EXTINF:-1 tvg-chno="61" tvg-name="Movie Kingdom" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movie Channels",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-chno="95" group-title="Movie Channels",MOVIES4MEN HD
+#EXTINF:-1 tvg-chno="62" group-title="Movie Channels",MOVIES4MEN HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11254
-#EXTINF:-1 tvg-chno="53" tvg-name="Pluto TV Drama" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg" group-title="Movie Channels",Pluto TV Drama
+#EXTINF:-1 tvg-chno="63" tvg-name="Pluto TV Drama" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg" group-title="Movie Channels",Pluto TV Drama
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=hi
-#EXTINF:-1 tvg-chno="54" tvg-name="Pluto TV Movies 1" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="Movie Channels",Pluto TV Movies 1
+#EXTINF:-1 tvg-chno="64" tvg-name="Pluto TV Movies 1" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="Movie Channels",Pluto TV Movies 1
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&de
-#EXTINF:-1 tvg-chno="55" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="Movie Channels",Pluto TV Movies 2
+#EXTINF:-1 tvg-chno="65" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="Movie Channels",Pluto TV Movies 2
 http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-chno="56" tvg-name="Pluto TV Romance" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg" group-title="Movie Channels",Pluto TV Romance
+#EXTINF:-1 tvg-chno="66" tvg-name="Pluto TV Romance" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg" group-title="Movie Channels",Pluto TV Romance
 https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333
-#EXTINF:-1 tvg-chno="57" tvg-name="SBS World Movies" group-title="Movie Channels",SBS World Movies
+#EXTINF:-1 tvg-chno="67" tvg-name="SBS World Movies" group-title="Movie Channels",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-name="Sci-fi 4U" tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="Movie Channels",Sci-fi 4U
+#EXTINF:-1 tvg-chno="68" tvg-name="Sci-fi 4U" tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="Movie Channels",Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-name="Science Fiction Movie" tvg-logo="https://miro.medium.com/max/3840/1*jfR0trcAPT3udktrFkOebA.jpeg" group-title="Movie Channels",Science Fiction Movie
+#EXTINF:-1 tvg-chno="69" tvg-name="Science Fiction Movie" tvg-logo="https://miro.medium.com/max/3840/1*jfR0trcAPT3udktrFkOebA.jpeg" group-title="Movie Channels",Science Fiction Movie
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-name="Screamfest" tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="Movie Channels",Screamfest
+#EXTINF:-1 tvg-chno="70" tvg-name="Screamfest" tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="Movie Channels",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-name="Serial Friends" tvg-logo="https://www.tentaran.com/wp-content/uploads/2018/07/friends-tv-serial.jpg" group-title="Movie Channels",Serial Friends
+#EXTINF:-1 tvg-chno="71" tvg-name="Serial Friends" tvg-logo="https://www.tentaran.com/wp-content/uploads/2018/07/friends-tv-serial.jpg" group-title="Movie Channels",Serial Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="Showtime - Eastern Feed" tvg-name="Showtime - Eastern Feed" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Showtime-269x151.png" group-title="Movie Channels",Showtime
+#EXTINF:-1 tvg-chno="72" tvg-id="Showtime - Eastern Feed" tvg-name="Showtime - Eastern Feed" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Showtime-269x151.png" group-title="Movie Channels",Showtime
 http://docs-6.gogleusercontent.host/live/showtime/chunks.m3u8|Referer=http://123tvnow.com/watch/showtime/
-#EXTINF:-1 tvg-chno="63" tvg-name="Showtime Extreme - Eastern-US" tvg-logo="https://www.htc.net/wp-content/uploads/2016/02/showtime-watch-online.jpg" group-title="Movie Channels",Showtime
+#EXTINF:-1 tvg-chno="73" tvg-name="Showtime Extreme - Eastern-US" tvg-logo="https://www.htc.net/wp-content/uploads/2016/02/showtime-watch-online.jpg" group-title="Movie Channels",Showtime
 https://peer4.ustv.to/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDI6MTcgQU0maGFzaF92YWx1ZT04em1paVVVeXN3alBJaHptaENtU0h3PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:-1 tvg-chno="96" group-title="Movie Channels",SKY CINEMA ACTION HD
+#EXTINF:-1 tvg-chno="74" group-title="Movie Channels",SKY CINEMA ACTION HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11242
-#EXTINF:-1 tvg-chno="97" group-title="Movie Channels",SKY CINEMA COMEDY HD
+#EXTINF:-1 tvg-chno="75" group-title="Movie Channels",SKY CINEMA COMEDY HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11241
-#EXTINF:-1 tvg-chno="98" group-title="Movie Channels",SKY CINEMA DISNEY
+#EXTINF:-1 tvg-chno="76" group-title="Movie Channels",SKY CINEMA DISNEY
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11245
-#EXTINF:-1 tvg-chno="99" group-title="Movie Channels",SKY CINEMA DRAMA HD
+#EXTINF:-1 tvg-chno="77" group-title="Movie Channels",SKY CINEMA DRAMA HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11240
-#EXTINF:-1 tvg-chno="100" group-title="Movie Channels",SKY CINEMA FAMILY HD
+#EXTINF:-1 tvg-chno="78" group-title="Movie Channels",SKY CINEMA FAMILY HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11239
-#EXTINF:-1 tvg-chno="101" group-title="Movie Channels",SKY CINEMA GREATS HD
+#EXTINF:-1 tvg-chno="79" group-title="Movie Channels",SKY CINEMA GREATS HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11238
-#EXTINF:-1 tvg-chno="102" group-title="Movie Channels",SKY CINEMA HITS
+#EXTINF:-1 tvg-chno="80" group-title="Movie Channels",SKY CINEMA HITS
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/265012816
-#EXTINF:-1 tvg-chno="103" group-title="Movie Channels",SKY CINEMA PREMIERE HD
+#EXTINF:-1 tvg-chno="81" group-title="Movie Channels",SKY CINEMA PREMIERE HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11237
-#EXTINF:-1 tvg-chno="104" group-title="Movie Channels",SKY CINEMA SCFI HORROR
+#EXTINF:-1 tvg-chno="82" group-title="Movie Channels",SKY CINEMA SCFI HORROR
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11244
-#EXTINF:-1 tvg-chno="105" group-title="Movie Channels",SKY CINEMA SELECT HD
+#EXTINF:-1 tvg-chno="83" group-title="Movie Channels",SKY CINEMA SELECT HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11236
-#EXTINF:-1 tvg-chno="106" group-title="Movie Channels",SKY CINEMA SHOWCASE HD
+#EXTINF:-1 tvg-chno="84" group-title="Movie Channels",SKY CINEMA SHOWCASE HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11243
-#EXTINF:-1 tvg-chno="107" group-title="Movie Channels",SKY CINEMA THRILLER
+#EXTINF:-1 tvg-chno="85" group-title="Movie Channels",SKY CINEMA THRILLER
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11285
-#EXTINF:-1 tvg-chno="108" group-title="Movie Channels",SKY MOVIES PREMIER
+#EXTINF:-1 tvg-chno="86" group-title="Movie Channels",SKY MOVIES PREMIER
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11016
-#EXTINF:-1 tvg-chno="109" group-title="Movie Channels",SONY MOVIES ACTION
+#EXTINF:-1 tvg-chno="87" group-title="Movie Channels",SONY MOVIES ACTION
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11007
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://i.imgur.com/zXY5XLu.png" group-title="Movie Channels",Sony Movies Christmas
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://i.imgur.com/zXY5XLu.png" group-title="Movie Channels",Sony Movies Christmas
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-name="Spydar TV" tvg-logo="https://i.imgur.com/RSHCC2y.png" group-title="Movie Channels",Spydar TV
+#EXTINF:-1 tvg-chno="89" tvg-name="Spydar TV" tvg-logo="https://i.imgur.com/RSHCC2y.png" group-title="Movie Channels",Spydar TV
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-name="Spydar TV (Opt-2)" tvg-logo="https://i.imgur.com/RSHCC2y.png" group-title="Movie Channels",Spydar TV (Opt-2)
+#EXTINF:-1 tvg-chno="90" tvg-name="Spydar TV (Opt-2)" tvg-logo="https://i.imgur.com/RSHCC2y.png" group-title="Movie Channels",Spydar TV (Opt-2)
 https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-name="Star Movies-IN" tvg-logo="https://i.imgur.com/GylvfMQ.png" group-title="Movie Channels",Star Movies HD Middle East
+#EXTINF:-1 tvg-chno="91" tvg-name="Star Movies-IN" tvg-logo="https://i.imgur.com/GylvfMQ.png" group-title="Movie Channels",Star Movies HD Middle East
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="UK - Starz TV" tvg-name="Starz TV - UK" tvg-logo="https://i.ytimg.com/vi/kSyrCnfuTrA/maxresdefault.jpg" group-title="Movie Channels",Starz
+#EXTINF:-1 tvg-chno="92" tvg-id="UK - Starz TV" tvg-name="Starz TV - UK" tvg-logo="https://i.ytimg.com/vi/kSyrCnfuTrA/maxresdefault.jpg" group-title="Movie Channels",Starz
 https://peer3.ustv.to/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDI6MDA6NDUgQU0maGFzaF92YWx1ZT1OTmQyS085OEJneitoUHZCTHh5ejFRPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
-#EXTINF:-1 tvg-chno="69" tvg-id="Starz - Eastern" tvg-name="Starz - Eastern" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/StarZ-269x151.png" group-title="Movie Channels",Starz
+#EXTINF:-1 tvg-chno="93" tvg-id="Starz - Eastern" tvg-name="Starz - Eastern" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/StarZ-269x151.png" group-title="Movie Channels",Starz
 http://docs-4.gogleusercontent.host/live/starz/chunks.m3u8|Referer=http://123tvnow.com/watch/starz/
-#EXTINF:-1 tvg-chno="70" tvg-name="Stephen Chow Movies" tvg-logo="https://i.ytimg.com/vi/iI26jtLfGpc/maxresdefault.jpg" group-title="Movie Channels",Stephen Chow Movies
+#EXTINF:-1 tvg-chno="94" tvg-name="Stephen Chow Movies" tvg-logo="https://i.ytimg.com/vi/iI26jtLfGpc/maxresdefault.jpg" group-title="Movie Channels",Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-name="TBS (Geo)" tvg-logo="http://www.scribblrs.com/wp-content/uploads/2017/07/tbs.png" group-title="Movie Channels",TBS (Geo)
+#EXTINF:-1 tvg-chno="95" tvg-name="TBS (Geo)" tvg-logo="http://www.scribblrs.com/wp-content/uploads/2017/07/tbs.png" group-title="Movie Channels",TBS (Geo)
 http://195.181.169.148/TBS_Eng/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="110" group-title="Movie Channels",TCM HD
+#EXTINF:-1 tvg-chno="96" group-title="Movie Channels",TCM HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11246
-#EXTINF:-1 tvg-chno="72" tvg-name="The Asylum" tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="Movie Channels",The Asylum
+#EXTINF:-1 tvg-chno="97" tvg-name="The Asylum" tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="Movie Channels",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="Movie Channels",The Film Detective
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="Movie Channels",The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-name="THREE (Movie Channels) (UK) (English)" group-title="Movie Channels",THREE (Movie Channels) (UK) (English)
+#EXTINF:-1 tvg-chno="99" tvg-name="THREE (Movie Channels) (UK) (English)" group-title="Movie Channels",THREE (Movie Channels) (UK) (English)
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1 tvg-chno="111" group-title="Movie Channels",TRUE MOVIES
+#EXTINF:-1 tvg-chno="100" group-title="Movie Channels",TRUE MOVIES
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11249
-#EXTINF:-1 tvg-chno="112" group-title="Movie Channels",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-chno="101" group-title="Movie Channels",UNIVERSAL CHANNEL
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/11272
-#EXTINF:-1 tvg-chno="75" tvg-id="usboxoffice" tvg-name="US Box Office 1" tvg-logo="http://logo.ddnb.tn/logochanel/320.png" group-title="Movie Channels",US Box Office 1
+#EXTINF:-1 tvg-chno="102" tvg-id="usboxoffice" tvg-name="US Box Office 1" tvg-logo="http://logo.ddnb.tn/logochanel/320.png" group-title="Movie Channels",US Box Office 1
 http://nvkdn.redi-vo.com/iptv/ch320?code=138137164006399&key=11928
-#EXTINF:-1 tvg-chno="76" tvg-id="usboxoffice" tvg-name="US Box Office 10" tvg-logo="http://logo.ddnb.tn/logochanel/329.png" group-title="Movie Channels",US Box Office 10
+#EXTINF:-1 tvg-chno="103" tvg-id="usboxoffice" tvg-name="US Box Office 10" tvg-logo="http://logo.ddnb.tn/logochanel/329.png" group-title="Movie Channels",US Box Office 10
 http://nvkdn.redi-vo.com/iptv/ch329?code=138137164006399&key=33896
-#EXTINF:-1 tvg-chno="77" tvg-id="usboxoffice" tvg-name="US Box Office 2" tvg-logo="http://logo.ddnb.tn/logochanel/321.png" group-title="Movie Channels",US Box Office 2
+#EXTINF:-1 tvg-chno="104" tvg-id="usboxoffice" tvg-name="US Box Office 2" tvg-logo="http://logo.ddnb.tn/logochanel/321.png" group-title="Movie Channels",US Box Office 2
 http://nvkdn.redi-vo.com/iptv/ch321?code=138137164006399&key=29693
-#EXTINF:-1 tvg-chno="78" tvg-id="usboxoffice" tvg-name="US Box Office 3" tvg-logo="http://logo.ddnb.tn/logochanel/322.png" group-title="Movie Channels",US Box Office 3
+#EXTINF:-1 tvg-chno="105" tvg-id="usboxoffice" tvg-name="US Box Office 3" tvg-logo="http://logo.ddnb.tn/logochanel/322.png" group-title="Movie Channels",US Box Office 3
 http://nvkdn.redi-vo.com/iptv/ch322?code=138137164006399&key=13202
-#EXTINF:-1 tvg-chno="79" tvg-id="usboxoffice" tvg-name="US Box Office 4" tvg-logo="http://logo.ddnb.tn/logochanel/323.png" group-title="Movie Channels",US Box Office 4
+#EXTINF:-1 tvg-chno="106" tvg-id="usboxoffice" tvg-name="US Box Office 4" tvg-logo="http://logo.ddnb.tn/logochanel/323.png" group-title="Movie Channels",US Box Office 4
 http://nvkdn.redi-vo.com/iptv/ch323?code=138137164006399&key=18444
-#EXTINF:-1 tvg-chno="80" tvg-id="usboxoffice" tvg-name="US Box Office 5" tvg-logo="http://logo.ddnb.tn/logochanel/324.png" group-title="Movie Channels",US Box Office 5
+#EXTINF:-1 tvg-chno="107" tvg-id="usboxoffice" tvg-name="US Box Office 5" tvg-logo="http://logo.ddnb.tn/logochanel/324.png" group-title="Movie Channels",US Box Office 5
 http://nvkdn.redi-vo.com/iptv/ch324?code=138137164006399&key=26019
-#EXTINF:-1 tvg-chno="81" tvg-id="usboxoffice" tvg-name="US Box Office 6" tvg-logo="http://logo.ddnb.tn/logochanel/325.png" group-title="Movie Channels",US Box Office 6
+#EXTINF:-1 tvg-chno="108" tvg-id="usboxoffice" tvg-name="US Box Office 6" tvg-logo="http://logo.ddnb.tn/logochanel/325.png" group-title="Movie Channels",US Box Office 6
 http://nvkdn.redi-vo.com/iptv/ch325?code=138137164006399&key=28217
-#EXTINF:-1 tvg-chno="82" tvg-id="usboxoffice" tvg-name="US Box Office 7" tvg-logo="http://logo.ddnb.tn/logochanel/326.png" group-title="Movie Channels",US Box Office 7
+#EXTINF:-1 tvg-chno="109" tvg-id="usboxoffice" tvg-name="US Box Office 7" tvg-logo="http://logo.ddnb.tn/logochanel/326.png" group-title="Movie Channels",US Box Office 7
 http://nvkdn.redi-vo.com/iptv/ch326?code=138137164006399&key=36334
-#EXTINF:-1 tvg-chno="83" tvg-id="usboxoffice" tvg-name="US Box Office 8" tvg-logo="http://logo.ddnb.tn/logochanel/327.png" group-title="Movie Channels",US Box Office 8
+#EXTINF:-1 tvg-chno="110" tvg-id="usboxoffice" tvg-name="US Box Office 8" tvg-logo="http://logo.ddnb.tn/logochanel/327.png" group-title="Movie Channels",US Box Office 8
 http://nvkdn.redi-vo.com/iptv/ch327?code=138137164006399&key=40590
-#EXTINF:-1 tvg-chno="84" tvg-id="usboxoffice" tvg-name="US Box Office 9" tvg-logo="http://logo.ddnb.tn/logochanel/328.png" group-title="Movie Channels",US Box Office 9
+#EXTINF:-1 tvg-chno="111" tvg-id="usboxoffice" tvg-name="US Box Office 9" tvg-logo="http://logo.ddnb.tn/logochanel/328.png" group-title="Movie Channels",US Box Office 9
 http://nvkdn.redi-vo.com/iptv/ch328?code=138137164006399&key=64740
-#EXTINF:-1 tvg-chno="85" tvg-name="Westerns 4U" tvg-logo="https://i.imgur.com/nFSaVJ2.png" group-title="Movie Channels",Westerns 4U
+#EXTINF:-1 tvg-chno="112" tvg-name="Westerns 4U" tvg-logo="https://i.imgur.com/nFSaVJ2.png" group-title="Movie Channels",Westerns 4U
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
@@ -26879,33 +26871,33 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="Sport",EDGEsport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="Sport",ESPN
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="Sport",ESPN
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="Sport",ESPN
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://i.imgur.com/Ib6qgru.png" group-title="Sport",ESPN
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://i.imgur.com/Ib6qgru.png" group-title="Sport",ESPN
 https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://i.imgur.com/kYhdM9c.png" group-title="Sport",ESPN 2
 https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://i.imgur.com/0rfBAWY.png" group-title="Sport",Exercise 4U
 https://nimble.dashmedia.tv/onestudio/exercise_4u_tv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://i.imgur.com/6RKisov.png" group-title="Sport",Fight Sports
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://i.imgur.com/6RKisov.png" group-title="Sport",Fight Sports
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
 http://210.210.155.35/uq2663/h/h05/01.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="Sport",FightBox
 http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
 http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="Fox Sports 1" tvg-name="Fox Sports 1" group-title="Sport",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
@@ -26927,19 +26919,19 @@ https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
 https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="Sport",Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Sport",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Sport",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Sport",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="Sport",Living Outdoors
 https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/mXEl1Xx.png" group-title="Sport",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="Sport",MLB Network
-https://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/mXEl1Xx.png" group-title="Sport",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="Sport",MLB Network
+https://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/mXEl1Xx.png" group-title="Sport",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/mXEl1Xx.png" group-title="Sport",MLB Network
+#EXTINF:-1 tvg-chno="42" tvg-id="MLB Network" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/mXEl1Xx.png" group-title="Sport",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-logo="https://i.imgur.com/XTv8pla.png" group-title="Sport",Motorsport TV
 http://45.58.62.92:8084
@@ -26953,77 +26945,77 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://i.imgur.com/XStfgbe.png" group-title="Sport",Only Motors
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="78" group-title="Sport",OSN SPORTS 1HD
+#EXTINF:-1 tvg-chno="49" group-title="Sport",OSN SPORTS 1HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2437
-#EXTINF:-1 tvg-chno="79" group-title="Sport",OSN SPORTS 2 HD
+#EXTINF:-1 tvg-chno="50" group-title="Sport",OSN SPORTS 2 HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1445
-#EXTINF:-1 tvg-chno="80" group-title="Sport",OSN SPORTS 3HD
+#EXTINF:-1 tvg-chno="51" group-title="Sport",OSN SPORTS 3HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2438
-#EXTINF:-1 tvg-chno="81" group-title="Sport",OSN SPORTS 4HD
+#EXTINF:-1 tvg-chno="52" group-title="Sport",OSN SPORTS 4HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2439
-#EXTINF:-1 tvg-chno="82" group-title="Sport",OSN WWE FIGHT
+#EXTINF:-1 tvg-chno="53" group-title="Sport",OSN WWE FIGHT
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2122
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="Sport",Racing.com
+#EXTINF:-1 tvg-chno="54" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="Sport",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-name="RACING.COM" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
+#EXTINF:-1 tvg-chno="55" tvg-name="RACING.COM" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-name="Real Madrid TV ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport",Real Madrid TV (English)
+#EXTINF:-1 tvg-chno="56" tvg-name="Real Madrid TV ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport",Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
-http://i.mjh.nz/nz/tv.redbull.tv.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
-http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
+#EXTINF:-1 tvg-chno="62" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
+#EXTINF:-1 tvg-chno="63" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport",Red Bull TV (Opt-1)
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport",Red Bull TV (Opt-1)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport",Red Bull TV (Opt-2)
+#EXTINF:-1 tvg-chno="65" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport",Red Bull TV (Opt-2)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-logo="http://www.revntv.com/media/pcon/revn-logo-color-socialmedia-108.png" group-title="Sport",Rev'n
+#EXTINF:-1 tvg-chno="66" tvg-logo="http://www.revntv.com/media/pcon/revn-logo-color-socialmedia-108.png" group-title="Sport",Rev'n
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
-#EXTINF:-1 tvg-chno="83" group-title="Sport",SAUDIA SPORT
+#EXTINF:-1 tvg-chno="67" group-title="Sport",SAUDIA SPORT
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/2689
-#EXTINF:-1 tvg-chno="84" group-title="Sport",SAUDIA SPORT 2
+#EXTINF:-1 tvg-chno="68" group-title="Sport",SAUDIA SPORT 2
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/8107
-#EXTINF:-1 tvg-chno="62" group-title="Sport",Sony ESPN
+#EXTINF:-1 tvg-chno="69" group-title="Sport",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:-1 tvg-chno="63" group-title="Sport",Sony Six
+#EXTINF:-1 tvg-chno="70" group-title="Sport",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-#EXTINF:-1 tvg-chno="64" group-title="Sport",Sony Ten 1
+#EXTINF:-1 tvg-chno="71" group-title="Sport",Sony Ten 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:-1 tvg-chno="65" group-title="Sport",Sony Ten 3
+#EXTINF:-1 tvg-chno="72" group-title="Sport",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://i.imgur.com/X72z8BW.png" group-title="Sport",Sportskool
+#EXTINF:-1 tvg-chno="73" tvg-logo="https://i.imgur.com/X72z8BW.png" group-title="Sport",Sportskool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
 http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sport",Stadium
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sport",Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1 tvg-chno="71" group-title="Sport",Super Tennis
+#EXTINF:-1 tvg-chno="78" group-title="Sport",Super Tennis
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="Sport",Tennis Channel
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="Sport",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-logo="https://i.imgur.com/55vA85a.png" group-title="Sport",The Boat Show
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://i.imgur.com/55vA85a.png" group-title="Sport",The Boat Show
 https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-logo="https://i.imgur.com/7DwiHDb.png" group-title="Sport",Vegas Stats
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://i.imgur.com/7DwiHDb.png" group-title="Sport",Vegas Stats
 https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-logo="https://i.imgur.com/oitvOug.png" group-title="Sport",World of Free Sports
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://i.imgur.com/oitvOug.png" group-title="Sport",World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-logo="https://i.imgur.com/o93dyxT.png" group-title="Sport",WOSN Sports
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://i.imgur.com/o93dyxT.png" group-title="Sport",WOSN Sports
 http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="77" group-title="Sport",|AR.EGY|  NILE SPORT
+#EXTINF:-1 tvg-chno="84" group-title="Sport",|AR.EGY|  NILE SPORT
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1821
 #EXTINF:-1 tvg-chno="85" group-title="Sport",|AR.UAE|  ABUDHABI SPORT 1 HD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1897
@@ -27191,13 +27183,13 @@ http://51.158.190.97/hls/stream.m3u8
 http://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="Testing",30A Sidewalks
 http://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="Testing",30A TV
-http://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="Testing",30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="Testing",30A TV
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Testing",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Testing",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Testing",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Testing",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -27215,11 +27207,11 @@ https://stream.ecable.tv/africancine/tracks-v1a1/mono.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Testing",Ahlulbayt TV
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Testing",AKC TV
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Testing",AKC TV
 https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Testing",AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Testing",AKC TV
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Testing",AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-name="Al Maghribia ARB" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/almaghribiax2.png" group-title="Testing",Al Maghribia
 http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
@@ -27229,15 +27221,15 @@ http://stream.shqiptv.com:7080/altvusa/tracks-v1a1/mono.m3u8
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://i.imgur.com/DQSHHTS.png" group-title="Testing",America Teve
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://i.imgur.com/UjvjySO.png" group-title="Testing",America's Funniest Videos
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://i.imgur.com/UjvjySO.png" group-title="Testing",America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://i.imgur.com/UjvjySO.png" group-title="Testing",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://i.imgur.com/hjvjGVf.png" group-title="Testing",American Classic Network
 https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Testing",American Horrors
-http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Testing",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Testing",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="Testing",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
@@ -27331,29 +27323,29 @@ http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie
 https://streaming.viewsat.eu/viewsatstream31/viewsatstream31.smil/chunklist_w99324512_b900000.m3u8
 #EXTINF:-1 tvg-chno="73" group-title="Testing",CBN Español
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Testing",CBS
+#EXTINF:-1 tvg-chno="74" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Testing",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Testing",CBS
+#EXTINF:-1 tvg-chno="75" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Testing",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-name="CBS HD New York-US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Testing",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-name="CBS HD New York-US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Testing",CBS
+#EXTINF:-1 tvg-chno="77" tvg-name="CBS HD New York-US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Testing",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="Testing",CBS
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="Testing",CBS
 http://87.120.36.62:8080/hls/streama111418/index.m3u8
 #EXTINF:-1 tvg-chno="79" tvg-logo="https://www.charlottecountyfl.gov/cctv/PublishingImages/CC-TV-color-logo.jpg" group-title="Testing",CC-TV (Charlotte County)
 http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
-#EXTINF:-1 tvg-chno="81" group-title="Testing",CCX1
+#EXTINF:-1 tvg-chno="80" group-title="Testing",CCX1
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="Testing",CCX1
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="Testing",CCX1
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="83" group-title="Testing",CCX2
-https://nwct-tr-ls2.nwct.org/live/live.m3u8
 #EXTINF:-1 tvg-chno="82" group-title="Testing",CCX2
+https://nwct-tr-ls2.nwct.org/live/live.m3u8
+#EXTINF:-1 tvg-chno="83" group-title="Testing",CCX2
 https://nwct-tr-ls2.nwct.org/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 tvg-chno="85" group-title="Testing",CCX3
-https://nwct-tr-ls3.nwct.org/live/live.m3u8
 #EXTINF:-1 tvg-chno="84" group-title="Testing",CCX3
+https://nwct-tr-ls3.nwct.org/live/live.m3u8
+#EXTINF:-1 tvg-chno="85" group-title="Testing",CCX3
 https://nwct-tr-ls3.nwct.org/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" group-title="Testing",Chaine Nord Africaine
 http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
@@ -27377,9 +27369,9 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://image.xumo.com/v1/providers/provider/230/300x300.png?type=color_onBlack" group-title="Testing",ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="Testing",Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 #EXTINF:-1 tvg-chno="97" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="Testing",Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="Testing",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="99" tvg-id="Cozi TV (WOWT-DT2)" tvg-name="Cozi TV (WOWT-DT2)" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-15675.png" group-title="Testing",COZI TV
 https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
@@ -27393,11 +27385,11 @@ http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
 http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Testing",CT-N Live Stream 2
 http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="Testing",CTN
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="Testing",CTN
 http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="Testing",CTN
 http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="Testing",CTN
+#EXTINF:-1 tvg-chno="107" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="Testing",CTN
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://pmcvariety.files.wordpress.com/2019/06/dabl-herologo1-e1560713804358.jpg" group-title="Testing",Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
@@ -27447,9 +27439,9 @@ http://streamer1.streamhost.org/salive/GMIFLNL/chunklist_w418539476.m3u8
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/WSVN_7_Miami_logo.png" group-title="Testing",FOX 7 Miami FL (WSVN)
 http://190.80.3.28/FOX/FOX.isml/index.m3u8
-#EXTINF:-1 tvg-chno="133" group-title="Testing",Free Speech TV
+#EXTINF:-1 tvg-chno="132" group-title="Testing",Free Speech TV
 http://bit.ly/2xV7ewi
-#EXTINF:-1 tvg-chno="132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="Testing",Free Speech TV
+#EXTINF:-1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="Testing",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-chno="134" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-81915.png" group-title="Testing",getTV
 https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
@@ -27487,9 +27479,9 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/9ad51cec04383e4158fbd
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-name="India Today-IN" tvg-logo="https://streamvlog.com/wp-content/uploads/2018/12/india-today-tv-english-news-live.jpg" group-title="Testing",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-chno="153" tvg-name="India TV-IN" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="Testing",India TV
+#EXTINF:-1 tvg-chno="152" tvg-name="India TV-IN" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="Testing",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-#EXTINF:-1 tvg-chno="152" tvg-name="India TV-IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="Testing",India TV
+#EXTINF:-1 tvg-chno="153" tvg-name="India TV-IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="Testing",India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-logo="https://i.imgur.com/RB7OHmi.jpg" group-title="Testing",Iran International
 https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8
@@ -27507,9 +27499,9 @@ https://dg-dnctvstream.tulix.tv/liveticker/720p/chunklist_w716619663.m3u8
 https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-logo="https://www.tbninafrica.org/image.php/programme-cover-1527230445.jpg?w=1200&h=675&src=/images/static/programme-cover-1527230445.jpg" group-title="Testing",JUCE TV
 http://api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8
-#EXTINF:-1 tvg-chno="163" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="Testing",Keep It Country TV
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="Testing",Keep It Country TV
+http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
+#EXTINF:-1 tvg-chno="163" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="Testing",Keep It Country TV
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="Testing",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
@@ -27519,9 +27511,9 @@ https://streaming.viewsat.eu/viewsatstream20/viewsatstream20.smil/chunklist.m3u8
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-chno="167" tvg-logo="https://i.imgur.com/rjLxSfx.png" group-title="Testing",Lagos Television
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-chno="169" tvg-logo="https://i.imgur.com/etndUmR.png" group-title="Testing",Latinos Up! TV
+#EXTINF:-1 tvg-chno="168" tvg-logo="https://i.imgur.com/etndUmR.png" group-title="Testing",Latinos Up! TV
 http://5955f4ce3f2b7.streamlock.net:1935/8080/8080/playlist.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Latinos-Up.jpg" group-title="Testing",Latinos Up! TV
+#EXTINF:-1 tvg-chno="169" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Latinos-Up.jpg" group-title="Testing",Latinos Up! TV
 https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://i.imgur.com/SvY0iSk.jpg" group-title="Testing",Law & Crime
 https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
@@ -27533,9 +27525,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
 #EXTINF:-1 tvg-chno="174" tvg-logo="https://i.imgur.com/ZjvcnTn.png" group-title="Testing",M4 Malayalam
 http://m4malayalam.livebox.co.in/mfourmalayalamhls/live.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="Testing",Mafa Shortfilm
-https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
 #EXTINF:-1 tvg-chno="175" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="Testing",Mafa Shortfilm
+https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
+#EXTINF:-1 tvg-chno="176" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="Testing",Mafa Shortfilm
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-logo="https://i.imgur.com/FFwyWSd.png" group-title="Testing",Manoto
 https://dzll8dnb13thz.cloudfront.net/live.m3u8
@@ -27549,11 +27541,11 @@ https://ott.mobcrush.com/hls/0/ott.m3u8
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 tvg-chno="182" tvg-logo="https://i.imgur.com/K6XKJTr.jpg" group-title="Testing",Movee 4U
 https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Testing",MTA 1
+#EXTINF:-1 tvg-chno="183" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Testing",MTA 1
 http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
 #EXTINF:-1 tvg-chno="184" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Testing",MTA 1
 https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8
-#EXTINF:-1 tvg-chno="183" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Testing",MTA 1
+#EXTINF:-1 tvg-chno="185" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Testing",MTA 1
 https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 #EXTINF:-1 tvg-chno="186" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Testing",MTA 1 English
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
@@ -27563,9 +27555,9 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3
 https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
 #EXTINF:-1 tvg-chno="189" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="Testing",MTA 2 Urdu
 https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-chno="191" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="Testing",MTA Africa
-https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="Testing",MTA Africa
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8
+#EXTINF:-1 tvg-chno="191" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="Testing",MTA Africa
 https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
 #EXTINF:-1 tvg-chno="192" tvg-logo="http://thewatchtv.com/wp-content/uploads/2016/03/Watch-MTM-TV-Live-TV-from-Jamaica.jpg" group-title="Testing",MTM TV (Jamaica)
 http://media.btbn.tv/mtmtv/live/playlist.m3u8
@@ -27573,25 +27565,25 @@ http://media.btbn.tv/mtmtv/live/playlist.m3u8
 https://v-pi.mybtv.net/event/17.1/1280x720?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2046&env=prd&uid=29375
 #EXTINF:-1 tvg-chno="194" tvg-logo="https://i.imgur.com/N3mYbtb.jpg" group-title="Testing",MyHolyfield TV
 https://nimble.dashstreams.net/onestudio/holyfield/chunks.m3u8
-#EXTINF:-1 tvg-chno="197" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="Testing",NASA TV
-http://c742eca7-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=c24a2d4ff965b2ea7a189c91d27d57e7297dcbb9&cdnHost=uhs-akamai.ustream.tv/
-#EXTINF:-1 tvg-chno="198" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="Testing",NASA TV
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-chno="195" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="Testing",NASA TV
-https://tinyurl.com/yyjswlhf
+http://c742eca7-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=c24a2d4ff965b2ea7a189c91d27d57e7297dcbb9&cdnHost=uhs-akamai.ustream.tv/
 #EXTINF:-1 tvg-chno="196" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="Testing",NASA TV
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 tvg-chno="197" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="Testing",NASA TV
+https://tinyurl.com/yyjswlhf
+#EXTINF:-1 tvg-chno="198" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="Testing",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-chno="201" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="Testing",Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="Testing",Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 #EXTINF:-1 tvg-chno="199" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="Testing",Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="Testing",Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="Testing",Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="Testing",Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 tvg-chno="204" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="Testing",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="Testing",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="Testing",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="Testing",Nat Geo Wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
@@ -27607,13 +27599,13 @@ http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-name="NBS TV" tvg-logo="https://theinsider.ug/wp-content/uploads/2017/05/NBS-photo.jpg" group-title="Testing",NBS TV
 https://1085640928.rsc.cdn77.org/LS-PRG-54958-test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="213" tvg-logo="https://i.imgur.com/tf3KGP4.jpg" group-title="Testing",New Orleans TV
-http://bit.ly/2N6lxn9
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://i.imgur.com/tf3KGP4.jpg" group-title="Testing",New Orleans TV
+http://bit.ly/2N6lxn9
+#EXTINF:-1 tvg-chno="213" tvg-logo="https://i.imgur.com/tf3KGP4.jpg" group-title="Testing",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-chno="215" group-title="Testing",Newsy
+#EXTINF:-1 tvg-chno="214" group-title="Testing",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 tvg-chno="214" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="Testing",Newsy
+#EXTINF:-1 tvg-chno="215" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="Testing",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-chno="216" tvg-id="Nick Jr. - East" tvg-name="Nick Jr. - East" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/logo.png" group-title="Testing",Nick Jr. Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=c834f953-0811-479f-94d7-0ef34aeef06a&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -27719,9 +27711,9 @@ http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="Testing",Sheffield TV
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-chno="269" tvg-logo="https://i.imgur.com/826gz7r.jpg" group-title="Testing",Silence TV
-http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="268" tvg-logo="https://i.imgur.com/826gz7r.jpg" group-title="Testing",Silence TV
+http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="269" tvg-logo="https://i.imgur.com/826gz7r.jpg" group-title="Testing",Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="270" tvg-logo="http://images.pluto.tv/channels/5317bfebff98025b3200ff99/logo.png" group-title="Testing",Slow TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=web&deviceMake=&deviceModel=&sid=e&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&profileLimit=high
@@ -27737,21 +27729,21 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 tvg-chno="276" tvg-logo="https://i.imgur.com/5aL6P7a.png" group-title="Testing",Sur Sagar TV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-chno="278" tvg-logo="https://i.imgur.com/ygkBFYT.jpg" group-title="Testing",Swamiji TV
-http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
 #EXTINF:-1 tvg-chno="277" tvg-logo="https://i.imgur.com/ygkBFYT.jpg" group-title="Testing",Swamiji TV
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://i.imgur.com/ygkBFYT.jpg" group-title="Testing",Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="280" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Testing",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Testing",Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-chno="280" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Testing",Tamil Vision TV
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB9l6rHPU5feWQg5I7xyag5bc9-fS-suqi5sg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Testing",Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno="282" tvg-logo="https://i.imgur.com/YaIhZeo.png" group-title="Testing",TastyTrade
 https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
-#EXTINF:-1 tvg-chno="284" tvg-id="TBD TV (KXVO-DT2)" tvg-name="TBD TV (KXVO-DT2)" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="Testing",TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-chno="283" tvg-id="TBD TV (KXVO-DT2)" tvg-name="TBD TV (KXVO-DT2)" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="Testing",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 tvg-chno="284" tvg-id="TBD TV (KXVO-DT2)" tvg-name="TBD TV (KXVO-DT2)" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="Testing",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-chno="285" tvg-name="Tele M1 HD CH" tvg-logo="https://i.imgur.com/RqKjRTP.png" group-title="Testing",Tele M1 HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
@@ -27763,9 +27755,9 @@ http://api.streann.com:8080/loadbalancer-dev/services/public/channels/56992db2e4
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://i.imgur.com/2XKjSpy.gif" group-title="Testing",Tempe 11
 http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
-#EXTINF:-1 tvg-chno="291" tvg-id="UK - TG4" tvg-name="TG4" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="Testing",TG4
+#EXTINF:-1 tvg-chno="290" tvg-id="UK - TG4" tvg-name="TG4" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="Testing",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-chno="290" tvg-name="TG4 UK" tvg-logo="https://i.imgur.com/5xj48vw.png" group-title="Testing",TG4
+#EXTINF:-1 tvg-chno="291" tvg-name="TG4 UK" tvg-logo="https://i.imgur.com/5xj48vw.png" group-title="Testing",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-chno="292" tvg-logo="https://i.imgur.com/48iMZ7c.png" group-title="Testing",The 360 Channel
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
@@ -27775,9 +27767,9 @@ https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 #EXTINF:-1 tvg-chno="295" tvg-logo="https://i.imgur.com/5uIXfol.jpg" group-title="Testing",The Boat Show
 https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-chno="297" tvg-logo="https://media-usla.mybtv.net/logos/8.2.png" group-title="Testing",The Country Network
+#EXTINF:-1 tvg-chno="296" tvg-logo="https://media-usla.mybtv.net/logos/8.2.png" group-title="Testing",The Country Network
 https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2026&env=prd&uid=24610
-#EXTINF:-1 tvg-chno="296" group-title="Testing",The Country Network
+#EXTINF:-1 tvg-chno="297" group-title="Testing",The Country Network
 https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2046&env=prd&uid=24610
 #EXTINF:-1 tvg-chno="298" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="Testing",The CW Miami FL (WSFL-TV)
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
@@ -27785,9 +27777,9 @@ http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://channels.roku.com/images/be4667a16b1e483b8c7746156192b5ba-hd.jpg" group-title="Testing",The Now Network
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
-#EXTINF:-1 tvg-chno="302" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Testing",The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Testing",The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Testing",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="303" group-title="Testing",The Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
@@ -27835,13 +27827,13 @@ https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://i.imgur.com/vkDryWT.png" group-title="Testing",Viva Cristo TV
 http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
-#EXTINF:-1 tvg-chno="329" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Testing",VoA TV
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 tvg-chno="328" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Testing",VoA TV
-http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:-1 tvg-chno="327" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Testing",VoA TV
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 tvg-chno="326" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Testing",VoA TV
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-chno="327" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Testing",VoA TV
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 tvg-chno="328" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Testing",VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1 tvg-chno="329" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Testing",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://i.imgur.com/pYEGZrO.png" group-title="Testing",Vox Africa UK
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8
@@ -27861,13 +27853,13 @@ https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-chno="338" tvg-logo="http://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/logo.png" group-title="Testing",World Poker Tour
 http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-chno="342" group-title="Testing",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 tvg-chno="341" group-title="Testing",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-chno="339" group-title="Testing",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 tvg-chno="340" group-title="Testing",WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 tvg-chno="341" group-title="Testing",WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="342" group-title="Testing",WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-chno="343" tvg-logo="https://i.imgur.com/2IOP6LI.jpg" group-title="Testing",WSJ
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
@@ -27875,23 +27867,23 @@ http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 #EXTINF:-1 tvg-chno="345" tvg-logo="https://i.imgur.com/piweDaK.jpg" group-title="Testing",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1 tvg-chno="347" tvg-logo="https://i.imgur.com/5nzTXQM.png" group-title="Testing",Yadah TV
+#EXTINF:-1 tvg-chno="346" tvg-logo="https://i.imgur.com/5nzTXQM.png" group-title="Testing",Yadah TV
 https://streaming.viewsat.eu/viewsatstream18/viewsatstream18.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="346" tvg-logo="https://i.imgur.com/GUZYfio.png" group-title="Testing",Yadah TV
+#EXTINF:-1 tvg-chno="347" tvg-logo="https://i.imgur.com/GUZYfio.png" group-title="Testing",Yadah TV
 https://streaming.viewsat.eu/viewsatstream18/viewsatstream18.smil/chunklist_w1924943123_b2000000.m3u8
 #EXTINF:-1 tvg-chno="348" tvg-logo="https://i.imgur.com/EJP58fD.png" group-title="Testing",Yoo Too America
 https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/playlist.m3u8
 #EXTINF:-1 tvg-chno="349" tvg-logo="https://i.imgur.com/x6vlBzd.jpg" group-title="Testing",YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="351" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Testing",Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Testing",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+#EXTINF:-1 tvg-chno="351" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Testing",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-chno="354" tvg-logo="https://i.imgur.com/RURzxJj.png" group-title="Testing",ZIZ TV
+#EXTINF:-1 tvg-chno="352" tvg-logo="https://i.imgur.com/RURzxJj.png" group-title="Testing",ZIZ TV
 http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
 #EXTINF:-1 tvg-chno="353" tvg-logo="https://zizonline.com/wp-content/uploads/2016/11/ziz_logo.png" group-title="Testing",ZIZ TV
 http://162.244.81.111:1937/liveTrans/livestream_720p/playlist.m3u8
-#EXTINF:-1 tvg-chno="352" group-title="Testing",ZIZ TV
+#EXTINF:-1 tvg-chno="354" group-title="Testing",ZIZ TV
 https://593fcf545b0c5.streamlock.net/liveTrans/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://i.imgur.com/HExbxPF.png" group-title="Testing",ZNS Network
 https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w519231001_b2628000_sleng.m3u8
