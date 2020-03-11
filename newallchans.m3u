@@ -16201,20 +16201,290 @@ http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/42537
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/42539
 #EXTINF:-1 tvg-chno="670" group-title="Testing New",|NL| ZIGGO SPORT VOETBAL HD
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/42547
-#EXTINF:-1 tvg-chno="671" group-title="Testing New",|USA|******MOVIES******|USA|
-http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24132
-#EXTINF:-1 tvg-chno="672" group-title="Testing New",|USA|******NEWS******|USA|
-http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24142
-#EXTINF:-1 tvg-chno="673" group-title="Testing New",|USA|******SPORTS******|USA|
-http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24110
-#EXTINF:-1 tvg-chno="674" group-title="Testing New",|USA|*****ENTRETAINMENT****|USA|
-http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24992
-#EXTINF:-1 tvg-chno="675" group-title="Testing New",|USA|*****KIDS AND FAMILY*****|USA|
-http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24025
-#EXTINF:-1 tvg-chno="676" group-title="Testing New",|USA|*****LIFESTYLE*****|USA|
-http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24036
-#EXTINF:-1 tvg-chno="677" group-title="Testing New",|USA|*****MUSIC*****|USA|
-http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24020
+#EXTINF:-1 tvg-chno="671" group-title="Testing New",CBS HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24144
+#EXTINF:-1 tvg-chno="672" group-title="Testing New",ABC
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24147
+#EXTINF:-1 tvg-chno="673" group-title="Testing New",USA Network
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24143
+#EXTINF:-1 tvg-chno="674" group-title="Testing New",|USA|******NEWS******|USA|
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24142
+#EXTINF:-1 tvg-chno="675" group-title="Testing New",CNN HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24141
+#EXTINF:-1 tvg-chno="676" group-title="Testing New",Fox News HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24140
+#EXTINF:-1 tvg-chno="677" group-title="Testing New",MSNBC FHD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24139
+#EXTINF:-1 tvg-chno="678" group-title="Testing New",ABC NEWS
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24138
+#EXTINF:-1 tvg-chno="679" group-title="Testing New",CNBC
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24137
+#EXTINF:-1 tvg-chno="680" group-title="Testing New",FOX BUSINESS FHD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24136
+#EXTINF:-1 tvg-chno="681" group-title="Testing New",BLOOMBERG TV
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24135
+#EXTINF:-1 tvg-chno="682" group-title="Testing New",ABC 7
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24134
+#EXTINF:-1 tvg-chno="683" group-title="Testing New",beINSPORT N
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24108
+#EXTINF:-1 tvg-chno="684" group-title="Testing New",ESPN 3
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24103
+#EXTINF:-1 tvg-chno="685" group-title="Testing New",The Weather Channel
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24133
+#EXTINF:-1 tvg-chno="686" group-title="Testing New",|USA|******MOVIES******|USA|
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24132
+#EXTINF:-1 tvg-chno="687" group-title="Testing New",SHOWTIME SHOWCASE
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24120
+#EXTINF:-1 tvg-chno="688" group-title="Testing New",US: SHOWTIME (East) FHD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/38000
+#EXTINF:-1 tvg-chno="689" group-title="Testing New",US: SHOWTIME (West) HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/37999
+#EXTINF:-1 tvg-chno="690" group-title="Testing New",US: SHOWTIME 2 (East) HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/37998
+#EXTINF:-1 tvg-chno="691" group-title="Testing New",US: SHOWTIME 2 (West) HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/37997
+#EXTINF:-1 tvg-chno="692" group-title="Testing New",US: Showtime 2 HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/37996
+#EXTINF:-1 tvg-chno="693" group-title="Testing New",US: SHOWTIME EXTREME FHD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/37995
+#EXTINF:-1 tvg-chno="694" group-title="Testing New",US: SHOWTIME FAMILY ZONE
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/37994
+#EXTINF:-1 tvg-chno="695" group-title="Testing New",US: Showtime Next HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/37993
+#EXTINF:-1 tvg-chno="696" group-title="Testing New",SHOWTIME EXTREME
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/38001
+#EXTINF:-1 tvg-chno="697" group-title="Testing New",Starz Cinema HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24118
+#EXTINF:-1 tvg-chno="698" group-title="Testing New",STARZ
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24119
+#EXTINF:-1 tvg-chno="699" group-title="Testing New",FX TV HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24125
+#EXTINF:-1 tvg-chno="700" group-title="Testing New",MoreMax HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24116
+#EXTINF:-1 tvg-chno="701" group-title="Testing New",Lifetime Movies HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24117
+#EXTINF:-1 tvg-chno="702" group-title="Testing New",5 Star Max
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24114
+#EXTINF:-1 tvg-chno="703" group-title="Testing New",ACTIONMAX HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24115
+#EXTINF:-1 tvg-chno="704" group-title="Testing New",AMC HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24122
+#EXTINF:-1 tvg-chno="705" group-title="Testing New",Cinemax East HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24113
+#EXTINF:-1 tvg-chno="706" group-title="Testing New",CINEMAX HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24112
+#EXTINF:-1 tvg-chno="707" group-title="Testing New",EL REY  HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24111
+#EXTINF:-1 tvg-chno="708" group-title="Testing New",TNT HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24123
+#EXTINF:-1 tvg-chno="709" group-title="Testing New",HBO
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24131
+#EXTINF:-1 tvg-chno="710" group-title="Testing New",HBO COMEDY HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24130
+#EXTINF:-1 tvg-chno="711" group-title="Testing New",HBO FAMILY HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24129
+#EXTINF:-1 tvg-chno="712" group-title="Testing New",STARZ CINEMA
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24128
+#EXTINF:-1 tvg-chno="713" group-title="Testing New",HBO SIGNATURE HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24127
+#EXTINF:-1 tvg-chno="714" group-title="Testing New",HBO ZONE
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24126
+#EXTINF:-1 tvg-chno="715" group-title="Testing New",HALLMARK HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24124
+#EXTINF:-1 tvg-chno="716" group-title="Testing New",|USA|******SPORTS******|USA|
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24110
+#EXTINF:-1 tvg-chno="717" group-title="Testing New",beINSPORT US
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24109
+#EXTINF:-1 tvg-chno="718" group-title="Testing New",FOX SPORT 1HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24107
+#EXTINF:-1 tvg-chno="719" group-title="Testing New",FOX SPORT 2HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24106
+#EXTINF:-1 tvg-chno="720" group-title="Testing New",ESPN
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24105
+#EXTINF:-1 tvg-chno="721" group-title="Testing New",ESPN 2HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24104
+#EXTINF:-1 tvg-chno="722" group-title="Testing New",ESPN Deportes
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24102
+#EXTINF:-1 tvg-chno="723" group-title="Testing New",ESPNEWS
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24100
+#EXTINF:-1 tvg-chno="724" group-title="Testing New",ESPN U HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24101
+#EXTINF:-1 tvg-chno="725" group-title="Testing New",UFC TV
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/34277
+#EXTINF:-1 tvg-chno="726" group-title="Testing New",BTN
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24099
+#EXTINF:-1 tvg-chno="727" group-title="Testing New",CBS SPORTS NET
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24098
+#EXTINF:-1 tvg-chno="728" group-title="Testing New",NBC SPORTS Net HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24097
+#EXTINF:-1 tvg-chno="729" group-title="Testing New",NBC GOLF
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24096
+#EXTINF:-1 tvg-chno="730" group-title="Testing New",Tennis Channel HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24095
+#EXTINF:-1 tvg-chno="731" group-title="Testing New",FOX DEPORTES
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24094
+#EXTINF:-1 tvg-chno="732" group-title="Testing New",WWE HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24093
+#EXTINF:-1 tvg-chno="733" group-title="Testing New",MLB HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24092
+#EXTINF:-1 tvg-chno="734" group-title="Testing New",NBA
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24091
+#EXTINF:-1 tvg-chno="735" group-title="Testing New",NBA 1  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24090
+#EXTINF:-1 tvg-chno="736" group-title="Testing New",NBA 2  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24089
+#EXTINF:-1 tvg-chno="737" group-title="Testing New",NBA 3  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24088
+#EXTINF:-1 tvg-chno="738" group-title="Testing New",NBA 4  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24087
+#EXTINF:-1 tvg-chno="739" group-title="Testing New",NBA 5  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24086
+#EXTINF:-1 tvg-chno="740" group-title="Testing New",NBA 6  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24085
+#EXTINF:-1 tvg-chno="741" group-title="Testing New",NBA 7 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24084
+#EXTINF:-1 tvg-chno="742" group-title="Testing New",NBA 8 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24083
+#EXTINF:-1 tvg-chno="743" group-title="Testing New",NBA 9 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24082
+#EXTINF:-1 tvg-chno="744" group-title="Testing New",NBA 10 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24081
+#EXTINF:-1 tvg-chno="745" group-title="Testing New",NBA 11
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24080
+#EXTINF:-1 tvg-chno="746" group-title="Testing New",NHL HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24079
+#EXTINF:-1 tvg-chno="747" group-title="Testing New",NHL 1 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24078
+#EXTINF:-1 tvg-chno="748" group-title="Testing New",NHL 2 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24077
+#EXTINF:-1 tvg-chno="749" group-title="Testing New",NHL 3 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24076
+#EXTINF:-1 tvg-chno="750" group-title="Testing New",NHL 4 MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24075
+#EXTINF:-1 tvg-chno="751" group-title="Testing New",NHL 5  MATCH EVENT
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24074
+#EXTINF:-1 tvg-chno="752" group-title="Testing New",NHL 6
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24073
+#EXTINF:-1 tvg-chno="753" group-title="Testing New",NHL 7
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24072
+#EXTINF:-1 tvg-chno="754" group-title="Testing New",NHL 8
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24071
+#EXTINF:-1 tvg-chno="755" group-title="Testing New",NHL 9
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24070
+#EXTINF:-1 tvg-chno="756" group-title="Testing New",NHL 10
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24069
+#EXTINF:-1 tvg-chno="757" group-title="Testing New",NHL 11
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24068
+#EXTINF:-1 tvg-chno="758" group-title="Testing New",NFL NETWORK HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24067
+#EXTINF:-1 tvg-chno="759" group-title="Testing New",NFL 705
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24066
+#EXTINF:-1 tvg-chno="760" group-title="Testing New",NFL 706
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24065
+#EXTINF:-1 tvg-chno="761" group-title="Testing New",NFL 707
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24064
+#EXTINF:-1 tvg-chno="762" group-title="Testing New",NFL 708
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24063
+#EXTINF:-1 tvg-chno="763" group-title="Testing New",NFL 709
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24062
+#EXTINF:-1 tvg-chno="764" group-title="Testing New",NFL 710
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24061
+#EXTINF:-1 tvg-chno="765" group-title="Testing New",NFL 711
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24060
+#EXTINF:-1 tvg-chno="766" group-title="Testing New",NFL 712
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24059
+#EXTINF:-1 tvg-chno="767" group-title="Testing New",NFL 713
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24058
+#EXTINF:-1 tvg-chno="768" group-title="Testing New",NFL 714
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24057
+#EXTINF:-1 tvg-chno="769" group-title="Testing New",NFL 715
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24056
+#EXTINF:-1 tvg-chno="770" group-title="Testing New",NFL 716
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24055
+#EXTINF:-1 tvg-chno="771" group-title="Testing New",NFL 717
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24054
+#EXTINF:-1 tvg-chno="772" group-title="Testing New",|USA|*****ENTRETAINMENT****|USA|
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24992
+#EXTINF:-1 tvg-chno="773" group-title="Testing New",CW HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24146
+#EXTINF:-1 tvg-chno="774" group-title="Testing New",DAYSTAR TV
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24017
+#EXTINF:-1 tvg-chno="775" group-title="Testing New",NBC
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24145
+#EXTINF:-1 tvg-chno="776" group-title="Testing New",Plus1
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24148
+#EXTINF:-1 tvg-chno="777" group-title="Testing New",Showtime FHD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24121
+#EXTINF:-1 tvg-chno="778" group-title="Testing New",BRAVO
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24052
+#EXTINF:-1 tvg-chno="779" group-title="Testing New",A&E
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24051
+#EXTINF:-1 tvg-chno="780" group-title="Testing New",COMEDY CENTRAL HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24050
+#EXTINF:-1 tvg-chno="781" group-title="Testing New",HGTV
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24049
+#EXTINF:-1 tvg-chno="782" group-title="Testing New",E!
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24048
+#EXTINF:-1 tvg-chno="783" group-title="Testing New",Fox HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24047
+#EXTINF:-1 tvg-chno="784" group-title="Testing New",FXX
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24046
+#EXTINF:-1 tvg-chno="785" group-title="Testing New",GSN FHD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24045
+#EXTINF:-1 tvg-chno="786" group-title="Testing New",SPIKE TV HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24044
+#EXTINF:-1 tvg-chno="787" group-title="Testing New",Syfy HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24043
+#EXTINF:-1 tvg-chno="788" group-title="Testing New",TLC HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24042
+#EXTINF:-1 tvg-chno="789" group-title="Testing New",Viceland
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24041
+#EXTINF:-1 tvg-chno="790" group-title="Testing New",DIY Network
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24040
+#EXTINF:-1 tvg-chno="791" group-title="Testing New",FREEFROM
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24039
+#EXTINF:-1 tvg-chno="792" group-title="Testing New",TBS
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24038
+#EXTINF:-1 tvg-chno="793" group-title="Testing New",SBTN
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24037
+#EXTINF:-1 tvg-chno="794" group-title="Testing New",|USA|*****LIFESTYLE*****|USA|
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24036
+#EXTINF:-1 tvg-chno="795" group-title="Testing New",ANIMAL PLANET HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24035
+#EXTINF:-1 tvg-chno="796" group-title="Testing New",NAT GEO WILD HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24034
+#EXTINF:-1 tvg-chno="797" group-title="Testing New",NAT GEO
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24033
+#EXTINF:-1 tvg-chno="798" group-title="Testing New",DISCOVERY  HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24032
+#EXTINF:-1 tvg-chno="799" group-title="Testing New",DISCOVERY SC HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24031
+#EXTINF:-1 tvg-chno="800" group-title="Testing New",DISCOVERY ID HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24030
+#EXTINF:-1 tvg-chno="801" group-title="Testing New",HISTORY HD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24029
+#EXTINF:-1 tvg-chno="802" group-title="Testing New",H2
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24028
+#EXTINF:-1 tvg-chno="803" group-title="Testing New",Travel Channel
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24027
+#EXTINF:-1 tvg-chno="804" group-title="Testing New",FOOD NETWORK
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24026
+#EXTINF:-1 tvg-chno="805" group-title="Testing New",|USA|*****KIDS AND FAMILY*****|USA|
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24025
+#EXTINF:-1 tvg-chno="806" group-title="Testing New",Cartoon Network
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24024
+#EXTINF:-1 tvg-chno="807" group-title="Testing New",Disney Channel FHD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24023
+#EXTINF:-1 tvg-chno="808" group-title="Testing New",Nick
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24022
+#EXTINF:-1 tvg-chno="809" group-title="Testing New",NICKTOONS
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24021
+#EXTINF:-1 tvg-chno="810" group-title="Testing New",|USA|*****MUSIC*****|USA|
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24020
+#EXTINF:-1 tvg-chno="811" group-title="Testing New",MTV
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24019
+#EXTINF:-1 tvg-chno="812" group-title="Testing New",VH1 FHD
+http://iptvpro.premium-itv.com:8789/CBBOonB56X/o6loYGyhtR/24018
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/FDfuZbO.png" group-title="THAILAND",13 Siam TV
 http://203.154.83.176:1935/live/13wDt2b6g4/playlist.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/hy4MrF0.png" group-title="THAILAND",69 TV
@@ -18939,6 +19209,260 @@ http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b3000
 http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://i.imgur.com/sxxRphV.png" group-title="USA PUBLIC",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1 tvg-chno="1" group-title="USA-Test",ABC
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24147
+#EXTINF:-1 tvg-chno="2" group-title="USA-Test",CBS HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24144
+#EXTINF:-1 tvg-chno="3" group-title="USA-Test",USA Network
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24143
+#EXTINF:-1 tvg-chno="4" group-title="USA-Test",|USA|******NEWS******|USA|
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24142
+#EXTINF:-1 tvg-chno="5" group-title="USA-Test",CNN HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24141
+#EXTINF:-1 tvg-chno="6" group-title="USA-Test",Fox News HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24140
+#EXTINF:-1 tvg-chno="7" group-title="USA-Test",MSNBC FHD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24139
+#EXTINF:-1 tvg-chno="8" group-title="USA-Test",ABC NEWS
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24138
+#EXTINF:-1 tvg-chno="9" group-title="USA-Test",CNBC
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24137
+#EXTINF:-1 tvg-chno="10" group-title="USA-Test",FOX BUSINESS FHD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24136
+#EXTINF:-1 tvg-chno="11" group-title="USA-Test",BLOOMBERG TV
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24135
+#EXTINF:-1 tvg-chno="12" group-title="USA-Test",ABC 7
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24134
+#EXTINF:-1 tvg-chno="13" group-title="USA-Test",beINSPORT N
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24108
+#EXTINF:-1 tvg-chno="14" group-title="USA-Test",ESPN 3
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24103
+#EXTINF:-1 tvg-chno="15" group-title="USA-Test",The Weather Channel
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24133
+#EXTINF:-1 tvg-chno="16" group-title="USA-Test",|USA|******MOVIES******|USA|
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24132
+#EXTINF:-1 tvg-chno="17" group-title="USA-Test",SHOWTIME SHOWCASE
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24120
+#EXTINF:-1 tvg-chno="18" group-title="USA-Test",Starz Cinema HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24118
+#EXTINF:-1 tvg-chno="19" group-title="USA-Test",STARZ
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24119
+#EXTINF:-1 tvg-chno="20" group-title="USA-Test",FX TV HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24125
+#EXTINF:-1 tvg-chno="21" group-title="USA-Test",MoreMax HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24116
+#EXTINF:-1 tvg-chno="22" group-title="USA-Test",Lifetime Movies HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24117
+#EXTINF:-1 tvg-chno="23" group-title="USA-Test",5 Star Max
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24114
+#EXTINF:-1 tvg-chno="24" group-title="USA-Test",ACTIONMAX HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24115
+#EXTINF:-1 tvg-chno="25" group-title="USA-Test",AMC HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24122
+#EXTINF:-1 tvg-chno="26" group-title="USA-Test",Cinemax East HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24113
+#EXTINF:-1 tvg-chno="27" group-title="USA-Test",CINEMAX HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24112
+#EXTINF:-1 tvg-chno="28" group-title="USA-Test",EL REY  HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24111
+#EXTINF:-1 tvg-chno="29" group-title="USA-Test",TNT HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24123
+#EXTINF:-1 tvg-chno="30" group-title="USA-Test",HBO
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24131
+#EXTINF:-1 tvg-chno="31" group-title="USA-Test",HBO COMEDY HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24130
+#EXTINF:-1 tvg-chno="32" group-title="USA-Test",HBO FAMILY HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24129
+#EXTINF:-1 tvg-chno="33" group-title="USA-Test",STARZ CINEMA
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24128
+#EXTINF:-1 tvg-chno="34" group-title="USA-Test",HBO SIGNATURE HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24127
+#EXTINF:-1 tvg-chno="35" group-title="USA-Test",HBO ZONE
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24126
+#EXTINF:-1 tvg-chno="36" group-title="USA-Test",HALLMARK HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24124
+#EXTINF:-1 tvg-chno="37" group-title="USA-Test",|USA|******SPORTS******|USA|
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24110
+#EXTINF:-1 tvg-chno="38" group-title="USA-Test",beINSPORT US
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24109
+#EXTINF:-1 tvg-chno="39" group-title="USA-Test",FOX SPORT 1HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24107
+#EXTINF:-1 tvg-chno="40" group-title="USA-Test",FOX SPORT 2HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24106
+#EXTINF:-1 tvg-chno="41" group-title="USA-Test",ESPN
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24105
+#EXTINF:-1 tvg-chno="42" group-title="USA-Test",ESPN 2HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24104
+#EXTINF:-1 tvg-chno="43" group-title="USA-Test",ESPN Deportes
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24102
+#EXTINF:-1 tvg-chno="44" group-title="USA-Test",ESPNEWS
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24100
+#EXTINF:-1 tvg-chno="45" group-title="USA-Test",ESPN U HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24101
+#EXTINF:-1 tvg-chno="46" group-title="USA-Test",BTN
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24099
+#EXTINF:-1 tvg-chno="47" group-title="USA-Test",CBS SPORTS NET
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24098
+#EXTINF:-1 tvg-chno="48" group-title="USA-Test",NBC SPORTS Net HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24097
+#EXTINF:-1 tvg-chno="49" group-title="USA-Test",NBC GOLF
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24096
+#EXTINF:-1 tvg-chno="50" group-title="USA-Test",Tennis Channel HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24095
+#EXTINF:-1 tvg-chno="51" group-title="USA-Test",FOX DEPORTES
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24094
+#EXTINF:-1 tvg-chno="52" group-title="USA-Test",WWE HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24093
+#EXTINF:-1 tvg-chno="53" group-title="USA-Test",MLB HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24092
+#EXTINF:-1 tvg-chno="54" group-title="USA-Test",NBA
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24091
+#EXTINF:-1 tvg-chno="55" group-title="USA-Test",NBA 1  MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24090
+#EXTINF:-1 tvg-chno="56" group-title="USA-Test",NBA 2  MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24089
+#EXTINF:-1 tvg-chno="57" group-title="USA-Test",NBA 3  MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24088
+#EXTINF:-1 tvg-chno="58" group-title="USA-Test",NBA 4  MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24087
+#EXTINF:-1 tvg-chno="59" group-title="USA-Test",NBA 5  MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24086
+#EXTINF:-1 tvg-chno="60" group-title="USA-Test",NBA 6  MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24085
+#EXTINF:-1 tvg-chno="61" group-title="USA-Test",NBA 7 MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24084
+#EXTINF:-1 tvg-chno="62" group-title="USA-Test",NBA 8 MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24083
+#EXTINF:-1 tvg-chno="63" group-title="USA-Test",NBA 9 MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24082
+#EXTINF:-1 tvg-chno="64" group-title="USA-Test",NBA 10 MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24081
+#EXTINF:-1 tvg-chno="65" group-title="USA-Test",NBA 11
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24080
+#EXTINF:-1 tvg-chno="66" group-title="USA-Test",NHL HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24079
+#EXTINF:-1 tvg-chno="67" group-title="USA-Test",NHL 1 MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24078
+#EXTINF:-1 tvg-chno="68" group-title="USA-Test",NHL 2 MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24077
+#EXTINF:-1 tvg-chno="69" group-title="USA-Test",NHL 3 MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24076
+#EXTINF:-1 tvg-chno="70" group-title="USA-Test",NHL 4 MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24075
+#EXTINF:-1 tvg-chno="71" group-title="USA-Test",NHL 5  MATCH EVENT
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24074
+#EXTINF:-1 tvg-chno="72" group-title="USA-Test",NHL 6
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24073
+#EXTINF:-1 tvg-chno="73" group-title="USA-Test",NHL 7
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24072
+#EXTINF:-1 tvg-chno="74" group-title="USA-Test",NHL 8
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24071
+#EXTINF:-1 tvg-chno="75" group-title="USA-Test",NHL 9
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24070
+#EXTINF:-1 tvg-chno="76" group-title="USA-Test",NHL 10
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24069
+#EXTINF:-1 tvg-chno="77" group-title="USA-Test",NHL 11
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24068
+#EXTINF:-1 tvg-chno="78" group-title="USA-Test",NFL NETWORK HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24067
+#EXTINF:-1 tvg-chno="79" group-title="USA-Test",NFL 705
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24066
+#EXTINF:-1 tvg-chno="80" group-title="USA-Test",NFL 706
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24065
+#EXTINF:-1 tvg-chno="81" group-title="USA-Test",NFL 707
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24064
+#EXTINF:-1 tvg-chno="82" group-title="USA-Test",NFL 708
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24063
+#EXTINF:-1 tvg-chno="83" group-title="USA-Test",NFL 709
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24062
+#EXTINF:-1 tvg-chno="84" group-title="USA-Test",NFL 710
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24061
+#EXTINF:-1 tvg-chno="85" group-title="USA-Test",NFL 711
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24060
+#EXTINF:-1 tvg-chno="86" group-title="USA-Test",NFL 712
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24059
+#EXTINF:-1 tvg-chno="87" group-title="USA-Test",NFL 713
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24058
+#EXTINF:-1 tvg-chno="88" group-title="USA-Test",NFL 714
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24057
+#EXTINF:-1 tvg-chno="89" group-title="USA-Test",NFL 715
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24056
+#EXTINF:-1 tvg-chno="90" group-title="USA-Test",NFL 716
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24055
+#EXTINF:-1 tvg-chno="91" group-title="USA-Test",NFL 717
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24054
+#EXTINF:-1 tvg-chno="92" group-title="USA-Test",|USA|*****ENTRETAINMENT****|USA|
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24992
+#EXTINF:-1 tvg-chno="93" group-title="USA-Test",BRAVO
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24052
+#EXTINF:-1 tvg-chno="94" group-title="USA-Test",A&E
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24051
+#EXTINF:-1 tvg-chno="95" group-title="USA-Test",COMEDY CENTRAL HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24050
+#EXTINF:-1 tvg-chno="96" group-title="USA-Test",HGTV
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24049
+#EXTINF:-1 tvg-chno="97" group-title="USA-Test",E!
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24048
+#EXTINF:-1 tvg-chno="98" group-title="USA-Test",Fox HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24047
+#EXTINF:-1 tvg-chno="99" group-title="USA-Test",FXX
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24046
+#EXTINF:-1 tvg-chno="100" group-title="USA-Test",GSN FHD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24045
+#EXTINF:-1 tvg-chno="101" group-title="USA-Test",SPIKE TV HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24044
+#EXTINF:-1 tvg-chno="102" group-title="USA-Test",Syfy HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24043
+#EXTINF:-1 tvg-chno="103" group-title="USA-Test",TLC HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24042
+#EXTINF:-1 tvg-chno="104" group-title="USA-Test",Viceland
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24041
+#EXTINF:-1 tvg-chno="105" group-title="USA-Test",DIY Network
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24040
+#EXTINF:-1 tvg-chno="106" group-title="USA-Test",FREEFROM
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24039
+#EXTINF:-1 tvg-chno="107" group-title="USA-Test",TBS
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24038
+#EXTINF:-1 tvg-chno="108" group-title="USA-Test",SBTN
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24037
+#EXTINF:-1 tvg-chno="109" group-title="USA-Test",|USA|*****LIFESTYLE*****|USA|
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24036
+#EXTINF:-1 tvg-chno="110" group-title="USA-Test",ANIMAL PLANET HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24035
+#EXTINF:-1 tvg-chno="111" group-title="USA-Test",NAT GEO WILD HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24034
+#EXTINF:-1 tvg-chno="112" group-title="USA-Test",NAT GEO
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24033
+#EXTINF:-1 tvg-chno="113" group-title="USA-Test",DISCOVERY  HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24032
+#EXTINF:-1 tvg-chno="114" group-title="USA-Test",DISCOVERY SC HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24031
+#EXTINF:-1 tvg-chno="115" group-title="USA-Test",DISCOVERY ID HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24030
+#EXTINF:-1 tvg-chno="116" group-title="USA-Test",HISTORY HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24029
+#EXTINF:-1 tvg-chno="117" group-title="USA-Test",H2
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24028
+#EXTINF:-1 tvg-chno="118" group-title="USA-Test",Travel Channel
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24027
+#EXTINF:-1 tvg-chno="119" group-title="USA-Test",FOOD NETWORK
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24026
+#EXTINF:-1 tvg-chno="120" group-title="USA-Test",|USA|*****KIDS AND FAMILY*****|USA|
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24025
+#EXTINF:-1 tvg-chno="121" group-title="USA-Test",Cartoon Network
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24024
+#EXTINF:-1 tvg-chno="122" group-title="USA-Test",Disney Channel FHD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24023
+#EXTINF:-1 tvg-chno="123" group-title="USA-Test",Nick
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24022
+#EXTINF:-1 tvg-chno="124" group-title="USA-Test",NICKTOONS
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24021
+#EXTINF:-1 tvg-chno="125" group-title="USA-Test",|USA|*****MUSIC*****|USA|
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24020
+#EXTINF:-1 tvg-chno="126" group-title="USA-Test",MTV
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24019
+#EXTINF:-1 tvg-chno="127" group-title="USA-Test",VH1 FHD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24018
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/mjEvqMM.png" group-title="VIETNAM",ATV (New!)
 http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/HsYLNkF.png" group-title="VIETNAM",Ben Tre TV
