@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 radio="true" tvg-id="Updated" group-title="*** Updated *** 10-07-2020",Updated 10-07-2020
+#EXTINF:-1 radio="true" tvg-id="Updated" group-title="*** Updated *** 10-10-2020",Updated 10-10-2020
 https://stream.audioxi.com/TD
 #EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/20000leaguesposter.jpg/220px-20000leaguesposter.jpg" group-title="*** VOD ***",20.000 Leagues Under the Sea (1954)
 https://archive.org/download/20000LeaguesUnderTheSea1954/20000%20Leagues%20Under%20The%20Sea%201954.mp4
@@ -2677,7 +2677,7 @@ https://ice55.securenetsystems.net/DASH16
 https://ice55.securenetsystems.net/DASH75
 #EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/FUEGO/fuego_324.png" group-title="- DASH RADIO",Fuego
 https://ice55.securenetsystems.net/DASH48
-#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Y2K.png" group-title="- DASH RADIO",Y2K
+#EXTINF:0 radio="false" tvg-id="MC - Y2K" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Y2K.png" group-title="- DASH RADIO",Y2K
 https://ice55.securenetsystems.net/DASH19
 #EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/XXL.png" group-title="- DASH RADIO",XXL
 https://ice55.securenetsystems.net/DASH14
@@ -2727,7 +2727,7 @@ https://ice55.securenetsystems.net/DASH56
 https://ice55.securenetsystems.net/DASH63
 #EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/IMPERIO/imperio_324.png" group-title="- DASH RADIO",Imperio
 https://ice55.securenetsystems.net/DASH27
-#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Discover.png" group-title="- DASH RADIO",Discover
+#EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Discover.png" group-title="- DASH RADIO",Discover
 https://ice55.securenetsystems.net/DASH46
 #EXTINF:0 radio="false" tvg-logo="http://tinyurl.com/yag5uhnq" group-title="- DASH RADIO",Bump & Grind
 https://ice55.securenetsystems.net/DASH39
@@ -2749,7 +2749,7 @@ https://ice55.securenetsystems.net/DASH60
 https://ice55.securenetsystems.net/DASH4
 #EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheCity.png" group-title="- DASH RADIO",The City
 https://ice55.securenetsystems.net/DASH2
-#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/SWING/Swing-Color.png" group-title="- DASH RADIO",Swing
+#EXTINF:0 radio="false" tvg-id="MC - Singers & Swing" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/SWING/Swing-Color.png" group-title="- DASH RADIO",Swing
 https://ice55.securenetsystems.net/DASH80
 #EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="- DASH RADIO",Ratpack
 https://ice55.securenetsystems.net/DASH5
@@ -2807,8 +2807,1290 @@ https://ice55.securenetsystems.net/DASH21
 https://ice55.securenetsystems.net/DASH24
 #EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cinescore.png" group-title="- DASH RADIO",Cinescore
 https://ice55.securenetsystems.net/DASH29
-#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Love.png" group-title="- DASH RADIO",Love Songs
+#EXTINF:0 radio="false" tvg-id="MC - Love Songs" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Love.png" group-title="- DASH RADIO",Love Songs
 https://ice55.securenetsystems.net/DASH66
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-country="US" group-title="Entertainment",3ABN Praise Him Music Channel,US | 3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-country="US" group-title="Entertainment",3ABN Praise Him Music Channel,US | 3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",5 Star +1 UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/11461
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",5 Star UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6665
+#EXTINF:0 radio="false" tvg-id="5STAR - UK" tvg-country="GB" group-title="Entertainment",5Star
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37144
+#EXTINF:0 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-country="US" group-title="Entertainment",ABC
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/188?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="ABC (KETV) Omaha, NE" tvg-country="US" group-title="Entertainment",ABC
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/188?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",ABC EAST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38699?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",ABC EAST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38699?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",ABC News International
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",ABC News International
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",ABC SPARK CANADA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36884?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",ABC SPARK CANADA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36884?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",ABC WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/34340?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",ABC WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/34340?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/j6XPh2U.png" tvg-country="US" group-title="Entertainment",AFV!,US | AFV!
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:0 radio="false" tvg-country="AL" group-title="Entertainment",Alb Movie HD AL
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4751
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",American Hero's Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/155?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",American Hero's Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/155?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="American Heroes Channel" tvg-country="US" group-title="Entertainment",AMERICAN HEROES CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1681?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="American Heroes Channel" tvg-country="US" group-title="Entertainment",AMERICAN HEROES CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1681?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Animal Planet US - East" tvg-country="US" group-title="Entertainment",Animal Planet
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/111
+#EXTINF:0 radio="false" tvg-id="Animal Planet US - East" tvg-country="US" group-title="Entertainment",ANIMAL PLANET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1466
+#EXTINF:0 radio="false" tvg-id="Animal Planet US - East" tvg-country="GB" group-title="Entertainment",ANIMAL PLANET
+http://193.33.39.108:8107/30704
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Animal Planet HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6662
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",ANIMAL PLANET WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/86531
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",ANIMAUX HD
+http://dinamikiptv.com:7777/adalet/adalet123/50820
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",B ABC SPARK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36933?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",B ABC SPARK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36933?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" tvg-country="GB" group-title="Entertainment",BBC 1 Scotland,UK | BBC 1 Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" tvg-country="GB" group-title="Entertainment",BBC 1 Scotland,UK | BBC 1 Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC America - East" tvg-country="US" group-title="Entertainment",BBC America
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/157?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC America - East" tvg-country="US" group-title="Entertainment",BBC AMERICA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1329?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC America - East" tvg-country="US" group-title="Entertainment",BBC AMERICA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1329?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC America - East" tvg-country="US" group-title="Entertainment",BBC America
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/157?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",BBC America US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14392?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",BBC America US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14392?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",BBC CANADA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36870?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",BBC CANADA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36870?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Entertainment UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9548?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Entertainment UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9548?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Four HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6656?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Four HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6656?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC One HD - UK" tvg-country="UN" group-title="Entertainment",BBC One HD
+http://176.10.117.3:5000/play/a035?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC One HD - UK" tvg-country="UN" group-title="Entertainment",BBC One HD
+http://176.10.117.3:5000/play/a035?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Parliament UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9546?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Parliament UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9546?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC Scotland - UK" tvg-country="GB" group-title="Entertainment",BBC Scotland
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37168?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC Scotland - UK" tvg-country="GB" group-title="Entertainment",BBC Scotland
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37168?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Two [Scotland] UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9551?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Two [Scotland] UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9551?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1330
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1330?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1330?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95936?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2
+#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95936
+#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95936?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Bet UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6654?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Bet UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6654?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Bet UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6654
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?iptvm3uplaylists.m3u8&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?iptvm3uplaylists.m3u8&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",CANIM KARDESIM
+http://dinamikiptv.com:7777/adalet/adalet123/19119
+#EXTINF:0 radio="false" tvg-id="CBBC HD - UK" tvg-country="GB" group-title="Entertainment",CBBC
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110054?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="CBBC HD - UK" tvg-country="GB" group-title="Entertainment",CBBC
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110054?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
+http://localdblagent.club:8080/live/Carlos1/Carlos1/1516.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",COOKING CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1259?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",COOKING CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1259?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/55?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/55?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
+http://localdblagent.club:8080/live/Carlos1/Carlos1/1516.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cowboy Channel" tvg-country="US" group-title="Entertainment",COWBOY CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/90060?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cowboy Channel" tvg-country="US" group-title="Entertainment",COWBOY CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/90060?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png" tvg-country="UN" group-title="Entertainment",Dancestar TV,Dancestar TV (USA)
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",DAYSTAR TV HD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36831
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",DINAMIK ANIMASYON
+http://dinamikiptv.com:7777/adalet/adalet123/41739
+#EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-country="US" group-title="Entertainment",DISCOVERY CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/39638?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-country="US" group-title="Entertainment",Discovery Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/62?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-country="US" group-title="Entertainment",DISCOVERY CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/39638?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-country="US" group-title="Entertainment",Discovery Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/62?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Discovery Channel HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15763?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Discovery Channel HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15763?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",DISCOVERY CHANNEL WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1443?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",DISCOVERY CHANNEL WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1443?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Discovery Science
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/23
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Discovery Science UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6622
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",DIY
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1463?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",DIY
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1463?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",DIY Network
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/11?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",DIY Network
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/11?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FVWqYQG.png" tvg-country="US" group-title="Entertainment",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Dove Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FVWqYQG.png" tvg-country="US" group-title="Entertainment",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Dove Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",DREAM ANIMASYON
+http://dinamikiptv.com:7777/adalet/adalet123/41678
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Dust (Sci-Fi)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#EXTINF:0 radio="false" tvg-id="Eman Channel - UK" tvg-logo="https://i.imgur.com/NWljgKa.png" tvg-country="GB" group-title="Entertainment",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Eman Channel - UK" tvg-logo="https://i.imgur.com/NWljgKa.png" tvg-country="GB" group-title="Entertainment",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR;US" group-title="Entertainment",EURO STAR,EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" group-title="Entertainment",EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",EUROSTAR
+http://dinamikiptv.com:7777/adalet/adalet123/7914
+#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" group-title="Entertainment",EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FIGHT CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110092?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FIGHT CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110092?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",FilmBox Animasyon HD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636500
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/48iMZ7c.png" tvg-country="US" group-title="Entertainment",Filmon 360,The 360 Channel
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/48iMZ7c.png" tvg-country="US" group-title="Entertainment",Filmon 360,The 360 Channel
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/cQZdGc0.png" tvg-country="US" group-title="Entertainment",Filmrise Movies,US | Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOOD CHANNEL
+http://5.135.92.133:52841/out/u/502_1.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOOD CHANNEL
+http://5.135.92.133:52841/out/u/502_1.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="GB" group-title="Entertainment",Food Network
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37127?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",FOOD NETWORK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/29480?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",Food Network
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",Food Network
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",FOOD NETWORK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/29480?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="GB" group-title="Entertainment",Food Network
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37127?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",FOOD NETWORK HD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36818?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",FOOD NETWORK HD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36818?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Food Network UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6601?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Food Network UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6601?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOOD NETWORK WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110894?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOOD NETWORK WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110894?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/Y8rrOmC.png" tvg-country="GE" group-title="Entertainment",Food TV
+http://tv.cdn.xsg.ge/foodtv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/Y8rrOmC.png" tvg-country="GE" group-title="Entertainment",Food TV
+http://tv.cdn.xsg.ge/foodtv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Fox 5
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/81?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Fox 5
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/81?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox Business" tvg-country="US" group-title="Entertainment",Fox Business
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/193?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox Business" tvg-country="US" group-title="Entertainment",Fox Business
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/193?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX CRICKET (Australia)
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110881?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX CRICKET (Australia)
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110881?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX EAST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36593?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX EAST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36593?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Fox HD US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4948?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Fox HD US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4948?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX SOCCER PLUS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33472?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX SOCCER PLUS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33472?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Fox UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6604?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Fox UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6604?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/31645?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/31645?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX WEST Low
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/77480?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX WEST Low
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/77480?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="FX Movie Channel" tvg-country="US" group-title="Entertainment",FX MOVIE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/29312
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HALLMARK CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1375?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HALLMARK CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1375?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HALLMARK DRAMA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38591?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HALLMARK DRAMA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38591?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Hallmark FHD US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4889?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Hallmark FHD US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4889?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Handystar TV HD
+http://mediaspar-live.hls.adaptive.level3.net/ses/mediaspar/stream1/streamPlaylist.m3u8
+#EXTINF:0 radio="false" tvg-id="HGTV USA - Eastern Feed" tvg-country="US" group-title="Entertainment",HGTV
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/23?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="HGTV USA - Eastern Feed" tvg-country="US" group-title="Entertainment",HGTV
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/23?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="HGTV USA - Eastern Feed" tvg-country="US" group-title="Entertainment",HGTV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1589?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="HGTV USA - Eastern Feed" tvg-country="US" group-title="Entertainment",HGTV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1589?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HGTV WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/86533?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HGTV WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/86533?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="History Channel US - Eastern Feed" tvg-country="US" group-title="Entertainment",History Channel
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/42?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Home Cinema
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44368?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Home Movies (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+#EXTINF:0 radio="false" tvg-id="horror channel - UK" tvg-country="GB" group-title="Entertainment",Horror Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37073?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="horror channel - UK" tvg-country="GB" group-title="Entertainment",Horror Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37073
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HUNT CHANNEL TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95939?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HUNT CHANNEL TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95939?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="ITV2+1 - UK" tvg-country="GB" group-title="Entertainment",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="ITV2+1 - UK" tvg-country="GB" group-title="Entertainment",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1
+http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31572?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1
+http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31572?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1 UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6592?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1 UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6592?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1 [B] UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6587?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1 [B] UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6587?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 2
+http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31571?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 2
+http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31571?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 2 +1 UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15730?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 2 +1 UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15730?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 3
+http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31573?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 3
+http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31573?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 3 UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6590?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 3 UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6590?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV BE
+http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31575?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV BE
+http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31575?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV Be UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6588?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV Be UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6588?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="ITVBe - UK" tvg-country="GB" group-title="Entertainment",ITVBe
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37151?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="ITVBe - UK" tvg-country="GB" group-title="Entertainment",ITVBe
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37151?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kartoon Fun Time (Opt-1)
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kartoon Fun Time (Opt-1)
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kartoon Fun Time (Opt-1)
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",KMTV Omaha
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="GB" group-title="Entertainment",Lifetime
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37128?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="US" group-title="Entertainment",Lifetime
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/27?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="US" group-title="Entertainment",LIFETIME
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1446?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="GB" group-title="Entertainment",Lifetime
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37128?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="US" group-title="Entertainment",Lifetime
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/27?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="US" group-title="Entertainment",LIFETIME
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1446?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",Magic Box Animasyon TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8654
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",OSN CRICKET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95012?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",OSN CRICKET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95012?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",OWN
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1488?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",OWN
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1488?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",PURSUIT CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97636?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",PURSUIT CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97636?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/RX6YusQ.png" tvg-country="US" group-title="Entertainment",Sci-fi 4U
+https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",SCIFI 4U
+https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
+#EXTINF:0 radio="false" tvg-country="IN" group-title="Entertainment",SHEMARRO KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="IN" group-title="Entertainment",SHEMARRO KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="SHOXBET - Eastern" tvg-country="US" group-title="Entertainment",SHOxBET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/90710?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="SHOXBET - Eastern" tvg-country="US" group-title="Entertainment",SHOxBET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/90710?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Starz Encore Espanol" tvg-country="AZ" group-title="Entertainment",Star
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UA" group-title="Entertainment",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Star Family HD
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Star GOLD - UK" tvg-country="GB" group-title="Entertainment",Star Gold
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110058
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Star Jalsha
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#EXTINF:0 radio="false" tvg-id="Star Plus - UK" tvg-country="GB" group-title="Entertainment",Star Plus
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110059
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR TREK
+http://dinamikiptv.com:7777/adalet/adalet123/51555
+#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" group-title="Entertainment",Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" group-title="Entertainment",Star TV
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",Star TV FHD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/12834
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR TV SD
+http://dinamikiptv.com:7777/adalet/adalet123/7896
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR TV SD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-country="AZ" group-title="Entertainment",STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",Star TV TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8072
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR UHD
+http://dinamikiptv.com:7777/adalet/adalet123/4860
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR WARS
+http://dinamikiptv.com:7777/adalet/adalet123/51290
+#EXTINF:0 radio="false" tvg-country="DE" group-title="Entertainment",STAR WARS
+http://dinamikiptv.com:7777/adalet/adalet123/51011
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",START TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/41306
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STARTV HD
+http://dinamikiptv.com:7777/adalet/adalet123/4879
+#EXTINF:0 radio="false" tvg-id="Starz Encore Espanol" tvg-country="US" group-title="Entertainment",STARZ
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1271
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" group-title="Entertainment",STIRR Black Cinema,US | STIRR Black Cinema
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" group-title="Entertainment",STIRR Movies,US | STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:0 radio="false" group-title="Entertainment",STREET MUSIC
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
+#EXTINF:0 radio="false" tvg-id="Syfy - Eastern Feed" tvg-country="US" group-title="Entertainment",SYFY
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1270
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Syfy HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15886
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Syfy HD US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/648340
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",SYFY WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110892
+#EXTINF:0 radio="false" tvg-id="The Tennis Channel" tvg-country="US" group-title="Entertainment",TENNIS CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/31209?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Tennis Channel" tvg-country="US" group-title="Entertainment",TENNIS CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/31209?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",THE MOVIE CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/96959?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",THE MOVIE CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/96959
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",The Seventh Dimension (Public-OnDemandMovies) (US) (English)
+http://cdnvod.setv.ca/hls/The.Seventh.Dimension.2009.BRRip.XviD.MP3-RARBG.mp4/master.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FlJVD8a.png" tvg-country="CA;US" group-title="Entertainment",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FlJVD8a.png" tvg-country="CA;US" group-title="Entertainment",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",TLC Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/6?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",TLC Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/6?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",TR │ STAR HD
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/69.m3u8
+#EXTINF:0 radio="false" tvg-id="Travel Channel - UK" tvg-country="US" group-title="Entertainment",TRAVEL CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/2028?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Travel Channel - UK" tvg-country="US" group-title="Entertainment",TRAVEL CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/2028?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UA" group-title="Entertainment",Ultra HD Cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" tvg-country="CN" group-title="Entertainment",XMTV Star,厦门卫视XMTV Star
+http://cstvpull.live.wscdns.com/live/xiamen4.flv
+#EXTINF:0 radio="false" tvg-id="Zee Cinema - UK" tvg-country="US" group-title="Entertainment",ZEE CINEMA
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Zee Cinema - UK" tvg-country="GB" group-title="Entertainment",Zee Cinema
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110062?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",24/7 Super Geek Heroes,Super Geek Heroes,Super Geek Heroes (Kids)
+https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",24/7 Super Geek Heroes,Super Geek Heroes,Super Geek Heroes (Kids)
+https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-country="US" group-title="Kids",3ABN Kids,US | 3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-country="US" group-title="Kids",3ABN Kids,US | 3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Kids",B DISNEY JR HD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36912?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cartoon Network USA - Eastern Feed" tvg-country="TR" group-title="Kids",Cartoon Network
+http://ch.canlitvlive.io/cartoonnetwork/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cartoon Network USA - Eastern Feed" tvg-country="US" group-title="Kids",CARTOON NETWORK
+http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cartoon Network USA - Eastern Feed" tvg-country="US" group-title="Kids",CARTOON NETWORK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1378?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cartoon Network USA - Eastern Feed" tvg-country="US" group-title="Kids",CARTOON NETWORK
+http://178.132.3.162:88/cartoon_network/index.m3u8?token=test&lang=eng&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cartoon Network USA - Eastern Feed" tvg-country="US" group-title="Kids",CARTOON NETWORK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1378?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cartoon Network USA - Eastern Feed" tvg-country="TR" group-title="Kids",Cartoon Network
+http://ch.canlitvlive.io/cartoonnetwork/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Kids",CARTOON NETWORK HD
+http://dinamikiptv.com:7777/adalet/adalet123/16402?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Kids",CARTOON NETWORK HD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36863?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Kids",CARTOON NETWORK HD
+http://dinamikiptv.com:7777/adalet/adalet123/16402?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Kids",CARTOON NETWORK HD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36863?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cartoonito - UK" tvg-country="GB" group-title="Kids",Cartoonito
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37084?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cartoonito - UK" tvg-country="GB" group-title="Kids",Cartoonito
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37084?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Kids",Cartoonito UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6639?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Kids",Cartoonito UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6639?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Disney - Eastern Feed" tvg-country="UN" group-title="Kids",Disney
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44360?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Disney - Eastern Feed" tvg-country="UN" group-title="Kids",Disney
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Disney +2
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8?version=2&offset=-18000&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Disney +6
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8?version=2&offset=-3600&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Disney +7
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Kids",DISNEY CANADA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36828?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Disney Channel Canada HD - East" tvg-country="US" group-title="Kids",DISNEY CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1358?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Disney Channel Canada HD - East" tvg-country="TR" group-title="Kids",Disney Channel
+http://ch.canlitvlive.io/disneychannel/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Disney Channel Canada HD - East" tvg-country="US" group-title="Kids",DISNEY CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1358?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Disney Channel Canada HD - East" tvg-country="UN" group-title="Kids",Disney Channel
+http://176.10.117.3:5000/play/a038?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Disney Channel Canada HD - East" tvg-country="US" group-title="Kids",DISNEY CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1358?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Kids",DISNEY CHANNEL HD
+http://dinamikiptv.com:7777/adalet/adalet123/16401?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",Disney Channel HD US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14369?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",Disney Channel HD US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14369?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",Disney Channel HD US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14369?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",Disney Jr
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/12?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",DISNEY JR
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1261?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="Kids",DISNEY JR HD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36827?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Kids",Disney Junior TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6889?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Disney Plus  1
+http://seeyoutv.net:2300/parigi/parigi/40770?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Disney Plus 2
+http://seeyoutv.net:2300/parigi/parigi/40771?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Disney XD USA - Eastern Feed" tvg-country="US" group-title="Kids",DISNEY XD
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1672?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Kids",Disney XD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6888?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Disney+4
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="DE" group-title="Kids",Kids Tom&Jerry DE
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679840?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="DE" group-title="Kids",Kids Tom&Jerry DE
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/679840?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Kuriakos Kids (New!)
+http://c2.manasat.com:1935/kkids/kkids3/iptvm3uplaylists.com.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Kuriakos Kids (New!)
+http://c2.manasat.com:1935/kkids/kkids3/iptvm3uplaylists.com.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="BR" group-title="Kids",NAT GEO KIDS HD
+http://uruguayiptv.com:25461/miguel2019/miguel2019/11365?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="BR" group-title="Kids",NAT GEO KIDS HD
+http://uruguayiptv.com:25461/miguel2019/miguel2019/11365?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="BR" group-title="Kids",NAT GEO KIDS HD
+http://uruguayiptv.com:25461/12345678/12345678/11365?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="BR" group-title="Kids",NAT GEO KIDS HD
+http://uruguayiptv.com:25461/12345678/12345678/11365?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",PBS KIDS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/41008?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Kids",PBS KIDS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/41008?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",SKY CARTOON NETWORK FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10540?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",SKY CARTOON NETWORK FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10540?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",SKY CARTOON NETWORK HD
+http://seeyoutv.net:2300/parigi/parigi/10539?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",SKY CARTOON NETWORK HD
+http://seeyoutv.net:2300/parigi/parigi/10539?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Kids",Sky Cinema Disney HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15717?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d6/519px-smile_of_a_child_svg1.png" tvg-country="UN" group-title="Kids",Smile of a Child  (Kids)
+https://bozztv.com/36bay2/gin/giniko_smilechild_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d6/519px-smile_of_a_child_svg1.png" tvg-country="UN" group-title="Kids",Smile of a Child  (Kids)
+https://bozztv.com/36bay2/gin/giniko_smilechild_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Starz Kids & Family - Eastern" tvg-country="US" group-title="Kids",STARZ KIDS & FAMILY
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95916?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Starz Kids & Family - Eastern" tvg-country="US" group-title="Kids",STARZ KIDS & FAMILY
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95916
+#EXTINF:0 radio="false" tvg-id="Starz Kids & Family - Eastern" tvg-country="US" group-title="Kids",STARZ KIDS & FAMILY
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95916?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Starz Kids & Family - Eastern" tvg-country="ES" group-title="Kids",Starz Kids & Family
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109998
+#EXTINF:0 radio="false" tvg-country="AL" group-title="Kids",Tring Kids AL
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4825?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="AL" group-title="Kids",Tring Kids AL
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4825?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://parco-zh.github.io/demo/TVO.png" tvg-country="CA" group-title="Kids",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://parco-zh.github.io/demo/TVO.png" tvg-country="CA" group-title="Kids",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Universal Kids" tvg-country="US" group-title="Kids",UNIVERSAL KIDS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38434?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Universal Kids" tvg-country="US" group-title="Kids",UNIVERSAL KIDS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38434?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-country="US" group-title="Movies",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-country="US" group-title="Movies",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES ACTION 2 HD
+http://dinamikiptv.com:7777/adalet/adalet123/4968
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Action FHD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8688
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES FAMILY HD
+http://dinamikiptv.com:7777/adalet/adalet123/4966
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES PREMIER 2 HD
+http://dinamikiptv.com:7777/adalet/adalet123/4965
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",bein Movies Stars HD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8707
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES TURK HD
+http://dinamikiptv.com:7777/adalet/adalet123/4962
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES Turk TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6847
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",BEST ANİMASYON
+http://dinamikiptv.com:7777/adalet/adalet123/36766
+#EXTINF:0 radio="false" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-country="US" group-title="Movies",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-country="US" group-title="Movies",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Captain Movies 2 TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636426
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Captain Movies 3 TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636425
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Captain Movies 5 TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636423
+#EXTINF:0 radio="false" tvg-id="Cinemax - Eastern Feed" tvg-country="AZ" group-title="Movies",CINEMA
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cinemax - Eastern Feed" tvg-country="AZ" group-title="Movies",CINEMA
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Cinema Plus
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44376?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Cinema Plus
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44376?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Cinema Plus 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44377?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Cinema Plus 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44377?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cinemax - Eastern Feed" tvg-country="US" group-title="Movies",CINEMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1282?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Cinemax - Eastern Feed" tvg-country="US" group-title="Movies",CINEMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1282?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89057?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89057?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89057
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Action Max East
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Action Max East
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95935?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95935?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110769?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110769?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax East
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/25?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax East
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/25?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95932?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95932?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110768?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110768?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99584?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99584?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99584
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX OUTERMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95934?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Outermax
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/90?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Outermax
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/90?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX OUTERMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95934?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Thrillermax
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/96?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Thrillermax
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/96?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95933?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95933?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110771?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110771?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110767?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110767?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemaxx More Maxx
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/120?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemaxx More Maxx
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/120?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Turner Classic Movies USA" tvg-country="US" group-title="Movies",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="DE" group-title="Movies",Eagle Cinema Horror FHD DE
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/681942
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",EnoAnimasyon TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636413
+#EXTINF:0 radio="false" tvg-id="EPIX - East" tvg-country="US" group-title="Movies",EPIX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1360
+#EXTINF:0 radio="false" tvg-id="EPIX - East" tvg-country="US" group-title="Movies",EPIX
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/107
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",EPIX 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98755
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",EPIX 2
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/159
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",EPIX DRIVE-IN
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99588
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",EPIX Hits
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/30
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",EPIX HITS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38629
+#EXTINF:0 radio="false" tvg-id="Hallmark Movies & Mysteries - Eastern" tvg-country="US" group-title="Movies",HALLMARK MOVIES
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1611?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Hallmark Movies & Mysteries - Eastern" tvg-country="US" group-title="Movies",HALLMARK MOVIES
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1611
+#EXTINF:0 radio="false" tvg-id="Hallmark Movies & Mysteries - Eastern" tvg-country="US" group-title="Movies",HALLMARK MOVIES
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1611?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Hallmark Movies & Mysteries - Eastern" tvg-country="US" group-title="Movies",Hallmark Movies & Mysteries
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/132?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Hallmark Movies & Mysteries - Eastern" tvg-country="US" group-title="Movies",Hallmark Movies & Mysteries
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/132
+#EXTINF:0 radio="false" tvg-id="Hallmark Movies & Mysteries - Eastern" tvg-country="US" group-title="Movies",Hallmark Movies & Mysteries
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/132?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="History Channel US - Eastern Feed" tvg-country="US" group-title="Movies",History Channel
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/42?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Home Cinema
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44368?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="horror channel - UK" tvg-country="GB" group-title="Movies",Horror Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37073?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/zJ5idav.jpg" tvg-country="US" group-title="Movies",It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/zJ5idav.jpg" tvg-country="UN" group-title="Movies",It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",LIFETIME MOVIE NETWORK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/2514?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",LIFETIME MOVIE NETWORK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/2514?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",LIFETIME MOVIE NETWORK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/2514
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/Zk5wP5K.png" tvg-country="US" group-title="Movies",Maverick Movies,US | Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-country="US" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Movie Zone
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
+#EXTINF:0 radio="false" tvg-country="IN" group-title="Movies",MOVIE ZONE
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Moviemax Festival FHD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6854
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Moviemax Stars HD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6855
+#EXTINF:0 radio="false" tvg-id="MOVIEplex HD - Eastern" tvg-country="US" group-title="Movies",MOVIEPLEX
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110084
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",MOVIESMART ACTION HD
+http://dinamikiptv.com:7777/adalet/adalet123/4985
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",MOVIESMART CLASSIC HD
+http://dinamikiptv.com:7777/adalet/adalet123/4987
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",MOVIESMART FAMILY HD
+http://dinamikiptv.com:7777/adalet/adalet123/4984
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Moviesmart Family HD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6852
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Moviesmart Family HD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8639
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",MOVIESMART FEST HD
+http://dinamikiptv.com:7777/adalet/adalet123/4978
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Moviesmart Festival TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6851
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Moviesmart Gold FHD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6850
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",MOVIESMART GOLD HD
+http://dinamikiptv.com:7777/adalet/adalet123/4986
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Moviesmart Platin FHD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6849
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",MOVIESMART PLATIN HD
+http://dinamikiptv.com:7777/adalet/adalet123/4982
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",MOVIESMART PREMIUM 2 HD
+http://dinamikiptv.com:7777/adalet/adalet123/4981
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Moviesmart Premium FHD TR
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6848
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",MOVIESMART PREMIUM HD
+http://dinamikiptv.com:7777/adalet/adalet123/4980
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",MOVISTAR ACCION FHD
+http://dinamikiptv.com:7777/adalet/adalet123/54662
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar Accion FHD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7245
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar Accion HD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16280
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar CineDoc & Roll ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7233
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar Comedia FHD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7243
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar Comedia HD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7194
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar DCine ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7242
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar DCine FHD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16279
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar DCine HD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7193
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar Esternos FHD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7192
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar Estrenos ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7222
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar Estrenos FHD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16262
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar Estrenos HD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8771
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar F1 ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/71971
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar F1 FHD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7246
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar F1 HD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13549
+#EXTINF:0 radio="false" group-title="Movies",PINK HORROR
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/810
+#EXTINF:0 radio="false" group-title="Movies",PINK HORROR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/810
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WORLD CINEMA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/786.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WORLD CINEMA
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/786.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WORLD CINEMA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/786.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WORLD CINEMA
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/786.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 +24 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10429?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 +24 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10429?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 +24 HD
+http://seeyoutv.net:2300/parigi/parigi/10428?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 +24 HD
+http://seeyoutv.net:2300/parigi/parigi/10428?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10421?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10421?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 HD
+http://seeyoutv.net:2300/parigi/parigi/10420?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 HD
+http://seeyoutv.net:2300/parigi/parigi/10420?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 2 HD
+http://seeyoutv.net:2300/parigi/parigi/10422?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 2 HD
+http://seeyoutv.net:2300/parigi/parigi/10422?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 3 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10425?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 3 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10425?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 3 HD
+http://seeyoutv.net:2300/parigi/parigi/10424?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 3 HD
+http://seeyoutv.net:2300/parigi/parigi/10424?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Premium Cinema HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44378?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Premium Cinema HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44378?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Sky Cinema 1 HD
+http://seeyoutv.net:2300/parigi/parigi/10508?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Sky Cinema 1 HD
+http://seeyoutv.net:2300/parigi/parigi/10508?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA ACTION FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10537?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA ACTION FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10537?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA ACTION HD
+http://seeyoutv.net:2300/parigi/parigi/10536?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA ACTION HD
+http://seeyoutv.net:2300/parigi/parigi/10536?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Action HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15720?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Action HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15720?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Action UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6558?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Action UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6558?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA COLLECTION HD
+http://seeyoutv.net:2300/parigi/parigi/10533?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA COLLECTION HD
+http://seeyoutv.net:2300/parigi/parigi/10533?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA COLLECTION SD
+http://seeyoutv.net:2300/parigi/parigi/10532?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA COLLECTION SD
+http://seeyoutv.net:2300/parigi/parigi/10532?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA COMEDY HD
+http://seeyoutv.net:2300/parigi/parigi/10530?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA COMEDY HD
+http://seeyoutv.net:2300/parigi/parigi/10530?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA COMEDY SD
+http://seeyoutv.net:2300/parigi/parigi/10529?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA COMEDY SD
+http://seeyoutv.net:2300/parigi/parigi/10529?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Disney HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15717?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Disney HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15717?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DRAMA FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10528?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DRAMA FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10528?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DRAMA HD
+http://seeyoutv.net:2300/parigi/parigi/10527?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DRAMA HD
+http://seeyoutv.net:2300/parigi/parigi/10527?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DRAMA SD
+http://seeyoutv.net:2300/parigi/parigi/10526?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DRAMA SD
+http://seeyoutv.net:2300/parigi/parigi/10526?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DUE  24 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10525?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DUE  24 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10525?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DUE  24 HD
+http://seeyoutv.net:2300/parigi/parigi/10524?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DUE  24 HD
+http://seeyoutv.net:2300/parigi/parigi/10524?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DUE HD
+http://seeyoutv.net:2300/parigi/parigi/10522?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DUE HD
+http://seeyoutv.net:2300/parigi/parigi/10522?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DUE SD
+http://seeyoutv.net:2300/parigi/parigi/10521?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA DUE SD
+http://seeyoutv.net:2300/parigi/parigi/10521?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA FAMILY FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10520?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA FAMILY FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10520?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Family HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6555?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Family HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6555?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA FAMILY SD
+http://seeyoutv.net:2300/parigi/parigi/10518?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA FAMILY SD
+http://seeyoutv.net:2300/parigi/parigi/10518?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA ROMANCE HD
+http://seeyoutv.net:2300/parigi/parigi/10516?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA ROMANCE HD
+http://seeyoutv.net:2300/parigi/parigi/10516?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA ROMANCE SD
+http://seeyoutv.net:2300/parigi/parigi/10515?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA ROMANCE SD
+http://seeyoutv.net:2300/parigi/parigi/10515?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Sci-fi & Horror HD
+http://31.220.40.44:80/Ung_debernardi123/mag322/114358
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema SciFi UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6552?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema SciFi UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6552?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema SciFi UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6552
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Select HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15711?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Select HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15711?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Select UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6551?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Select UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6551?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA SUSPENSE HD
+http://seeyoutv.net:2300/parigi/parigi/10513?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA SUSPENSE HD
+http://seeyoutv.net:2300/parigi/parigi/10513?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA SUSPENSE SD
+http://seeyoutv.net:2300/parigi/parigi/10512?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY CINEMA SUSPENSE SD
+http://seeyoutv.net:2300/parigi/parigi/10512?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Thriller HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15718?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Thriller HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15718?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Thriller UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6549?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Thriller UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6549?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Sky FOOD NETWORK
+http://seeyoutv.net:2300/parigi/parigi/10672?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Sky FOOD NETWORK
+http://seeyoutv.net:2300/parigi/parigi/10672?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY FOOD NETWORK FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10474?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY FOOD NETWORK FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10474?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY FOX CRIME FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10469?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY FOX CRIME FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10469?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY FOX CRIME HD
+http://seeyoutv.net:2300/parigi/parigi/10468?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY FOX CRIME HD
+http://seeyoutv.net:2300/parigi/parigi/10468?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY FOX FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10467?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",SKY FOX FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10467?checkedby:hlscat.com
+#EXTINF:0 radio="false" group-title="Movies",Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:0 radio="false" group-title="Movies",Sky-MoviesComedy
+http://91.239.232.114:1935/live/source/chunklist_w1712669127.m3u8
+#EXTINF:0 radio="false" tvg-id="Sony Channel - UK" tvg-country="GB" group-title="Movies",Sony Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110044?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Sony Channel - UK" tvg-country="GB" group-title="Movies",Sony Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110044?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SONY MOVIE CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38701?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SONY MOVIE CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38701?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SONY MOVIE CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38701
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sony Movies Classic UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6524
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sony Movies UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9528
+#EXTINF:0 radio="false" tvg-country="AZ" group-title="Movies",Sony Sci-Fi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+#EXTINF:0 radio="false" tvg-country="UA" group-title="Movies",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="ES" group-title="Movies",Starz Cinema
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109986
+#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="US" group-title="Movies",STARZ CINEMA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97655?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="US" group-title="Movies",STARZ CINEMA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97655?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="US" group-title="Movies",STARZ CINEMA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97655
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ CINEMA WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110787?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ CINEMA WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110787
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ CINEMA WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110787?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Starz Comedy - Eastern" tvg-country="US" group-title="Movies",Starz Comedy
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/122
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ COMEDY WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110788
+#EXTINF:0 radio="false" tvg-id="Starz Edge - Eastern" tvg-country="US" group-title="Movies",STARZ EDGE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95918
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ EDGE WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110789
+#EXTINF:0 radio="false" tvg-id="Starz Encore Espanol" tvg-country="US" group-title="Movies",STARZ ENCORE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/94991
+#EXTINF:0 radio="false" tvg-id="Starz Encore Action - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE ACTION
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95801
+#EXTINF:0 radio="false" tvg-id="Starz Encore Action - Eastern" tvg-country="ES" group-title="Movies",Starz Encore Action
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109991
+#EXTINF:0 radio="false" tvg-id="Starz Encore Black - Eastern" tvg-country="ES" group-title="Movies",Starz Encore Black
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109992
+#EXTINF:0 radio="false" tvg-id="Starz Encore Black - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE BLACK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97580
+#EXTINF:0 radio="false" tvg-id="Starz Encore Classic - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE CLASSIC
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95873
+#EXTINF:0 radio="false" tvg-id="Starz Encore Classic - Eastern" tvg-country="ES" group-title="Movies",Starz Encore Classic
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109993
+#EXTINF:0 radio="false" tvg-id="Starz Encore Family - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE FAMILY
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97581
+#EXTINF:0 radio="false" tvg-id="Starz Encore Suspense - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE SUSPENSE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95802
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Starz Encore US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4896
+#EXTINF:0 radio="false" tvg-id="Starz Encore Westerns - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110791
+#EXTINF:0 radio="false" tvg-id="Starz Encore Westerns - Eastern" tvg-country="ES" group-title="Movies",Starz Encore Western
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109996
+#EXTINF:0 radio="false" tvg-id="Starz Encore Westerns - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE WESTERNS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/92315
+#EXTINF:0 radio="false" tvg-id="Starz Encore Westerns - Eastern" tvg-country="US" group-title="Movies",Starz Encore Westerns
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/5
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Starz Encoure
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/13
+#EXTINF:0 radio="false" tvg-id="Starz In Black - Eastern" tvg-country="US" group-title="Movies",STARZ IN BLACK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89055
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ IN BLACK WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110792
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz West
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109999
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98749
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" group-title="Movies",STIRR Black Cinema,US | STIRR Black Cinema
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",THE MOVIE CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/96959?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UA" group-title="Movies",Ultra HD Cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Zee Cinema - UK" tvg-country="US" group-title="Movies",ZEE CINEMA
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Zee Cinema - UK" tvg-country="GB" group-title="Movies",Zee Cinema
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110062?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" group-title="Music",30A Music
+http://30a-tv.com/music.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" group-title="Music",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" group-title="Music",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" group-title="Music",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" group-title="Music",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" group-title="Music",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" group-title="Music",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Music",California Music Channel TV
+http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Music",California Music Channel TV
+http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" group-title="Music",California Music Channel,California Music Channel (Opt-2)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" group-title="Music",California Music Channel,California Music Channel (Opt-2)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" group-title="Music",California Music Channel,California Music Channel (Opt-2)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=320&height=320" tvg-country="UN" group-title="Music",DanceStar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+#EXTINF:0 radio="false" tvg-country="US" group-title="Music",FUSE MUSIC
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/102140
+#EXTINF:0 radio="false" tvg-id="Court TV (KMTV-TV2) Omaha, NE" tvg-country="US" group-title="Music",MTV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1657
+#EXTINF:0 radio="false" tvg-id="Court TV (KMTV-TV2) Omaha, NE" tvg-country="US" group-title="Music",MTV
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/14
+#EXTINF:0 radio="false" tvg-id="MTV 2 - East" tvg-country="US" group-title="Music",MTV 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110897
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Music",MTV 80s UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9509
+#EXTINF:0 radio="false" tvg-id="MTV BASE - UK" tvg-country="GB" group-title="Music",MTV Base
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37072
+#EXTINF:0 radio="false" tvg-id="MTV Classic - East" tvg-country="GB" group-title="Music",MTV Classic
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37071
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Music",MTV Classic UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9538
+#EXTINF:0 radio="false" tvg-id="MTV HITS - UK" tvg-country="GB" group-title="Music",MTV Hits
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37070
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Music",MTV Music UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6577
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Music",MTV Rocks UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15845
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Music",MTV UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15819
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-country="US" group-title="Music",MTV,MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:0 radio="false" tvg-country="CZ" group-title="Music",Óčko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 radio="false" tvg-country="CZ" group-title="Music",Óčko STAR
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/XgF6S22.png" tvg-country="US" group-title="News",3News Now (KMTV-TV),CBS 3 KMTV,US | Omaha | CBS 3 KMTV
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/V8eTp2V.png" tvg-country="US" group-title="News",ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/V8eTp2V.png" tvg-country="US" group-title="News",ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="News",ABC News UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9535?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="News",ABC News UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9535?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC NEWS HD - UK" group-title="News",BBC NEWS
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BBC NEWS HD - UK" group-title="News",BBC NEWS
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/3pRD6Fx.png" tvg-country="GB" group-title="News",BBC News,UK | BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/3pRD6Fx.png" tvg-country="GB" group-title="News",BBC News,UK | BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="News",BBC WORLD NEWS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36867?checkedby:hlscat.com
+#EXTINF:0 radio="false" group-title="News",BBC WORLD NEWS
+http://220.158.149.28:8180/TV00000000000000000112@HHZT?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="CA" group-title="News",BBC WORLD NEWS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36867?checkedby:hlscat.com
+#EXTINF:0 radio="false" group-title="News",BBC WORLD NEWS
+http://220.158.149.28:8180/TV00000000000000000112@HHZT?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox News" tvg-country="US" group-title="News",Fox News
+http://dinamikiptv.com:7777/adalet/adalet123/53999?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox News" tvg-country="US" group-title="News",Fox News
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/2?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox News" tvg-country="US" group-title="News",Fox News
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/2?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox News" tvg-country="US" group-title="News",FOX NEWS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/31684?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox News" tvg-country="US" group-title="News",Fox News
+http://dinamikiptv.com:7777/adalet/adalet123/53999?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox News" tvg-country="US" group-title="News",FOX NEWS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/31684?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="News",Fox News HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6602?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="News",Fox News HD UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6602?checkedby:hlscat.com
 #EXTINF:-1 radio="true" tvg-logo="http://radiodance.radioclub.es/wp-content/uploads/2016/01/cropped-1dancegrande-270x270.jpg" group-title="Radio - CANADA",..:: *1Dance* ::..
 http://listen.radionomy.com/1-dance
 #EXTINF:-1 radio="true" tvg-logo="http://musica80.radioclub.es/wp-content/uploads/2018/12/cropped-80EXITS512-192x192.jpg" group-title="Radio - CANADA",..:: *80 HITS* ::..
@@ -16867,835 +18149,75 @@ http://bialystok.radio.pionier.net.pl:8000/pl/zloteprzeboje.ogg
 http://warszawa1-1.radio.pionier.net.pl:8000/pl/tuba9-1.mp3
 #EXTINF:-1 radio="false" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/11/Zona-Tres-91.5-FM-Guadalajara.jpg" group-title="Radio - World",Zona Tres 91.5 FM Guadalajara
 http://radio.promosat.com:8006/stream
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999912/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox American Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999909/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Battery Pop
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999920/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Best of AFV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/comedy_300x300.png" group-title="Redbox TV", Redbox Comedy
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/1920x1080_4870800/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999903/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Fail Army
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999916/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox FamilyFeud
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999913/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Filmhub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Filmrise
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999905/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox FilmRise Unsolved Mysteries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999900/300x300.png?type=color_onBlack_cropped" group-title="Redbox TV", Redbox Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999906/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Forensic Files
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999915/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Global Got Talent
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999911/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999907/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Hi-Yah
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999902/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Journey
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999917/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999914/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Maverick Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999918/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox Now This
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999908/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox People are Awesome
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/rush_300x300.png" group-title="Redbox TV", Redbox Rush
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/1920x1080_4870800/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/spotlight_300x300.png" group-title="Redbox TV", Redbox Spotlight
-https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/1920x1080_4870800/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999904/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox the pet collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999919/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://image.xumo.com/v1/channels/channel/9999921/300x300.png?type=color_onBlack" group-title="Redbox TV", Redbox USA today
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/960x540_5000000/index.m3u8
-#EXTINF:0 radio="false" tvg-country="RO" group-title="Entertainment",Antena Stars HD RO
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16003
-#EXTINF:0 radio="false" tvg-country="RO" group-title="Entertainment",Antena Stars RO
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5279
-#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",B Lifetime HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36898
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC 1 FHD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/26857
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" tvg-country="GB" group-title="Entertainment",BBC 1 Scotland,UK | BBC 1 Scotland
-https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",BBC AMERICA
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1329
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",BBC America
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/157
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",BBC America
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1493.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",BBC AMERICA Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109110
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",BBC America US
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14392
-#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",BBC CANADA
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36870
-#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",BBC Canada
-http://localdblagent.club:8080/live/Carlos1/Carlos1/8831.m3u8
-#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",BBC Canada
-http://localdblagent.club:8080/Carlos1/Carlos1/8831
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Entertainment UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9548
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Four HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6656
-#EXTINF:0 radio="false" group-title="Entertainment",BBC NEWS
-https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
-#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",BBC NEWS
-http://localdblagent.club:8080/Carlos1/Carlos1/8833
-#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",BBC NEWS
-http://localdblagent.club:8080/live/Carlos1/Carlos1/8833.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/3pRD6Fx.png" tvg-country="GB" group-title="Entertainment",BBC News,UK | BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC one FHD
-http://dinamikiptv.com:7777/adalet/adalet123/54751
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Parliament UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9546
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Scotland
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37168
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",BBC Two [Scotland] UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9551
-#EXTINF:0 radio="false" group-title="Entertainment",BBC WORLD NEWS
-http://220.158.149.28:8180/TV00000000000000000112@HHZT
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",BBC World News
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1494.m3u8
-#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",BBC WORLD NEWS
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36867
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" tvg-country="CA" group-title="Entertainment",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",CBBC
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110054
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Discovery Science
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/23
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",DISCOVERY SCIENCE
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1687
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Discovery Science
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1523.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",DISCOVERY SCIENCE Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109202
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Discovery Science UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6622
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",DOCUBOX HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/186
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Entertainment",Doku Box
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/572
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Entertainment",Fas & Fun Box
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/570
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",FIGHTBOXSD/HD
-http://dinamikiptv.com:7777/adalet/adalet123/18474
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Hallmark Channel
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1550.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HALLMARK CHANNEL
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1375
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HALLMARK CHANNEL Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109164
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HALLMARK DRAMA
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38591
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Hallmark Drama
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1551.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HALLMARK DRAMA Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109163
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Hallmark FHD US
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4889
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HALLMARK HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114215
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1
-http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31572
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1 HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15734
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1 UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6592
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 1 [B] UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6587
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 2
-http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31571
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 2 +1 UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15730
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 3
-http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31573
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 3 UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6590
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV 4
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/4264
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV BE
-http://eurostreamlive.dnsfor.me:8000/strlivetv/ecdmChhIjL/31575
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITV Be UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6588
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITVBE
-http://31.220.40.44:80/Ung_debernardi123/mag322/114329
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",ITVBe
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37151
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",KMTV Omaha
-https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Lifetime
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/27
-#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",LIFETIME
-http://localdblagent.club:8080/live/Carlos1/Carlos1/9150.m3u8
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Entertainment",Lifetime
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109952
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",LifeTime
-http://31.220.40.44:80/Ung_debernardi123/mag322/114331
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",LIFETIME
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1446
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",LifeTime
-http://dinamikiptv.com:7777/adalet/adalet123/54747
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Lifetime
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1563.m3u8
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Lifetime
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37128
-#EXTINF:0 radio="false" tvg-country="PL" group-title="Entertainment",Lifetime FHD
-http://bestcostiptv.com:8080/ruru/4fd09a88/10192
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Lifetime HD
-http://tvla.xyz:80/idovbesd/78U9cdg8Sn/43799
-#EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",LIFETIME HD
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36793
-#EXTINF:0 radio="false" tvg-country="PL" group-title="Entertainment",Lifetime HD
-http://c2.abcnew.site:8880/XHCN5VJgcs/h3B3e8NrZb/33462
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",LIFETIME Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109171
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Lifetime Real Women (LRW)
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13366.m3u8
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Entertainment",Music Box
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/461
-#EXTINF:0 radio="false" tvg-country="NE" group-title="Entertainment",Omaha CBS 3 (KMTV)
-http://localdblagent.club:8080/live/Carlos1/Carlos1/14232.m3u8
-#EXTINF:0 radio="false" group-title="Entertainment",TELEMUNDO Omaha
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13938.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",TR │ STAR HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="GB" group-title="News",BBC Arabic
-http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="GB" group-title="News",BBC Arabic
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="News",BBC WORLD NEWS Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109111
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="GB" group-title="News",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true&checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="GB" group-title="News",Sky News
-http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:0 radio="false" tvg-country="GB" group-title="News",Sky News UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6548
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/XgF6S22.png" tvg-country="US" group-title="News",3News Now (KMTV-TV),CBS 3 KMTV,US | Omaha | CBS 3 KMTV
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" group-title="Sport",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS ARENA
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98787
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS CRICKET
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98785
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS F1
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98783
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS FOOTBALL
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98781
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS GOLF
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98779
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS MAIN EVENT
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98777
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS MIX
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98857
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS NEWS
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98801
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS NFL
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98789
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS PREMIER LEAGUE
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98775
-#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",SKY SPORTS RACING
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98773
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sport 1 SD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/1922
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sport Arena HD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/10165
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sport F1 HD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/443
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sport Football HD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/10164
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sport News
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/16
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Arena HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7926
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Cricket HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7929
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Cricket UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/79221
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports F1 FHD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/14901
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Football HD
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/1275
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Golf UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9536
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Main Event HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7932
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Main Event UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/53277
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Mix
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5496
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Mix FHD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/31411
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports Mix HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7925
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports News FHD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/11774
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Sport",Sky Sports The Open HD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/11782
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Cinemax
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1460.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Cinemax (Pacific)
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1461.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Cinemax 5 Star Max
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13354.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Cinemax ActionMax
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1462.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Cinemax MoreMax
-http://localdblagent.club:8080/live/Carlos1/Carlos1/10239.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Cinemax MovieMax
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13851.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Cinemax OuterMax
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2460.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Cinemax ThrillerMax
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1463.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2458.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Cinema
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2619.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Cinema West
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13866.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Comedy
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1469.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Edge
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1470.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1471.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore Action
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2618.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore Black
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2617.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore Black West
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13869.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore Classic
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2616.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore Classic West
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13870.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore Family
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2615.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore Suspense
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2614.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore Suspense West
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13871.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore West
-http://localdblagent.club:8080/live/Carlos1/Carlos1/10240.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Encore Westerns
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2612.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz Kids & Family
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1626.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",1USA: Starz West
-http://localdblagent.club:8080/live/Carlos1/Carlos1/2613.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 1
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/54
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 1 FHD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6912
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 1 HD
-http://client.ksporttv.com:88/8lfICqia7f/9N3VCoVB3b/14331
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 1 TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14976
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 13
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/60
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 14
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/61
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 16
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/63
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 17
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/64
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 18
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/66
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 19
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/68
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 2 HD
-http://client.ksporttv.com:88/8lfICqia7f/9N3VCoVB3b/14332
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 20
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/65
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 3 FHD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6910
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 3 HD
-http://client.ksporttv.com:88/8lfICqia7f/9N3VCoVB3b/14333
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 5
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/57
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 6
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/58
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Box Office 7
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/59
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN IZ TV HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/678455
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN IZTV HD
-http://client.ksporttv.com:88/8lfICqia7f/9N3VCoVB3b/9628
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES ACTION 2 HD
-http://dinamikiptv.com:7777/adalet/adalet123/4968
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Action 2 HD
-http://client.ksporttv.com:88/8lfICqia7f/9N3VCoVB3b/2606
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Action 2 HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/34
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Action FHD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8688
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Action HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/33
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",BeiN Movies Action HD
-http://client.ksporttv.com:88/8lfICqia7f/9N3VCoVB3b/3371
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Comedy HD
-http://client.ksporttv.com:88/8lfICqia7f/9N3VCoVB3b/5275
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES FAMILY HD
-http://dinamikiptv.com:7777/adalet/adalet123/4966
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES PREMIER 2 HD
-http://dinamikiptv.com:7777/adalet/adalet123/4965
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Premier 2 HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/36
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Premier 2 HD
-http://client.ksporttv.com:88/8lfICqia7f/9N3VCoVB3b/14334
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Premier HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/35
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",bein Movies Stars HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8707
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Movies Turk HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/31
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES TURK HD
-http://dinamikiptv.com:7777/adalet/adalet123/4962
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN MOVIES Turk TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6847
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Series Comedy HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/41
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN SERIES COMEDY HD
-http://dinamikiptv.com:7777/adalet/adalet123/4960
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Series Drama HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/39
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN Series Sci-Fi HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/38
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",beIN SERIES VICE HD
-http://dinamikiptv.com:7777/adalet/adalet123/4958
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax 5 Star Max
-http://dinamikiptv.com:7777/adalet/adalet123/54039
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89057
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89056
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Action Max East
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95935
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110769
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax East
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/25
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95932
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Moremax
-http://31.220.40.44:80/Ung_debernardi123/mag322/114190
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110768
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99584
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX OUTERMAX
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95934
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Outermax
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/90
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Thrillermax
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/96
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95933
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110771
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110767
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax [West] HD US
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4914
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemaxx More Maxx
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/120
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Classic Movies
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:hlscat.com
-#EXTINF:0 radio="false" group-title="Movies",classicfilms
-https://bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DINAMIK BOX-SET
-http://dinamikiptv.com:7777/adalet/adalet123/41699
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 1
-http://dinamikiptv.com:7777/adalet/adalet123/41640
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 10
-http://dinamikiptv.com:7777/adalet/adalet123/41649
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 2
-http://dinamikiptv.com:7777/adalet/adalet123/41641
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 3
-http://dinamikiptv.com:7777/adalet/adalet123/41642
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 4
-http://dinamikiptv.com:7777/adalet/adalet123/41643
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 5
-http://dinamikiptv.com:7777/adalet/adalet123/41644
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 6
-http://dinamikiptv.com:7777/adalet/adalet123/41645
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 7
-http://dinamikiptv.com:7777/adalet/adalet123/41646
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 8
-http://dinamikiptv.com:7777/adalet/adalet123/41647
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BEIN OFFİCE 9
-http://dinamikiptv.com:7777/adalet/adalet123/41648
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",DREAM BOX-SET
-http://dinamikiptv.com:7777/adalet/adalet123/41672
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Dust (Sci-Fi)
-https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Euro Film AL
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4796
-#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR;US" group-title="Movies",EURO STAR,EuroStar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",EUROSTAR
-http://dinamikiptv.com:7777/adalet/adalet123/7914
-#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" group-title="Movies",EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Film 4 HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114316
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Film Box Arthouse
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/573
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Film Box Extra
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/575
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Film Box Plus
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/576
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Film Box Premium
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/574
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",FILM4 HD
-http://jimihendrix.icu:8080/zq1SZWvWNQ/1qIZ2Mrqjc/84047
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FilmBox Adrenalin HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636504
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FilmBox Aksiyon HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636502
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FilmBox Animasyon HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636500
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FilmBox Bilim Kurgu HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636499
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FilmBox Fantastic FHD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636492
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Filmbox Fantastik HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636496
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX FESTIVAL HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/73
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX FESTIVAL HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/73
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX GOLD HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/76
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX GOLD HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/76
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FilmBox Komedi HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636495
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FilmBox Komedi TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/10474
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FilmBox Korku HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/636494
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FilmBox Korku TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/10477
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX NOSTALGIL HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/72
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX NOSTALGIL HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/72
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX PREMIER HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/75
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX PREMIER HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/75
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX STARS HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/74
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX STARS HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/74
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX TURK HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/80
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",FILMBOX TURK HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/80
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/48iMZ7c.png" tvg-country="US" group-title="Movies",Filmon 360,The 360 Channel
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/BDtkjpS.png" tvg-country="UN" group-title="Movies",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/BDtkjpS.png" tvg-country="US" group-title="Movies",Filmrise Crime,US | Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/cQZdGc0.png" tvg-country="US" group-title="Movies",Filmrise Movies,US | Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",FX MOVIE
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/29312
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",HALLMARK MOVIES
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1611
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Hallmark Movies & Mysteries
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/132
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Hallmark Movies & Mysteries
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1552.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",HALLMARK MOVIES Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109165
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Hallmark Movies&Mysteries HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114216
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",LIFETIME MOVIE NETWORK
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/2514
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Lifetime Movie Network
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1564.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",LIFETIME MOVIE NETWORK Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109172
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/Zk5wP5K.png" tvg-country="US" group-title="Movies",Maverick Movies,US | Maverick Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-country="US" group-title="Movies",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Moviemax Stars HD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6855
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",MOVIEPLEX
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110084
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",MOVIES: Starz Encore Family West
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13879.m3u8
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",MOVISTAR ACCION
-http://tv.iptv5latino.cl:8000/live/yasna/yasna123/3659.ts
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",MOVISTAR ACCION
-http://tv.iptv5latino.cl:8000/live/yasna/yasna123/27455.ts
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",MOVISTAR ACCION FHD
-http://dinamikiptv.com:7777/adalet/adalet123/54662
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",MOVISTAR COMEDIA
-http://tv.iptv5latino.cl:8000/live/yasna/yasna123/3658.ts
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",MOVISTAR DEPORTES 1
-http://tv.iptv5latino.cl:8000/live/yasna/yasna123/3657.ts
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",MOVISTAR DOC&ROLL
-http://dinamikiptv.com:7777/adalet/adalet123/54666
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",MOVISTAR DRAMA
-http://tv.iptv5latino.cl:8000/live/yasna/yasna123/27459.ts
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" tvg-country="US" group-title="Movies",OAN Encore,US | OAN Encore
-https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
-#EXTINF:0 radio="false" group-title="Movies",PINK FILM
-http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/816
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK FILM
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/816.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Popular Science
-http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" tvg-country="KR" group-title="Movies",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/RX6YusQ.png" tvg-country="US" group-title="Movies",Sci-fi 4U
-https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SCIFI 4U
-https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Atlantic
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37099
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Action FHD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114350
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Action HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15720
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Action UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6558
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Crime & Thriller HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114351
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Disney HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15717
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Family HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6555
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Greats
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/4266
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Premiere
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/4265
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Premiere UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6553
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema SciFi UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6552
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema SciFi UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6552
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Select HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15711
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Select UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6551
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Thriller HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15718
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Cinema Thriller UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6549
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Comedy
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110060
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Crime
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110063
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky One
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37149
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",SKY ONE FHD
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/17976
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky ONE HD UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15902
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Two
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37147
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Two
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/423
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sky Witness UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7912
-#EXTINF:0 radio="false" group-title="Movies",Sky-MoviesComedy
-http://91.239.232.114:1935/live/source/chunklist_w1712669127.m3u8
-#EXTINF:0 radio="false" group-title="Movies",Sky-MoviesComedy
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SONY MOVIE CHANNEL
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38701
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Sony Movie Channel
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1594.m3u8
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sony Movies
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110041
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sony Movies Classic UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6524
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Sony Movies UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9528
-#EXTINF:0 radio="false" tvg-country="RU" group-title="Movies",SONY SCI-FI
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/3846
-#EXTINF:0 radio="false" tvg-country="GR" group-title="Movies",STAR
-http://c2.abcnew.site:8880/XHCN5VJgcs/h3B3e8NrZb/31200
-#EXTINF:0 radio="false" tvg-country="AZ" group-title="Movies",Star
-http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
-#EXTINF:0 radio="false" tvg-country="UA" group-title="Movies",Star Cinema HD
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Star Cinema HD
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="UA" group-title="Movies",Star Family HD
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Star Family HD
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Star Gold
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110058
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",STAR HD
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/295
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Star HD
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/525
-#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Star Jalsha
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Star Plus
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/709
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",Star Plus
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110059
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Star Plus FHD
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/708
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Star Shkodra AL
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9998
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",STAR TREK
-http://dinamikiptv.com:7777/adalet/adalet123/51555
-#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" group-title="Movies",Star TV
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" group-title="Movies",Star TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Star TV FHD TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/12834
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",STAR TV HD
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",STAR TV HD
-http://iptvsmarters.cc:25461/tapsin/suQ1xQVsQf/94
-#EXTINF:0 radio="false" tvg-country="AZ" group-title="Movies",STAR TV SD
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",STAR TV SD
-http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",STAR TV SD
-http://dinamikiptv.com:7777/adalet/adalet123/7896
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",Star TV TR
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8072
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",STAR UHD
-http://dinamikiptv.com:7777/adalet/adalet123/4860
-#EXTINF:0 radio="false" tvg-country="DE" group-title="Movies",STAR WARS
-http://dinamikiptv.com:7777/adalet/adalet123/51011
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",STAR WARS
-http://dinamikiptv.com:7777/adalet/adalet123/51290
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",Start channel
-http://meti-tv.xyz:80/MetiTV-app/MetiTV-telegram/101
-#EXTINF:0 radio="false" tvg-country="AL" group-title="Movies",START TV
-http://vizioniptv.com:25461/SadikHaliti/JMIrqXFEKv/455
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Movies",STARTV HD
-http://dinamikiptv.com:7777/adalet/adalet123/4879
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ
-http://tv.iptv5latino.cl:8000/live/yasna/yasna123/15573.ts
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1271
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Black
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109985
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Cinema
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109986
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ CINEMA
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97655
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ CINEMA WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110787
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ COMEDY
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95919
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Comedy
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109987
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Starz Comedy
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/122
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ COMEDY WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110788
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz East
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109988
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ EDGE
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95918
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ EDGE WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110789
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ ENCORE
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/94991
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Encore Action
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109991
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ ENCORE ACTION
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95801
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Encore Black
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109992
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ ENCORE BLACK
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97580
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Encore Classic
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109993
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ ENCORE CLASSIC
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95873
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ ENCORE FAMILY
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97581
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Encore Family
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109994
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Starz Encore HD
-http://dinamikiptv.com:7777/adalet/adalet123/54001
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Encore Suspense
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109995
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ ENCORE SUSPENSE
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95802
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Starz Encore US
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4896
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ ENCORE WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110791
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Encore Western
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109996
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ ENCORE WESTERNS
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/92315
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Starz Encore Westerns
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/5
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Starz Encoure
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/13
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Family
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109997
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ IN BLACK
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89055
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ IN BLACK Low
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89054
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ IN BLACK WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110792
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz Kids & Family
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109998
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ KIDS & FAMILY
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95916
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",STARZ TV
-http://dinamikiptv.com:7777/adalet/adalet123/54787
-#EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz West
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109999
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98749
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" group-title="Movies",STIRR Movies,US | STIRR Movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",TCM Turner Classic Movies
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1612.m3u8
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",TCMfilm
-http://dinamikiptv.com:7777/adalet/adalet123/54768
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",The Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",The Film Detective
-http://localdblagent.club:8080/live/Carlos1/Carlos1/13373.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/ukKFllt.jpg" tvg-country="US" group-title="Movies",The Film Detective,US | The Film Detective
-https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",THE MOVIE CHANNEL
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/96959
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",True Movies 1
-http://31.220.40.44:80/Ung_debernardi123/mag322/114384
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Movies",True Movies 1 UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6523
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" tvg-country="CN" group-title="Movies",XMTV Star,厦门卫视XMTV Star
-http://cstvpull.live.wscdns.com/live/xiamen4.flv
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",Fox College Sports Atlantic HD
+http://tvla.xyz:80/idovbesd/78U9cdg8Sn/43741?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",Fox College Sports Atlantic HD
+http://tvla.xyz:80/idovbesd/78U9cdg8Sn/43741?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox Sports 1" tvg-country="US" group-title="Sport",FOX SPORTS 1
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1367?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox Sports 1" tvg-country="US" group-title="Sport",FOX SPORTS 1
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1367?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox Sports 2" tvg-country="US" group-title="Sport",FOX SPORTS 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38483?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox Sports 2" tvg-country="US" group-title="Sport",FOX SPORTS 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38483?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox Sports Midwest - Nebraska" tvg-country="US" group-title="Sport",FOX SPORTS MIDWEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33756?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Fox Sports Midwest - Nebraska" tvg-country="US" group-title="Sport",FOX SPORTS MIDWEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33756?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS NORTH
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33755?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS NORTH
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33755?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS PRIME TICKET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36570?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS PRIME TICKET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36570?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS RACING
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99601?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS RACING
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99601?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTH
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33751?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTH
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33751?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTH PLUS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/111019?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTH PLUS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/111019?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTHEAST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33750?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTHEAST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33750?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTHWEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33749?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTHWEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36277?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTHWEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36277?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS SOUTHWEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33749?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33746?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Sport",FOX SPORTS WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/33746?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Golf Channel USA" tvg-country="US" group-title="Sport",GOLF CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1479?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Golf Channel USA" tvg-country="US" group-title="Sport",GOLF CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1479?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Sport",Movistar Deportes 2 FHD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16277
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Sport",Movistar Deportes 2 HD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7239
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Sport",Movistar Deportes FHD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16278
+#EXTINF:0 radio="false" tvg-country="ES" group-title="Sport",Movistar Deportes HD ES
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7240
+#EXTINF:0 radio="false" tvg-id="Sportsman Channel" tvg-country="US" group-title="Sport",SPORTSMAN CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36070?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Sportsman Channel" tvg-country="US" group-title="Sport",SPORTSMAN CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36070?checkedby:hlscat.com
