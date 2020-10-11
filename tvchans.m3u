@@ -2870,13 +2870,13 @@ https://ch.iptvmate.net/6c088c64618865ee2d9f9fd8652a9648.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/623adf1bdd517a528d6ccccddeb3eb61.png" tvg-country="US" group-title="Entertainment",30A Sidewalks
 https://ch.iptvmate.net/d92640f6f4549342bb83566c7fdec0f6.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b20c6e83771485de9ad6642340438701.png" tvg-country="US" group-title="Entertainment",30A TV
-https://ch.iptvmate.net/4cb0bcd97caa78925850517a32436122.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b20c6e83771485de9ad6642340438701.png" tvg-country="US" group-title="Entertainment",30A TV
 https://ch.iptvmate.net/4cb0bcd97caa78925850517a32436122.m3u8?fluxustv.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a1d03339c144000a9d22f0e9c75e8c75.png" tvg-country="US" group-title="Entertainment",3ABN Latino
-https://ch.iptvmate.net/8a194d254ddddcbe37aed4d8db488a36.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b20c6e83771485de9ad6642340438701.png" tvg-country="US" group-title="Entertainment",30A TV
+https://ch.iptvmate.net/4cb0bcd97caa78925850517a32436122.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",3ABN Latino
 https://ch.iptvmate.net/bddb72204ad1f3c476fc24fa3e4bf57e.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a1d03339c144000a9d22f0e9c75e8c75.png" tvg-country="US" group-title="Entertainment",3ABN Latino
+https://ch.iptvmate.net/8a194d254ddddcbe37aed4d8db488a36.m3u8
 #EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-country="US" group-title="Entertainment",3ABN Praise Him Music Channel,US | 3ABN Praise Him Music Channel
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-country="US" group-title="Entertainment",3ABN Praise Him Music Channel,US | 3ABN Praise Him Music Channel
@@ -2886,9 +2886,9 @@ http://mypanel.tv:8080/carter123424/SsFNP3g6VF/11461
 #EXTINF:0 radio="false" tvg-id="5STAR - UK" tvg-country="GB" group-title="Entertainment",5 Star UK
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6665
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/5cff627919f7774cdaf8a3669bb9895e.png" tvg-country="CA" group-title="Entertainment",5AAB TV
-https://ch.iptvmate.net/68b7512f40e38699b70b23682fbefe46.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/5cff627919f7774cdaf8a3669bb9895e.png" tvg-country="CA" group-title="Entertainment",5AAB TV
 https://ch.iptvmate.net/900bb12a091fb46b92b48f877b1f005e.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/5cff627919f7774cdaf8a3669bb9895e.png" tvg-country="CA" group-title="Entertainment",5AAB TV
+https://ch.iptvmate.net/68b7512f40e38699b70b23682fbefe46.m3u8
 #EXTINF:0 radio="false" tvg-id="5STAR - UK" tvg-country="GB" group-title="Entertainment",5Star
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37144
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7da87456ccfbc4928d5dda4688d5838b.png" tvg-country="US" group-title="Entertainment",7News Boston (WHDH)
@@ -2907,16 +2907,16 @@ http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/188?c
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/188?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bdd74c5fe81b0d86f0352923ceb88509.png" tvg-country="US" group-title="Entertainment",ABC 10 Miami FL (WPLG)
 https://ch.iptvmate.net/7d09e02dbc56346e610bef4ab23f4402.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/fe884cef93df161c473e7bc4654e06a5.png" tvg-country="US" group-title="Entertainment",ABC 2 Baton Rouge LA (WBRZ-HD)
-https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",ABC 2 Baton Rouge LA (WBRZ-HD)
 https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/fe884cef93df161c473e7bc4654e06a5.png" tvg-country="US" group-title="Entertainment",ABC 2 Baton Rouge LA (WBRZ-HD)
+https://ch.iptvmate.net/7c7e2741d1cef893399312286f8e2923.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-id="ABC HD Los Angeles-US" tvg-name="ABC HD Los Angeles-US" tvg-logo="https://img.iptvmate.net/bac26025005d12c88516d12e300e767e.png" tvg-country="US" group-title="Entertainment",ABC 7 Los Angeles CA (KABC-TV)
 https://ch.iptvmate.net/061e68ed98eac49acf5ad38bb71bd667.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a08c9345d84a9d8a7c6e119e278a6fea.png" tvg-country="US" group-title="Entertainment",ABC 7 Sarasota FL (WWSB)
-https://ch.iptvmate.net/30bbb346ab85abdec5e46414119c44f7.m3u8
 #EXTINF:-1 radio="false" tvg-id="ABC 7 HD Sarsota-US" tvg-name="ABC 7 HD Sarsota-US" tvg-logo="https://img.iptvmate.net/55da51556a9e2746d373c83593d4c795.png" tvg-country="US" group-title="Entertainment",ABC 7 Sarasota FL (WWSB)
 https://ch.iptvmate.net/9ddacb48c97d2f9d99098e1664f20176.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a08c9345d84a9d8a7c6e119e278a6fea.png" tvg-country="US" group-title="Entertainment",ABC 7 Sarasota FL (WWSB)
+https://ch.iptvmate.net/30bbb346ab85abdec5e46414119c44f7.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",ABC 9 Chattanooga TN (WTVC)
 https://ch.iptvmate.net/da2a27aa003a0e5daaaf9d3bfbe17e6b.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/72453ce57e8bfb5fb112692419833bee.jpg" tvg-country="US" group-title="Entertainment",ABC 9 Orlando FL (WFTV-HD)
@@ -2962,11 +2962,11 @@ https://ch.iptvmate.net/74b0fe0aab56fb60bda373f59b288dfd.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7c4517dd6d8c6f0877380af6a335a04e.jpg" tvg-country="US" group-title="Entertainment",Akaku 55 (Hawaii)
 https://ch.iptvmate.net/7980a3f3cefa674f6c5be161c002a7af.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ea05d4409c8653c2171fe7ae4e63644c.jpg" tvg-country="US" group-title="Entertainment",AKC TV
-https://ch.iptvmate.net/e221c45076177ab0cef3268d747d9ab6.m3u8
+https://ch.iptvmate.net/2550dc25b5b0b3c0b8c9622291192966.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ea05d4409c8653c2171fe7ae4e63644c.jpg" tvg-country="US" group-title="Entertainment",AKC TV
 https://ch.iptvmate.net/2279b2dbda73b0e0f2000e889cb36b36.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ea05d4409c8653c2171fe7ae4e63644c.jpg" tvg-country="US" group-title="Entertainment",AKC TV
-https://ch.iptvmate.net/2550dc25b5b0b3c0b8c9622291192966.m3u8
+https://ch.iptvmate.net/e221c45076177ab0cef3268d747d9ab6.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7e26bb3e8cc8c02aef2d5e33cdd50511.jpg" tvg-country="TR" group-title="Entertainment",Akilli TV
 https://ch.iptvmate.net/9452d59fcd61c10a2d9d3c616c0abca3.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/56cc4b130e062cde201fa271972ffd70.png" tvg-country="TR" group-title="Entertainment",Akit TV
@@ -2978,13 +2978,13 @@ https://ch.iptvmate.net/254e5f10ea1adb5ed8304033818fad0e.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bc984a6d53229c255aaf253664413467.jpg" tvg-country="UK" group-title="Entertainment",Al Magharibia
 https://ch.iptvmate.net/efb8a8bfd30edd52bcd6a9c5f6f8c15b.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/61be7285090dfb66767db3644d89048f.png" tvg-country="UK" group-title="Entertainment",Al-Hiwar
-https://ch.iptvmate.net/3429a8c49a229c6e368fb9c3107bd79f.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/61be7285090dfb66767db3644d89048f.png" tvg-country="UK" group-title="Entertainment",Al-Hiwar
 https://ch.iptvmate.net/b08d6392f2cc36bd8b97ef4df53a2a51.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e3ca7ceda584ff6bf20fd0a181b17ed7.png" tvg-country="TR" group-title="Entertainment",Al-Zahra TV Turkic
-https://ch.iptvmate.net/c316cf0647990d5d9c439d4c5872ff55.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/61be7285090dfb66767db3644d89048f.png" tvg-country="UK" group-title="Entertainment",Al-Hiwar
+https://ch.iptvmate.net/3429a8c49a229c6e368fb9c3107bd79f.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e3ca7ceda584ff6bf20fd0a181b17ed7.png" tvg-country="TR" group-title="Entertainment",Al-Zahra TV Turkic
 https://ch.iptvmate.net/8a7e0b2d25291c89cff016567069892c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e3ca7ceda584ff6bf20fd0a181b17ed7.png" tvg-country="TR" group-title="Entertainment",Al-Zahra TV Turkic
+https://ch.iptvmate.net/c316cf0647990d5d9c439d4c5872ff55.m3u8
 #EXTINF:0 radio="false" tvg-country="AL" group-title="Entertainment",Alb Movie HD AL
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4751
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c71e076efce29c648e4bf056f51531bb.png" tvg-country="US" group-title="Entertainment",Albanian TV of America
@@ -2993,16 +2993,16 @@ https://ch.iptvmate.net/2d872cbf9ae4b6440be694665f9d8f00.m3u8
 https://ch.iptvmate.net/0161a8f7c941624b4df934908399f3a3.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7197a2c6d4760aacc41dbfe84954ada0.png" tvg-country="TR" group-title="Entertainment",Altaş TV
 https://ch.iptvmate.net/49fe909da6bd7c3d1e6f4508d48024f7.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c3aa058dd7da707de9898edf135cfdc1.png" tvg-country="CA" group-title="Entertainment",Amazing Discoveries TV
-https://ch.iptvmate.net/f6bd7f209cae503ae371be08e20e8f6a.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/8e61b42534cdf2b317a8338f61b5f03b.png" tvg-country="CA" group-title="Entertainment",Amazing Discoveries TV
 https://ch.iptvmate.net/a8d7b7d1a98abe222d0b6155b01ec45c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c3aa058dd7da707de9898edf135cfdc1.png" tvg-country="CA" group-title="Entertainment",Amazing Discoveries TV
+https://ch.iptvmate.net/f6bd7f209cae503ae371be08e20e8f6a.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ded6743d6c5ca2fa997a96c535e01242.png" tvg-country="US" group-title="Entertainment",America Teve
 https://ch.iptvmate.net/0c47ae2c2907f28a6995fe2bad6ebb18.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0aceca9c1e403e40b03679e4eef80cec.png" tvg-country="US" group-title="Entertainment",America's Funniest Videos
-https://ch.iptvmate.net/eb262178595af65306eff86209085f80.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0aceca9c1e403e40b03679e4eef80cec.png" tvg-country="US" group-title="Entertainment",America's Funniest Videos
 https://ch.iptvmate.net/064db706264ca8b6225d06fba01c25dc.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0aceca9c1e403e40b03679e4eef80cec.png" tvg-country="US" group-title="Entertainment",America's Funniest Videos
+https://ch.iptvmate.net/eb262178595af65306eff86209085f80.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a1b49c715695f1e573efed27d4c773fb.png" tvg-country="US" group-title="Entertainment",American Classic Network
 https://ch.iptvmate.net/8eb6d591d310b58b313761f94b5d5119.m3u8
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",American Hero's Channel
@@ -3014,15 +3014,15 @@ http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1681?checkedby:h
 #EXTINF:0 radio="false" tvg-id="American Heroes Channel" tvg-country="US" group-title="Entertainment",AMERICAN HEROES CHANNEL
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1681?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="Entertainment",American Horrors
-https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="Entertainment",American Horrors
 https://ch.iptvmate.net/e9c182737849423bf143fa86e3818da8.m3u8
-#EXTINF:0 radio="false" tvg-id="Animal Planet US - East" tvg-country="GB" group-title="Entertainment",ANIMAL PLANET
-http://193.33.39.108:8107/30704
-#EXTINF:0 radio="false" tvg-id="Animal Planet US - East" tvg-country="US" group-title="Entertainment",ANIMAL PLANET
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1466
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/428b059952eae27f1886e6c420fe8dd5.jpg" tvg-country="US" group-title="Entertainment",American Horrors
+https://ch.iptvmate.net/af217b7817786a755770a081467e26e9.m3u8
 #EXTINF:0 radio="false" tvg-id="Animal Planet US - East" tvg-country="US" group-title="Entertainment",Animal Planet
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/111
+#EXTINF:0 radio="false" tvg-id="Animal Planet US - East" tvg-country="US" group-title="Entertainment",ANIMAL PLANET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1466
+#EXTINF:0 radio="false" tvg-id="Animal Planet US - East" tvg-country="GB" group-title="Entertainment",ANIMAL PLANET
+http://193.33.39.108:8107/30704
 #EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Animal Planet HD UK
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6662
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",ANIMAL PLANET WEST
@@ -3049,9 +3049,9 @@ http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/157?c
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1329?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="BBC America - East" tvg-country="US" group-title="Entertainment",BBC America
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/157?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="BBC America" tvg-name="BBC America" tvg-country="US" group-title="Entertainment",BBC America US
+#EXTINF:0 radio="false" tvg-id="BBC America - East" tvg-country="US" group-title="Entertainment",BBC America US
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14392?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="BBC America" tvg-country="US" group-title="Entertainment",BBC America US
+#EXTINF:0 radio="false" tvg-id="BBC America - East" tvg-name="BBC America" tvg-country="US" group-title="Entertainment",BBC America US
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/14392?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",BBC CANADA
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36870?checkedby:hlscat.com
@@ -3098,37 +3098,37 @@ https://ch.iptvmate.net/3c01e0a20cf9edf300ecd311217b3f88.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9a7dcf487567605422ed5e4fb9d04540.jpg" tvg-country="US" group-title="Entertainment",Benicia TV
 https://ch.iptvmate.net/57f68fa6f6c3ba4c9bf9cb034b267ccd.m3u8
 #EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1330?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1330?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1330
 #EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
 http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24
 #EXTINF:-1 radio="false" tvg-id="BET - Eastern Feed" tvg-logo="https://img.iptvmate.net/41d4ec56a386c9eaac582ca3f6d72a85.jpg" tvg-country="US" group-title="Entertainment",BET
 https://ch.iptvmate.net/e8ab3570abb0f004121d590f5477c669.m3u8
-#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1330?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="BET - Eastern Feed" tvg-country="US" group-title="Entertainment",BET
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1330?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95936?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2
 #EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95936
 #EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95936?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95936?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="BET Her" tvg-country="US" group-title="Entertainment",BET HER
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Bet UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6654?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Bet UK
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6654?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Bet UK
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6654
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Bet UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6654?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Bet UK
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/6654?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Beto TV
 https://ch.iptvmate.net/1c23ae7a6dd56c29b350f8ca9677d80d.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Better Health TV
@@ -3147,16 +3147,6 @@ https://ch.iptvmate.net/f0f03551fb689da87ec224056054f3fa.m3u8
 https://ch.iptvmate.net/976f3050d78e97f340b139e1cc6ba03f.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/89955bba927b44b0328817093a77c835.png" tvg-country="US" group-title="Entertainment",BlazeTV
 https://ch.iptvmate.net/e89964cc1472a1ac17b5ef9c49e36922.m3u8
-#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/df4c285c941161dab01feed30d767f99.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV
-https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
-#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/e79eddbd84a158c60b1f729cdd042f29.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
-https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
-#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/e79eddbd84a158c60b1f729cdd042f29.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
-https://ch.iptvmate.net/c1e29b0aff2598fedb39bdf11df587ee.m3u8
-#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/e79eddbd84a158c60b1f729cdd042f29.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
-https://ch.iptvmate.net/c6363fe80509f3b0cb9863e5407cda76.m3u8
-#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/e79eddbd84a158c60b1f729cdd042f29.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
-https://ch.iptvmate.net/2deb4121c498fd2252afdb5e83e2cfc8.m3u8
 #EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/1255f30e0b2ff28a94515c51ae65ffde.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
 https://ch.iptvmate.net/2f2aa870b2ad7b71ab7136e3ab3ac449.m3u8
 #EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/8afc724eba2937d70679856e35db1898.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
@@ -3165,28 +3155,40 @@ https://ch.iptvmate.net/1ced4c056743af6873129a8faf329277.m3u8
 https://ch.iptvmate.net/55223f6e32038e5be12628de5464cf0e.m3u8
 #EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/e79eddbd84a158c60b1f729cdd042f29.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
 https://ch.iptvmate.net/28daf00f05cca02cab323a37d900cb03.m3u8
+#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/e79eddbd84a158c60b1f729cdd042f29.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
+https://ch.iptvmate.net/2deb4121c498fd2252afdb5e83e2cfc8.m3u8
+#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/df4c285c941161dab01feed30d767f99.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV
+https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
+#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/e79eddbd84a158c60b1f729cdd042f29.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
+https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
+#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/e79eddbd84a158c60b1f729cdd042f29.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
+https://ch.iptvmate.net/c6363fe80509f3b0cb9863e5407cda76.m3u8
+#EXTINF:-1 radio="false" tvg-id="Bloomberg TV USA" tvg-name="Bloomberg TV USA-US" tvg-logo="https://img.iptvmate.net/e79eddbd84a158c60b1f729cdd042f29.png" tvg-country="US" group-title="Entertainment",Bloomberg TV
+https://ch.iptvmate.net/c1e29b0aff2598fedb39bdf11df587ee.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/4bc05ba28710c4f9507d006958db5070.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV Asia
 https://ch.iptvmate.net/e8a5660ea1a83fcb3222fca3a825d568.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/33b1edcfb38a967cf5f17503b52b6c59.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV Asia Live Event
 https://ch.iptvmate.net/e6f216aedc6d0bc3db8af5a84121e243.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/33b1edcfb38a967cf5f17503b52b6c59.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV EMEA Live Event
 https://ch.iptvmate.net/58b6f4489bfb977b154f700b26561fc2.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/46a15c9fee0cec8846db9cec302d87a7.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV Europe
-https://ch.iptvmate.net/d73d5e386b7f6b6b6e4eefa4b353aaf5.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/de85be9d39d7d4ace020da2aefbfb85a.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV Europe
-https://ch.iptvmate.net/45d999f59d4a64e0db2f1d3ba21cc689.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/de85be9d39d7d4ace020da2aefbfb85a.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV Europe
 https://ch.iptvmate.net/3f2cc6fe4597f939936b5f7db22691d0.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/de85be9d39d7d4ace020da2aefbfb85a.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV Europe
+https://ch.iptvmate.net/45d999f59d4a64e0db2f1d3ba21cc689.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/46a15c9fee0cec8846db9cec302d87a7.jpg" tvg-country="US" group-title="Entertainment",Bloomberg TV Europe
+https://ch.iptvmate.net/d73d5e386b7f6b6b6e4eefa4b353aaf5.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Bloomberg TV Live Event
 https://ch.iptvmate.net/8e8dded8be083ac70cba365372f58d65.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Bloomberg TV Politics Live Event
 https://ch.iptvmate.net/79d7665e910972097aa2af09bb283836.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/772e7396998bd4fabdb194f5bb5c893a.jpg" tvg-country="US" group-title="Entertainment",Blush Romance TV
 https://ch.iptvmate.net/5038aba58cffa600bef1a4371de23e9c.m3u8
-#EXTINF:-1 radio="false" tvg-id="FOX Boston-US" tvg-name="FOX Boston-US" tvg-logo="https://img.iptvmate.net/6872f95416cbc85a1c7fa51db9307f32.png" tvg-country="US" group-title="Entertainment",Boston 25 News (WFXT)
-https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
+#EXTINF:0 radio="false" tvg-id="Boomerang HD - UK" tvg-country="UN" group-title="Entertainment",BOOMERANG HD
+http://seeyoutv.net:2300/parigi/parigi/10560?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-id="FOX Boston-US" tvg-name="FOX Boston-US" tvg-logo="https://img.iptvmate.net/218afcc3eb331772eeaaac5012587412.jpg" tvg-country="US" group-title="Entertainment",Boston 25 News (WFXT)
 https://ch.iptvmate.net/0a97b4048f0ac70bf060269be2b93b52.m3u8
+#EXTINF:-1 radio="false" tvg-id="FOX Boston-US" tvg-name="FOX Boston-US" tvg-logo="https://img.iptvmate.net/6872f95416cbc85a1c7fa51db9307f32.png" tvg-country="US" group-title="Entertainment",Boston 25 News (WFXT)
+https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Bowie TV
 https://ch.iptvmate.net/5120f05b1039204c05de4f5c9c5ed2dd.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d6f3d88e78ee8a5737708376d31330f9.jpg" tvg-country="UK" group-title="Entertainment",British Muslim TV
@@ -3207,12 +3209,12 @@ https://ch.iptvmate.net/e79953c11761b21be5fd67f9f163b383.m3u8
 https://ch.iptvmate.net/bf5286f0e3a17d139b85103864277d0b.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/155a14d37ada49b591d21151d54cbc02.png" tvg-country="TR" group-title="Entertainment",Buyuk Sivas TV
 https://ch.iptvmate.net/6cfd84ac2e658502f3312057e54b28a1.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/98e15edb4f72622bdfb3b150e733c84d.jpg" tvg-country="US" group-title="Entertainment",Buzzr
-https://ch.iptvmate.net/ba983d3c69320d5495bbb011c2c692a0.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e7303e46a4869b1a1ff367213997e6eb.png" tvg-country="US" group-title="Entertainment",Buzzr
-https://ch.iptvmate.net/080b80354d164aa5a9e27f3a9c48ad01.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0cb39329e39792b29d765a20632c8e4b.png" tvg-country="US" group-title="Entertainment",Buzzr
 https://ch.iptvmate.net/080b80354d164aa5a9e27f3a9c48ad01.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e7303e46a4869b1a1ff367213997e6eb.png" tvg-country="US" group-title="Entertainment",Buzzr
+https://ch.iptvmate.net/080b80354d164aa5a9e27f3a9c48ad01.m3u8?fluxustv.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/98e15edb4f72622bdfb3b150e733c84d.jpg" tvg-country="US" group-title="Entertainment",Buzzr
+https://ch.iptvmate.net/ba983d3c69320d5495bbb011c2c692a0.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c7d9f79bbbc1ad29204741e6d46f84c1.png" tvg-country="US" group-title="Entertainment",byu TV
 https://ch.iptvmate.net/b87a8de6fa45cca4a2fc0838c1c5617e.m3u8
 #EXTINF:-1 radio="false" tvg-id="C-SPAN" tvg-name="CSPAN-US" tvg-logo="https://img.iptvmate.net/6767b667ad884c456a937d0d0f4b65be.png" tvg-country="US" group-title="Entertainment",C-Span
@@ -3221,12 +3223,12 @@ https://ch.iptvmate.net/ff61cf66b6cf128bcf8ed898e3d5b7ad.m3u8
 https://ch.iptvmate.net/93cbc35d3fd27b52fbd71b448c6d792f.m3u8
 #EXTINF:-1 radio="false" tvg-id="C-SPAN 3" tvg-name="CSPAN 3-US" tvg-logo="https://img.iptvmate.net/290480b9dabf41b06f84fd695d42412c.png" tvg-country="US" group-title="Entertainment",C-Span 3
 https://ch.iptvmate.net/cdd0e08dabcf6c0fe613be593028725a.m3u8
-#EXTINF:0 radio="false" tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-logo="https://img.iptvmate.net/4c16c87d7128eae5e72fd6540f32b80b.png" tvg-country="US" group-title="Entertainment",California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?iptvm3uplaylists.m3u8&checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-logo="https://img.iptvmate.net/4c16c87d7128eae5e72fd6540f32b80b.png" tvg-country="US" group-title="Entertainment",California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?iptvm3uplaylists.m3u8&checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-logo="https://img.iptvmate.net/4c16c87d7128eae5e72fd6540f32b80b.png" tvg-country="US" group-title="Entertainment",California Music Channel
 https://ch.iptvmate.net/24a35400e0d6333f98d126de8252659c.m3u8
+#EXTINF:0 radio="false" tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-logo="https://img.iptvmate.net/4c16c87d7128eae5e72fd6540f32b80b.png" tvg-country="US" group-title="Entertainment",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?iptvm3uplaylists.m3u8&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-logo="https://img.iptvmate.net/4c16c87d7128eae5e72fd6540f32b80b.png" tvg-country="US" group-title="Entertainment",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?iptvm3uplaylists.m3u8&checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/8f6fe6c6b5c36aa02b63cb96198afc92.jpg" tvg-country="US" group-title="Entertainment",Can TV
 https://ch.iptvmate.net/60a35480369b91e7e9df6edfb8b82b88.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/3e909e37d363b0ffa18f31127536aa73.jpg" tvg-country="US" group-title="Entertainment",Canada One
@@ -3249,14 +3251,14 @@ http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110054?checkedby
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110054?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CBN Español
 https://ch.iptvmate.net/246aa05e185c53102f1adc97a6412dee.m3u8
+#EXTINF:-1 radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-name="CBS HD New York-US" tvg-logo="https://img.iptvmate.net/e050a58fea882d0ef5e93b8867d00b4b.png" tvg-country="US" group-title="Entertainment",CBS
+https://ch.iptvmate.net/0e1956a03f9546ead73c8b9a173f7a5e.m3u8
 #EXTINF:-1 radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-name="CBS HD New York-US" tvg-logo="https://img.iptvmate.net/1615105aee8ec5b19e96c6a7bdbf41d5.png" tvg-country="US" group-title="Entertainment",CBS
-https://ch.iptvmate.net/64b45fc2cfe9e7bb53f7dfbecfbd4656.m3u8
+https://ch.iptvmate.net/01f384ea7ffc6ef0c901ac6c2e8a50b1.m3u8
 #EXTINF:-1 radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-name="CBS HD New York-US" tvg-logo="https://img.iptvmate.net/1615105aee8ec5b19e96c6a7bdbf41d5.png" tvg-country="US" group-title="Entertainment",CBS
 https://ch.iptvmate.net/80193cb821c7b3c38492a6a049965f28.m3u8
 #EXTINF:-1 radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-name="CBS HD New York-US" tvg-logo="https://img.iptvmate.net/1615105aee8ec5b19e96c6a7bdbf41d5.png" tvg-country="US" group-title="Entertainment",CBS
-https://ch.iptvmate.net/01f384ea7ffc6ef0c901ac6c2e8a50b1.m3u8
-#EXTINF:-1 radio="false" tvg-id="CBS (KMTV) Omaha, NE" tvg-name="CBS HD New York-US" tvg-logo="https://img.iptvmate.net/e050a58fea882d0ef5e93b8867d00b4b.png" tvg-country="US" group-title="Entertainment",CBS
-https://ch.iptvmate.net/0e1956a03f9546ead73c8b9a173f7a5e.m3u8
+https://ch.iptvmate.net/64b45fc2cfe9e7bb53f7dfbecfbd4656.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9f60f43640c142c2249e67fd6e9490e8.png" tvg-country="US" group-title="Entertainment",CBS 4 Miami FL (WFOR-TV)
 https://ch.iptvmate.net/82c2762c89554ab30e043d8b04580a1c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/329333febacc46c5044bfb611b40ad7d.png" tvg-country="US" group-title="Entertainment",CBS 9 Washington DC (WUSA-HD)
@@ -3265,18 +3267,18 @@ https://ch.iptvmate.net/0c89e85946516439c649bdd9e8ddc07a.m3u8
 https://ch.iptvmate.net/66b4ea916c113f404d64a27776508634.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c403aef27d8de5487ee7d1c0fc0b48ce.jpg" tvg-country="US" group-title="Entertainment",CC-TV (Charlotte County)
 https://ch.iptvmate.net/4f768aca44e607ab63e43dd8c3ef9e81.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CCX1
-https://ch.iptvmate.net/8f25948b23e6f23af37971b73deddb44.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/81e830a1bfa733d7cd26280175cb47dc.png" tvg-country="US" group-title="Entertainment",CCX1
 https://ch.iptvmate.net/8f25948b23e6f23af37971b73deddb44.m3u8?fluxustv.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CCX2
-https://ch.iptvmate.net/fd05a9a070e36077f1138efb24215ccf.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CCX1
+https://ch.iptvmate.net/8f25948b23e6f23af37971b73deddb44.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CCX2
 https://ch.iptvmate.net/eade8a886001fc5587622d4a85803bec.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CCX3
-https://ch.iptvmate.net/171be66811f64634a7667132b60ab76f.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CCX2
+https://ch.iptvmate.net/fd05a9a070e36077f1138efb24215ccf.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CCX3
 https://ch.iptvmate.net/f5d36a030eda5c65c86eae530d568595.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CCX3
+https://ch.iptvmate.net/171be66811f64634a7667132b60ab76f.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2d82c453169133e22f6445d6f6b83f3d.jpg" tvg-country="US" group-title="Entertainment",Cerritos TV3
 https://ch.iptvmate.net/5ab88f9cbe7741adcb0a1e948892ba0e.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",CGTV
@@ -3294,33 +3296,33 @@ https://ch.iptvmate.net/3b59634e403e42179ece22cd826383cc.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/06dd110eb97328fae87f12bd1a78cbe4.png" tvg-country="US" group-title="Entertainment",CMC-USA
 https://ch.iptvmate.net/db0a954f84831de3f67a18221eeeadca.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c6d635ef66ba3eddb05092e6467fdc0d.png" tvg-country="US" group-title="Entertainment",CNBC Arabiya
-https://ch.iptvmate.net/476c7b00a8fc7bf9afbf94320345d4f5.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c6d635ef66ba3eddb05092e6467fdc0d.png" tvg-country="US" group-title="Entertainment",CNBC Arabiya
 https://ch.iptvmate.net/6dda758a73c64f9ea066a77c3456ee38.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b00af5a5b86faf9ac3e5727c27b182d5.jpg" tvg-country="US" group-title="Entertainment",CNBC TV18
-https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c6d635ef66ba3eddb05092e6467fdc0d.png" tvg-country="US" group-title="Entertainment",CNBC Arabiya
+https://ch.iptvmate.net/476c7b00a8fc7bf9afbf94320345d4f5.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b00af5a5b86faf9ac3e5727c27b182d5.jpg" tvg-country="US" group-title="Entertainment",CNBC TV18
 https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8?sd=10
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b00af5a5b86faf9ac3e5727c27b182d5.jpg" tvg-country="US" group-title="Entertainment",CNBC TV18
+https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2b339e006ac0f6800f90540070055662.jpg" tvg-country="CA" group-title="Entertainment",CNTV
 https://ch.iptvmate.net/9d7b0cfe4a29e9ee19a71a4ce604e6c2.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/fe3f1f5b12dc56a3fc14bd04ce142755.png" tvg-country="US" group-title="Entertainment",ConTV
 https://ch.iptvmate.net/2db8c46c2dd0f8e1200536b964674fad.m3u8
+#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
+http://localdblagent.club:8080/live/Carlos1/Carlos1/1516.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/55?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/55?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",COOKING CHANNEL
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1259?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
 http://localdblagent.club:8080/live/Carlos1/Carlos1/1516.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",COOKING CHANNEL
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1259?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/55?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
-http://localdblagent.club:8080/live/Carlos1/Carlos1/1516.m3u8?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="The Cooking Channel" tvg-country="US" group-title="Entertainment",Cooking Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/55?checkedby:hlscat.com
-#EXTINF:-1 radio="false" tvg-id="Court TV (KMTV-TV2) Omaha, NE" tvg-logo="https://img.iptvmate.net/8edf075e409230c8a16800bd09ce65e9.png" tvg-country="US" group-title="Entertainment",Court TV
-https://ch.iptvmate.net/0cbbf884353fc07307c55eedc0bd8d00.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-id="Court TV (KMTV-TV2) Omaha, NE" tvg-logo="https://img.iptvmate.net/8edf075e409230c8a16800bd09ce65e9.png" tvg-country="US" group-title="Entertainment",Court TV
 https://ch.iptvmate.net/0cbbf884353fc07307c55eedc0bd8d00.m3u8
+#EXTINF:-1 radio="false" tvg-id="Court TV (KMTV-TV2) Omaha, NE" tvg-logo="https://img.iptvmate.net/8edf075e409230c8a16800bd09ce65e9.png" tvg-country="US" group-title="Entertainment",Court TV
+https://ch.iptvmate.net/0cbbf884353fc07307c55eedc0bd8d00.m3u8?fluxustv.m3u8
 #EXTINF:0 radio="false" tvg-id="The Cowboy Channel" tvg-country="US" group-title="Entertainment",COWBOY CHANNEL
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/90060?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="The Cowboy Channel" tvg-country="US" group-title="Entertainment",COWBOY CHANNEL
@@ -3342,31 +3344,31 @@ https://ch.iptvmate.net/333f6778e503fc9f14d2384675c51fdd.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/156d480cef51d9f757d86fa9f66f89aa.jpg" tvg-country="US" group-title="Entertainment",CT-N Live Stream 2
 https://ch.iptvmate.net/2f52797b7e27c08d2eff0d14d7d315b5.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d956dfa85756e1b55350a9999adef671.png" tvg-country="US" group-title="Entertainment",CTN
-https://ch.iptvmate.net/10f72c91673ffefc242bf913399bf786.m3u8
+https://ch.iptvmate.net/0b387a270cbc2b33a7031d5cdb0fb276.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d956dfa85756e1b55350a9999adef671.png" tvg-country="US" group-title="Entertainment",CTN
 https://ch.iptvmate.net/981dd990fa315db583be77ca1f3343a2.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d956dfa85756e1b55350a9999adef671.png" tvg-country="US" group-title="Entertainment",CTN
-https://ch.iptvmate.net/0b387a270cbc2b33a7031d5cdb0fb276.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bfeffbfcee0a0d379145651838717bdd.jpg" tvg-country="US" group-title="Entertainment",CTNi
-https://ch.iptvmate.net/e0cb704fcf0ac93be9b8f10a3eaee201.m3u8?iptvgratis?chile.m3u8
+https://ch.iptvmate.net/10f72c91673ffefc242bf913399bf786.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bfeffbfcee0a0d379145651838717bdd.jpg" tvg-country="US" group-title="Entertainment",CTNi
 https://ch.iptvmate.net/e0cb704fcf0ac93be9b8f10a3eaee201.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bfeffbfcee0a0d379145651838717bdd.jpg" tvg-country="US" group-title="Entertainment",CTNi
+https://ch.iptvmate.net/e0cb704fcf0ac93be9b8f10a3eaee201.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7cf5fba2578e1e16debc0e20ba54f600.png" tvg-country="US" group-title="Entertainment",DABL
-https://ch.iptvmate.net/5b392688ba246060c7b3d4c9dee459ee.m3u8
+https://ch.iptvmate.net/3e6aa52df62a9d489d59cd104227c1bf.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7cf5fba2578e1e16debc0e20ba54f600.png" tvg-country="US" group-title="Entertainment",DABL
 https://ch.iptvmate.net/0c8d36ce8eb4dbc8f539a65651a59267.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7cf5fba2578e1e16debc0e20ba54f600.png" tvg-country="US" group-title="Entertainment",DABL
-https://ch.iptvmate.net/3e6aa52df62a9d489d59cd104227c1bf.m3u8
+https://ch.iptvmate.net/5b392688ba246060c7b3d4c9dee459ee.m3u8
 #EXTINF:0 radio="false" tvg-logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png" tvg-country="UN" group-title="Entertainment",Dancestar TV,Dancestar TV (USA)
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c46f0e7bba2d88e58b4f9288a16a933e.png" tvg-country="CA" group-title="Entertainment",Daystar Canada
 https://ch.iptvmate.net/8dc2f66ff0d644d67f02d1a0602dab59.m3u8
 #EXTINF:-1 radio="false" tvg-id="Daystar  - Network-US" tvg-name="Daystar  - Network-US" tvg-logo="https://img.iptvmate.net/9faa6199b32f1c9cd459a27bd132a5b7.png" tvg-country="US" group-title="Entertainment",Daystar TV
-https://ch.iptvmate.net/02daa4a83622779114c216e170fe8dc8.m3u8
+https://ch.iptvmate.net/9ae0bd0a5dc158b0076bd06f5a10d060.m3u8
 #EXTINF:-1 radio="false" tvg-id="Daystar  - Network-US" tvg-name="Daystar  - Network-US" tvg-logo="https://img.iptvmate.net/9faa6199b32f1c9cd459a27bd132a5b7.png" tvg-country="US" group-title="Entertainment",Daystar TV
 https://ch.iptvmate.net/e6191e75c2b0c7c4d2c6d5c71a5a11d3.m3u8
 #EXTINF:-1 radio="false" tvg-id="Daystar  - Network-US" tvg-name="Daystar  - Network-US" tvg-logo="https://img.iptvmate.net/9faa6199b32f1c9cd459a27bd132a5b7.png" tvg-country="US" group-title="Entertainment",Daystar TV
-https://ch.iptvmate.net/9ae0bd0a5dc158b0076bd06f5a10d060.m3u8
+https://ch.iptvmate.net/02daa4a83622779114c216e170fe8dc8.m3u8
 #EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",DAYSTAR TV HD
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36831
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",DC Council Channel
@@ -3377,14 +3379,14 @@ https://ch.iptvmate.net/9dd42782212abec0f032a3b1869948a3.m3u8
 https://ch.iptvmate.net/7f5dd5f0aa72a93a6df62966858db48d.m3u8
 #EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",DINAMIK ANIMASYON
 http://dinamikiptv.com:7777/adalet/adalet123/41739
-#EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-country="US" group-title="Entertainment",DISCOVERY CHANNEL
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/39638?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-country="US" group-title="Entertainment",Discovery Channel
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/62?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-country="US" group-title="Entertainment",DISCOVERY CHANNEL
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/39638?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-country="US" group-title="Entertainment",Discovery Channel
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/62?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Discovery Channel (US) - Eastern Feed" tvg-country="US" group-title="Entertainment",DISCOVERY CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/39638?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Discovery Channel HD UK
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/15763?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="GB" group-title="Entertainment",Discovery Channel HD UK
@@ -3410,31 +3412,31 @@ http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/11?ch
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",DIY Network
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/11?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/8d05eb7a53faa933c973fc0df57679a0.png" tvg-country="TR" group-title="Entertainment",Diyalog TV
-https://ch.iptvmate.net/373a655c966e478eddfe24807274469a.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/8d05eb7a53faa933c973fc0df57679a0.png" tvg-country="TR" group-title="Entertainment",Diyalog TV
 https://ch.iptvmate.net/dd04b801a1d5a66718963f2a7998f4ae.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/8d05eb7a53faa933c973fc0df57679a0.png" tvg-country="TR" group-title="Entertainment",Diyalog TV
+https://ch.iptvmate.net/373a655c966e478eddfe24807274469a.m3u8
 #EXTINF:-1 radio="false" tvg-id="DMAX - UK" tvg-logo="https://img.iptvmate.net/b5d6dfee63eb97079e0f8830dddd3998.jpg" tvg-country="TR" group-title="Entertainment",DMAX
-https://ch.iptvmate.net/a5527d664136cd7387927e81964df3ed.m3u8
+https://ch.iptvmate.net/a58ad13eac6c972ae498fb0659e2c279.m3u8
 #EXTINF:-1 radio="false" tvg-id="DMAX - UK" tvg-logo="https://img.iptvmate.net/b5d6dfee63eb97079e0f8830dddd3998.jpg" tvg-country="TR" group-title="Entertainment",DMAX
 https://ch.iptvmate.net/12ec13d112a057a039d5ffbb9bb09751.m3u8
 #EXTINF:-1 radio="false" tvg-id="DMAX - UK" tvg-logo="https://img.iptvmate.net/b5d6dfee63eb97079e0f8830dddd3998.jpg" tvg-country="TR" group-title="Entertainment",DMAX
-https://ch.iptvmate.net/a58ad13eac6c972ae498fb0659e2c279.m3u8
+https://ch.iptvmate.net/a5527d664136cd7387927e81964df3ed.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/54e5879e580faf2b18034740e0ceb615.jpg" tvg-country="US" group-title="Entertainment",DocuBox HD
 https://ch.iptvmate.net/bae06a11cbc00c2716f969878a1ea6f5.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/6e76e22de71643b55699af44ab1f39be.jpg" tvg-country="US" group-title="Entertainment",Documentaries 4U
 https://ch.iptvmate.net/4d076d9d574baefd08cf00aaca0e8e25.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ba7efae055738c7a428926e5c059a8bd.jpg" tvg-country="US" group-title="Entertainment",Dog the Bounty Hunter
 https://ch.iptvmate.net/a6877d6b666481df5f231d1841e33669.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FVWqYQG.png" tvg-country="US" group-title="Entertainment",Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Dove Channel
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FVWqYQG.png" tvg-country="US" group-title="Entertainment",Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/84e709c5f458816459d53d890b48ea7d.png" tvg-country="US" group-title="Entertainment",Dove Channel
 https://ch.iptvmate.net/cb75fddf92d95dd1948fd0f980daecee.m3u8
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FVWqYQG.png" tvg-country="US" group-title="Entertainment",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Dove Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FVWqYQG.png" tvg-country="US" group-title="Entertainment",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/3f1547584dbc5c0b728155b67683e61f.png" tvg-country="TR" group-title="Entertainment",Doğuş TV
 https://ch.iptvmate.net/9a364ecd4214a52d0aacd316b3f9ac09.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/8b58984c3038c5bc68922ef1d51425ff.jpg" tvg-country="US" group-title="Entertainment",Dr. Gene Scott
@@ -3442,15 +3444,15 @@ https://ch.iptvmate.net/f10c9d9339ad25b803a01b7cd4ba55a0.m3u8
 #EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",DREAM ANIMASYON
 http://dinamikiptv.com:7777/adalet/adalet123/41678
 #EXTINF:-1 radio="false" tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-logo="https://img.iptvmate.net/8bc44885d03e44a0ed39c1842941896c.png" tvg-country="TR" group-title="Entertainment",Dream TV
+https://ch.iptvmate.net/75d7f70e689cb3418ede018df0dcbe15.m3u8
+#EXTINF:-1 radio="false" tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-logo="https://img.iptvmate.net/8bc44885d03e44a0ed39c1842941896c.png" tvg-country="TR" group-title="Entertainment",Dream TV
+https://ch.iptvmate.net/2c9cf20a4c45bffec4802aea596163c0.m3u8
+#EXTINF:-1 radio="false" tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-logo="https://img.iptvmate.net/8bc44885d03e44a0ed39c1842941896c.png" tvg-country="TR" group-title="Entertainment",Dream TV
 https://ch.iptvmate.net/36f0ac9b062d770f299052637c8868e3.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7016051662d2e3f09ada9870f696c08b.jpg" tvg-country="US" group-title="Entertainment",Dream TV
 https://ch.iptvmate.net/c48a5a3637d1e3a23aee53cce2f15482.m3u8
 #EXTINF:-1 radio="false" tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-logo="https://img.iptvmate.net/8bc44885d03e44a0ed39c1842941896c.png" tvg-country="TR" group-title="Entertainment",Dream TV
 https://ch.iptvmate.net/9a4da9cf9483bebbf551d6ef88abf7f2.m3u8
-#EXTINF:-1 radio="false" tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-logo="https://img.iptvmate.net/8bc44885d03e44a0ed39c1842941896c.png" tvg-country="TR" group-title="Entertainment",Dream TV
-https://ch.iptvmate.net/75d7f70e689cb3418ede018df0dcbe15.m3u8
-#EXTINF:-1 radio="false" tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-logo="https://img.iptvmate.net/8bc44885d03e44a0ed39c1842941896c.png" tvg-country="TR" group-title="Entertainment",Dream TV
-https://ch.iptvmate.net/2c9cf20a4c45bffec4802aea596163c0.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e4bb6fa717dd53fdedaa6f7d73deaa60.png" tvg-country="TR" group-title="Entertainment",Dreamturk TV
 https://ch.iptvmate.net/2cffafe63cbb79e4c9a4e0a2f8367c51.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a2c58f8f9ef15e95fab7ab0736b6e016.png" tvg-country="US" group-title="Entertainment",Duck TV
@@ -3470,21 +3472,21 @@ https://ch.iptvmate.net/31608777e04f2d15c1524d3a244a0bca.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9513ec3bd2825e3aed39ea4ca6dd1600.png" tvg-country="US" group-title="Entertainment",ESNE TV
 https://ch.iptvmate.net/a2db875a10bbcc1ab1b874f5677f9086.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/3eb947cc443aa1f935140d421c0b5337.jpg" tvg-country="US" group-title="Entertainment",ET Live
-https://ch.iptvmate.net/39a64cb29d4b59fa531937ce006028b7.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/3eb947cc443aa1f935140d421c0b5337.jpg" tvg-country="US" group-title="Entertainment",ET Live
 https://ch.iptvmate.net/39a64cb29d4b59fa531937ce006028b7.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/3eb947cc443aa1f935140d421c0b5337.jpg" tvg-country="US" group-title="Entertainment",ET Live
+https://ch.iptvmate.net/39a64cb29d4b59fa531937ce006028b7.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/4dcdab9f9906b3a6725767f3b862ddec.png" tvg-country="TR" group-title="Entertainment",ETV Manisa
 https://ch.iptvmate.net/c4759252942df4053ef5e1ea185da634.m3u8
 #EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR;US" group-title="Entertainment",EURO STAR,EuroStar
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",EUROSTAR
-http://dinamikiptv.com:7777/adalet/adalet123/7914
-#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" group-title="Entertainment",EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" group-title="Entertainment",EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/dbefd3a778396f0eeca29699570da57e.jpg" tvg-country="TR" group-title="Entertainment",EuroStar
 https://ch.iptvmate.net/9a5566fe5cce082d0f2d86daf5b89573.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" group-title="Entertainment",EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" group-title="Entertainment",EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",EUROSTAR
+http://dinamikiptv.com:7777/adalet/adalet123/7914
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/6595ff005f52ac3f217af26e5d3ab268.png" tvg-country="CA" group-title="Entertainment",EWTN Canada
 https://ch.iptvmate.net/a2a4288e1e188dc54f52cc75c49ce539.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/66f2ffe469c1aa2bde36c3866118e855.png" tvg-country="TR" group-title="Entertainment",Ezidxan TV
@@ -3517,18 +3519,18 @@ https://ch.iptvmate.net/1c5c971f6ac0f7141483c57fa5f13b0e.m3u8
 http://5.135.92.133:52841/out/u/502_1.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOOD CHANNEL
 http://5.135.92.133:52841/out/u/502_1.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",FOOD NETWORK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/29480?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",Food Network
+http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="GB" group-title="Entertainment",Food Network
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37127?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",Food Network
 http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",FOOD NETWORK
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/29480?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="GB" group-title="Entertainment",Food Network
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37127?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="GB" group-title="Entertainment",Food Network
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37127?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",FOOD NETWORK
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/29480?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="Food Network USA - Eastern Feed" tvg-country="US" group-title="Entertainment",Food Network
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",FOOD NETWORK HD
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/36818?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="CA" group-title="Entertainment",FOOD NETWORK HD
@@ -3555,10 +3557,10 @@ https://ch.iptvmate.net/f61682d262bf069a6d3505b12a596c48.m3u8
 https://ch.iptvmate.net/ee7974cdcb219212c91c4d8f6112067c.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",FOX 19 Newport KY (WXIX-TV)
 https://ch.iptvmate.net/fa25763c6560fc3d3f524a958e06e518.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a90c56d9d548a26da950961353656704.png" tvg-country="US" group-title="Entertainment",FOX 23 Tulsa OK (KOKI-TV)
-https://ch.iptvmate.net/e6fa5eb7f4dacb489f9008571eec082e.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/367a285ad6ed60d100b365eb573b3b90.png" tvg-country="US" group-title="Entertainment",FOX 23 Tulsa OK (KOKI-TV)
 https://ch.iptvmate.net/a0baf9cf51ad0d017222ddbb9cbeb89a.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a90c56d9d548a26da950961353656704.png" tvg-country="US" group-title="Entertainment",FOX 23 Tulsa OK (KOKI-TV)
+https://ch.iptvmate.net/e6fa5eb7f4dacb489f9008571eec082e.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ec9e17b77b00f8de2be9159123cbc068.png" tvg-country="US" group-title="Entertainment",FOX 28 Savannah GA (WTGS)
 https://ch.iptvmate.net/672334326c4af9604db157dd22182064.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/62266d4546f7ff74f751e5a703c73487.jpg" tvg-country="US" group-title="Entertainment",FOX 31 Denver CO (KDVR)
@@ -3575,10 +3577,10 @@ http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/81?ch
 https://ch.iptvmate.net/45c0f58dc418c57bcf5542a9ef8ebfa9.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",FOX 5 Washington DC (WTTG)
 https://ch.iptvmate.net/b596e0363fb187f2cc9333db155c958c.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",FOX 54 Augusta GA (WFXG)
-https://ch.iptvmate.net/0a5a4c5af6b310040300f2c1674c80e1.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d84d67d180b0c2cb9515aae371ffb30f.gif" tvg-country="US" group-title="Entertainment",FOX 54 Augusta GA (WFXG)
 https://ch.iptvmate.net/1b51ad231628e73040f0b4b3cee1199b.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",FOX 54 Augusta GA (WFXG)
+https://ch.iptvmate.net/0a5a4c5af6b310040300f2c1674c80e1.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/4ff423e2ca2ba2d9d742f43ae722af09.png" tvg-country="US" group-title="Entertainment",FOX 6 Birmingham AL (WBRC)
 https://ch.iptvmate.net/fd1d1ed45b8c377df978515dd4f0cd5f.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/516291dfd50a74f17f82a64a39db90dc.png" tvg-country="US" group-title="Entertainment",FOX 7 Miami FL (WSVN)
@@ -3625,16 +3627,16 @@ http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/31645?checkedby:
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/77480?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",FOX WEST Low
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/77480?checkedby:hlscat.com
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/59260cf4fcca3625ed4c769a302b8521.png" tvg-country="US" group-title="Entertainment",Free Speech TV
-https://ch.iptvmate.net/986d3b0b57f6a75c87caefb08887a704.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Free Speech TV
 https://ch.iptvmate.net/14ad8da37d6dd4340f771831fa5eff20.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/59260cf4fcca3625ed4c769a302b8521.png" tvg-country="US" group-title="Entertainment",Free Speech TV
+https://ch.iptvmate.net/986d3b0b57f6a75c87caefb08887a704.m3u8
 #EXTINF:0 radio="false" tvg-id="FX Movie Channel" tvg-country="US" group-title="Entertainment",FX MOVIE
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/29312
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0e0dcf80437c3cbcd8e0dcb4a722a550.png" tvg-country="UK" group-title="Entertainment",Gemporia
-https://ch.iptvmate.net/cd32de7ddebfb195ec6d133d28d8b9a1.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0e0dcf80437c3cbcd8e0dcb4a722a550.png" tvg-country="UK" group-title="Entertainment",Gemporia
 https://ch.iptvmate.net/568fe6c6ff83d28a47a33a60de18a637.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0e0dcf80437c3cbcd8e0dcb4a722a550.png" tvg-country="UK" group-title="Entertainment",Gemporia
+https://ch.iptvmate.net/cd32de7ddebfb195ec6d133d28d8b9a1.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a0312335023143244b8416af13fbced5.png" tvg-country="US" group-title="Entertainment",Glendale 11
 https://ch.iptvmate.net/75c9b70e4d33d1c94e31c69b7313721d.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/59ce7dffedbe170a0d45d851cf21d815.png" tvg-country="US" group-title="Entertainment",Globesville (New York Institute of Technology)
@@ -3688,19 +3690,19 @@ https://ch.iptvmate.net/93ecdc35168de9bdd0ed0b82db3a272b.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d0d09fef732b08302c146e930a5ee6b7.jpg" tvg-country="US" group-title="Entertainment",Horrified TV
 https://ch.iptvmate.net/5a3b1ade6d04d75f6bff658796a061dd.m3u8
 #EXTINF:0 radio="false" tvg-id="horror channel - UK" tvg-country="GB" group-title="Entertainment",Horror Channel
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37073
-#EXTINF:0 radio="false" tvg-id="horror channel - UK" tvg-country="GB" group-title="Entertainment",Horror Channel
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37073?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="horror channel - UK" tvg-country="GB" group-title="Entertainment",Horror Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37073
 #EXTINF:-1 radio="false" tvg-id="HSN  - Home Shopping Network" tvg-name="HSN  - Home Shopping Network-US" tvg-logo="https://img.iptvmate.net/21eff28bee016b9840e8e2bf9e045bfa.png" tvg-country="US" group-title="Entertainment",HSN
 https://ch.iptvmate.net/a601a825a2948b4c701f3a09005f4a8c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/empty.png" tvg-country="US" group-title="Entertainment",HSN 2
 https://ch.iptvmate.net/88deef1cf634d909bc94801eaf4709a3.m3u8?b=728,1128
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/empty.png" tvg-country="US" group-title="Entertainment",HSN2
 https://ch.iptvmate.net/88deef1cf634d909bc94801eaf4709a3.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9d06ef8fe63001f40b2985638c218fe5.png" tvg-country="US" group-title="Entertainment",Hunt Channel
-https://ch.iptvmate.net/604a4ed976f6733145b67152b11c639b.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/38077089f0f1b44c9844f130488fb750.png" tvg-country="US" group-title="Entertainment",Hunt Channel
 https://ch.iptvmate.net/84c8436a37ee6a91f077ea59c4c9e34b.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9d06ef8fe63001f40b2985638c218fe5.png" tvg-country="US" group-title="Entertainment",Hunt Channel
+https://ch.iptvmate.net/604a4ed976f6733145b67152b11c639b.m3u8
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HUNT CHANNEL TV
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95939?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",HUNT CHANNEL TV
@@ -3722,9 +3724,9 @@ https://ch.iptvmate.net/5a183aaa6c542b5e38fa95a088c2c4e1.m3u8
 #EXTINF:-1 radio="false" tvg-id="Disney - Eastern Feed" tvg-logo="https://img.iptvmate.net/430187613585aa5f98eeb475f006eb1b.png" tvg-country="US" group-title="Entertainment",ISN
 https://ch.iptvmate.net/26d0a958611a685f54185c2dc236bfb9.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/1254366d3cebbec4d4fb3910c5dcdd48.png" tvg-country="TR" group-title="Entertainment",Istanbul Metropolitan Municipality
-https://ch.iptvmate.net/e64df16b75d38e60ead670da47617959.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/1254366d3cebbec4d4fb3910c5dcdd48.png" tvg-country="TR" group-title="Entertainment",Istanbul Metropolitan Municipality
 https://ch.iptvmate.net/e64df16b75d38e60ead670da47617959.m3u8?fluxustv.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/1254366d3cebbec4d4fb3910c5dcdd48.png" tvg-country="TR" group-title="Entertainment",Istanbul Metropolitan Municipality
+https://ch.iptvmate.net/e64df16b75d38e60ead670da47617959.m3u8
 #EXTINF:0 radio="false" tvg-id="ITV2+1 - UK" tvg-country="GB" group-title="Entertainment",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="ITV2+1 - UK" tvg-country="GB" group-title="Entertainment",ITV
@@ -3786,27 +3788,27 @@ https://ch.iptvmate.net/93b85aaa3e5e264b078336a03a20e80b.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e6531516f0abee9e690620579e378b93.jpg" tvg-country="TR" group-title="Entertainment",Kanal 7
 https://ch.iptvmate.net/c245c61026ef1599efeb438c60231b7b.m3u8
 #EXTINF:-1 radio="false" tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="https://img.iptvmate.net/65c67dfb16c30945db213511f5320332.jpg" tvg-country="TR" group-title="Entertainment",Kanal D
-https://ch.iptvmate.net/fc04808c265b5b1c6e7cfb9700c513bb.m3u8
-#EXTINF:-1 radio="false" tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="https://img.iptvmate.net/65c67dfb16c30945db213511f5320332.jpg" tvg-country="TR" group-title="Entertainment",Kanal D
-https://ch.iptvmate.net/2640665d6225505da34bfad8d343ec75.m3u8
+https://ch.iptvmate.net/da39d69968ca731a529cf801bb773392.m3u8
 #EXTINF:-1 radio="false" tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="https://img.iptvmate.net/65c67dfb16c30945db213511f5320332.jpg" tvg-country="TR" group-title="Entertainment",Kanal D
 https://ch.iptvmate.net/56ad1a22b26a8c1d15b19f5e12e0c1ff.m3u8
 #EXTINF:-1 radio="false" tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="https://img.iptvmate.net/65c67dfb16c30945db213511f5320332.jpg" tvg-country="TR" group-title="Entertainment",Kanal D
-https://ch.iptvmate.net/da39d69968ca731a529cf801bb773392.m3u8
+https://ch.iptvmate.net/2640665d6225505da34bfad8d343ec75.m3u8
+#EXTINF:-1 radio="false" tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="https://img.iptvmate.net/65c67dfb16c30945db213511f5320332.jpg" tvg-country="TR" group-title="Entertainment",Kanal D
+https://ch.iptvmate.net/fc04808c265b5b1c6e7cfb9700c513bb.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/98d3b71ca9529b59bf989db603121506.png" tvg-country="TR" group-title="Entertainment",Kanal Urfa
 https://ch.iptvmate.net/53e23f3cd9ccbdf7c72ad7b7cd64800f.m3u8
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kartoon Fun Time (Opt-1)
-https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kartoon Fun Time (Opt-1)
-https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kartoon Fun Time (Opt-1)
 https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kartoon Fun Time (Opt-1)
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kartoon Fun Time (Opt-1)
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/f3c7ecdd6fdbd9b3380f49c88fb9aca0.png" tvg-country="US" group-title="Entertainment",KBVR TV
 https://ch.iptvmate.net/8c5fb5b2111dcf3d8934e7812eebfafe.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a50327cd9e2c58f7b3f42017e55d1843.png" tvg-country="UK" group-title="Entertainment",Keep It Country TV
-https://ch.iptvmate.net/599ff38f1f63b12483bb3c7795aafa5d.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a50327cd9e2c58f7b3f42017e55d1843.png" tvg-country="UK" group-title="Entertainment",Keep It Country TV
 https://ch.iptvmate.net/599ff38f1f63b12483bb3c7795aafa5d.m3u8?fluxustv.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a50327cd9e2c58f7b3f42017e55d1843.png" tvg-country="UK" group-title="Entertainment",Keep It Country TV
+https://ch.iptvmate.net/599ff38f1f63b12483bb3c7795aafa5d.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/3307e722f5040b3871af98dc2304cd45.png" tvg-country="US" group-title="Entertainment",Key TV
 https://ch.iptvmate.net/10179e646dab34bd83fd56707358fed8.m3u8
 #EXTINF:-1 radio="false" tvg-id="KICC TV - UK" tvg-logo="https://img.iptvmate.net/448dbd7040390ff62c9303abd694d332.png" tvg-country="UK" group-title="Entertainment",KICC TV
@@ -3815,10 +3817,10 @@ https://ch.iptvmate.net/1132fa8e7d1e129e82a142829e34e1b3.m3u8
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Kids Click (Geo)
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?checkedby:hlscat.com
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bd3be95a82c46411bfd31792890d539d.png" tvg-country="US" group-title="Entertainment",KIRO 7 News (KIRO-TV)
-https://ch.iptvmate.net/d3851c0453b086be15fb58bbd172883f.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/3993806b53bb28f9c24ce559979c3ea9.png" tvg-country="US" group-title="Entertainment",KIRO 7 News (KIRO-TV)
 https://ch.iptvmate.net/6ab3abe801bb350e481671b214888a6b.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bd3be95a82c46411bfd31792890d539d.png" tvg-country="US" group-title="Entertainment",KIRO 7 News (KIRO-TV)
+https://ch.iptvmate.net/d3851c0453b086be15fb58bbd172883f.m3u8
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",KMTV Omaha
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/78ded475622ce162a94ab7ff7a29c1a7.png" tvg-country="US" group-title="Entertainment",KNXT Catholic TV
@@ -3832,49 +3834,49 @@ https://ch.iptvmate.net/006e365706b0ffca054455ea6743cb2d.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/3d36f57a0bfe5a5cfe250c0e8f3c0177.png" tvg-country="US" group-title="Entertainment",KOOL-TV
 https://ch.iptvmate.net/7df54e9a1a3a10d4f2655e45f7fac283.m3u8
 #EXTINF:-1 radio="false" tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-logo="https://img.iptvmate.net/ab0b8865cd38efdf6127c05f439395ea.jpg" tvg-country="TR" group-title="Entertainment",Kral TV
-https://ch.iptvmate.net/3491166a64b2d89d1607e720b970840e.m3u8
-#EXTINF:-1 radio="false" tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-logo="https://img.iptvmate.net/ab0b8865cd38efdf6127c05f439395ea.jpg" tvg-country="TR" group-title="Entertainment",Kral TV
 https://ch.iptvmate.net/eedaf42b125821ab48beca36181de459.m3u8
+#EXTINF:-1 radio="false" tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-logo="https://img.iptvmate.net/ab0b8865cd38efdf6127c05f439395ea.jpg" tvg-country="TR" group-title="Entertainment",Kral TV
+https://ch.iptvmate.net/3491166a64b2d89d1607e720b970840e.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/5b8298d05dff481e015891b865fa1bc7.jpg" tvg-country="TR" group-title="Entertainment",Kral World
 https://ch.iptvmate.net/d0bce61051d6dd2f0156bfc0873f5227.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/07d963e2a39a6e3684be6b39bc547123.png" tvg-country="US" group-title="Entertainment",KTVB
 https://ch.iptvmate.net/e8668d19d980016ac8c94c2217b5c4bc.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/438141c3932d334a6ad3c4547b25858c.jpg" tvg-country="US" group-title="Entertainment",Latinos Up! TV
-https://ch.iptvmate.net/ddb8c3ed91389548be0e479d5a0ae2db.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/266711ab0a7adb3802572dcc3245e3eb.png" tvg-country="US" group-title="Entertainment",Latinos Up! TV
 https://ch.iptvmate.net/3271af188f354bfcc6829359b71dea72.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/438141c3932d334a6ad3c4547b25858c.jpg" tvg-country="US" group-title="Entertainment",Latinos Up! TV
+https://ch.iptvmate.net/ddb8c3ed91389548be0e479d5a0ae2db.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/70bb10ad20ac966a3c45627555f7a1fa.jpg" tvg-country="US" group-title="Entertainment",Law & Crime
 https://ch.iptvmate.net/d82bb73c3317d25ecd7190ffe5ac5798.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/70bb10ad20ac966a3c45627555f7a1fa.jpg" tvg-country="US" group-title="Entertainment",Law & Crime 2
 https://ch.iptvmate.net/f3fe01a0837815d096a74726eeea259c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/dc7a7eba0541eac1c4b03380e8d18148.png" tvg-country="US" group-title="Entertainment",Law And Crime Network
 https://ch.iptvmate.net/195d2abaa20bbef37fbb56f663e01b9e.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/373f7cf0aee86891292badb2eadecf39.png" tvg-country="US" group-title="Entertainment",Leominster TV Educational
-https://ch.iptvmate.net/588469901c324cf776542e805f390ad3.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Leominster TV Educational
 https://ch.iptvmate.net/588469901c324cf776542e805f390ad3.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/373f7cf0aee86891292badb2eadecf39.png" tvg-country="US" group-title="Entertainment",Leominster TV Government
-https://ch.iptvmate.net/1bca3b88f975d48e5e48fdf03e68007d.m3u8?fluxustv.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/373f7cf0aee86891292badb2eadecf39.png" tvg-country="US" group-title="Entertainment",Leominster TV Educational
+https://ch.iptvmate.net/588469901c324cf776542e805f390ad3.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Leominster TV Government
 https://ch.iptvmate.net/1bca3b88f975d48e5e48fdf03e68007d.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Leominster TV Public
-https://ch.iptvmate.net/c40b94836a392dbe2ed3d6f15246a4d9.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/373f7cf0aee86891292badb2eadecf39.png" tvg-country="US" group-title="Entertainment",Leominster TV Government
+https://ch.iptvmate.net/1bca3b88f975d48e5e48fdf03e68007d.m3u8?fluxustv.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/373f7cf0aee86891292badb2eadecf39.png" tvg-country="US" group-title="Entertainment",Leominster TV Public
 https://ch.iptvmate.net/c40b94836a392dbe2ed3d6f15246a4d9.m3u8?fluxustv.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/60362e083eaa59ce0a07edf6936f7bf8.png" tvg-country="US" group-title="Entertainment",Lex TV
-https://ch.iptvmate.net/936748ad0a95ce5a32ad6c55405e7e35.m3u8?fluxustv.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Leominster TV Public
+https://ch.iptvmate.net/c40b94836a392dbe2ed3d6f15246a4d9.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Lex TV
 https://ch.iptvmate.net/936748ad0a95ce5a32ad6c55405e7e35.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/60362e083eaa59ce0a07edf6936f7bf8.png" tvg-country="US" group-title="Entertainment",Lex TV
+https://ch.iptvmate.net/936748ad0a95ce5a32ad6c55405e7e35.m3u8?fluxustv.m3u8
 #EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="GB" group-title="Entertainment",Lifetime
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37128?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="US" group-title="Entertainment",LIFETIME
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1446?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="US" group-title="Entertainment",Lifetime
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/27?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="US" group-title="Entertainment",LIFETIME
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1446?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="GB" group-title="Entertainment",Lifetime
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/37128?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="US" group-title="Entertainment",LIFETIME
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1446?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-country="US" group-title="Entertainment",Lifetime
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/27?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",LifevisionTV
@@ -3884,15 +3886,15 @@ https://ch.iptvmate.net/362ddc89c47b5e9fbdcd591161edca81.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e499289ed6c0a9cab885a32a73ba5b39.png" tvg-country="US" group-title="Entertainment",LoveWorld USA
 https://ch.iptvmate.net/f4b00c5f4b6cf41c75089ec413379928.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a3da7ac742de347e8eaa31cf65d701e7.png" tvg-country="UK" group-title="Entertainment",Mafa Shortfilm
-https://ch.iptvmate.net/d235b824900341b48131eff398aab40c.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a3da7ac742de347e8eaa31cf65d701e7.png" tvg-country="UK" group-title="Entertainment",Mafa Shortfilm
 https://ch.iptvmate.net/68866487456fe620b458d6effab21693.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a3da7ac742de347e8eaa31cf65d701e7.png" tvg-country="UK" group-title="Entertainment",Mafa Shortfilm
+https://ch.iptvmate.net/d235b824900341b48131eff398aab40c.m3u8
 #EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",Magic Box Animasyon TR
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8654
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a555ffb72bf1760aa4efdf3fce6e148a.png" tvg-country="UK" group-title="Entertainment",Manoto
-https://ch.iptvmate.net/3a38731789e6a8b6f0a451263df1da7b.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a781f149c1b9f0ae166951d107610d2f.png" tvg-country="UK" group-title="Entertainment",Manoto
 https://ch.iptvmate.net/39664b0339d943bc9c650a21b4d040b2.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a555ffb72bf1760aa4efdf3fce6e148a.png" tvg-country="UK" group-title="Entertainment",Manoto
+https://ch.iptvmate.net/3a38731789e6a8b6f0a451263df1da7b.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",MCN6
 https://ch.iptvmate.net/4d5dadcc23a12430a7dddb04d7d8214b.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/09dfed3b8b0f89a50c0b576f168853a6.png" tvg-country="TR" group-title="Entertainment",Mercan TV
@@ -3900,9 +3902,9 @@ https://ch.iptvmate.net/3e5312479eccf6463e40845c8e8bd302.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/d1a7490228ed737a8279a9690ce29b8d.png" tvg-country="TR" group-title="Entertainment",Metro TV
 https://ch.iptvmate.net/e45d09c8272146122c1661b82db4bcb7.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/41663aec323baa0db9e51a82373ad3d6.png" tvg-country="CA" group-title="Entertainment",Miracle Channel
-https://ch.iptvmate.net/741ab151d05a739fc29b4d2815c3e42c.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/41663aec323baa0db9e51a82373ad3d6.png" tvg-country="CA" group-title="Entertainment",Miracle Channel
 https://ch.iptvmate.net/b4f0fe9317a3cad59a10fadd974d5f2e.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/41663aec323baa0db9e51a82373ad3d6.png" tvg-country="CA" group-title="Entertainment",Miracle Channel
+https://ch.iptvmate.net/741ab151d05a739fc29b4d2815c3e42c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/f77cfd356bb564aa6beac5c2c8639cf3.jpg" tvg-country="US" group-title="Entertainment",Mo Laughter
 https://ch.iptvmate.net/ea2ff6db68b0a47118333801bfba8048.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/5f7c42c63e54fb8e7ce4479e5ca2f2f0.jpg" tvg-country="US" group-title="Entertainment",Mobcrush
@@ -3912,33 +3914,33 @@ https://ch.iptvmate.net/d00d38c782a5d1b5908a2fd332a2a891.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/63b968dcb895ed2ec8f6d86c1db1a470.png" tvg-country="CA" group-title="Entertainment",Montreal Greek TV
 https://ch.iptvmate.net/db6947218e6eb5b684ce1319c4d35669.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bb77824b3d55a29fef9955d38e9f92e2.png" tvg-country="UK" group-title="Entertainment",MTA 1
-https://ch.iptvmate.net/5287c5c027e21f6d9130c66c8dc3194c.m3u8
+https://ch.iptvmate.net/468441d403e25d2269010db5beb034d3.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bb77824b3d55a29fef9955d38e9f92e2.png" tvg-country="UK" group-title="Entertainment",MTA 1
 https://ch.iptvmate.net/08ffa15489feb4e988ead7315a7186b9.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bb77824b3d55a29fef9955d38e9f92e2.png" tvg-country="UK" group-title="Entertainment",MTA 1
-https://ch.iptvmate.net/468441d403e25d2269010db5beb034d3.m3u8
+https://ch.iptvmate.net/5287c5c027e21f6d9130c66c8dc3194c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bb77824b3d55a29fef9955d38e9f92e2.png" tvg-country="UK" group-title="Entertainment",MTA 1 English
 https://ch.iptvmate.net/0db845be68b1ad8415ec057b5dd7b58f.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bb77824b3d55a29fef9955d38e9f92e2.png" tvg-country="UK" group-title="Entertainment",MTA 1 Urdu
 https://ch.iptvmate.net/7805eb99410ff60ed6b409f60c536b52.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/faab96c35c8fef10dd71d13a94baeba4.png" tvg-country="UK" group-title="Entertainment",MTA 2
-https://ch.iptvmate.net/4dfcf61a19d7fcfe43a677f0e55b9d7e.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/faab96c35c8fef10dd71d13a94baeba4.png" tvg-country="UK" group-title="Entertainment",MTA 2
 https://ch.iptvmate.net/9bf97c6469471a788a472a3f5cd9e24a.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/faab96c35c8fef10dd71d13a94baeba4.png" tvg-country="UK" group-title="Entertainment",MTA 2
+https://ch.iptvmate.net/4dfcf61a19d7fcfe43a677f0e55b9d7e.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/faab96c35c8fef10dd71d13a94baeba4.png" tvg-country="UK" group-title="Entertainment",MTA 2 Urdu
 https://ch.iptvmate.net/962fceb35dfd3d9e26f0a242bcf20f72.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/73a78c7aa8a3ac6692c42636a6489463.png" tvg-country="UK" group-title="Entertainment",MTA 3
-https://ch.iptvmate.net/33e61250b06eb326b7dd32afd191a49a.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/73a78c7aa8a3ac6692c42636a6489463.png" tvg-country="UK" group-title="Entertainment",MTA 3
-https://ch.iptvmate.net/4f405e5cb3f81dd7a3654e1b29bdb619.m3u8?sd=10&rebase=on
+https://ch.iptvmate.net/b42280d8e4bcb32a1bf6cb1e1c634110.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/73a78c7aa8a3ac6692c42636a6489463.png" tvg-country="UK" group-title="Entertainment",MTA 3
 https://ch.iptvmate.net/4f405e5cb3f81dd7a3654e1b29bdb619.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/73a78c7aa8a3ac6692c42636a6489463.png" tvg-country="UK" group-title="Entertainment",MTA 3
-https://ch.iptvmate.net/b42280d8e4bcb32a1bf6cb1e1c634110.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/cf1aa6a1a053d118dd0932d651a61fd4.png" tvg-country="UK" group-title="Entertainment",MTA Africa
-https://ch.iptvmate.net/9c3ec021bef48adf20f5dae28e684f98.m3u8
+https://ch.iptvmate.net/4f405e5cb3f81dd7a3654e1b29bdb619.m3u8?sd=10&rebase=on
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/73a78c7aa8a3ac6692c42636a6489463.png" tvg-country="UK" group-title="Entertainment",MTA 3
+https://ch.iptvmate.net/33e61250b06eb326b7dd32afd191a49a.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/cf1aa6a1a053d118dd0932d651a61fd4.png" tvg-country="UK" group-title="Entertainment",MTA Africa
 https://ch.iptvmate.net/504868b437c36729921f4dc77a50d2af.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/cf1aa6a1a053d118dd0932d651a61fd4.png" tvg-country="UK" group-title="Entertainment",MTA Africa
+https://ch.iptvmate.net/9c3ec021bef48adf20f5dae28e684f98.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e5ee0ef761e50db705bb885733d7a218.png" tvg-country="US" group-title="Entertainment",MTV (Latin America)
 https://ch.iptvmate.net/b6bf973f4f1352504d3353ca5cf1d0f4.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2ca2de70040726a9ed9ad8d21951b8aa.png" tvg-country="US" group-title="Entertainment",MTV Norge
@@ -3946,35 +3948,35 @@ https://ch.iptvmate.net/aa9355e71228f5c420d0633ee1c26974.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bbfa14c3570f3382282720ae14a6e3f0.jpg" tvg-country="US" group-title="Entertainment",MyHolyfield TV
 https://ch.iptvmate.net/c5765e1531624fac1ae3b9402ccc162c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a3070ed7590fb280cbb7cdf7a7c7cb92.jpg" tvg-country="US" group-title="Entertainment",NASA TV
-https://ch.iptvmate.net/0f016fe4822b8a48fabccb278512a391.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a3070ed7590fb280cbb7cdf7a7c7cb92.jpg" tvg-country="US" group-title="Entertainment",NASA TV
-https://ch.iptvmate.net/36bbee74236218525ac13555ccdd03ec.m3u8
+https://ch.iptvmate.net/4571aad6e8adf93528ecc0ef7d2f4598.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a3070ed7590fb280cbb7cdf7a7c7cb92.jpg" tvg-country="US" group-title="Entertainment",NASA TV
 https://ch.iptvmate.net/79de658e2c64f4970fc7b6e650d71e45.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a3070ed7590fb280cbb7cdf7a7c7cb92.jpg" tvg-country="US" group-title="Entertainment",NASA TV
-https://ch.iptvmate.net/4571aad6e8adf93528ecc0ef7d2f4598.m3u8
+https://ch.iptvmate.net/0f016fe4822b8a48fabccb278512a391.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a3070ed7590fb280cbb7cdf7a7c7cb92.jpg" tvg-country="US" group-title="Entertainment",NASA TV
+https://ch.iptvmate.net/36bbee74236218525ac13555ccdd03ec.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/184862f5bf3847fb99af35fb2ba8921a.jpg" tvg-country="US" group-title="Entertainment",Nat Geo People
-https://ch.iptvmate.net/72ce304badd77113cf4a262973bca82f.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/184862f5bf3847fb99af35fb2ba8921a.jpg" tvg-country="US" group-title="Entertainment",Nat Geo People
-https://ch.iptvmate.net/dda51a3a4bda3b674b45aa1974e91c14.m3u8
+https://ch.iptvmate.net/09c243a48e59fc8b0e0fd53c41b6598a.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/184862f5bf3847fb99af35fb2ba8921a.jpg" tvg-country="US" group-title="Entertainment",Nat Geo People
 https://ch.iptvmate.net/c5988c9b07df01ba1824fe1ea834b695.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/184862f5bf3847fb99af35fb2ba8921a.jpg" tvg-country="US" group-title="Entertainment",Nat Geo People
-https://ch.iptvmate.net/09c243a48e59fc8b0e0fd53c41b6598a.m3u8
-#EXTINF:-1 radio="false" tvg-id="Nat Geo Wild - UK" tvg-logo="https://img.iptvmate.net/6b79e619a0f659160abd3c328bea1f84.png" tvg-country="US" group-title="Entertainment",Nat Geo Wild
-https://ch.iptvmate.net/7b45ad5e9896991235c46a2e8106f4bb.m3u8
+https://ch.iptvmate.net/dda51a3a4bda3b674b45aa1974e91c14.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/184862f5bf3847fb99af35fb2ba8921a.jpg" tvg-country="US" group-title="Entertainment",Nat Geo People
+https://ch.iptvmate.net/72ce304badd77113cf4a262973bca82f.m3u8
 #EXTINF:-1 radio="false" tvg-id="Nat Geo Wild - UK" tvg-logo="https://img.iptvmate.net/6b79e619a0f659160abd3c328bea1f84.png" tvg-country="US" group-title="Entertainment",Nat Geo Wild
 https://ch.iptvmate.net/580d9213db0c9fe5b5dd9f34905c0fc8.m3u8
+#EXTINF:-1 radio="false" tvg-id="Nat Geo Wild - UK" tvg-logo="https://img.iptvmate.net/6b79e619a0f659160abd3c328bea1f84.png" tvg-country="US" group-title="Entertainment",Nat Geo Wild
+https://ch.iptvmate.net/7b45ad5e9896991235c46a2e8106f4bb.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/6b79e619a0f659160abd3c328bea1f84.png" tvg-country="US" group-title="Entertainment",Nat Geo Wild HD
 https://ch.iptvmate.net/990ffeaa4b576e24442ee6235bfa5beb.m3u8
 #EXTINF:-1 radio="false" tvg-id="National Geographic US - Eastern" tvg-logo="https://img.iptvmate.net/c49bcaefdb4e59f59afd5fac421b5d94.png" tvg-country="US" group-title="Entertainment",National Geographic
-https://ch.iptvmate.net/fc5eeb3a3e21e54dedb4939d324867d2.m3u8
-#EXTINF:-1 radio="false" tvg-id="National Geographic US - Eastern" tvg-logo="https://img.iptvmate.net/c49bcaefdb4e59f59afd5fac421b5d94.png" tvg-country="US" group-title="Entertainment",National Geographic
 https://ch.iptvmate.net/e54459c488a50e22029aa06632205498.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/aa4c7ef65ede5808cfb7bfa7d3959214.png" tvg-country="TR" group-title="Entertainment",Natural TV
-https://ch.iptvmate.net/658e070804f8c4c4bf1253103fba9ce5.m3u8
+#EXTINF:-1 radio="false" tvg-id="National Geographic US - Eastern" tvg-logo="https://img.iptvmate.net/c49bcaefdb4e59f59afd5fac421b5d94.png" tvg-country="US" group-title="Entertainment",National Geographic
+https://ch.iptvmate.net/fc5eeb3a3e21e54dedb4939d324867d2.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/aa4c7ef65ede5808cfb7bfa7d3959214.png" tvg-country="TR" group-title="Entertainment",Natural TV
 https://ch.iptvmate.net/9ae354b4cba9aae229a142dae4fb63ca.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/aa4c7ef65ede5808cfb7bfa7d3959214.png" tvg-country="TR" group-title="Entertainment",Natural TV
+https://ch.iptvmate.net/658e070804f8c4c4bf1253103fba9ce5.m3u8
 #EXTINF:-1 radio="false" tvg-id="NBC (WOWT) Omaha, NE" tvg-name="US-NBC HD New York" tvg-logo="https://img.iptvmate.net/be19faf8c22eef22dd243edaac40ae07.png" tvg-country="US" group-title="Entertainment",NBC
 https://ch.iptvmate.net/ddc12779530e41ef044a851538be1f45.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",NBC 11 Pittsburgh PA (WPXI-HD)
@@ -3985,30 +3987,30 @@ https://ch.iptvmate.net/9c218784c8c7e8cb89498453ec54aed9.m3u8
 https://ch.iptvmate.net/c7a7297571993235860a230a7ce4091f.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/aeb435e01eb8a12a65b2c86167d6562c.png" tvg-country="US" group-title="Entertainment",NBC 38 Columbus GA (WLTZ-DT)
 https://ch.iptvmate.net/63d1482119d8fed1c1081ace7ff4f4c4.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2c088ac54c7daf51a56075aae32eda0c.jpg" tvg-country="US" group-title="Entertainment",NBC 6 Miami FL (WTVJ)
-https://ch.iptvmate.net/4032fb061e72de674ab2f77ecd05a1b8.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2c088ac54c7daf51a56075aae32eda0c.jpg" tvg-country="US" group-title="Entertainment",NBC 6 Miami FL (WTVJ)
-https://ch.iptvmate.net/7cb3e97cdac6bb00752e74891a5fbb31.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bedb162330400e7387bba2e05f71e3b3.png" tvg-country="US" group-title="Entertainment",NBC 6 Miami FL (WTVJ)
 https://ch.iptvmate.net/65d2ff0d596f4363b89ade07eb86b429.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2c088ac54c7daf51a56075aae32eda0c.jpg" tvg-country="US" group-title="Entertainment",NBC 6 Miami FL (WTVJ)
+https://ch.iptvmate.net/7cb3e97cdac6bb00752e74891a5fbb31.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2c088ac54c7daf51a56075aae32eda0c.jpg" tvg-country="US" group-title="Entertainment",NBC 6 Miami FL (WTVJ)
+https://ch.iptvmate.net/4032fb061e72de674ab2f77ecd05a1b8.m3u8
 #EXTINF:-1 radio="false" tvg-id="NBC HD Charlotte-US" tvg-name="NBC HD Charlotte-US" tvg-logo="https://img.iptvmate.net/ef1b19267148ac659d2da0784f758717.png" tvg-country="US" group-title="Entertainment",NBC Charlotte NC (WCNC-TV)
 https://ch.iptvmate.net/79daaaf81ce6d4e18001b126a9dea916.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/482aed1e2e92714fbe0f3b7176f4edaf.jpg" tvg-country="US" group-title="Entertainment",NBC San Jose CA (KNTV)
-https://ch.iptvmate.net/2cc3357f7ecaf5f1e196a5e3dd0918f4.m3u8
+https://ch.iptvmate.net/e31848d34b59982d9c1f4e7f0b611ca3.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/482aed1e2e92714fbe0f3b7176f4edaf.jpg" tvg-country="US" group-title="Entertainment",NBC San Jose CA (KNTV)
 https://ch.iptvmate.net/5a426eb114a03c3fdf2adf3a6ff4196d.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/482aed1e2e92714fbe0f3b7176f4edaf.jpg" tvg-country="US" group-title="Entertainment",NBC San Jose CA (KNTV)
-https://ch.iptvmate.net/e31848d34b59982d9c1f4e7f0b611ca3.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2f316c7e5e2cf893c75bc5b9ff88b12e.jpg" tvg-country="US" group-title="Entertainment",New Orleans TV
-https://ch.iptvmate.net/751bfb66e3acc47ea34281c29bc053e7.m3u8
+https://ch.iptvmate.net/2cc3357f7ecaf5f1e196a5e3dd0918f4.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2f316c7e5e2cf893c75bc5b9ff88b12e.jpg" tvg-country="US" group-title="Entertainment",New Orleans TV
 https://ch.iptvmate.net/941a4972d3d12424419e23e51f6ac94c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2f316c7e5e2cf893c75bc5b9ff88b12e.jpg" tvg-country="US" group-title="Entertainment",New Orleans TV
+https://ch.iptvmate.net/751bfb66e3acc47ea34281c29bc053e7.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a5d1b4d4753a2b4b31045f5ece259bdc.png" tvg-country="US" group-title="Entertainment",NewsChannel 21 (KTVZ)
 https://ch.iptvmate.net/cd19b8706e6c86880b4e144f477eb25f.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/empty.png" tvg-country="US" group-title="Entertainment",Newsy
-https://ch.iptvmate.net/79578657b06469b892fed53f429d8bb8.m3u8?ad=newsyweb
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Newsy
 https://ch.iptvmate.net/79578657b06469b892fed53f429d8bb8.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/empty.png" tvg-country="US" group-title="Entertainment",Newsy
+https://ch.iptvmate.net/79578657b06469b892fed53f429d8bb8.m3u8?ad=newsyweb
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",NRBTV
 https://ch.iptvmate.net/d0c66098f12ea33a77aed032cd273bed.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/538e24fabc56ab7d08ba1baf3d0b3670.png" tvg-country="CA" group-title="Entertainment",NTV (CJON-DT)
@@ -4045,6 +4047,10 @@ http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1488?checkedby:h
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1488?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2921cf8a21b227f64b050c1512cf0619.jpg" tvg-country="US" group-title="Entertainment",Pac-12 Plus
 https://ch.iptvmate.net/6b17a851fd6b214ffc4baa838dd05290.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Paramount Channel
+http://182.73.122.74:10004/bysid/1105?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Paramount Comedy
+http://d78722d4.melpakomn.ru/iptv/6S67EMNRR9QAUY/157/index.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/de9b5024809ba832ed03e9d93e9e6904.jpg" tvg-country="CA" group-title="Entertainment",Pardesi TV
 https://ch.iptvmate.net/9dfaa005af21561a844e63ba4b65e68e.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",PBC Tapesh TV
@@ -4055,20 +4061,114 @@ https://ch.iptvmate.net/9a236aaf649a6f333d6efa53a693d7bb.m3u8?fluxustv.m3u8
 https://ch.iptvmate.net/9a236aaf649a6f333d6efa53a693d7bb.m3u8
 #EXTINF:-1 radio="false" tvg-id="Pick+1 - UK" tvg-logo="https://img.iptvmate.net/0f0ef3d79541f61744bd8758a3c840c5.png" tvg-country="UK" group-title="Entertainment",Pick
 https://ch.iptvmate.net/1c2c6cfeb0881d7c4d21a42e8a823336.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/836.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/835.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK 2
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/835.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK 3
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/834.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/834.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK ACTION
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/833.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK BRAVO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/832.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK CLASSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/831.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK EROTIC 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/827.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK EROTIC 8
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/821.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK FAMILY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/819.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK FILM
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/816.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK FOLK 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/815.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK FOLK 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/814.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK HAHA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/813.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK HITS2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/811.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK KONCERT
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/808.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK KUVAR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/807.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK LOL
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/806.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK MOVIES
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/805.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK MOVIES
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/805.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK PLUS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/799.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK PREMIUM
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/798.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK SERIJE
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/794.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK SHOW
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/793.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK THRILLER
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/789.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK THRILLER
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/789.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK WESTERN
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/788.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK WORLD
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/787.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK WORLD
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/787.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PINK ZABAVA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/785.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7666455a560cd58eefd660901229108c.jpg" tvg-country="US" group-title="Entertainment",Planet Cannabis Entertainment
 https://ch.iptvmate.net/f34ad6c5be238c2c98549c378c69dd9d.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2c19d34896859438efcb9eb499cd34e1.jpg" tvg-country="US" group-title="Entertainment",Pluto TV Documentaries
 https://ch.iptvmate.net/82a4f2e010858cdcda7ca8b0518c4625.m3u8
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",POWER HD
+http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ee5dc68819bc2691ad2ecfb45dccc079.png" tvg-country="TR" group-title="Entertainment",Power Türk
 https://ch.iptvmate.net/cf80c3dfa4feb3e1f7573685b05498c8.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM ACTION FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10431?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM ACTION HD
+http://seeyoutv.net:2300/parigi/parigi/10430?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM CINEMA 1 +24 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10429?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM CINEMA 1 +24 HD
+http://seeyoutv.net:2300/parigi/parigi/10428?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM CINEMA 1 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10421?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM CINEMA 1 HD
+http://seeyoutv.net:2300/parigi/parigi/10420?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM CINEMA 2 HD
+http://seeyoutv.net:2300/parigi/parigi/10422?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM CINEMA 3 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10425?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM CINEMA 3 HD
+http://seeyoutv.net:2300/parigi/parigi/10424?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM CRIME HD
+http://seeyoutv.net:2300/parigi/parigi/10418?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM NATIONAL GEOGRAPHIC
+http://seeyoutv.net:2300/parigi/parigi/10628?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM SKY UNO
+http://seeyoutv.net:2300/parigi/parigi/10623?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM STORIES FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10415?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PREMIUM STORIES HD
+http://seeyoutv.net:2300/parigi/parigi/10414?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/1f24d80beec80634a69eef64a00d7f46.png" tvg-country="UK" group-title="Entertainment",Primal Living TV
 https://ch.iptvmate.net/5e47affeae4886b1fc7c7383f320fe1b.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a7af6f11842a888dd8171a7f937dffc0.png" tvg-country="CA" group-title="Entertainment",Prime Asia TV
 https://ch.iptvmate.net/9b26f75a8f20440f082b6f9a019ed512.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/374e5d0d0846c534c2acf8bf6ee94392.jpg" tvg-country="CA" group-title="Entertainment",Prime Canada TV
 https://ch.iptvmate.net/1fe5d7d9a963aaf348879cbdc1bb1c4d.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",PRO TV INTERNATIONAL
+http://78.109.108.62:2001/protv?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",PURSUIT CHANNEL
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97636?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",PURSUIT CHANNEL
@@ -4087,10 +4187,10 @@ https://ch.iptvmate.net/6603fa776012f305506bd4afbbadaee7.m3u8
 https://ch.iptvmate.net/b6d1560a6be0d052977168a0e88a5c96.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2a2a84b01e55705fc30936e2941a776f.jpg" tvg-country="UK" group-title="Entertainment",Reuters
 https://ch.iptvmate.net/1b6ddc49bfb730e548bd30d971979925.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Rev'n
-https://ch.iptvmate.net/355a2df4f85adeb4b8e82f369ad6c8c6.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2981bd204c034af142d0ab4b8f6784e4.png" tvg-country="US" group-title="Entertainment",Rev'n
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8?hdnea=st=1566236803~exp=1566236923~acl=/i/dclive_1@624563*~hmac=2b869b90909212e3093b3849511aba47d44ff643dd10994027e1775c506608f9
+#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",Rev'n
+https://ch.iptvmate.net/355a2df4f85adeb4b8e82f369ad6c8c6.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/5c32feca809929c3a1c0b1819a0a48f9.png" tvg-country="US" group-title="Entertainment",Revelation TV
 https://ch.iptvmate.net/c029b7afa9354bcf421f41b2b1193b08.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/011305589c39f6c1e3176178d62902e9.jpg" tvg-country="US" group-title="Entertainment",Revry
@@ -4107,10 +4207,10 @@ https://ch.iptvmate.net/259da2c2f22b951b110dd4162d73cc17.m3u8
 https://ch.iptvmate.net/90c28aee712f7733c54555c6246a5efc.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/dbc49d99e8cab4e15f799218c6f52757.jpg" tvg-country="CA" group-title="Entertainment",Sardari TV
 https://ch.iptvmate.net/755af9ca95e0753b1c0fec65f6e2edb9.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",SBN
-https://ch.iptvmate.net/5e59cd6c0f3c6393770ff58bc0d9c86f.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/76ce585fe75f63a3c451464dfdab7e91.png" tvg-country="US" group-title="Entertainment",SBN
 https://ch.iptvmate.net/31f60b5ef52cb403da632b95a0e7732e.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",SBN
+https://ch.iptvmate.net/5e59cd6c0f3c6393770ff58bc0d9c86f.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",SBN Global
 https://ch.iptvmate.net/f249cb8a23825ae398d1f7fb84ed74de.m3u8
 #EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/RX6YusQ.png" tvg-country="US" group-title="Entertainment",Sci-fi 4U
@@ -4124,15 +4224,15 @@ https://ch.iptvmate.net/babbf50c1e261aad564863d9d5cf7591.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9ef955ff5ebe0afd2b3e31f39c4d5d36.png" tvg-country="US" group-title="Entertainment",Screamfest
 https://ch.iptvmate.net/701984f5ad4d6d69d1a0d9b0b6a1f028.m3u8
 #EXTINF:-1 radio="false" tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://img.iptvmate.net/ced882d811f2e39ea646f57b425787fc.jpg" tvg-country="TR" group-title="Entertainment",Semerkand TV
-https://ch.iptvmate.net/a69af67f36ae3349f93d3152a92a4186.m3u8
-#EXTINF:-1 radio="false" tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://img.iptvmate.net/ced882d811f2e39ea646f57b425787fc.jpg" tvg-country="TR" group-title="Entertainment",Semerkand TV
-https://ch.iptvmate.net/686dcc5094eb659b488b507cbd05ad0c.m3u8
-#EXTINF:-1 radio="false" tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://img.iptvmate.net/ced882d811f2e39ea646f57b425787fc.jpg" tvg-country="TR" group-title="Entertainment",Semerkand TV
-https://ch.iptvmate.net/ce7d701ddfcbb2770b13100df57071e4.m3u8
+https://ch.iptvmate.net/985a479c6845189e0aadb563261a4316.m3u8
 #EXTINF:-1 radio="false" tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://img.iptvmate.net/ced882d811f2e39ea646f57b425787fc.jpg" tvg-country="TR" group-title="Entertainment",Semerkand TV
 https://ch.iptvmate.net/f8bc070b35ed2f623e56ac10930b5d45.m3u8
 #EXTINF:-1 radio="false" tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://img.iptvmate.net/ced882d811f2e39ea646f57b425787fc.jpg" tvg-country="TR" group-title="Entertainment",Semerkand TV
-https://ch.iptvmate.net/985a479c6845189e0aadb563261a4316.m3u8
+https://ch.iptvmate.net/ce7d701ddfcbb2770b13100df57071e4.m3u8
+#EXTINF:-1 radio="false" tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://img.iptvmate.net/ced882d811f2e39ea646f57b425787fc.jpg" tvg-country="TR" group-title="Entertainment",Semerkand TV
+https://ch.iptvmate.net/a69af67f36ae3349f93d3152a92a4186.m3u8
+#EXTINF:-1 radio="false" tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://img.iptvmate.net/ced882d811f2e39ea646f57b425787fc.jpg" tvg-country="TR" group-title="Entertainment",Semerkand TV
+https://ch.iptvmate.net/686dcc5094eb659b488b507cbd05ad0c.m3u8
 #EXTINF:-1 radio="false" tvg-id="4seven - UK" tvg-logo="https://img.iptvmate.net/90e1ab0abf6863367307840325b9d1d7.png" tvg-country="TR" group-title="Entertainment",Seven
 https://ch.iptvmate.net/54087f4fc65224d747e76fb585b5470c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2957043dcc42e8b46d6d3d9ae62844ee.png" tvg-country="UK" group-title="Entertainment",Sheffield TV
@@ -4145,10 +4245,6 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 https://ch.iptvmate.net/bac29382648827cf9f943d95e962b8ba.m3u8
 #EXTINF:-1 radio="false" tvg-id="Game Show Network - East" tvg-name="Show TR" tvg-logo="https://img.iptvmate.net/11d1cde55c172c3e19038d55de46d527.png" tvg-country="TR" group-title="Entertainment",Show
 https://ch.iptvmate.net/3d4e5875c25e49d01ea6e70958d53ec6.m3u8
-#EXTINF:0 radio="false" tvg-id="SHOXBET - Eastern" tvg-country="US" group-title="Entertainment",SHOxBET
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/90710?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="SHOXBET - Eastern" tvg-country="US" group-title="Entertainment",SHOxBET
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/90710?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ec5a123b80f0d8b150ff5f666e10136a.png" tvg-country="US" group-title="Entertainment",Slow TV
 https://ch.iptvmate.net/21509aacc8bdcdfb1da96b77dc9f6224.m3u8
 #EXTINF:-1 radio="false" tvg-id="Space-CA" tvg-name="Space-CA" tvg-logo="https://img.iptvmate.net/5689c8fa7e5297176e506c9cb8cdd4e0.png" tvg-country="CA" group-title="Entertainment",Space
@@ -4165,10 +4261,14 @@ https://ch.iptvmate.net/a40848372db0911dd5701023b1db3e7a.m3u8
 http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Star Cinema HD
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UA" group-title="Entertainment",Star Cinema HD
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Star Cinema HD
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Star Family HD
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Star Family HD
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Star GOLD - UK" tvg-country="GB" group-title="Entertainment",Star Gold
@@ -4180,37 +4280,39 @@ http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110059
 #EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR TREK
 http://dinamikiptv.com:7777/adalet/adalet123/51555
 #EXTINF:-1 radio="false" tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-logo="https://img.iptvmate.net/76044742d2eff850ebf75af4c5956dbb.jpg" tvg-country="TR" group-title="Entertainment",Star TV
-https://ch.iptvmate.net/2b6e9da756d868e91a1b04b734999b84.m3u8
-#EXTINF:-1 radio="false" tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-logo="https://img.iptvmate.net/76044742d2eff850ebf75af4c5956dbb.jpg" tvg-country="TR" group-title="Entertainment",Star TV
 https://ch.iptvmate.net/b94080c34cde169ba1a6cf1265e6b75e.m3u8
 #EXTINF:-1 radio="false" tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-logo="https://img.iptvmate.net/76044742d2eff850ebf75af4c5956dbb.jpg" tvg-country="TR" group-title="Entertainment",Star TV
 https://ch.iptvmate.net/fafab6fd9e72f53d346b27f231006dc8.m3u8
+#EXTINF:-1 radio="false" tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-logo="https://img.iptvmate.net/76044742d2eff850ebf75af4c5956dbb.jpg" tvg-country="TR" group-title="Entertainment",Star TV
+https://ch.iptvmate.net/2b6e9da756d868e91a1b04b734999b84.m3u8
 #EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" group-title="Entertainment",Star TV
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" group-title="Entertainment",Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",Star TV FHD TR
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/12834
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR TV SD
-http://dinamikiptv.com:7777/adalet/adalet123/7896
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR TV SD
-http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:0 radio="false" tvg-country="AZ" group-title="Entertainment",STAR TV SD
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR TV SD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR TV SD
+http://dinamikiptv.com:7777/adalet/adalet123/7896
 #EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",Star TV TR
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8072
 #EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR UHD
 http://dinamikiptv.com:7777/adalet/adalet123/4860
-#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR WARS
-http://dinamikiptv.com:7777/adalet/adalet123/51290
 #EXTINF:0 radio="false" tvg-country="DE" group-title="Entertainment",STAR WARS
 http://dinamikiptv.com:7777/adalet/adalet123/51011
+#EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STAR WARS
+http://dinamikiptv.com:7777/adalet/adalet123/51290
 #EXTINF:0 radio="false" tvg-country="US" group-title="Entertainment",START TV
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/41306
 #EXTINF:0 radio="false" tvg-country="TR" group-title="Entertainment",STARTV HD
 http://dinamikiptv.com:7777/adalet/adalet123/4879
 #EXTINF:0 radio="false" tvg-id="Starz Encore Espanol" tvg-country="US" group-title="Entertainment",STARZ
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1271
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",Stella TV
+rtmp://live-tvk.tvkstella.pl/flvplayback/StellaLive?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" group-title="Entertainment",STIRR Black Cinema,US | STIRR Black Cinema
 https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" group-title="Entertainment",STIRR Movies,US | STIRR Movies
@@ -4238,9 +4340,9 @@ https://ch.iptvmate.net/1afb722cc31685ae3447ec2a3adcd0b4.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9e33ad8a46182bea97b27c2504382da0.png" tvg-country="US" group-title="Entertainment",TastyTrade
 https://ch.iptvmate.net/ac2ff19cf52cd649317cc285be6c08fd.m3u8
 #EXTINF:-1 radio="false" tvg-id="TBD TV (KXVO-DT2) Omaha, NE" tvg-logo="https://img.iptvmate.net/c9d642593fdabe8a9347cbe301424736.png" tvg-country="US" group-title="Entertainment",TBD
-https://ch.iptvmate.net/8c38c12e28437b38678f7eee9205e131.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1 radio="false" tvg-id="TBD TV (KXVO-DT2) Omaha, NE" tvg-logo="https://img.iptvmate.net/c9d642593fdabe8a9347cbe301424736.png" tvg-country="US" group-title="Entertainment",TBD
 https://ch.iptvmate.net/8c38c12e28437b38678f7eee9205e131.m3u8
+#EXTINF:-1 radio="false" tvg-id="TBD TV (KXVO-DT2) Omaha, NE" tvg-logo="https://img.iptvmate.net/c9d642593fdabe8a9347cbe301424736.png" tvg-country="US" group-title="Entertainment",TBD
+https://ch.iptvmate.net/8c38c12e28437b38678f7eee9205e131.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/dcb5faf48532dd37f8d6bb3dc85412ac.png" tvg-country="TR" group-title="Entertainment",TBMM TV
 https://ch.iptvmate.net/aa51cfaab101dfc9b7a00cebf101cc92.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/391e0b48ddafb4088a2cc8b984cbd9b5.png" tvg-country="US" group-title="Entertainment",TCT
@@ -4289,14 +4391,14 @@ https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8
 https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Entertainment",The Seventh Dimension (Public-OnDemandMovies) (US) (English)
 http://cdnvod.setv.ca/hls/The.Seventh.Dimension.2009.BRRip.XviD.MP3-RARBG.mp4/master.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FlJVD8a.png" tvg-country="CA;US" group-title="Entertainment",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FlJVD8a.png" tvg-country="CA;US" group-title="Entertainment",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/4f6057ae541ac621c026dbc9cd5f939d.jpg" tvg-country="US" group-title="Entertainment",The Shopping Channel
 https://ch.iptvmate.net/e6d27d2ff241d12c4b24399d0f427219.m3u8
 #EXTINF:-1 radio="false" tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-logo="https://img.iptvmate.net/2cb5e8cae4f736237ef3930bcce95d48.png" tvg-country="CA" group-title="Entertainment",The Shopping Channel
 https://ch.iptvmate.net/e6d27d2ff241d12c4b24399d0f427219.m3u8
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FlJVD8a.png" tvg-country="CA;US" group-title="Entertainment",The Shopping Channel
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/FlJVD8a.png" tvg-country="CA;US" group-title="Entertainment",The Shopping Channel
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",The Shopping Channel HD
 https://ch.iptvmate.net/028fca11b506347aef23153f8ed551de.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",The Southeastern Channel
@@ -4370,9 +4472,9 @@ https://ch.iptvmate.net/7cf3070791ab3504ad0e479f7858cd7c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/269b7faeaa71ea5b39241bff7bb945cf.jpg" tvg-country="TR" group-title="Entertainment",UçanKuş TV
 https://ch.iptvmate.net/9691b5ca80c687d971d7a3f1cb73f04b.m3u8
 #EXTINF:-1 radio="false" tvg-id="Venus TV - UK" tvg-logo="https://img.iptvmate.net/c5352af6c849aae373ba522f668c723b.png" tvg-country="UK" group-title="Entertainment",Venus TV
-https://ch.iptvmate.net/35bd757a7365f68ecee0abf36714d7e6.m3u8
-#EXTINF:-1 radio="false" tvg-id="Venus TV - UK" tvg-logo="https://img.iptvmate.net/c5352af6c849aae373ba522f668c723b.png" tvg-country="UK" group-title="Entertainment",Venus TV
 https://ch.iptvmate.net/dfd37f5e4baffeeff051b9d1af039e76.m3u8
+#EXTINF:-1 radio="false" tvg-id="Venus TV - UK" tvg-logo="https://img.iptvmate.net/c5352af6c849aae373ba522f668c723b.png" tvg-country="UK" group-title="Entertainment",Venus TV
+https://ch.iptvmate.net/35bd757a7365f68ecee0abf36714d7e6.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c5352af6c849aae373ba522f668c723b.png" tvg-country="US" group-title="Entertainment",Venus TV (US Eastern)
 https://ch.iptvmate.net/14fcbf67d094d40c5fd7924be27f3191.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/c5352af6c849aae373ba522f668c723b.png" tvg-country="US" group-title="Entertainment",Venus TV (US Pacific)
@@ -4386,13 +4488,13 @@ https://ch.iptvmate.net/0e66825ed2bce0e818cbbc7e384f1d90.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/69d870abd0986496fa36b40cb4de0072.png" tvg-country="US" group-title="Entertainment",Viva Cristo TV
 https://ch.iptvmate.net/8ff6648666bdbb072f265ffcae06e200.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0eb617bf5a934dbf17dd3e90ddd72ef0.jpg" tvg-country="US" group-title="Entertainment",VoA TV
-https://ch.iptvmate.net/6d72dc180226b6e3e6ce2fff3f45ed26.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0eb617bf5a934dbf17dd3e90ddd72ef0.jpg" tvg-country="US" group-title="Entertainment",VoA TV
-https://ch.iptvmate.net/f95d9a929213aa9b177625cb527de2e7.m3u8
+https://ch.iptvmate.net/098244445d8e673a887d675fae652425.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0eb617bf5a934dbf17dd3e90ddd72ef0.jpg" tvg-country="US" group-title="Entertainment",VoA TV
 https://ch.iptvmate.net/e9f36ba4d16c42a3dce03dc2b3b47d3d.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0eb617bf5a934dbf17dd3e90ddd72ef0.jpg" tvg-country="US" group-title="Entertainment",VoA TV
-https://ch.iptvmate.net/098244445d8e673a887d675fae652425.m3u8
+https://ch.iptvmate.net/6d72dc180226b6e3e6ce2fff3f45ed26.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0eb617bf5a934dbf17dd3e90ddd72ef0.jpg" tvg-country="US" group-title="Entertainment",VoA TV
+https://ch.iptvmate.net/f95d9a929213aa9b177625cb527de2e7.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/68a8857641f0880fd478a3f4e57a2aed.png" tvg-country="UK" group-title="Entertainment",Vox Africa UK
 https://ch.iptvmate.net/6465310307c164d7947e5e95335d046d.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b41569a2368a8c62834a662878993636.png" tvg-country="US" group-title="Entertainment",VSiN
@@ -4410,15 +4512,15 @@ https://nimble.dashmedia.tv/onestudio/western4u/ playlist.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",WGGS-TV (Greenville)
 https://ch.iptvmate.net/dfe76726e27d7f245cb80cb613fd5b6b.m3u8
 #EXTINF:-1 radio="false" tvg-id="WGN HD Chicago-US" tvg-name="WGN HD Chicago-US" tvg-logo="https://img.iptvmate.net/88e9ffa2e6532bde9a2afd740b756681.png" tvg-country="US" group-title="Entertainment",WGN-TV (Chicago)
-https://ch.iptvmate.net/eabca9c77d39a350064c8f69b85819eb.m3u8
+https://ch.iptvmate.net/10728dbd461e068671c1ab8881e42c31.m3u8
 #EXTINF:-1 radio="false" tvg-id="WGN HD Chicago-US" tvg-name="WGN HD Chicago-US" tvg-logo="https://img.iptvmate.net/88e9ffa2e6532bde9a2afd740b756681.png" tvg-country="US" group-title="Entertainment",WGN-TV (Chicago)
 https://ch.iptvmate.net/a744e7291f1d050f435ed648c7d8f388.m3u8
 #EXTINF:-1 radio="false" tvg-id="WGN HD Chicago-US" tvg-name="WGN HD Chicago-US" tvg-logo="https://img.iptvmate.net/88e9ffa2e6532bde9a2afd740b756681.png" tvg-country="US" group-title="Entertainment",WGN-TV (Chicago)
-https://ch.iptvmate.net/10728dbd461e068671c1ab8881e42c31.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/343a8d52443e860f806cc30dbe3ba08b.png" tvg-country="US" group-title="Entertainment",WHIO
-https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
+https://ch.iptvmate.net/eabca9c77d39a350064c8f69b85819eb.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/95066537690bf13286157589b15a3ffd.jpg" tvg-country="US" group-title="Entertainment",WHIO
 https://ch.iptvmate.net/aaa3742f8bc3f56cbd07d3d47076170c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/343a8d52443e860f806cc30dbe3ba08b.png" tvg-country="US" group-title="Entertainment",WHIO
+https://ch.iptvmate.net/5f24f642017e3fae6fca576aaf4ef0f3.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9e020ec1ac196b172f7b74142dd44066.png" tvg-country="US" group-title="Entertainment",White Plains Community Media
 https://ch.iptvmate.net/b4c4b859501ce2a0d42a2b5d3d9941e5.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/5b92d6a34413d9e6a1a21161ce4219c4.jpg" tvg-country="US" group-title="Entertainment",Wink TV
@@ -4428,13 +4530,13 @@ https://ch.iptvmate.net/617c79189d45d26dd5258940e57dce96.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7976a557a9685936bc14cba313f08e87.png" tvg-country="US" group-title="Entertainment",World Poker Tour
 https://ch.iptvmate.net/5133d3f24dffd9eb2b8a20f548e79e90.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",WOW! TV
-https://ch.iptvmate.net/a6e23b62474428ee07747ed720a2678c.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",WOW! TV
-https://ch.iptvmate.net/57a2cedf554fd5f7760303a522f429be.m3u8
-#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",WOW! TV
 https://ch.iptvmate.net/5adcffbadbbf893c6bac6c9ed5bb4aa0.m3u8
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",WOW! TV
 https://ch.iptvmate.net/a6e23b62474428ee07747ed720a2678c.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",WOW! TV
+https://ch.iptvmate.net/a6e23b62474428ee07747ed720a2678c.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="Entertainment",WOW! TV
+https://ch.iptvmate.net/57a2cedf554fd5f7760303a522f429be.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/a626ac5a025cce5c46056671712a6776.jpg" tvg-country="US" group-title="Entertainment",WSJ
 https://ch.iptvmate.net/c8370dd57c09fa2512337a3a233b6dbf.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/232da8ea56e381496372c86cd08431b3.png" tvg-country="US" group-title="Entertainment",WXXV 25 Gulfport MS (WXXV)
@@ -4446,13 +4548,13 @@ http://cstvpull.live.wscdns.com/live/xiamen4.flv
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/e33ea768322582e2503d48da62186ee8.png" tvg-country="US" group-title="Entertainment",Yoo Too America
 https://ch.iptvmate.net/0801a51093e7ed35e2ac349cb2ea17bd.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ae2f5b67ba800001bd3bdecf6abd890c.png" tvg-country="US" group-title="Entertainment",Z Living
-https://ch.iptvmate.net/2b12b9f8f2c03acb36414a6cad77d9e9.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ae2f5b67ba800001bd3bdecf6abd890c.png" tvg-country="US" group-title="Entertainment",Z Living
 https://ch.iptvmate.net/69fa3735f5715fe46355f5d08d1b55f8.m3u8
-#EXTINF:0 radio="false" tvg-id="Zee Cinema - UK" tvg-country="US" group-title="Entertainment",ZEE CINEMA
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/ae2f5b67ba800001bd3bdecf6abd890c.png" tvg-country="US" group-title="Entertainment",Z Living
+https://ch.iptvmate.net/2b12b9f8f2c03acb36414a6cad77d9e9.m3u8
 #EXTINF:0 radio="false" tvg-id="Zee Cinema - UK" tvg-country="GB" group-title="Entertainment",Zee Cinema
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110062?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Zee Cinema - UK" tvg-country="US" group-title="Entertainment",ZEE CINEMA
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Kids",24/7 Super Geek Heroes,Super Geek Heroes,Super Geek Heroes (Kids)
 https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Kids",24/7 Super Geek Heroes,Super Geek Heroes,Super Geek Heroes (Kids)
@@ -4615,6 +4717,12 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38434?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Universal Kids" tvg-country="US" group-title="Kids",UNIVERSAL KIDS
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/38434?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",PINK SUPER KIDS
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/790.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",PINK SUPER KIDS
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/790.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Kids",BOOMERANG HD
+http://seeyoutv.net:2300/parigi/parigi/10560?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-country="US" group-title="Movies",24/7 Retro TV
 https://ch.iptvmate.net/75c77e40f6255e6a3acd07e497c0e13a.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/47c143519667bf66d33f8610f81570e2.jpg" tvg-country="US" group-title="Movies",24/7 Retro TV
@@ -4667,57 +4775,57 @@ http://x12tv.co:80/new-line-local/7wdIVc7ivH/44377?checkedby:hlscat.com
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1282?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Cinemax - Eastern Feed" tvg-country="US" group-title="Movies",CINEMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1282?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
+#EXTINF:0 radio="false" tvg-id="5 Star Max - Eastern" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89057?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
+#EXTINF:0 radio="false" tvg-id="5 Star Max - Eastern" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89057?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
+#EXTINF:0 radio="false" tvg-id="5 Star Max - Eastern" tvg-country="US" group-title="Movies",CINEMAX 5STAR MAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89057
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Action Max East
+#EXTINF:0 radio="false" tvg-id="ActionMax - Eastern" tvg-country="US" group-title="Movies",Cinemax Action Max East
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/8?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Action Max East
+#EXTINF:0 radio="false" tvg-id="ActionMax - Eastern" tvg-country="US" group-title="Movies",Cinemax Action Max East
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/8?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX
+#EXTINF:0 radio="false" tvg-id="ActionMax - Eastern" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95935?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX
+#EXTINF:0 radio="false" tvg-id="ActionMax - Eastern" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95935?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110769?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX ACTIONMAX WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110769?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax East
+#EXTINF:0 radio="false" tvg-id="Cinemax - Eastern Feed" tvg-country="US" group-title="Movies",Cinemax East
 http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/25?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax East
+#EXTINF:0 radio="false" tvg-id="Cinemax - Eastern Feed" tvg-country="US" group-title="Movies",Cinemax East
 http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/25?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX
+#EXTINF:0 radio="false" tvg-id="MoreMax  Eastern" tvg-country="US" group-title="Movies",CINEMAX MOREMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95932?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX
+#EXTINF:0 radio="false" tvg-id="MoreMax  Eastern" tvg-country="US" group-title="Movies",CINEMAX MOREMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95932?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110768?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOREMAX WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110768?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
+#EXTINF:0 radio="false" tvg-id="MovieMax - Pacific" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99584?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
+#EXTINF:0 radio="false" tvg-id="MovieMax - Pacific" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99584?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
+#EXTINF:0 radio="false" tvg-id="MovieMax - Pacific" tvg-country="US" group-title="Movies",CINEMAX MOVIEMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99584
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX OUTERMAX
+#EXTINF:0 radio="false" tvg-id="OuterMax - Eastern" tvg-country="US" group-title="Movies",CINEMAX OUTERMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95934?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX OUTERMAX
+#EXTINF:0 radio="false" tvg-id="OuterMax - Eastern" tvg-country="US" group-title="Movies",CINEMAX OUTERMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95934?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Outermax
+#EXTINF:0 radio="false" tvg-id="OuterMax - Eastern" tvg-country="US" group-title="Movies",Cinemax Outermax
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/90?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Outermax
+#EXTINF:0 radio="false" tvg-id="OuterMax - Eastern" tvg-country="US" group-title="Movies",Cinemax Outermax
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/90?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX
+#EXTINF:0 radio="false" tvg-id="ThrillerMax - East" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95933?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX
+#EXTINF:0 radio="false" tvg-id="ThrillerMax - East" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95933?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Thrillermax
+#EXTINF:0 radio="false" tvg-id="ThrillerMax - East" tvg-country="US" group-title="Movies",Cinemax Thrillermax
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/96?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemax Thrillermax
+#EXTINF:0 radio="false" tvg-id="ThrillerMax - East" tvg-country="US" group-title="Movies",Cinemax Thrillermax
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/96?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX THRILLERMAX WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110771?checkedby:hlscat.com
@@ -4727,9 +4835,9 @@ http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110771?checkedby
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110767?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",CINEMAX WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110767?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemaxx More Maxx
+#EXTINF:0 radio="false" tvg-id="CINEMAX MOREMAX" tvg-country="US" group-title="Movies",Cinemaxx More Maxx
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/120?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Cinemaxx More Maxx
+#EXTINF:0 radio="false" tvg-id="CINEMAX MOREMAX" tvg-country="US" group-title="Movies",Cinemaxx More Maxx
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/120?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Turner Classic Movies USA" tvg-country="US" group-title="Movies",Classic Movies
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:hlscat.com
@@ -4859,10 +4967,74 @@ http://mypanel.tv:8080/carter123424/SsFNP3g6VF/71971
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7246
 #EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Movistar F1 HD ES
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13549
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Paramount Channel
+http://182.73.122.74:10004/bysid/1105?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Paramount Comedy
+http://d78722d4.melpakomn.ru/iptv/6S67EMNRR9QAUY/157/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/836.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK 2
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/835.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/835.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK 3
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/834.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/834.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK ACTION
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/833.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK BRAVO
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/832.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK CLASSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/831.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK EROTIC 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/827.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK EROTIC 8
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/821.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK FAMILY
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/819.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK FILM
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/816.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK FOLK 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/815.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK FOLK 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/814.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK HAHA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/813.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK HITS2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/811.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" group-title="Movies",PINK HORROR
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/810
 #EXTINF:0 radio="false" group-title="Movies",PINK HORROR
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/810
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK KONCERT
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/808.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK KUVAR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/807.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK LOL
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/806.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK MOVIES
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/805.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK MOVIES
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/805.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK PLUS
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/799.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK PREMIUM
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/798.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK SERIJE
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/794.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK SHOW
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/793.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK THRILLER
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/789.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK THRILLER
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/789.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WESTERN
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/788.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WORLD
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/787.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WORLD
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/787.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WORLD CINEMA
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/786.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WORLD CINEMA
@@ -4871,6 +5043,8 @@ http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/786.m3u8?checkedby:h
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/786.m3u8?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK WORLD CINEMA
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/786.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PINK ZABAVA
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/785.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/0fe6c835d4422c321f8532b74137e617.jpg" tvg-country="US" group-title="Movies",Pluto TV Drama
 https://ch.iptvmate.net/09aa8a4ecb79ed1e233941e3503262cf.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/1ba7869a1f0de8751056950adf2f002e.jpg" tvg-country="US" group-title="Movies",Pluto TV Movies 1
@@ -4879,6 +5053,14 @@ https://ch.iptvmate.net/4a0156f9955da1b8b4c38ad2a33e3538.m3u8
 https://ch.iptvmate.net/33048726eb68635a483b2f88b9dbb9af.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/1fcdc967e701821be144a16762c05341.jpg" tvg-country="US" group-title="Movies",Pluto TV Romance
 https://ch.iptvmate.net/4ca8a2c1f70c7e88cdf011cca7e33603.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",POWER HD
+http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM ACTION FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10431?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM ACTION HD
+http://seeyoutv.net:2300/parigi/parigi/10430?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 +24 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10429?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 +24 FULL HD
 http://seeyoutv.net:2300/parigi/parigi/10429?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 +24 FULL HD
@@ -4887,6 +5069,10 @@ http://seeyoutv.net:2300/parigi/parigi/10429?checkedby:hlscat.com
 http://seeyoutv.net:2300/parigi/parigi/10428?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 +24 HD
 http://seeyoutv.net:2300/parigi/parigi/10428?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 +24 HD
+http://seeyoutv.net:2300/parigi/parigi/10428?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10421?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 FULL HD
 http://seeyoutv.net:2300/parigi/parigi/10421?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 FULL HD
@@ -4895,6 +5081,10 @@ http://seeyoutv.net:2300/parigi/parigi/10421?checkedby:hlscat.com
 http://seeyoutv.net:2300/parigi/parigi/10420?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 HD
 http://seeyoutv.net:2300/parigi/parigi/10420?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 1 HD
+http://seeyoutv.net:2300/parigi/parigi/10420?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 2 HD
+http://seeyoutv.net:2300/parigi/parigi/10422?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 2 HD
 http://seeyoutv.net:2300/parigi/parigi/10422?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 2 HD
@@ -4903,6 +5093,10 @@ http://seeyoutv.net:2300/parigi/parigi/10422?checkedby:hlscat.com
 http://seeyoutv.net:2300/parigi/parigi/10425?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 3 FULL HD
 http://seeyoutv.net:2300/parigi/parigi/10425?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 3 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10425?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 3 HD
+http://seeyoutv.net:2300/parigi/parigi/10424?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 3 HD
 http://seeyoutv.net:2300/parigi/parigi/10424?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CINEMA 3 HD
@@ -4911,6 +5105,54 @@ http://seeyoutv.net:2300/parigi/parigi/10424?checkedby:hlscat.com
 http://x12tv.co:80/new-line-local/7wdIVc7ivH/44378?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Premium Cinema HD
 http://x12tv.co:80/new-line-local/7wdIVc7ivH/44378?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM CRIME HD
+http://seeyoutv.net:2300/parigi/parigi/10418?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM NATIONAL GEOGRAPHIC
+http://seeyoutv.net:2300/parigi/parigi/10628?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM SKY UNO
+http://seeyoutv.net:2300/parigi/parigi/10623?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM STORIES FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10415?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PREMIUM STORIES HD
+http://seeyoutv.net:2300/parigi/parigi/10414?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",PRO TV INTERNATIONAL
+http://78.109.108.62:2001/protv?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Showtime - Eastern Feed" tvg-country="US" group-title="Movies",SHOWTIME
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1580?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Showtime 2 - Pacific" tvg-country="US" group-title="Movies",SHOWTIME 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95922?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Showtime West HD" tvg-country="US" group-title="Movies",SHOWTIME 2 WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110780?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Showtime Extreme - Eastern" tvg-country="US" group-title="Movies",Showtime Extreme
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/28?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Showtime Extreme - Eastern" tvg-country="US" group-title="Movies",SHOWTIME EXTREME
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95921?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SHOWTIME EXTREME WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110782?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SHOWTIME FAMILY ZONE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/99421?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SHOWTIME FAMILY ZONE WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110786?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Showtime HD US
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4926?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SHOWTIME NEXT
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89082?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Showtime Showcase - Eastern" tvg-country="US" group-title="Movies",SHOWTIME SHOWCASE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1421?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Showtime Showcase - Eastern" tvg-country="US" group-title="Movies",Showtime Showcase
+http://dinamikiptv.com:7777/adalet/adalet123/54051?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SHOWTIME SHOWCASE WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110783?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Showtime West" tvg-country="US" group-title="Movies",SHOWTIME WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/39223?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SHOWTIME WOMEN
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97654?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",SHOWTIME WOMEN WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110785?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="SHOXBET - Eastern" tvg-country="US" group-title="Movies",SHOxBET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/90710?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="SHOXBET - Eastern" tvg-country="US" group-title="Movies",SHOxBET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/90710?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Sky Cinema 1 HD
 http://seeyoutv.net:2300/parigi/parigi/10508?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Sky Cinema 1 HD
@@ -5077,16 +5319,20 @@ http://mypanel.tv:8080/carter123424/SsFNP3g6VF/9528
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
 #EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Star Cinema HD
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-country="UA" group-title="Movies",Star Cinema HD
+#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="UA" group-title="Movies",Star Cinema HD
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:hlscat.com
-#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="ES" group-title="Movies",Starz Cinema
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109986
-#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="US" group-title="Movies",STARZ CINEMA
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97655?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="UN" group-title="Movies",Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Star Family HD
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="US" group-title="Movies",STARZ CINEMA
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97655?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="US" group-title="Movies",STARZ CINEMA
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97655
+#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="ES" group-title="Movies",Starz Cinema
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109986
+#EXTINF:0 radio="false" tvg-id="Starz Cinema - Eastern" tvg-country="US" group-title="Movies",STARZ CINEMA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97655?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ CINEMA WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110787?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ CINEMA WEST
@@ -5101,44 +5347,46 @@ http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110788
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95918
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ EDGE WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110789
-#EXTINF:0 radio="false" tvg-id="Starz Encore Espanol" tvg-country="US" group-title="Movies",STARZ ENCORE
+#EXTINF:0 radio="false" tvg-id="Starz Encore - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/94991
 #EXTINF:0 radio="false" tvg-id="Starz Encore Action - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE ACTION
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95801
 #EXTINF:0 radio="false" tvg-id="Starz Encore Action - Eastern" tvg-country="ES" group-title="Movies",Starz Encore Action
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109991
-#EXTINF:0 radio="false" tvg-id="Starz Encore Black - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE BLACK
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97580
 #EXTINF:0 radio="false" tvg-id="Starz Encore Black - Eastern" tvg-country="ES" group-title="Movies",Starz Encore Black
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109992
-#EXTINF:0 radio="false" tvg-id="Starz Encore Classic - Eastern" tvg-country="ES" group-title="Movies",Starz Encore Classic
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109993
+#EXTINF:0 radio="false" tvg-id="Starz Encore Black - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE BLACK
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97580
 #EXTINF:0 radio="false" tvg-id="Starz Encore Classic - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE CLASSIC
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95873
+#EXTINF:0 radio="false" tvg-id="Starz Encore Classic - Eastern" tvg-country="ES" group-title="Movies",Starz Encore Classic
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109993
 #EXTINF:0 radio="false" tvg-id="Starz Encore Family - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE FAMILY
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/97581
 #EXTINF:0 radio="false" tvg-id="Starz Encore Suspense - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE SUSPENSE
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/95802
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Starz Encore US
+#EXTINF:0 radio="false" tvg-id="Starz Encore - Eastern" tvg-country="US" group-title="Movies",Starz Encore US
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/4896
 #EXTINF:0 radio="false" tvg-id="Starz Encore Westerns - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110791
 #EXTINF:0 radio="false" tvg-id="Starz Encore Westerns - Eastern" tvg-country="ES" group-title="Movies",Starz Encore Western
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109996
-#EXTINF:0 radio="false" tvg-id="Starz Encore Westerns - Eastern" tvg-country="US" group-title="Movies",Starz Encore Westerns
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/5
 #EXTINF:0 radio="false" tvg-id="Starz Encore Westerns - Eastern" tvg-country="US" group-title="Movies",STARZ ENCORE WESTERNS
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/92315
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",Starz Encoure
+#EXTINF:0 radio="false" tvg-id="Starz Encore Westerns - Eastern" tvg-country="US" group-title="Movies",Starz Encore Westerns
+http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/5
+#EXTINF:0 radio="false" tvg-id="Starz Encore - Eastern" tvg-country="US" group-title="Movies",Starz Encoure
 http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/13
 #EXTINF:0 radio="false" tvg-id="Starz In Black - Eastern" tvg-country="US" group-title="Movies",STARZ IN BLACK
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/89055
 #EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ IN BLACK WEST
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110792
-#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ WEST
-http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98749
 #EXTINF:0 radio="false" tvg-country="ES" group-title="Movies",Starz West
 http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109999
+#EXTINF:0 radio="false" tvg-country="US" group-title="Movies",STARZ WEST
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/98749
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Movies",Stella TV
+rtmp://live-tvk.tvkstella.pl/flvplayback/StellaLive?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-country="US" group-title="Movies",STIRR Black Cinema,US | STIRR Black Cinema
 https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/839be87126f2e5f196f7c493b99ca0b4.jpg" tvg-country="US" group-title="Movies",The Film Detective
@@ -5233,6 +5481,14 @@ https://ch.iptvmate.net/e35c2f4f78d57084ceac1a4aaceb886a.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:0 radio="false" tvg-country="CZ" group-title="Music",Óčko STAR
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Music",PINK MUSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/804.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Music",PINK MUSIC2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/803.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Music",PINK MUSIC
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/804.m3u8?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Music",PINK MUSIC2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/803.m3u8?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/7826f848bc3d4e8a20e61d6e1e1b5f63.png" tvg-country="US" group-title="News",3News Now (KMTV-TV)
 https://ch.iptvmate.net/60b9f78d1a272809474962fdf2c310ea.m3u8
 #EXTINF:0 radio="false" tvg-logo="https://i.imgur.com/XgF6S22.png" tvg-country="US" group-title="News",3News Now (KMTV-TV),CBS 3 KMTV,US | Omaha | CBS 3 KMTV
@@ -19484,29 +19740,29 @@ http://warszawa1-1.radio.pionier.net.pl:8000/pl/tuba9-1.mp3
 #EXTINF:-1 radio="false" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/11/Zona-Tres-91.5-FM-Guadalajara.jpg" group-title="Radio - World",Zona Tres 91.5 FM Guadalajara
 http://radio.promosat.com:8006/stream
 #EXTINF:-1 radio="false" tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://img.iptvmate.net/605b86a88953bec3fd567d7ef449e222.jpg" tvg-country="TR" group-title="Sport",A Spor
-https://ch.iptvmate.net/508791a3dbf5d9e21f4a3c9cb4dc1d19.m3u8
-#EXTINF:-1 radio="false" tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://img.iptvmate.net/605b86a88953bec3fd567d7ef449e222.jpg" tvg-country="TR" group-title="Sport",A Spor
 https://ch.iptvmate.net/e18ad5b2b935d8fadd2a7c35dcb470ad.m3u8
+#EXTINF:-1 radio="false" tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://img.iptvmate.net/605b86a88953bec3fd567d7ef449e222.jpg" tvg-country="TR" group-title="Sport",A Spor
+https://ch.iptvmate.net/508791a3dbf5d9e21f4a3c9cb4dc1d19.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/bd5f979cfff02a9f1a8881440fbd2134.jpg" tvg-country="US" group-title="Sport",Action Sports 4U
 https://ch.iptvmate.net/90e7f3c97b9567f05ceb7b5c6f03d535.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/632b1c9173c1b24682751d5bb8d172ad.png" tvg-country="US" group-title="Sport",EDGEsport
-https://ch.iptvmate.net/52cf2dd8cfcff837961a2a3b6b876f41.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/632b1c9173c1b24682751d5bb8d172ad.png" tvg-country="US" group-title="Sport",EDGEsport
 https://ch.iptvmate.net/5243f1112b6223ccfd264d0eb0a33551.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/632b1c9173c1b24682751d5bb8d172ad.png" tvg-country="US" group-title="Sport",EDGEsport
+https://ch.iptvmate.net/52cf2dd8cfcff837961a2a3b6b876f41.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/fd8690b5641de3fac5b1a72ff968febb.jpg" tvg-country="US" group-title="Sport",Fight Sports
-https://ch.iptvmate.net/e05a4f5175196b629df71ad6034cc2b2.m3u8
+https://ch.iptvmate.net/c015c0d7f3bc68a5f732d4f926384a22.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/fd8690b5641de3fac5b1a72ff968febb.jpg" tvg-country="US" group-title="Sport",Fight Sports
 https://ch.iptvmate.net/0d877b8252560746f1538653c40542ac.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/fd8690b5641de3fac5b1a72ff968febb.jpg" tvg-country="US" group-title="Sport",Fight Sports
-https://ch.iptvmate.net/c015c0d7f3bc68a5f732d4f926384a22.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b7e2462f384917bab0a5720837a3f82b.png" tvg-country="UK" group-title="Sport",Flow Sports 1
-https://ch.iptvmate.net/bee6a712ac18c46aba6f892aa7c36e0c.m3u8
-#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b7e2462f384917bab0a5720837a3f82b.png" tvg-country="UK" group-title="Sport",Flow Sports 1
-https://ch.iptvmate.net/81f7f04b330efd36d871290d432e50e0.m3u8
+https://ch.iptvmate.net/e05a4f5175196b629df71ad6034cc2b2.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b7e2462f384917bab0a5720837a3f82b.png" tvg-country="UK" group-title="Sport",Flow Sports 1
 https://ch.iptvmate.net/0b6e46642b586d92464c54e2e292a548.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b7e2462f384917bab0a5720837a3f82b.png" tvg-country="UK" group-title="Sport",Flow Sports 1
 https://ch.iptvmate.net/edcbae3a552de006fc710afdff799bb5.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b7e2462f384917bab0a5720837a3f82b.png" tvg-country="UK" group-title="Sport",Flow Sports 1
+https://ch.iptvmate.net/bee6a712ac18c46aba6f892aa7c36e0c.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b7e2462f384917bab0a5720837a3f82b.png" tvg-country="UK" group-title="Sport",Flow Sports 1
+https://ch.iptvmate.net/81f7f04b330efd36d871290d432e50e0.m3u8
 #EXTINF:0 radio="false" tvg-country="US" group-title="Sport",Fox College Sports Atlantic HD
 http://tvla.xyz:80/idovbesd/78U9cdg8Sn/43741?checkedby:hlscat.com
 #EXTINF:0 radio="false" tvg-country="US" group-title="Sport",Fox College Sports Atlantic HD
@@ -19570,11 +19826,11 @@ http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/1479?checkedby:h
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/4b32d61083455f9a450d234821cc0722.png" tvg-country="UK" group-title="Sport",Horizon Sports
 https://ch.iptvmate.net/a86510fb94bca3f4b4087148a050a786.m3u8
 #EXTINF:-1 radio="false" tvg-id="MLB Network" tvg-name="MLB Network-US" tvg-logo="https://img.iptvmate.net/ce052275cc6d333d047253cd97f45ed4.png" tvg-country="US" group-title="Sport",MLB Network
-https://ch.iptvmate.net/6cc9cb3075cade884e05ca72cf912773.m3u8
+https://ch.iptvmate.net/e47e9c531a8906107178ad10ae5d581f.m3u8
 #EXTINF:-1 radio="false" tvg-id="MLB Network" tvg-name="MLB Network-US" tvg-logo="https://img.iptvmate.net/ce052275cc6d333d047253cd97f45ed4.png" tvg-country="US" group-title="Sport",MLB Network
 https://ch.iptvmate.net/dfcef6799baa0d83404e7699ac85816b.m3u8
 #EXTINF:-1 radio="false" tvg-id="MLB Network" tvg-name="MLB Network-US" tvg-logo="https://img.iptvmate.net/ce052275cc6d333d047253cd97f45ed4.png" tvg-country="US" group-title="Sport",MLB Network
-https://ch.iptvmate.net/e47e9c531a8906107178ad10ae5d581f.m3u8
+https://ch.iptvmate.net/6cc9cb3075cade884e05ca72cf912773.m3u8
 #EXTINF:0 radio="false" tvg-country="ES" group-title="Sport",Movistar Deportes 2 FHD ES
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16277
 #EXTINF:0 radio="false" tvg-country="ES" group-title="Sport",Movistar Deportes 2 HD ES
@@ -19585,10 +19841,10 @@ http://mypanel.tv:8080/carter123424/SsFNP3g6VF/16278
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7240
 #EXTINF:-1 radio="false" tvg-id="NTV Spor TR" tvg-name="NTV Spor TR" tvg-logo="https://img.iptvmate.net/0914eca97db404a07bdebe15fe7dbeb2.png" tvg-country="TR" group-title="Sport",NTV Spor
 https://ch.iptvmate.net/61019aefebd199d6875d5ae1b9a11d8c.m3u8
-#EXTINF:-1 radio="false" tvg-id="Olympic Channel" tvg-logo="https://img.iptvmate.net/2f9146d073c154231244256cdea43166.png" tvg-country="US" group-title="Sport",Olympic Channel
-https://ch.iptvmate.net/30cb2e07dd94b633868bc266e3b879f1.m3u8
 #EXTINF:-1 radio="false" tvg-id="Olympic Channel" tvg-logo="https://img.iptvmate.net/9d63bc6a3804937e3caa24f282441b77.png" tvg-country="US" group-title="Sport",Olympic Channel
 https://ch.iptvmate.net/e6b6bd5952108d0ff8f61a598a28668c.m3u8
+#EXTINF:-1 radio="false" tvg-id="Olympic Channel" tvg-logo="https://img.iptvmate.net/2f9146d073c154231244256cdea43166.png" tvg-country="US" group-title="Sport",Olympic Channel
+https://ch.iptvmate.net/30cb2e07dd94b633868bc266e3b879f1.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2f9146d073c154231244256cdea43166.png" tvg-country="US" group-title="Sport",Olympic Channel (HD)
 https://ch.iptvmate.net/dec3c15c68791d42c300e6880135500c.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/2f9146d073c154231244256cdea43166.png" tvg-country="US" group-title="Sport",Olympic Channel (SD)
@@ -19605,6 +19861,12 @@ https://ch.iptvmate.net/280b0d6a67f9794038bbaf0f448c6896.m3u8
 https://ch.iptvmate.net/6a1321b5c4c9663b3ba104cf0cdc2c16.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/9d63bc6a3804937e3caa24f282441b77.png" tvg-country="US" group-title="Sport",Olympic Channel 6
 https://ch.iptvmate.net/e26d177a9e080ab9f68be89075149fd0.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Sport",PREMIUM SKY SPORT 24 HD
+http://seeyoutv.net:2300/parigi/parigi/10625?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Sport",PREMIUM SKY SPORT UNO HD
+http://seeyoutv.net:2300/parigi/parigi/10624?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042862.png" tvg-country="UN" group-title="Sport",Red Bull TV,RED BULL TV OPT 1
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FN?checkedby:hlscat.com
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/b6a281430bc62de2c1b8f760440a3e34.jpg" tvg-country="US" group-title="Sport",Sportskool
 https://ch.iptvmate.net/e20908e82454e37e5f8524a402cdfa11.m3u8
 #EXTINF:0 radio="false" tvg-id="Sportsman Channel" tvg-country="US" group-title="Sport",SPORTSMAN CHANNEL
@@ -19617,3 +19879,9 @@ https://ch.iptvmate.net/0d881f3760653ee8f2a42e5d0309b231.m3u8
 https://ch.iptvmate.net/858a2fa6605a6d4b65c0e2e1bf9b62d7.m3u8
 #EXTINF:-1 radio="false" tvg-logo="https://img.iptvmate.net/69df0678b0dc344621be2452401490bb.png" tvg-country="TR" group-title="Sport",TJK TV
 https://ch.iptvmate.net/35b5b20615522915e4df7affa9378621.m3u8
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Sport",PREMIUM SKY SPORT 24 HD
+http://seeyoutv.net:2300/parigi/parigi/10625?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-country="UN" group-title="Sport",PREMIUM SKY SPORT UNO HD
+http://seeyoutv.net:2300/parigi/parigi/10624?checkedby:hlscat.com
+#EXTINF:0 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042862.png" tvg-country="UN" group-title="Sport",Red Bull TV,RED BULL TV OPT 1
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FN?checkedby:hlscat.com
